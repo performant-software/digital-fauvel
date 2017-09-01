@@ -1,0 +1,38 @@
+---
+layout: default
+---
+  
+<div id="viewer"></div>
+
+
+<script type="text/javascript">
+  $(function() {
+    Mirador({
+      id: "viewer",
+      data: [
+        { manifestUri: "https://performant-software.github.io/digital-fauvel/manifest.json", location: "Digital Fauvel IIIF Server" }
+      ],
+
+      windowObjects: [{
+        loadedManifest: "https://performant-software.github.io/digital-fauvel/manifest.json",
+        canvasID: "http://15bcfa53-3026-4290-adee-9cb6c5746b12",
+        viewType: "BookView"
+      }],
+
+      annotationEndpoint: {
+        name:"Local Storage",
+        module: "LocalStorageEndpoint"
+      },
+      "windowSettings": {
+         "canvasControls": { // The types of controls available to be displayed on a canvas
+           "imageManipulation" : {
+             "manipulationLayer" : true,
+             "controls" : {
+               "mirror" : true
+             }
+           }
+         }
+       }
+     });
+  });
+</script>
