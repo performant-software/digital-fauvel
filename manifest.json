@@ -19,55 +19,6 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://1df08b33-278e-45f5-a10a-be61cd766f52",
-					"@type": "sc:Canvas",
-					"label": "Page 8",
-					"height": 7350,
-					"width": 5250,
-					"images": [
-						{
-							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://05e3a087-2ff4-4428-bbfd-564b0956ea67",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "http://iip.textlab.org/?IIIF=fauvel/8.tiff/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://iip.textlab.org/?IIIF=fauvel/8.tiff",
-									"profile": [
-										"http://iiif.io/api/image/2/level1.json",
-										{
-											"formats": [
-												"jpg"
-											],
-											"qualities": [
-												"native",
-												"color",
-												"gray"
-											],
-											"supports": [
-												"regionByPct",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"sizeAboveFull",
-												"rotationBy90s",
-												"mirroring",
-												"gray"
-											]
-										}
-									]
-								},
-								"height": 7350,
-								"width": 5250
-							},
-							"on": "http://1df08b33-278e-45f5-a10a-be61cd766f52"
-						}
-					]
-				},
-				{
 					"@id": "http://15bcfa53-3026-4290-adee-9cb6c5746b12",
 					"@type": "sc:Canvas",
 					"label": "Page 11",
