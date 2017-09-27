@@ -9,7 +9,8 @@
 	"attribution": "http://gallica.bnf.fr/ark:/12148/btv1b8454675g/",
 	"sequences": [
 		{
-			"@id": "http://e024c158-57a7-419a-a070-9700d5a889f5",
+			"@context": "http://iiif.io/api/presentation/2/context.json",
+			"@id": "http://fauvel.archivengine.com/sequence/normal",
 			"@type": "sc:Sequence",
 			"label": [
 				{
@@ -17,6 +18,9 @@
 					"@language": "en"
 				}
 			],
+			"viewingDirection": "left-to-right",
+			"viewingHint": "paged",
+			"startCanvas": "http://fauvel.archivengine.com/canvas/Br",
 			"canvases": [
 				{
 					"@id": "http://fauvel.archivengine.com/canvas/Br",
@@ -1048,7 +1052,7 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://fauvel.archivengine.com/canvas/"
+							"on": "http://fauvel.archivengine.com/canvas/10v"
 						}
 					]
 				},
