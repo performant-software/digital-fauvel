@@ -15,14 +15,17 @@ layout: default
 
       windowObjects: [{
         loadedManifest: "http://fauvel.archivengine.com/manifest.json",
-        canvasID: "http://15bcfa53-3026-4290-adee-9cb6c5746b12",
-        viewType: "BookView"
+        canvasID: "http://fauvel.archivengine.com/canvas/Br",
+        viewType: "BookView",
+        annotationLayer: true,
+        annotationCreation: true
       }],
 
       annotationEndpoint: {
         name:"Local Storage",
         module: "LocalStorageEndpoint"
       },
+
       "windowSettings": {
          "canvasControls": { // The types of controls available to be displayed on a canvas
            "imageManipulation" : {

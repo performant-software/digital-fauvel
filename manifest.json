@@ -1,12 +1,12 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://c7c6afc6-e63f-4df4-8b62-88e9c4bce58e",
+	"@id": "http://fauvel.archivengine.com/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Roman de Fauvel",
 	"metadata": [],
 	"description": "A digital facsimile edition of the Roman de Fauvel",
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "http://gallica.bnf.fr/ark:/12148/btv1b8454675g/f33.item",
+	"attribution": "http://gallica.bnf.fr/ark:/12148/btv1b8454675g/",
 	"sequences": [
 		{
 			"@id": "http://e024c158-57a7-419a-a070-9700d5a889f5",
@@ -19,17 +19,15 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://15bcfa53-3026-4290-adee-9cb6c5746b12",
+					"@id": "http://fauvel.archivengine.com/canvas/Br",
 					"@type": "sc:Canvas",
-					"label": "Page 11",
+					"label": "Folio Br",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://0a43f6b8-821c-4485-a9c4-e085ecd3bc1e",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/Br-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/11.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -63,22 +61,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://15bcfa53-3026-4290-adee-9cb6c5746b12"
+							"on": "http://fauvel.archivengine.com/canvas/Br"
 						}
 					]
 				},
 				{
-					"@id": "http://5d5e132d-5be0-4e88-b3ac-4f39d6afa106",
+					"@id": "http://fauvel.archivengine.com/canvas/Bv",
 					"@type": "sc:Canvas",
-					"label": "Page 12",
+					"label": "Folio Bv",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://e4791ffd-9df1-4ceb-a66e-90719a1cc670",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/Bv-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/12.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -112,22 +108,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://5d5e132d-5be0-4e88-b3ac-4f39d6afa106"
+							"on": "http://fauvel.archivengine.com/canvas/Br"
 						}
 					]
 				},
 				{
-					"@id": "http://63f88934-ca67-4ed8-adc6-e0a3594c1d7a",
+					"@id": "http://fauvel.archivengine.com/canvas/1r",
 					"@type": "sc:Canvas",
-					"label": "Page 13",
+					"label": "Folio 1r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://fd1a9878-5c57-45d0-8555-862844c96609",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/1r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/13.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -161,22 +155,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://63f88934-ca67-4ed8-adc6-e0a3594c1d7a"
+							"on": "http://fauvel.archivengine.com/canvas/1r"
 						}
 					]
 				},
 				{
-					"@id": "http://160d18d1-7a2d-4ed7-acaf-3a847692d647",
+					"@id": "http://fauvel.archivengine.com/canvas/1v",
 					"@type": "sc:Canvas",
-					"label": "Page 14",
+					"label": "Folio 1v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://51d25980-9954-4d29-9abd-fcce052e6b92",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/1v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/14.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -210,22 +202,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://160d18d1-7a2d-4ed7-acaf-3a847692d647"
+							"on": "http://fauvel.archivengine.com/canvas/1v"
 						}
 					]
 				},
 				{
-					"@id": "http://c043c5b2-ba57-4425-be98-a74721f9eab6",
+					"@id": "http://fauvel.archivengine.com/canvas/2r",
 					"@type": "sc:Canvas",
-					"label": "Page 15",
+					"label": "Folio 2r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://c0acc400-9dda-495a-8815-9e3b62d8c3ef",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/2r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/15.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -259,22 +249,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://c043c5b2-ba57-4425-be98-a74721f9eab6"
+							"on": "http://fauvel.archivengine.com/canvas/2r"
 						}
 					]
 				},
 				{
-					"@id": "http://d2d1e583-6a1c-4774-91bc-0db06e4bebfc",
+					"@id": "http://fauvel.archivengine.com/canvas/2v",
 					"@type": "sc:Canvas",
-					"label": "Page 16",
+					"label": "Folio 2v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://69d8c838-2149-4ced-8934-7752cb1df90f",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/2v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/16.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -308,22 +296,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://d2d1e583-6a1c-4774-91bc-0db06e4bebfc"
+							"on": "http://fauvel.archivengine.com/canvas/2v"
 						}
 					]
 				},
 				{
-					"@id": "http://59b17d38-4e15-46e8-aa85-f22d76e1e1ee",
+					"@id": "http://fauvel.archivengine.com/canvas/3r",
 					"@type": "sc:Canvas",
-					"label": "Page 17",
+					"label": "Folio 3r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://a9c9b1dc-e5d8-450b-96be-b42a84e38974",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/3r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/17.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -357,22 +343,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://59b17d38-4e15-46e8-aa85-f22d76e1e1ee"
+							"on": "http://fauvel.archivengine.com/canvas/3r"
 						}
 					]
 				},
 				{
-					"@id": "http://005ccd13-b731-470b-9d38-f9454967f878",
+					"@id": "http://fauvel.archivengine.com/canvas/3v",
 					"@type": "sc:Canvas",
-					"label": "Page 18",
+					"label": "Folio 3v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://926aab32-74f1-4e17-9e3d-48461a0cd3d4",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/3v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/18.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -406,22 +390,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://005ccd13-b731-470b-9d38-f9454967f878"
+							"on": "http://fauvel.archivengine.com/canvas/3v"
 						}
 					]
 				},
 				{
-					"@id": "http://a1ad8700-5667-4056-9dab-64539b00b3e3",
+					"@id": "http://fauvel.archivengine.com/canvas/4r",
 					"@type": "sc:Canvas",
-					"label": "Page 19",
+					"label": "Folio 4r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://edfd9aa9-cd6f-4742-b6a0-cfe96c3cecf3",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/4r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/19.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -455,22 +437,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://a1ad8700-5667-4056-9dab-64539b00b3e3"
+							"on": "http://fauvel.archivengine.com/canvas/4r"
 						}
 					]
 				},
 				{
-					"@id": "http://f42872ec-ba7d-4344-80b6-0ee3f64a477d",
+					"@id": "http://fauvel.archivengine.com/canvas/4v",
 					"@type": "sc:Canvas",
-					"label": "Page 20",
+					"label": "Folio 4v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://22b7b5f5-15f2-472a-8972-11cc47fcf997",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/4v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/20.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -504,22 +484,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://f42872ec-ba7d-4344-80b6-0ee3f64a477d"
+							"on": "http://fauvel.archivengine.com/canvas/4v"
 						}
 					]
 				},
 				{
-					"@id": "http://e77010cf-678c-4973-bf16-b3b0a93870d8",
+					"@id": "http://fauvel.archivengine.com/canvas/5r",
 					"@type": "sc:Canvas",
-					"label": "Page 21",
+					"label": "Folio 5r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://9ce4c03d-39ac-4704-a463-839a692d1945",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/5r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/21.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -553,22 +531,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://e77010cf-678c-4973-bf16-b3b0a93870d8"
+							"on": "http://fauvel.archivengine.com/canvas/5r"
 						}
 					]
 				},
 				{
-					"@id": "http://00f4f1a9-2989-4a68-a79f-a2113302b33c",
+					"@id": "http://fauvel.archivengine.com/canvas/5v",
 					"@type": "sc:Canvas",
-					"label": "Page 22",
+					"label": "Folio 5v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://58672557-161b-4135-a3e7-5cf2cc6af9e7",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/5v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/22.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -602,22 +578,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://00f4f1a9-2989-4a68-a79f-a2113302b33c"
+							"on": "http://fauvel.archivengine.com/canvas/5v"
 						}
 					]
 				},
 				{
-					"@id": "http://22329329-1089-4b98-80cf-24a1516b53d2",
+					"@id": "http://fauvel.archivengine.com/canvas/6r",
 					"@type": "sc:Canvas",
-					"label": "Page 23",
+					"label": "Folio 6r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://9c97e4c5-221f-4272-8d62-ba8b7453287a",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/6r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/23.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -651,22 +625,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://22329329-1089-4b98-80cf-24a1516b53d2"
+							"on": "http://fauvel.archivengine.com/canvas/6r"
 						}
 					]
 				},
 				{
-					"@id": "http://f8be8a83-4eb5-45c5-a09c-bca83d8f7ddf",
+					"@id": "http://fauvel.archivengine.com/canvas/6v",
 					"@type": "sc:Canvas",
-					"label": "Page 24",
+					"label": "Folio 6v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://81564109-7236-4293-991f-dd71567eb89e",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/6v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/24.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -700,22 +672,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://f8be8a83-4eb5-45c5-a09c-bca83d8f7ddf"
+							"on": "http://fauvel.archivengine.com/canvas/6v"
 						}
 					]
 				},
 				{
-					"@id": "http://14d00204-d4a5-491b-8a84-440e8e7cc511",
+					"@id": "http://fauvel.archivengine.com/canvas/7r",
 					"@type": "sc:Canvas",
-					"label": "Page 25",
+					"label": "Folio 7r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b6f1e443-a5e9-4ee4-9399-9c3aa1ba58a9",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/7r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/25.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -749,22 +719,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://14d00204-d4a5-491b-8a84-440e8e7cc511"
+							"on": "http://fauvel.archivengine.com/canvas/7r"
 						}
 					]
 				},
 				{
-					"@id": "http://8c8b237a-f818-4c71-87d7-94749667a00f",
+					"@id": "http://fauvel.archivengine.com/canvas/7v",
 					"@type": "sc:Canvas",
-					"label": "Page 26",
+					"label": "Folio 7v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://f0709a34-6858-40bb-af42-19eea38bddcf",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/7v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/26.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -798,22 +766,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://8c8b237a-f818-4c71-87d7-94749667a00f"
+							"on": "http://fauvel.archivengine.com/canvas/7v"
 						}
 					]
 				},
 				{
-					"@id": "http://b01474c5-9cfc-4fbf-9401-1d7bf18094e0",
+					"@id": "http://fauvel.archivengine.com/canvas/8r",
 					"@type": "sc:Canvas",
-					"label": "Page 27",
+					"label": "Folio 8r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://3cc0eae9-6dc0-4be8-881a-8d8a7bbf2a4c",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/8r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/27.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -847,22 +813,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://b01474c5-9cfc-4fbf-9401-1d7bf18094e0"
+							"on": "http://fauvel.archivengine.com/canvas/8r"
 						}
 					]
 				},
 				{
-					"@id": "http://e49a615b-f2f3-4ea2-a4d9-602d55c0510a",
+					"@id": "http://fauvel.archivengine.com/canvas/8v",
 					"@type": "sc:Canvas",
-					"label": "Page 28",
+					"label": "Folio 8v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://bd88f351-87ba-4526-bf09-23334a4e95ce",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/8v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/28.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -896,22 +860,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://e49a615b-f2f3-4ea2-a4d9-602d55c0510a"
+							"on": "http://fauvel.archivengine.com/canvas/8v"
 						}
 					]
 				},
 				{
-					"@id": "http://1ba7cad2-3005-48a5-a90d-8b1ed98d068c",
+					"@id": "http://fauvel.archivengine.com/canvas/9r",
 					"@type": "sc:Canvas",
-					"label": "Page 29",
+					"label": "Folio 9r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://6eb501f5-9109-44d0-bf3b-475f22114c40",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/9r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/29.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -945,22 +907,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://1ba7cad2-3005-48a5-a90d-8b1ed98d068c"
+							"on": "http://fauvel.archivengine.com/canvas/9r"
 						}
 					]
 				},
 				{
-					"@id": "http://3b4fc897-ed36-453c-b615-01dd0b5418ca",
+					"@id": "http://fauvel.archivengine.com/canvas/9v",
 					"@type": "sc:Canvas",
-					"label": "Page 30",
+					"label": "Folio 9v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://3f7e1945-691a-4db1-851c-849ca780791f",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/9v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/30.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -994,22 +954,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://3b4fc897-ed36-453c-b615-01dd0b5418ca"
+							"on": "http://fauvel.archivengine.com/canvas/9v"
 						}
 					]
 				},
 				{
-					"@id": "http://4083d30f-7e67-4dd4-a1dd-76a2af87bf10",
+					"@id": "http://fauvel.archivengine.com/canvas/10r",
 					"@type": "sc:Canvas",
-					"label": "Page 31",
+					"label": "Folio 10r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ef0137d7-0b45-4720-bcfd-c10973ca2378",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/10r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/31.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1043,22 +1001,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://4083d30f-7e67-4dd4-a1dd-76a2af87bf10"
+							"on": "http://fauvel.archivengine.com/canvas/10r"
 						}
 					]
 				},
 				{
-					"@id": "http://e7f57e26-4c60-4082-bc6c-72f08baa744b",
+					"@id": "http://fauvel.archivengine.com/canvas/10v",
 					"@type": "sc:Canvas",
-					"label": "Page 32",
+					"label": "Folio 10v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://c66bfd9d-df76-4cfa-aef5-ca728e6f265c",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/10v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/32.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1092,14 +1048,14 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://e7f57e26-4c60-4082-bc6c-72f08baa744b"
+							"on": "http://fauvel.archivengine.com/canvas/"
 						}
 					]
 				},
 				{
-					"@id": "http://6aa44e41-0608-4f9f-ac5c-94e19a31cc34",
+					"@id": "http://fauvel.archivengine.com/canvas/11r,
 					"@type": "sc:Canvas",
-					"label": "Page 33",
+					"label": "Folio 33",
 					"height": 7350,
 					"width": 5250,
 					"images": [
@@ -1141,22 +1097,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://6aa44e41-0608-4f9f-ac5c-94e19a31cc34"
+							"on": "http://fauvel.archivengine.com/canvas/10v"
 						}
 					]
 				},
 				{
-					"@id": "http://9a230cbd-cc81-4175-91d9-367a71922151",
+					"@id": "http://fauvel.archivengine.com/canvas/11v",
 					"@type": "sc:Canvas",
-					"label": "Page 34",
+					"label": "Folio 11v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5dcef8f3-005c-4207-a3ff-bc81734f6ae6",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/11v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/34.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1190,22 +1144,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://9a230cbd-cc81-4175-91d9-367a71922151"
+							"on": "http://fauvel.archivengine.com/canvas/11v"
 						}
 					]
 				},
 				{
-					"@id": "http://18dcb5e8-690a-4f65-b622-5651112a2724",
+					"@id": "http://fauvel.archivengine.com/canvas/12r",
 					"@type": "sc:Canvas",
-					"label": "Page 35",
+					"label": "Folio 12r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://3a09d18b-ee69-49cd-a211-ec04246f4c98",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/12r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/35.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1239,22 +1191,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://18dcb5e8-690a-4f65-b622-5651112a2724"
+							"on": "http://fauvel.archivengine.com/canvas/12r"
 						}
 					]
 				},
 				{
-					"@id": "http://b31c3b32-8073-475f-a173-5b871f60a6dc",
+					"@id": "http://fauvel.archivengine.com/canvas/12v",
 					"@type": "sc:Canvas",
-					"label": "Page 36",
+					"label": "Folio 12v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://addbdb6a-3d26-4bb3-8634-1d0909c49e88",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/12v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/36.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1288,22 +1238,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://b31c3b32-8073-475f-a173-5b871f60a6dc"
+							"on": "http://fauvel.archivengine.com/canvas/12v"
 						}
 					]
 				},
 				{
-					"@id": "http://23c3a629-6071-4c88-984b-08e0d61ab923",
+					"@id": "http://fauvel.archivengine.com/canvas/13r",
 					"@type": "sc:Canvas",
-					"label": "Page 37",
+					"label": "Folio 13r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://072c25d4-4fd0-4eb7-98da-16146f1fcc7d",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/13r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/37.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1337,22 +1285,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://23c3a629-6071-4c88-984b-08e0d61ab923"
+							"on": "http://fauvel.archivengine.com/canvas/13r"
 						}
 					]
 				},
 				{
-					"@id": "http://722ab017-98c7-4759-a5fb-d59682ff922b",
+					"@id": "http://fauvel.archivengine.com/canvas/13v",
 					"@type": "sc:Canvas",
-					"label": "Page 38",
+					"label": "Folio 13v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://c4cf8e43-20e0-4ccc-b5b1-46bf0035b533",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/13v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/38.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1386,22 +1332,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://722ab017-98c7-4759-a5fb-d59682ff922b"
+							"on": "http://fauvel.archivengine.com/canvas/13v"
 						}
 					]
 				},
 				{
-					"@id": "http://eb2aed74-757f-42c0-9790-a1399f229d8b",
+					"@id": "http://fauvel.archivengine.com/canvas/14r",
 					"@type": "sc:Canvas",
-					"label": "Page 39",
+					"label": "Folio 14r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b507dd04-cc12-463e-8193-0c4dbbf677f6",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/14r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/39.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1435,22 +1379,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://eb2aed74-757f-42c0-9790-a1399f229d8b"
+							"on": "http://fauvel.archivengine.com/canvas/13r"
 						}
 					]
 				},
 				{
-					"@id": "http://c222f936-c0af-46d6-b598-fe925135ddae",
+					"@id": "http://fauvel.archivengine.com/canvas/14v",
 					"@type": "sc:Canvas",
-					"label": "Page 40",
+					"label": "Folio 14v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5c9c70da-a90f-4da7-b592-f343f8654959",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/14v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/40.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1484,22 +1426,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://c222f936-c0af-46d6-b598-fe925135ddae"
+							"on": "http://fauvel.archivengine.com/canvas/14v"
 						}
 					]
 				},
 				{
-					"@id": "http://93c2104d-6441-44fe-abfa-b899123906f8",
+					"@id": "http://fauvel.archivengine.com/canvas/15r",
 					"@type": "sc:Canvas",
-					"label": "Page 41",
+					"label": "Folio 15r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://dd796274-f844-4561-8220-6a6fcea6dcb6",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/15r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/41.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1533,22 +1473,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://93c2104d-6441-44fe-abfa-b899123906f8"
+							"on": "http://fauvel.archivengine.com/canvas/15r"
 						}
 					]
 				},
 				{
-					"@id": "http://9a078a6e-2379-4684-bee5-4ca093619cc5",
+					"@id": "http://fauvel.archivengine.com/canvas/15v",
 					"@type": "sc:Canvas",
-					"label": "Page 42",
+					"label": "Folio 15v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://6e4f1d5e-a23b-4e41-b53a-cec4c3fa2896",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/15v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/42.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1582,22 +1520,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://9a078a6e-2379-4684-bee5-4ca093619cc5"
+							"on": "http://fauvel.archivengine.com/canvas/15v"
 						}
 					]
 				},
 				{
-					"@id": "http://b3f44bf8-9f78-45e1-b065-a98460837409",
+					"@id": "http://fauvel.archivengine.com/canvas/16r",
 					"@type": "sc:Canvas",
-					"label": "Page 43",
+					"label": "Folio 16r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://0409caee-071d-4b75-a579-7df8924e977d",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/16r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/43.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1631,22 +1567,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://b3f44bf8-9f78-45e1-b065-a98460837409"
+							"on": "http://fauvel.archivengine.com/canvas/16r"
 						}
 					]
 				},
 				{
-					"@id": "http://2503e68f-93df-423f-a9bc-59d54164065a",
+					"@id": "http://fauvel.archivengine.com/canvas/16v",
 					"@type": "sc:Canvas",
-					"label": "Page 44",
+					"label": "Folio 16v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://e7525407-3370-439f-ab13-76171a1a2eb3",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/16v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/44.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1680,22 +1614,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://2503e68f-93df-423f-a9bc-59d54164065a"
+							"on": "http://fauvel.archivengine.com/canvas/16v"
 						}
 					]
 				},
 				{
-					"@id": "http://34f29573-23fd-40e8-b6e2-526689ac9ef6",
+					"@id": "http://fauvel.archivengine.com/canvas/17r",
 					"@type": "sc:Canvas",
-					"label": "Page 45",
+					"label": "Folio 17r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://227a2e77-0681-4bf8-a9cf-5f890d1c3991",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/17r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/45.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1729,22 +1661,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://34f29573-23fd-40e8-b6e2-526689ac9ef6"
+							"on": "http://fauvel.archivengine.com/canvas/17r"
 						}
 					]
 				},
 				{
-					"@id": "http://7d07b6a2-c071-4f08-977b-40b3a16532f6",
+					"@id": "http://fauvel.archivengine.com/canvas/17v",
 					"@type": "sc:Canvas",
-					"label": "Page 46",
+					"label": "Folio 17v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://7559d1fd-6d96-4ad3-a5c4-b20dd15d1d11",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/17v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/46.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1778,22 +1708,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://7d07b6a2-c071-4f08-977b-40b3a16532f6"
+							"on": "http://fauvel.archivengine.com/canvas/17v"
 						}
 					]
 				},
 				{
-					"@id": "http://893eb3b9-e511-4698-9aca-b8e6bd3f2fde",
+					"@id": "http://fauvel.archivengine.com/canvas/18r",
 					"@type": "sc:Canvas",
-					"label": "Page 47",
+					"label": "Folio 18r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://19c4ea17-2577-4215-8953-4055a68be296",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/18r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/47.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1827,22 +1755,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://893eb3b9-e511-4698-9aca-b8e6bd3f2fde"
+							"on": "http://fauvel.archivengine.com/canvas/18r"
 						}
 					]
 				},
 				{
-					"@id": "http://ca5d83eb-3eb6-4e9e-8895-cdff5ea486cc",
+					"@id": "http://fauvel.archivengine.com/canvas/18v",
 					"@type": "sc:Canvas",
-					"label": "Page 48",
+					"label": "Folio 18v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://a4cc5bec-6a85-4717-a911-4b38b1290164",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/18v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/48.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1876,22 +1802,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://ca5d83eb-3eb6-4e9e-8895-cdff5ea486cc"
+							"on": "http://fauvel.archivengine.com/canvas/18v"
 						}
 					]
 				},
 				{
-					"@id": "http://b58e499a-b251-447a-a6c6-42f756ab7c58",
+					"@id": "http://fauvel.archivengine.com/canvas/19r",
 					"@type": "sc:Canvas",
-					"label": "Page 49",
+					"label": "Folio 19r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d5592811-dbbe-4795-8bad-d9bae35dbeb1",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/19r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/49.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1925,22 +1849,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://b58e499a-b251-447a-a6c6-42f756ab7c58"
+							"on": "http://fauvel.archivengine.com/canvas/19r"
 						}
 					]
 				},
 				{
-					"@id": "http://276f14b6-0dbc-4794-a713-e933ac3d1069",
+					"@id": "http://fauvel.archivengine.com/canvas/19v",
 					"@type": "sc:Canvas",
-					"label": "Page 50",
+					"label": "Folio 19v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://9aff8783-c6be-4750-96ee-8329123f042b",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/19v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/50.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -1974,22 +1896,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://276f14b6-0dbc-4794-a713-e933ac3d1069"
+							"on": "http://fauvel.archivengine.com/canvas/19v"
 						}
 					]
 				},
 				{
-					"@id": "http://758c1090-c5ce-47ec-a0a3-498cad576faf",
+					"@id": "http://fauvel.archivengine.com/canvas/20r",
 					"@type": "sc:Canvas",
-					"label": "Page 51",
+					"label": "Folio 20r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://633dbf55-b746-4bd7-b814-5d02594c9507",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/20r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/51.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2023,22 +1943,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://758c1090-c5ce-47ec-a0a3-498cad576faf"
+							"on": "http://fauvel.archivengine.com/canvas/20r"
 						}
 					]
 				},
 				{
-					"@id": "http://c2b33343-d00a-4966-be26-35323f6c847e",
+					"@id": "http://fauvel.archivengine.com/canvas/20v",
 					"@type": "sc:Canvas",
-					"label": "Page 52",
+					"label": "Folio 20v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://8a06b24e-e4b0-461c-a5f4-4a6fe7643a3d",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/20v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/52.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2072,22 +1990,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://c2b33343-d00a-4966-be26-35323f6c847e"
+							"on": "http://fauvel.archivengine.com/canvas/20v"
 						}
 					]
 				},
 				{
-					"@id": "http://32cbbd23-01d4-49dc-a8c1-033d26995ecd",
+					"@id": "http://fauvel.archivengine.com/canvas/21r",
 					"@type": "sc:Canvas",
-					"label": "Page 53",
+					"label": "Folio 21r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://140556f7-881d-43e9-867c-04af6bc1a6c7",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/21r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/53.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2121,22 +2037,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://32cbbd23-01d4-49dc-a8c1-033d26995ecd"
+							"on": "http://fauvel.archivengine.com/canvas/21r"
 						}
 					]
 				},
 				{
-					"@id": "http://a335671b-2cf1-4734-afbd-d65d9e1bff17",
+					"@id": "http://fauvel.archivengine.com/canvas/21v",
 					"@type": "sc:Canvas",
-					"label": "Page 54",
+					"label": "Folio 21v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://c35160c2-3915-4f41-a7f2-0decf06bd25b",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/21v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/54.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2170,22 +2084,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://a335671b-2cf1-4734-afbd-d65d9e1bff17"
+							"on": "http://fauvel.archivengine.com/canvas/21v"
 						}
 					]
 				},
 				{
-					"@id": "http://b03554fb-8886-4a12-857c-35f1036d813a",
+					"@id": "http://fauvel.archivengine.com/canvas/22r",
 					"@type": "sc:Canvas",
-					"label": "Page 55",
+					"label": "Folio 22r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://cff2dfd4-3f35-4e06-baeb-e69d8ad53b50",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/22r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/55.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2219,22 +2131,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://b03554fb-8886-4a12-857c-35f1036d813a"
+							"on": "http://fauvel.archivengine.com/canvas/22r"
 						}
 					]
 				},
 				{
-					"@id": "http://9492663a-c3a4-4eb2-a02c-a8cc293f2da5",
+					"@id": "http://fauvel.archivengine.com/canvas/22v",
 					"@type": "sc:Canvas",
-					"label": "Page 56",
+					"label": "Folio 22v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://f3b9cd85-6839-4375-8b62-38b98d2ff2bc",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/22v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/56.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2268,22 +2178,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://9492663a-c3a4-4eb2-a02c-a8cc293f2da5"
+							"on": "http://fauvel.archivengine.com/canvas/22v"
 						}
 					]
 				},
 				{
-					"@id": "http://07a36bec-4b96-4d1b-8bf7-34f61b8cfb9e",
+					"@id": "http://fauvel.archivengine.com/canvas/23r",
 					"@type": "sc:Canvas",
-					"label": "Page 57",
+					"label": "Folio 23r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://31a6d18c-f2b2-47d4-ada3-2208d54010b4",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/23r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/57.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2317,22 +2225,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://07a36bec-4b96-4d1b-8bf7-34f61b8cfb9e"
+							"on": "http://fauvel.archivengine.com/canvas/23r"
 						}
 					]
 				},
 				{
-					"@id": "http://9a344f93-499b-4d91-b23d-a4045e62a704",
+					"@id": "http://fauvel.archivengine.com/canvas/23v",
 					"@type": "sc:Canvas",
-					"label": "Page 58",
+					"label": "Folio 23v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://e3e96a21-2a1f-49c2-86f9-70cc13d4b065",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/23v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/58.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2366,22 +2272,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://9a344f93-499b-4d91-b23d-a4045e62a704"
+							"on": "http://fauvel.archivengine.com/canvas/23v"
 						}
 					]
 				},
 				{
-					"@id": "http://418a8c22-fa4f-47a0-8f91-8edc79e57bb0",
+					"@id": "http://fauvel.archivengine.com/canvas/24r",
 					"@type": "sc:Canvas",
-					"label": "Page 59",
+					"label": "Folio 24r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b30be57a-4be9-430d-95e7-b686924e4315",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/24r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/59.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2415,22 +2319,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://418a8c22-fa4f-47a0-8f91-8edc79e57bb0"
+							"on": "http://fauvel.archivengine.com/canvas/24r"
 						}
 					]
 				},
 				{
-					"@id": "http://b56f9af9-a002-4540-a470-f29771425077",
+					"@id": "http://fauvel.archivengine.com/canvas/24v",
 					"@type": "sc:Canvas",
-					"label": "Page 60",
+					"label": "Folio 24v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://25f1c7ab-0176-41d0-a832-f10959a3bda9",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/24v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/60.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2464,22 +2366,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://b56f9af9-a002-4540-a470-f29771425077"
+							"on": "http://fauvel.archivengine.com/canvas/24v"
 						}
 					]
 				},
 				{
-					"@id": "http://a5d50244-88b7-4682-aadc-92043737ca85",
+					"@id": "http://fauvel.archivengine.com/canvas/25r",
 					"@type": "sc:Canvas",
-					"label": "Page 61",
+					"label": "Folio 25r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://2043d484-3994-4cf4-b0c2-75dbdad89791",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/25r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/61.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2513,22 +2413,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://a5d50244-88b7-4682-aadc-92043737ca85"
+							"on": "http://fauvel.archivengine.com/canvas/25r"
 						}
 					]
 				},
 				{
-					"@id": "http://05dd518b-b5b7-4b5a-928c-6265f0ea4014",
+					"@id": "http://fauvel.archivengine.com/canvas/25v",
 					"@type": "sc:Canvas",
-					"label": "Page 62",
+					"label": "Folio 25v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://20ce7094-25cd-4fa5-981e-1f690b8512c5",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/25v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/62.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2562,22 +2460,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://05dd518b-b5b7-4b5a-928c-6265f0ea4014"
+							"on": "http://fauvel.archivengine.com/canvas/25v"
 						}
 					]
 				},
 				{
-					"@id": "http://75f876b5-709e-4702-bb97-3c41fe48d0a6",
+					"@id": "http://fauvel.archivengine.com/canvas/26r",
 					"@type": "sc:Canvas",
-					"label": "Page 63",
+					"label": "Folio 26r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d76b3839-1c76-4ec6-8386-4a186aee0f3b",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/26r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/63.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2611,22 +2507,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://75f876b5-709e-4702-bb97-3c41fe48d0a6"
+							"on": "http://fauvel.archivengine.com/canvas/26r"
 						}
 					]
 				},
 				{
-					"@id": "http://ceb54d52-dfba-4c3f-b81c-21d35d4d1662",
+					"@id": "http://fauvel.archivengine.com/canvas/26v",
 					"@type": "sc:Canvas",
-					"label": "Page 64",
+					"label": "Folio 26v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://610217f8-da82-45b4-ace2-c8cab00fea8a",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/26v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/64.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2660,22 +2554,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://ceb54d52-dfba-4c3f-b81c-21d35d4d1662"
+							"on": "http://fauvel.archivengine.com/canvas/26v"
 						}
 					]
 				},
 				{
-					"@id": "http://b1ccad8c-4e2f-4dc6-9e4f-791b634a2a6a",
+					"@id": "http://fauvel.archivengine.com/canvas/27r",
 					"@type": "sc:Canvas",
-					"label": "Page 65",
+					"label": "Folio 27r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ef3d9c29-0e0e-4904-a6f0-ab103429533c",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/27r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/65.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2709,22 +2601,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://b1ccad8c-4e2f-4dc6-9e4f-791b634a2a6a"
+							"on": "http://fauvel.archivengine.com/canvas/27r"
 						}
 					]
 				},
 				{
-					"@id": "http://56ddfd5e-30b2-4e7c-94ec-7ff472f9d496",
+					"@id": "http://fauvel.archivengine.com/canvas/27v",
 					"@type": "sc:Canvas",
-					"label": "Page 66",
+					"label": "Folio 27v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://6f433bca-b6bf-4b49-ab3f-238c6c43fd21",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/27v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/66.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2758,22 +2648,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://56ddfd5e-30b2-4e7c-94ec-7ff472f9d496"
+							"on": "http://fauvel.archivengine.com/canvas/27v"
 						}
 					]
 				},
 				{
-					"@id": "http://1cf9d8e9-9e13-4200-8c84-30c6726b0b2e",
+					"@id": "http://fauvel.archivengine.com/canvas/28r",
 					"@type": "sc:Canvas",
-					"label": "Page 67",
+					"label": "Folio 28r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://47bc781e-8e2c-4b43-973b-a3710f4f5eab",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/28r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/67.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2807,22 +2695,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://1cf9d8e9-9e13-4200-8c84-30c6726b0b2e"
+							"on": "http://fauvel.archivengine.com/canvas/28r"
 						}
 					]
 				},
 				{
-					"@id": "http://ed6fb22c-57f8-4529-8d3b-e5ece420d21c",
+					"@id": "http://fauvel.archivengine.com/canvas/28v",
 					"@type": "sc:Canvas",
-					"label": "Page 68",
+					"label": "Folio 28v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://1a2ff052-5039-469d-9d1b-c3ec42c54f71",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/28v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/68.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -2856,14 +2742,14 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://ed6fb22c-57f8-4529-8d3b-e5ece420d21c"
+							"on": "http://fauvel.archivengine.com/canvas/28v"
 						}
 					]
 				},
 				{
-					"@id": "http://813106b4-1a50-4b01-b09c-c4be984d4d32",
+					"@id": "http://fauvel.archivengine.com/canvas/28bis-r",
 					"@type": "sc:Canvas",
-					"label": "Page 69",
+					"label": "Folio 28bis-r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
@@ -2905,14 +2791,14 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://813106b4-1a50-4b01-b09c-c4be984d4d32"
+							"on": "http://fauvel.archivengine.com/canvas/28bis-r"
 						}
 					]
 				},
 				{
-					"@id": "http://1e06f2f7-3634-4cba-8b91-5949145acb18",
+					"@id": "http://fauvel.archivengine.com/canvas/28bis-v",
 					"@type": "sc:Canvas",
-					"label": "Page 70",
+					"label": "Folio 28bis-v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
@@ -2954,14 +2840,14 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://f9a6fb51-446c-471e-83c8-7ef9cc40c63c"
+							"on": "http://fauvel.archivengine.com/canvas/28bis-v"
 						}
 					]
 				},
 				{
-					"@id": "http://f9a6fb51-446c-471e-83c8-7ef9cc40c63c",
+					"@id": "http://fauvel.archivengine.com/canvas/28ter-r",
 					"@type": "sc:Canvas",
-					"label": "Page 71",
+					"label": "Folio 28ter-r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
@@ -3003,14 +2889,14 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://f9a6fb51-446c-471e-83c8-7ef9cc40c63c"
+							"on": "http://fauvel.archivengine.com/canvas/28ter-r"
 						}
 					]
 				},
 				{
-					"@id": "http://0cb46a75-add0-476b-9f74-699f2a7dcc9f",
+					"@id": "http://fauvel.archivengine.com/canvas/28ter-v",
 					"@type": "sc:Canvas",
-					"label": "Page 72",
+					"label": "Folio 28ter-v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
@@ -3052,22 +2938,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://0cb46a75-add0-476b-9f74-699f2a7dcc9f"
+							"on": "http://fauvel.archivengine.com/canvas/28ter-v"
 						}
 					]
 				},
 				{
-					"@id": "http://8d76c1a5-bb50-435c-9e95-0c89c4899cd7",
+					"@id": "http://fauvel.archivengine.com/canvas/29r",
 					"@type": "sc:Canvas",
-					"label": "Page 73",
+					"label": "Folio 29r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://e8b0e5d1-2305-49bd-9865-4066b3da432a",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/29r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/73.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3101,22 +2985,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://8d76c1a5-bb50-435c-9e95-0c89c4899cd7"
+							"on": "http://fauvel.archivengine.com/canvas/29r"
 						}
 					]
 				},
 				{
-					"@id": "http://6ee75d86-8e11-4b80-8106-709bc9a3c914",
+					"@id": "http://fauvel.archivengine.com/canvas/29v",
 					"@type": "sc:Canvas",
-					"label": "Page 74",
+					"label": "Folio 29v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b9e99ff1-c43b-4574-8023-d23f12af02ba",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/29v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/74.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3150,22 +3032,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://6ee75d86-8e11-4b80-8106-709bc9a3c914"
+							"on": "http://fauvel.archivengine.com/canvas/29v"
 						}
 					]
 				},
 				{
-					"@id": "http://ca43b2e6-b265-4b91-884e-5fa6af6bf8ed",
+					"@id": "http://fauvel.archivengine.com/canvas/30r",
 					"@type": "sc:Canvas",
-					"label": "Page 75",
+					"label": "Folio 30r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://419e89d9-f588-497b-a1f6-db38a0cfd4dc",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/30r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/75.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3199,22 +3079,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://ca43b2e6-b265-4b91-884e-5fa6af6bf8ed"
+							"on": "http://fauvel.archivengine.com/canvas/30r"
 						}
 					]
 				},
 				{
-					"@id": "http://136097d6-446b-4cd0-860b-68053b7580c9",
+					"@id": "http://fauvel.archivengine.com/canvas/30v",
 					"@type": "sc:Canvas",
-					"label": "Page 76",
+					"label": "Folio 30v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://4aad321f-8fde-48f7-be53-2ad23768ce7e",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/30v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/76.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3248,22 +3126,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://136097d6-446b-4cd0-860b-68053b7580c9"
+							"on": "http://fauvel.archivengine.com/canvas/30v"
 						}
 					]
 				},
 				{
-					"@id": "http://384d0933-7136-473e-a072-a17f26ae097e",
+					"@id": "http://fauvel.archivengine.com/canvas/31r",
 					"@type": "sc:Canvas",
-					"label": "Page 77",
+					"label": "Folio 31r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ac46fa12-21d6-4751-9216-3cdfed78559e",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/31r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/77.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3297,22 +3173,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://384d0933-7136-473e-a072-a17f26ae097e"
+							"on": "http://fauvel.archivengine.com/canvas/31r"
 						}
 					]
 				},
 				{
-					"@id": "http://f00378c1-baf4-43b8-88de-ed40fa43ff6d",
+					"@id": "http://fauvel.archivengine.com/canvas/31v",
 					"@type": "sc:Canvas",
-					"label": "Page 78",
+					"label": "Folio 31v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ca6cdb0b-6f4e-4567-86fd-1f892022e712",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/31v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/78.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3346,22 +3220,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://f00378c1-baf4-43b8-88de-ed40fa43ff6d"
+							"on": "http://fauvel.archivengine.com/canvas/31v"
 						}
 					]
 				},
 				{
-					"@id": "http://a2d1405c-41bf-4414-a190-c09060b47561",
+					"@id": "http://fauvel.archivengine.com/canvas/32r",
 					"@type": "sc:Canvas",
-					"label": "Page 79",
+					"label": "Folio 32r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://08e03b62-21af-4141-b2fb-c92cceb4993e",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/32r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/79.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3395,22 +3267,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://a2d1405c-41bf-4414-a190-c09060b47561"
+							"on": "http://fauvel.archivengine.com/canvas/32r"
 						}
 					]
 				},
 				{
-					"@id": "http://b7e09e25-7cb0-4da6-b807-88ab9b5d00e4",
+					"@id": "http://fauvel.archivengine.com/canvas/32v",
 					"@type": "sc:Canvas",
-					"label": "Page 80",
+					"label": "Folio 32v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://81be5333-2aff-4f70-939b-ce08261b2566",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/32v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/80.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3444,22 +3314,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://b7e09e25-7cb0-4da6-b807-88ab9b5d00e4"
+							"on": "http://fauvel.archivengine.com/canvas/32v"
 						}
 					]
 				},
 				{
-					"@id": "http://3413000e-41e4-49a9-9d70-6844dd60d113",
+					"@id": "http://fauvel.archivengine.com/canvas/33r",
 					"@type": "sc:Canvas",
-					"label": "Page 81",
+					"label": "Folio 33r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5b13d766-009c-4093-bd61-ae292b0a88f0",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/33r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/81.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3493,22 +3361,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://3413000e-41e4-49a9-9d70-6844dd60d113"
+							"on": "http://fauvel.archivengine.com/canvas/33r"
 						}
 					]
 				},
 				{
-					"@id": "http://2fdeb910-99c6-4204-a60b-100da46659a3",
+					"@id": "http://fauvel.archivengine.com/canvas/33v",
 					"@type": "sc:Canvas",
-					"label": "Page 82",
+					"label": "Folio 33v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d0334f50-5b9e-436e-889e-623dbc1bd524",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/33v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/82.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3542,22 +3408,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://2fdeb910-99c6-4204-a60b-100da46659a3"
+							"on": "http://fauvel.archivengine.com/canvas/33v"
 						}
 					]
 				},
 				{
-					"@id": "http://99887a4b-df72-459a-a1aa-ae0d5c15d7e3",
+					"@id": "http://fauvel.archivengine.com/canvas/34r",
 					"@type": "sc:Canvas",
-					"label": "Page 83",
+					"label": "Folio 34r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5e76ab3f-2184-4b70-b0f8-039f4316c725",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/34r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/83.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3591,22 +3455,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://99887a4b-df72-459a-a1aa-ae0d5c15d7e3"
+							"on": "http://fauvel.archivengine.com/canvas/34r"
 						}
 					]
 				},
 				{
-					"@id": "http://181adf2d-dd80-4c07-989c-ca5fd22c7808",
+					"@id": "http://fauvel.archivengine.com/canvas/34v",
 					"@type": "sc:Canvas",
-					"label": "Page 84",
+					"label": "Folio 34v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://8644077d-0aa5-43d9-99f6-44010cd2b9a0",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/34v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/84.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3640,22 +3502,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://181adf2d-dd80-4c07-989c-ca5fd22c7808"
+							"on": "http://fauvel.archivengine.com/canvas/34v"
 						}
 					]
 				},
 				{
-					"@id": "http://dd83c0af-bc46-4be2-a775-fb3ab52c63da",
+					"@id": "http://fauvel.archivengine.com/canvas/35r",
 					"@type": "sc:Canvas",
-					"label": "Page 85",
+					"label": "Folio 35r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://f4736d2e-ad02-4522-aacb-44415fd690e0",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/35r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/85.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3689,22 +3549,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://dd83c0af-bc46-4be2-a775-fb3ab52c63da"
+							"on": "http://fauvel.archivengine.com/canvas/35r"
 						}
 					]
 				},
 				{
-					"@id": "http://56f6469e-5493-473e-8cfd-0bd6c137c1c7",
+					"@id": "http://fauvel.archivengine.com/canvas/35v",
 					"@type": "sc:Canvas",
-					"label": "Page 86",
+					"label": "Folio 35v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://5be924ee-cbd2-4c79-b69e-406a71e96955",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/35v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/86.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3738,22 +3596,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://56f6469e-5493-473e-8cfd-0bd6c137c1c7"
+							"on": "http://fauvel.archivengine.com/canvas/35v"
 						}
 					]
 				},
 				{
-					"@id": "http://09852db0-9581-412f-a7b5-8f2bd2528060",
+					"@id": "http://fauvel.archivengine.com/canvas/36r",
 					"@type": "sc:Canvas",
-					"label": "Page 87",
+					"label": "Folio 36r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://274c7de4-354c-440b-ab8d-f09656e83316",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/36r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/87.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3787,22 +3643,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://09852db0-9581-412f-a7b5-8f2bd2528060"
+							"on": "http://fauvel.archivengine.com/canvas/36r"
 						}
 					]
 				},
 				{
-					"@id": "http://288f5cc7-480f-4cea-a0c9-f5d67532161b",
+					"@id": "http://fauvel.archivengine.com/canvas/36v",
 					"@type": "sc:Canvas",
-					"label": "Page 88",
+					"label": "Folio 36v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://19796d34-b1fb-4bc3-8aff-19c0df742d6d",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/36v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/88.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3836,22 +3690,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://288f5cc7-480f-4cea-a0c9-f5d67532161b"
+							"on": "http://fauvel.archivengine.com/canvas/36v"
 						}
 					]
 				},
 				{
-					"@id": "http://6f93cd11-74f6-4611-8dfa-f60af8f48fc6",
+					"@id": "http://fauvel.archivengine.com/canvas/37r",
 					"@type": "sc:Canvas",
-					"label": "Page 89",
+					"label": "Folio 37r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://16456acd-0b47-4a6b-a529-71e741e2acf1",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/37r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/89.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3885,22 +3737,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://6f93cd11-74f6-4611-8dfa-f60af8f48fc6"
+							"on": "http://fauvel.archivengine.com/canvas/37r"
 						}
 					]
 				},
 				{
-					"@id": "http://1f5d0ae7-53e0-4a62-9c59-9db073161863",
+					"@id": "http://fauvel.archivengine.com/canvas/37v",
 					"@type": "sc:Canvas",
-					"label": "Page 90",
+					"label": "Folio 37v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://7308a449-b3ba-45a1-b55f-8099a8453dcb",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/37v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/90.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3934,22 +3784,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://1f5d0ae7-53e0-4a62-9c59-9db073161863"
+							"on": "http://fauvel.archivengine.com/canvas/37v"
 						}
 					]
 				},
 				{
-					"@id": "http://5492b338-63d4-4ce7-9e7e-2763f3f8e3e1",
+					"@id": "http://fauvel.archivengine.com/canvas/38r",
 					"@type": "sc:Canvas",
-					"label": "Page 91",
+					"label": "Folio 38r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://d9b87267-e95c-4884-8046-b62d944aa207",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/38r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/91.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -3983,22 +3831,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://5492b338-63d4-4ce7-9e7e-2763f3f8e3e1"
+							"on": "http://fauvel.archivengine.com/canvas/38r"
 						}
 					]
 				},
 				{
-					"@id": "http://8b81f992-2621-4e53-9412-1cb8e3a51bf1",
+					"@id": "http://fauvel.archivengine.com/canvas/38v",
 					"@type": "sc:Canvas",
-					"label": "Page 92",
+					"label": "Folio 38v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://4b440500-1edd-4e3f-99d9-d037cb2b7151",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/38v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/92.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4032,22 +3878,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://8b81f992-2621-4e53-9412-1cb8e3a51bf1"
+							"on": "http://fauvel.archivengine.com/canvas/38v"
 						}
 					]
 				},
 				{
-					"@id": "http://d59e2fc5-47ce-4742-a598-78a54bdcfbc6",
+					"@id": "http://fauvel.archivengine.com/canvas/39r",
 					"@type": "sc:Canvas",
-					"label": "Page 93",
+					"label": "Folio 39r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b1a77133-d854-4de2-899a-c075698e032b",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/39r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/93.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4081,22 +3925,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://d59e2fc5-47ce-4742-a598-78a54bdcfbc6"
+							"on": "http://fauvel.archivengine.com/canvas/39r"
 						}
 					]
 				},
 				{
-					"@id": "http://3447bfaa-5d72-4ad0-b956-537c2e9b70b9",
+					"@id": "http://fauvel.archivengine.com/canvas/39v",
 					"@type": "sc:Canvas",
-					"label": "Page 94",
+					"label": "Folio 39v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ae882c45-cbcc-402b-9614-49492ed213ac",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/39v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/94.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4130,22 +3972,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://3447bfaa-5d72-4ad0-b956-537c2e9b70b9"
+							"on": "http://fauvel.archivengine.com/canvas/39v"
 						}
 					]
 				},
 				{
-					"@id": "http://eba843f5-48d9-4c2e-a39e-ba5cc5bd7cb1",
+					"@id": "http://fauvel.archivengine.com/canvas/40r",
 					"@type": "sc:Canvas",
-					"label": "Page 95",
+					"label": "Folio 40r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://dfdd3575-da59-44c2-863e-db5ea2d85e2f",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/40r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/95.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4179,22 +4019,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://eba843f5-48d9-4c2e-a39e-ba5cc5bd7cb1"
+							"on": "http://fauvel.archivengine.com/canvas/40r"
 						}
 					]
 				},
 				{
-					"@id": "http://d4be4660-42ab-47f9-9950-08296c5df78f",
+					"@id": "http://fauvel.archivengine.com/canvas/40v",
 					"@type": "sc:Canvas",
-					"label": "Page 96",
+					"label": "Folio 40v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://34768342-331d-4b44-aa20-b311bc8ddc36",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/40v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/96.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4228,22 +4066,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://d4be4660-42ab-47f9-9950-08296c5df78f"
+							"on": "http://fauvel.archivengine.com/canvas/40v"
 						}
 					]
 				},
 				{
-					"@id": "http://98ed0446-9232-475c-a550-c651f3d96002",
+					"@id": "http://fauvel.archivengine.com/canvas/41r",
 					"@type": "sc:Canvas",
-					"label": "Page 97",
+					"label": "Folio 41r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://2b2ef9fb-a3fa-434f-aa47-283a63172a90",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/41r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/97.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4277,22 +4113,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://98ed0446-9232-475c-a550-c651f3d96002"
+							"on": "http://fauvel.archivengine.com/canvas/41r"
 						}
 					]
 				},
 				{
-					"@id": "http://2e47dadc-57f9-492d-b6a6-101839d9a3d4",
+					"@id": "http://fauvel.archivengine.com/canvas/41v",
 					"@type": "sc:Canvas",
-					"label": "Page 98",
+					"label": "Folio 41v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://7c93e250-3d4b-40c4-a193-44bf44a802e6",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/41v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/98.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4326,22 +4160,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://2e47dadc-57f9-492d-b6a6-101839d9a3d4"
+							"on": "http://fauvel.archivengine.com/canvas/41v"
 						}
 					]
 				},
 				{
-					"@id": "http://a9aaa607-6025-472f-a007-41ceb13586a4",
+					"@id": "http://fauvel.archivengine.com/canvas/42r",
 					"@type": "sc:Canvas",
-					"label": "Page 99",
+					"label": "Folio 42r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://7481543c-4d44-461b-ae31-7fab53841c93",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/42r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/99.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4375,22 +4207,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://a9aaa607-6025-472f-a007-41ceb13586a4"
+							"on": "http://fauvel.archivengine.com/canvas/42r"
 						}
 					]
 				},
 				{
-					"@id": "http://6f774acf-1b03-4836-97f1-b4a1884e613e",
+					"@id": "http://fauvel.archivengine.com/canvas/42v",
 					"@type": "sc:Canvas",
-					"label": "Page 100",
+					"label": "Folio 42v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b1e4b21b-2754-436f-a6a9-0bae0031ee35",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/42v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/100.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4424,22 +4254,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://6f774acf-1b03-4836-97f1-b4a1884e613e"
+							"on": "http://fauvel.archivengine.com/canvas/42v"
 						}
 					]
 				},
 				{
-					"@id": "http://0f45a8bf-43d8-4f08-946d-62a43f569904",
+					"@id": "http://fauvel.archivengine.com/canvas/43r",
 					"@type": "sc:Canvas",
-					"label": "Page 101",
+					"label": "Folio 43r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://89001d4e-c33b-4573-854d-1d33b744087b",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/43r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/101.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4473,22 +4301,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://0f45a8bf-43d8-4f08-946d-62a43f569904"
+							"on": "http://fauvel.archivengine.com/canvas/43r"
 						}
 					]
 				},
 				{
-					"@id": "http://271ce679-af52-4b31-84ef-5fcffcd4c3ab",
+					"@id": "http://fauvel.archivengine.com/canvas/43v",
 					"@type": "sc:Canvas",
-					"label": "Page 102",
+					"label": "Folio 43v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://c9d7d3c6-0575-4dbc-add6-d1bad54071f2",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/43v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/102.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4522,22 +4348,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://271ce679-af52-4b31-84ef-5fcffcd4c3ab"
+							"on": "http://fauvel.archivengine.com/canvas/43v"
 						}
 					]
 				},
 				{
-					"@id": "http://f8c5674b-3f28-41b4-83b9-96743c95191a",
+					"@id": "http://fauvel.archivengine.com/canvas/44r",
 					"@type": "sc:Canvas",
-					"label": "Page 103",
+					"label": "Folio 44r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ca8c15b0-8dce-4fa9-8b2d-245d78124e6d",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/44r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/103.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4571,22 +4395,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://f8c5674b-3f28-41b4-83b9-96743c95191a"
+							"on": "http://fauvel.archivengine.com/canvas/44r"
 						}
 					]
 				},
 				{
-					"@id": "http://85729c9f-4108-4809-b5de-9d37da4b1717",
+					"@id": "http://fauvel.archivengine.com/canvas/44v",
 					"@type": "sc:Canvas",
-					"label": "Page 104",
+					"label": "Folio 44v",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://b2e85928-61c9-43d0-b598-9f0a9c8a8488",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/44v-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/104.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4620,22 +4442,20 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://85729c9f-4108-4809-b5de-9d37da4b1717"
+							"on": "http://fauvel.archivengine.com/canvas/44v"
 						}
 					]
 				},
 				{
-					"@id": "http://2593375e-9b17-4d73-8a61-37254f9d6864",
+					"@id": "http://fauvel.archivengine.com/canvas/45r",
 					"@type": "sc:Canvas",
-					"label": "Page 105",
+					"label": "Folio 45r",
 					"height": 7350,
 					"width": 5250,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://ba78b0e6-e51e-4c05-9fe6-482e8dcf54db",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
+							"@id": "http://fauvel.archivengine.com/annotation/45r-image",
 							"resource": {
 								"@id": "http://iip.textlab.org/?IIIF=fauvel/105.tiff/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
@@ -4669,7 +4489,7 @@
 								"height": 7350,
 								"width": 5250
 							},
-							"on": "http://2593375e-9b17-4d73-8a61-37254f9d6864"
+							"on": "http://fauvel.archivengine.com/canvas/45r"
 						}
 					]
 				}
