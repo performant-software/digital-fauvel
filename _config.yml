@@ -18,6 +18,8 @@ email: jamie@performantsoftware.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fauvel.archivengine.com" # the base hostname & protocol for your site, e.g. http://example.com
+manifest_url: "http://fauvel.archivengine.com/manifest.json" # the base hostname & protocol for your site, e.g. http://example.com
+first_page: "http://fauvel.archivengine.com/canvas/Br"
 twitter_username: performantsoftware
 github_username:  performant-software
 

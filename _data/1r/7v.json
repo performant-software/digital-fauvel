@@ -1,0 +1,38 @@
+[
+    {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@type": "oa:Annotation",
+        "motivation": [
+            "oa:commenting"
+        ],
+        "resource": [
+            {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": ""
+            }
+        ],
+        "on": [
+            {
+                "@type": "oa:SpecificResource",
+                "full": "http://fauvel.archivengine.com/canvas/7v",
+                "selector": {
+                    "@type": "oa:Choice",
+                    "default": {
+                        "@type": "oa:FragmentSelector",
+                        "value": "xywh=2566,713,751,116"
+                    },
+                    "item": {
+                        "@type": "oa:SvgSelector",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2566.46536,713.07754h375.54545v0h375.54545v57.81818v57.81818h-375.54545h-375.54545v-57.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_202c90cf-940d-4b12-b678-ddef7ffc886e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    }
+                },
+                "within": {
+                    "@id": "http://fauvel.archivengine.com/manifest.json",
+                    "@type": "sc:Manifest"
+                }
+            }
+        ],
+        "@id": "33e0ad91-7904-48aa-a51e-bd467cbd1ea6"
+    }
+]

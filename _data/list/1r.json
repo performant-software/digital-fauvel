@@ -1,0 +1,28 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/1r.json",
+  "@type":"sc:AnnotationList",
+
+  "resources": [
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource":{
+        "@id":"http://fauvel.archivengine.com/annotation/1r/Te_0001-0034.xml",
+        "@type":"dctypes:Text",
+        "format":"text/xml"
+      },
+      "on":"http://fauvel.archivengine.com/canvas/1r"
+    },
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource":{
+        "@id":"http://fauvel.archivengine.com/annotation/1r/1r.xml",
+        "@type":"dctypes:Text",
+        "format":"text/xml"
+      },
+      "on":"http://fauvel.archivengine.com/canvas/1r"
+    },
+  ]
+}
