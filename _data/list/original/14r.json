@@ -1,0 +1,398 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/14r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "MMais delez Fauvel a senestre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,1848,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vi Orgueil en grant estat estre;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,1957,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EmprÈs li Presumpcion,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2066,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Despit et Indinacion,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2175,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vainne Cointise et puis Vantance,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2284,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Boban et Fole Outrecuidance ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2393,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aprés se sist Ypocrisie,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2502,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui par dehors moult s'umilie",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2611,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais en son cueur par grant mestnse",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2720,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Respont Orguiel et sa mesnie.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2829,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est une dame merveilleuse :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2938,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une foiz est religieuse",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3047,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En habit et puis seculiere,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3156,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis cordelier, puis cordeliere,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3265,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis jacobin, puis jacobine,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3374,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une foiz dame, autre meschyne",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3483,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et puis seigneur et puis garÁon.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3592,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult a cordes en son arÁon :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3701,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A l'une et puis a l'autre trait ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3810,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une foiz loe, l'autre detrait ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3919,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Devant la gent prie et barbete,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4028,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes ou cueur a la goupillete.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4137,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien set et par pais et par guerre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4246,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Dieu faire barbe de fuerre !",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4355,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Faus Semblant se sist pres de li",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4464,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais de ceste ne de celi",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4573,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne vous veil faire greigneur prose",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4682,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car en eus nul bien ne repose.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4791,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui en veult savoir la glose",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4900,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si voist au romans de la rose.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,5009,1165,109"
+    }
+    
+  ]
+}

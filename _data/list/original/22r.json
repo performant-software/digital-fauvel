@@ -1,0 +1,86 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/22r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ou puet estre que verité",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,703,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui se deult quant iniquité",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,806,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est essauciee et avant mise",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,909,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En fait parler en bonne guise",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1012,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et plaindre que tiex soit montez",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1115,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'a en soi nulles bontez,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1218,1019,103"
+    }
+    
+  ]
+}

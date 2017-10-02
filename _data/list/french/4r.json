@@ -1,0 +1,788 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/4r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ainsi que l'ordre divin du monde",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5344,1102,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A été ruiné de fond en comble ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5450,1102,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nous cheminons dans la nuit sans lanterne,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5556,1102,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand la bestialité nous dirige.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5662,1102,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! Pourquoi Fauvel n'est-il pas mort-né",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5768,1102,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisqu'il a mis le monde à ce point sens dessus dessous?",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5874,1102,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chacun trouve en lui un puissant stimulant",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5980,1102,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour chercher à obtenir la faveur des hommes.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,6086,1102,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas, trois fois hélas, quand je constate.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5376,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que pour cheval fauve (que le feu le consume!)",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5477,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La sainte Eglise se trouve au jour d'aujourd'hui",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5578,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Abaissée et qu'elle subit des malheurs tels",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5679,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle arrivera à peine à s'en relever!",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5780,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous les jours je la vois oppressée à tel point",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5881,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est une chose tout à fait extraordinaire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5982,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que saint Pierre ne se prépare à intervenir",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,6083,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour venir immédiatement au secours de sa barque,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,714,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui vacille si horriblement",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,810,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la chrétienté en tant que telle",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,906,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En doit être tout épouvantée ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1002,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux qui la gouvernent sont aveuglés !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1098,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sachez que l'arche de Noé",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1194,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'a jamais été en si grand péril,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1290,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sous les coups puissants d'aucune vague,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1386,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'être submergée et détruite",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1482,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme la barque dont il a été question,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1578,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est à dire l'Eglise actuelle",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1674,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Figurée par la barque ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1770,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tous côtés la tempête l'assaille,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1866,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et plus jamais elle ne connaît la joie et la fête :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1962,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans son état de désolation, elle peut vraiment",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2058,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chanter la lamentation",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2154,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du prophète Jérémie;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2250,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je crois qu'elle a été composée pour elle !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2346,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celle qui est la souveraine des rois et des princes,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2442,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La princesse de toutes les provinces,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2538,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est aujourd'hui à terre, soumise au tribut,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2634,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus qu'on ne l'a jamais vu faire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2730,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Depuis que l'Église primitive",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2826,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fut élevée et qu'elle a touché le. rivage.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2922,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est Fauvel, qui est faux et fêlé,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3018,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui lui a brassé tout ce bouillon :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3114,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme il en a envie, il tourne Fortune",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3210,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et renverse ce que Dieu a fait.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3306,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Maintenant je veux te montrer la façon",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3402,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont il s'y prend pour mettre tout sens dessus dessous.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3498,1187,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Écoute bien, toi qui frottes Fauvel :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4788,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dieu a créé au commencement deux gigantesquès flambeaux",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4885,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'une extraordinaire luminosité,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4982,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais il les a faits de manière différente.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5079,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un s'appelle le soleil, l'autre la lune;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5176,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le premier nous donne la clarté du jour :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5273,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le soleil qui brille le jour,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5370,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et la lune de nuit, sans repos.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5467,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais le soleil, que Dieu me protège !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5564,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est situé beaucoup plus haut dans le firmament",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5661,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ne l'est la lune, il n'y a aucun doute,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5758,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et la lune n'a pas la moindre clarté,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5855,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En dehors de celle que le soleil lui envoie.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5952,1291,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais Fauvel qui pervertit tout l'univers,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,6049,1291,97"
+    }
+    
+  ]
+}

@@ -1,0 +1,1230 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/9r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ils ont renié mon cher époux,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,756,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui a été crucifié pour eux,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,858,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dont ils portent le signe.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,960,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! pour quelle raison ont-ils voulu faire cela ?",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1062,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai toujours été à leur égard une mère",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1164,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Douce, gracieuse et bienveillante.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1266,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ils portaient le signe de la croix :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1368,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils devaient être les soutiens",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1470,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les champions de la chrétienté ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1572,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À ce titre ils étaient fort honorés,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1674,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Exaltés en tous lieux et possédaient",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1776,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des rentes et de vastes propriétés.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1878,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Jamais je ne leur ai fait du mal,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,1980,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au contraire : des bienfaits du vrai crucifix",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2082,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils en avaient obtenu au-delà de la mesure,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2184,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des franchises et des privilèges.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2286,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas, voici qu'ils sont devenus hérétiques",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2388,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pécheurs contre nature.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2490,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon cœur est tout abattu et bouleversé",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2592,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De voir qu'ils sont demeurés si longtemps",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2694,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans les pièges du diable.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2796,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils s'y étaient jetés tous, en tas :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,2898,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cela fait plus de cent ans maintenant",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3000,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que leurs calamités sont arrivées.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3102,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ils avaient créé entre eux",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3204,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un ordre si horrible, si vil, si répugnant",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3306,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est une chose tout à fait épouvantable à dire :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3408,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussitôt qu'ils recevaient un impétrant,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3510,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils lui faisaient renier Dieu complètement,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3612,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et outrager à la fois Jésus-Christ et la croix!",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3714,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ils lui ordonnaient de cracher dessus,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3816,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ils se baisaient le derrière l'un à l'autre.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,3918,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quel état ignoble que celui où ils se trouvaient !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4020,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas, c'est pour leur malheur qu'ils sont issus d'Adam,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4122,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ils seront tous damnés,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4224,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dispersés et écrasés.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4326,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Hélas, hélas, ce n'est que justice,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4428,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ils ont passé trop de temps",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4530,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À mener cette vie ignoble :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4632,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'ils avaient régné plus longtemps,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4734,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est certain que la chrétienté",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4836,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En aurait été empoisonnée en tous lieux.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,4938,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Dieu, dans l'intention d'en tirer vengeance,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5040,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A fait une grande faveur au roi de France",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5142,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En lui permettant de s'en rendre compte.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5244,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dieu a fait appel à lui en lui donnant une preuve d'amour",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5346,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lorsqu'il lui a révélé un tel scandale",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5448,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont jamais auparavant on n'a pu avoir connaissance.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5550,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Saint Louis et le roi de Sicile",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5652,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avaient bien entendu rapporter, en leur temps,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5754,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des faits suspects à propos des Templiers",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5856,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils s'étaient mis en peine pour en savoir plus",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=346,5958,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Mais n'arrivèrent jamais",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,682,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À leur époque à connaître le fin mot de l'histoire.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,785,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "t «fils de saint Louis",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,888,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Doit être content et ravi",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,991,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'avoir touché la vérité dans cette affaire :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1094,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a déployé bien des efforts et des peines",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1197,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour obtenir la certitude là-dessus.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1300,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a, en l'occurrence, parfaitement accompli son devoir.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1403,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Avec diligence, comme un homme de bien",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1506,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a, devant l'apôtre de Rome,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1609,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Poursuivi cette besogne",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1712,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jusqu'à ce que les Templiers reconnussent,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1815,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parmi les membres les plus éminents de l'ordre,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,1918,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur infamie devant le pape.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2021,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« La douleur serait aussi grande que la honte",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2124,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À parler plus longuement de ce sujet,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2227,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi vaut-il mieux que je me taise.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2330,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ont été condamnés pour leurs fautes et exécutés;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2433,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est bien fou, celui qui ne se plie pas",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2536,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À faire tout pour plaire à Fauvel !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2639,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Fauvel leur a fort bien payé de retour",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2742,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le soin qu'ils avaient pris",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2845,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vivre dans le monde et dans la fausseté.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,2948,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Voila la que reçoivent ceux qui servent bien des maîtres :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,3051,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand Fauvel a fait tourner ses adeptes en bourrique,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,3154,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il leur verse leur salaire. »",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2950,3257,1229,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! les seigneurs temporels",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,4399,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Non plus ne valent pas un poireau,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,4502,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur unique souci est que Fauvel soit bien frictionné.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,4605,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne connais pas aujourd'hui, par mon âme,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,4708,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De grand seigneur ou de grande dame",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,4811,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'en soient, tous sans exception, infatués.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,4914,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On ne se soucie plus guère de l'homme de bien :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5017,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Partout, pour résumer la situation,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5120,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fausseté est bienvenue et honorée.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5223,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Faux Semblant et Déloyauté",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5326,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Règnent sur le monde",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5429,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et Vérité est placée dans une position subalterne.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5532,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il lui est tout à fait loisible de fréquenter les grands seigneurs,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5635,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À celui qui sait chanter le Placebo :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5738,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le genre de chanson qui leur plaît beaucoup.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5841,1155,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/9r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ne se soucient guère d'une suite",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9r#xywh=2982,5944,1155,103"
+    }
+    
+  ]
+}

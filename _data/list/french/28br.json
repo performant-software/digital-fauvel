@@ -1,0 +1,164 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/28br.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Mais même si je mène une si cruelle existence,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=178,577,1397,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis envahi par la mélancolie",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=178,695,1397,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En faisant parvenir, avec bon espoir, ce lai",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=178,813,1397,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A celle qui me fait danser de la sorte",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=178,931,1397,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selon son bon plaisir.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=1659,535,1060,126"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas, mon cœur sera bien assombri",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=1659,661,1060,126"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si elle ne m'accueille pas favorablement !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=1659,787,1060,126"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je serai mis au plus bas",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=1659,913,1060,126"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si ne m'est d'aucune utilité",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=3034,525,1145,131"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce que je propose dans le lai !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=3034,656,1145,131"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi est-il temps que je m'avance",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=3034,787,1145,131"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/28br",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Complètement, afin d'obtenir le soulagement de mes peines :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/28br#xywh=3034,918,1145,131"
+    }
+    
+  ]
+}

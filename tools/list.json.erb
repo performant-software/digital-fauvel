@@ -1,0 +1,21 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://<%= domain %>/list/<%= language %>/<%= folio %>.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    <% @annotations.each do |annotation| %>
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://<%= domain %>/canvas/<%= folio %>",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "<%= annotation['text'] %>",
+        "language": "<%= language %>"
+      },
+      "on": "http://<%= domain %>/canvas/<%= folio %>#xywh=<%= annotation['xywh'] %>"
+    }<% if annotation != @annotations.last %>,<% end %>
+    <% end %>
+  ]
+}

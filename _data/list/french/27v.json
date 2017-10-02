@@ -1,0 +1,268 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/27v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Nature manquerait à ses engagements",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,567,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si vous étiez envieuse ou cruelle.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,670,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ignore ce qui va m'arriver,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,773,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais à ce qui viendrait à vous agréer,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,876,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je m'abandonne, ma dame, complètement.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,979,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! quand l'affaire va tourner en catastrophe",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1082,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que mon amour pour vous me livrera à la mort,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1185,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce sera pour mon malheur que je vous aurai donné mon cœur.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1288,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ma dame, que Dieu ne permette que cela arrive !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1391,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais s'il me faut subir la mort,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1494,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour vous, cela ne me sera pas si pénible,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1597,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du moment que ce sort me viendra de votre bon plaisir ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1700,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais par pitié, gardez cela à l'esprit :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1803,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je meurs par la perfection de mon amour.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1906,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si toute tendresse est à ce point morte",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2009,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de bien aimer me conduise à la mort,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2112,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans la mesure où que je serai un véritable martyr,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2215,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ma dame, en mourant je trouve un réconfort",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2318,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "- Et par sa ferveur mon cœur m'y encourage-",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2421,1386,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/27v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans le fait qu'en attendant ma mort je chanterai :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2524,1386,103"
+    }
+    
+  ]
+}

@@ -1,0 +1,1308 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/2v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le pape est installé dans son siège",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,609,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui fut jadis de Pierre, et qui est maintenant celui d'un vassal ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,708,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il regarde Fauvel, quand il est en sa présence,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,807,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À qui l'on témoigne grand respect,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,906,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que l'on frotte soir et matin.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1005,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le pape aussi lui tend sa main,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1104,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le saisit doucement par le frein,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1203,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sans reprocher à personne de le bouchonner,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1302,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et puis il gratte la tête de Fauvel",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1401,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En disant : «Voici une belle bête!»",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1500,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les cardinaux déclarent, pour lui plaire :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1599,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "t «Père!»",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1698,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alors ils mettent immédiatement leurs mains sur Fauvel",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1797,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et entreprennent de le bouchonner ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1896,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il me semble qu'ils tiennent des étrilles",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1995,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'ils le peignent autour de la tête.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2094,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ignore comment ils font pour lui passer de la pommade",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2193,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais sur sa tête ils lui rognent les crins.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2292,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En ce lieu, des rois de tous pays",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2391,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne trouvent pas bizarre de le bouchonner.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2490,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il s'en trouve un qui dépasse les autres",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2589,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui est le seigneur de tous les autres :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2688,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a oublié son rang ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2787,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour étriller Fauvel il s'avance,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2886,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'une main il lui coupe la crinière",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2985,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et avec l'autre il tient le peigne ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3084,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais il lui manque un miroir ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3183,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il devrait bien en louer un :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3282,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il lui serait bien nécessaire d'avoir un miroir",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3381,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il a grand besoin de savoir...",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3480,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Après les rois, ce sont les comtes qui frottent",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3579,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si doucement qu'ils ne lui font pas une égratignure ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3678,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chez les prélats et les abbés d'autre part",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3777,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À bien frotter chacun prend sa part,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3876,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur le dos et tout autour sur les flancs ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3975,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'y en a aucun qui s'arrache à la proximité de Fauvel,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4074,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sous le ventre ou devant le poitrail :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4173,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un frotte mieux, l'autre moins bien.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4272,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prieurs, doyens et archidiacres",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4371,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour bouchonner ne font pas comme s'ils avaient la goutte :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4470,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tous les côtés ils y accourent au trot",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4569,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et frictionnent à Fauvelles paturons.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4668,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les chevaliers n'y manquent pas à l'appel,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4767,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Frottant Fauvel par-dessus la croupe.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4866,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les écuyers, qui sont bien présomptueux,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,556,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lui relèvent les sabots et puis les nettoient,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,655,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et lui préparent ensuite une litière neuve,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,754,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien que Fauvel leur fait grande fête.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,853,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les chanoines, les chapelains, les curés,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,952,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les moines, les nonnes de toutes sortes de robes,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1051,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parmi les bois, les villes et les marais",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1150,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Frottent à Fauvel les jarrets ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1249,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Entre les cuisses, près des aines,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1348,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils frictionnent les nerfs et les veines de Fauve! ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1447,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les Cordeliers et les Jacobins",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1546,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce qui est de bien frotter, sont de· vrais Robins",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1645,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils frottent aussi bien devant que derrière ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1744,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils connaissent parfaitement l'art et la manière de le faire !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1843,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Même les pauvres gens viennent pour frotter,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1942,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais ils se tiennent près de la queue",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2041,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et font du mieux qu'ils peuvent pour l'atteindre.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2140,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils lui lissent la queue et en font des tresses.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2239,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aujourd'hui, ils sont tous venus pour frotter,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2338,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les riches, les moines gros et petits.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2437,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si nous voulons comprendre ce livre,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2536,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il nous faut désormais en arriver",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2635,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À décrire exactement Fauvel",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2734,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dire, en procédant à sa définition,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2833,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La signification que le nom de Fauvel a pour nous :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2932,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais auparavant il est bon que je parle",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3031,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De sa couleur en premier lieu.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3130,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aristote dit pertinemment",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3229,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les accidents sont d'un grand secours",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3328,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand il s'agit de connaître la substance.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3427,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La couleur de Fauvel n'est pas le noir,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3526,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car la couleur noire rappelle",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3625,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La mort, le chagrin et la tristesse,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3724,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alors que Fauvel est en pleine allégresse,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3823,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'il ne se soucie guère de se vêtir de noir ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3922,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une telle couleur n'est pas appropriée à sa nature.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4021,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'a pas non plus la couleur vermeille.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4120,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne s'identifie pas à cette couleur",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4219,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car le rouge signifie",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4318,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La charité, amie de tout un chacun.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4417,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel n'a que faire d'un tel habit",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4516,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il n'aime que ceux qui le frictionnent.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4615,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'a pas non plus la couleur blanche,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4714,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce qu'elle a pour sens symbolique",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4813,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qui est net et pur;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4912,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, au contraire, est à p'oint souillé d'ordure",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5011,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il est nécessaire de le frictionner tous les jours ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5110,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Voilà pourquoi il n'a pas de vêtement blanc:",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5209,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il en avait, ce serait du gâchis !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5308,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'a pas non plus d'habit vert,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5407,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car le vert a pour sens symbolique",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5506,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La fidélité loyale et l'espérance ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5605,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, lui, se consacre entièrement",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5704,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la fortune présente",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5803,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sans mettre ses espoirs en celle qui dure,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5902,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et d'ailleurs il se moque de respecter la fidélité.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,6001,1271,99"
+    }
+    
+  ]
+}

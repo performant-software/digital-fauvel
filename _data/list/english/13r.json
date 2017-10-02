@@ -1,0 +1,346 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/13r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Next to her is Avarice",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,756,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who differs from the other vices",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,868,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In that the longer she lives, the younger she becomes.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,980,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All those who are alive know this.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1092,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She does not get older with old age,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1204,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which attacks all of the other vices.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1316,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the Holy Scripture says",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1428,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she is the root of all evils,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1540,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And that in her company are",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1652,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Servitude and Idolatry.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1764,1123,112"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then afterwards was seated Envy",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3171,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who does not hate Lord Fauvel.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3279,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It is she who cannot say anything nice",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3387,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "About anything good.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3495,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She has directed all of her desire",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3603,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Towards mourning the successes of others",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3711,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And rejoicing in their pain.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3819,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Her eyes are covered with a veil",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3927,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that she does not see clearly.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4035,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She does not make any accurate judgments,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4143,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And it is a shame that she sees nothing!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4251,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But she hears very clearly and listens",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4359,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To bad news very willingly",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4467,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And reports it everywhere.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4575,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She rides faster than any Frisian horse",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4683,1103,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When she is concocting a treacherous plan.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4791,1103,108"
+    }
+    
+  ]
+}

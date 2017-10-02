@@ -1,0 +1,268 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/42r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y a une chose encore plus extraordinaire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,756,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui me met la puce à l'oreille",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,858,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et me donne très souvent à penser :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,960,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est que Hérésie a pris l'engagement formel",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1062,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'allonger l'existence, pour Fauve!,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1164,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour sa femme et pour sa descendance,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1266,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce à la fontaine de jouvence.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1368,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est là qu'elle veut que lui et son entourage",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1470,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se baignent pour retrouver leur jeunesse !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1572,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est là que ne se font pas prier pour venir",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1674,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des vieillards qui ont dépassé l'âge",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1776,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Mathusalem; c'est là qu'ils se sont rendus tous,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1878,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les invalides et les paralytiques :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1980,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous les vieux viennent y boire un trait,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2082,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ils s'imaginent retrouver la jeunesse,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2184,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les perfides dénués de toute vertu,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2286,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dont l'ornement est l'ordure et le péché.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2388,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette fontaine émet une vapeur",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2490,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec laquelle chacun lave",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2592,1312,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son visage et efface sa vieillesse.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2694,1312,102"
+    }
+    
+  ]
+}

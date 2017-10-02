@@ -1,0 +1,580 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/36v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jamais, au grand jamais, un charivari aussi parfait",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1354,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant par les déguisements, que par les paroles et les actions,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1454,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'avait eu lieu, comme celui-là, par tous ses aspects :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1554,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils n'avaient pas la bouche close",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1654,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand il s'agissait de crier comme un sourd et de hurler bien fort;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1754,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que cela plaise ou non à qui que ce soit,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1854,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel ne fit pas mine de le remarquer,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1954,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il s'intéressait bien plus aux plaisirs",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,2054,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il avait connus avec sa femme,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,2154,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il avait honorée comme la dame de son cœur.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,2254,1260,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je veux revenir à la joute",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2467,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car j'ai entendu l'alouette chanter,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2569,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec le tarin et le chardonneret",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2671,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui, plus tôt que les ménestrels,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2773,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Annoncent le jour et sentent l'arrivée de l'aube.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2875,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est à ce moment que l'aubépine",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2977,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les autres fleurs s'épanouissent,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3079,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que font retentir leur chant des oiseaux",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3181,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme l'étourneau et le merle,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3283,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou la grive mauvis, partout, parmi les merlons,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3385,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainsi que la fauvette et la linotte :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3487,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous les petits oiseaux, en foule,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3589,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans les jardins et les buissons,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3691,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Font entendre leurs belles mélodies,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3793,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Même ceux qui sont enfermés dans des cages...",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3895,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le moment où les bois sont tout verts,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3997,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que toutes les petites bêtes",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4099,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui passent tout l'hiver enfouies sous terre,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4201,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Remontent et se montrent tout entières ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4303,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est alors que les fleurs font une parure au pays",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4405,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec la diversité de leurs couleurs nouvelles",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4507,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que les jeunes gens et les demoiselles",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4609,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui languissent dans leurs amours fidèles",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4711,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont mis en joie par la douceur du temps.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4813,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les oiseaux qui chantent m'indiquent sans aucun doute",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4915,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que l'aube, le lever du jour chasse complètement",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5017,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La nuit et que celle-ci perd tout son pouvoir",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5119,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À cause de l'arrivée du jour qui se manifeste.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5221,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand je vis le jour clair et lumineux,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5323,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je m'en allai, tout content,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5425,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À l'endroit où l'on devait se rassembler",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5527,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour la joute, mais aussitôt me firent trembler",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5629,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Violemment une troupe de gens bien méprisables",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5731,1271,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/36v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'un sort funeste m'avait fait rencontrer:",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5833,1271,102"
+    }
+    
+  ]
+}

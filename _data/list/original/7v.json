@@ -1,0 +1,736 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/7v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A merite pecuniaire.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,724,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce ne devroit pas a Dieu plaire",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,821,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il le font en ceste maniere :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,918,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il metent ce devant derriere.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1015,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des prouvendes ont largement,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1112,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes il servent escharcement",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1209,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celi de qui touz les biens vienent.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1306,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Helas ! com a grant peril tienent",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1403,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les prouvendes de sainte Eglyse",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1500,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se il n'en rendent tel servise",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1597,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme l'Eglyse a ordené !",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1694,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aucuns dient, non pas sené,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1791,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que leur prouvendes sont trop franches :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1888,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais c'est noires chauces blanches.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1985,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les biens de l'Eglise reçoivent,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2082,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Despendent, menjuent et boivent",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2179,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et gastent en mauvese guise",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2276,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sanz fere a Dieu nul servise",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2373,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Es lieus ou doivent demourer",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2470,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ilueques Dieu honourer.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2567,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ecclesial benefice",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2664,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est donné pour divin office :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2761,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or s'i gart qui en a grant nombre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2858,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car pour chascun servir s'encombre!",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2955,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien sont li chanoine aourné",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3052,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que saint Benoit le bestourné",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3149,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A au jour d'ui de sa mesnie,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3246,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui maynent bestornee vie.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3343,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne vivent mie clerjaument",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3440,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainçois vivent bestiaument.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3537,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les uns chevauchent a lorain,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3634,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les autres sont touz jours forain :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3731,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Fauvel sont filz ou neveus.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3828,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au dorenlot sont leur cheveus :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3925,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il sont de l'Eglise fillastre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4022,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il font trop le gentillastre.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4119,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Coiffes ont et solers a las.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4216,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien devraient crier « Halas ! »",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4313,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se le crucefix regardassent",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4410,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en li souvent se mirassent,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4507,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conmant il est en croix haucié,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4604,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conmant il est etroit chaucié",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4701,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de quel robe il est vestu !",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4798,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne deüssent pas si testu",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4895,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne si fous les chanoines estre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4992,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour gaster les biens de leur mestre.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5089,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDes prestres curez que dirons?",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5186,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De leur estat .i. pou lirons :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5283,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il sont par tout bien conneüs",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5380,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ilz sont de plus pres veüs ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5477,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Briement ore m'en passerai.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5574,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nepourquant pas ne me tairai",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5671,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je aucune chose ne die",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5768,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De leur estat ne de leur vie.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5865,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant eglyses vaquier souloient",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5962,1228,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/7v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les bons prelas si les donnaient",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,6059,1228,97"
+    }
+    
+  ]
+}

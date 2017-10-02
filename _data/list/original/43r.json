@@ -1,0 +1,424 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/43r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "SSire Diex, pere esperitable,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,1984,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout puissant, sage, veritable,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2086,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui mainz en sainte Trinité",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2188,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En une mesme deïté,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2290,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui de neent feïs la terre,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2392,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mer et ciel'et quant qu'il enserre,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2494,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui feïs homme a ta semblance",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2596,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Etli donnas sens et puissance",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2698,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De deservir joie parfaite",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2800,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et la loi que tu 'li as faite,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2902,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si la veult tenir loiaument,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3004,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sire qui rens generaument",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3106,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A chascun solonc sa deserte,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3208,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Soit pour gaing soit pour perte,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3310,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui tant amas l'umain lignage",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3412,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que pour lui geter du servage",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3514,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A l'anemi et de la mort",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3616,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'enfer, qui maint a mis a mort,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3718,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ton fiz, ta propre sapïence",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3820,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui avec toy est une essence,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3922,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et avec le Saint Esperite",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4024,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si coin l'Escripture recite,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4126,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par qui nos pechiez nous alliegez,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4228,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Envoias de tes souverains siegez",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4330,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et feïs sa divinité",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4432,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vestir de nostre humanité,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4534,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la Vierge ineffablement,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4636,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sanz ce que nul corrumpement",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4738,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En eüst la Vierge espuree",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4840,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En cors, en ame n'en pensee:",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4942,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De li en Bellean fu nez ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,5044,1229,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/43r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La fu Dieu a homme aünez",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,5146,1229,102"
+    }
+    
+  ]
+}

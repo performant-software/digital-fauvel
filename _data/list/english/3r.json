@@ -1,0 +1,710 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/3r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He does not have a blue coat",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,714,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For such a color eternally",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,816,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Denotes consideration",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,918,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of good, of wisdom and of reason.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1020,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This can be demonstrated through the sapphire,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1122,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Where one must find a blue color.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1224,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the ethereal firmament",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1326,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Also truly resembles blue.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1428,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But Fauvel does not solidly possess",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1530,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The fortune he has found,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1632,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And he does not consider the end,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1734,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather he searches for everything that pleases him.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1836,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And Fauvel—may God save me—",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1938,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Can only have a beige color,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2040,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And even on his back—one must know this—",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2142,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He cannot have a black stripe.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2244,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This kind of color denotes vanity:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2346,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For a vain animal, a vain coat.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2448,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He is also so low down in the front",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2550,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it pains many people;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2652,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And he limps with all four legs,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2754,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But he crosses them so ingeniously",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2856,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it is difficult to tell,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2958,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he is an animal full of malice.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3060,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now it is time that I reveal the mystery",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3162,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of Fauvel more openly,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3264,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to make known his allegorical explanation",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3366,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And also his description.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3468,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel is an appropriate animal",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3570,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ordered through similitude",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3672,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To signify vain things,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3774,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trickery and the falseness of the world.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3876,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Thus, through etymology,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3978,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One can know what he means:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4080,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "FAUVEL is made of FAUS [false] and VEL [veil]",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4182,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he has built his pride",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4284,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On veiled falsity",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4386,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And honey-sweetened trickery.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4488,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Flattery is derived from his name,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4590,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which has neither source nor bank in goodness.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4692,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From Fauvel comes Flattery,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4794,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which has sovereignty in the world,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4896,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then comes Avarice,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4998,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who is not selfish when it comes to rubbing Fauvel,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5100,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vileness and Variété [inconstancy],",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5202,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then Envy and Lâcheté [cowardliness].",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5304,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "These six ladies whom I have named",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5406,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are signified by FAUVEL.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5508,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If you want to apply your intelligence,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5610,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Take a word from each letter.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5712,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of Fauvel, who reigns on the Earth,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5814,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through differences and through war.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5916,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will give the definition,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,6018,1197,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/3r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To better show my intention.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,6120,1197,102"
+    }
+    
+  ]
+}

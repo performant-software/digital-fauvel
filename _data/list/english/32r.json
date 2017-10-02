@@ -1,0 +1,918 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/32r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everything that they needed. Quickly",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,640,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They begin the journey, without delay,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,741,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And they traveled so much in the days",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,842,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they arrived in the city",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,943,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Where they are supposed to stop.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1044,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Their host, before seeing the sunrise,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1145,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With a large group of people,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1246,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Went out to meet them",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1347,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And brings them back to his home.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1448,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The rumor is dispersed in the air",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1549,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "About the safe arrival",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1650,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the ladies, whom the host and hostess",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1751,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Love greatly.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1852,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They brush away the crowds",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1953,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the ladies take up residence,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,2054,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which comforts their hosts.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,2155,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They descend and proceed",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=997,3454,515,205"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Into the bedrooms, where they",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=997,3659,515,205"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Find everything they wish, according to their desires,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,3843,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then they rest as much as it pleases them.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,3948,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The day of the feast arrived.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4053,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With faster and slower galloping,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4158,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "People in very noble attire arrive.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4263,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From the palace, they watch the courtyard.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4368,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There, they are completely set on doing",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4473,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "What they must for this task.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4578,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Their entourage goes, without delay,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4683,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the residences they have chosen;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4788,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In putting their things in order,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4893,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is not a single person who is lazy.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4998,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They cry out for the cooks, for the tables",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5103,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are already set, and the tablecloths draped.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5208,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the meats were ready—",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5313,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Enough for four of such feasts.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5418,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Virtues, who were well prepared,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5523,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Realized this,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5628,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And respectfully, with a noble manner,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5733,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Proceed to the place with the noise.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5838,1334,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They enter into the halls humbly",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,577,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And behave in a polite manner.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,681,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is not one who departs from this path.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,785,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone looks at them with great desire.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,889,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now it is time that I speak to you",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,993,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "About Fauvel, who has come up into the palace,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1097,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And about how he declared aloud:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1201,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "“You who are here, some close and some far,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1305,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My dear friends, my sweet ladies,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1409,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It has been a long time,” he says, “since we entered",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1513,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This country and this land.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1617,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "We had to seek a woman",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1721,1218,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For our project, and we did,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,556,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As it concerns us, as we all know.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,661,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May everyone have fun and rejoice",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,766,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And lead a pleasant life,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,871,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Laugh, sing and make merry!”",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,976,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He invites them strongly to do this.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1081,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone, both men and women, greet him",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1186,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Courteously and thank him.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1291,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But the Virtues say amongst themselves:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1396,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "“The poor people, how will they sing",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1501,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now that they have become orphans?",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1606,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Let us suspend our singing.”",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1711,1166,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The trumpeters sound and signal,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,5502,1207,115"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And quickly everyone washes up",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,5617,1207,115"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And goes to sit at the tables.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,5732,1207,115"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One could see a great abundance",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,5847,1207,115"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of good and fine meats:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2835,5512,1186,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were capons, goslings, chickens,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2835,5625,1186,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Swans, peacocks, partridges, pheasants,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2835,5738,1186,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/32r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Herons, bitterns—which are a pleasant meal—",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2835,5851,1186,113"
+    }
+    
+  ]
+}

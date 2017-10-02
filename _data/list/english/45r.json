@@ -1,0 +1,138 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/45r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ferrant has perished, and so should have perished",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,672,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, who does not find anyone to stop him",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,782,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In this world, for all obey",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,892,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Him; he has stolen everything!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1002,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has robbed us completely with his seductive words,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1112,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And deceived us in stealing from us.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1222,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He will perish, for he cannot",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1332,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Live forever. Here ends my second book.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1442,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May God receive it willingly.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1552,1197,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/45r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I am thirsty; it is time for me to drink!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1662,1197,110"
+    }
+    
+  ]
+}

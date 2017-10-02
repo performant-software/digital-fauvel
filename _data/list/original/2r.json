@@ -1,0 +1,476 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/2r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "AAugustins et nonnains et moines,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,1837,1229,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Arcediacres et chanoines",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,1942,1229,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ciers d'Eglise pourveüz",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2047,1229,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont au torcher bien esmeüz,,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2152,1229,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et povres ciers qui sont sanz rente",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2257,1229,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y metent trop bien leur entente,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2362,1229,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes ne puent pas si pres estre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2467,1229,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne si avant com li grant mestre,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2572,1229,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si en sont dolens et plain d'ire",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,703,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que souvent leur ot l'en dire",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,801,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Fortune, qui n'est pas ferme",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,899,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui de tourner ne se terme,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,997,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le plus avant retornera,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1095,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De haut bas, de loing pres fera.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1193,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce que Fortune si toust torne",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1291,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en son tourner ne met boume",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1389,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fait les pouvres reconforter",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1487,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de leur maus biau deporter.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1585,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quant ne puent venir",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1683,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Fauvel torcher ne tenir,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1781,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si client il : « Diex gart tel beste,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1879,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult a biau cors et bele teste. »",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1977,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "OOr convient savoir la maniere,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2075,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les contenances et la chiere",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2173,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui sont a torcher ce Fauvel.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2271,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'en ne cognoist nounain au vel ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2369,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour c'est il bon que l'en les sache,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2467,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car maint torchent qui n'i font trache.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2565,1260,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "PPremier commencerai au pape ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,1837,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'est pas raison que il eschape",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,1938,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes je fais protestacïon",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2039,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ce n'est pas m'entencïon",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2140,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'aler contre l'ouneur de Romme,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2241,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A cui doit obeïr tout homme,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2342,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes de Fauvel dirai le voir,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2443,1239,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si com je le puis concevoir.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2544,1239,101"
+    }
+    
+  ]
+}

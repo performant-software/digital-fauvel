@@ -1,0 +1,814 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/14v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Après, il y avait la place de Versatilité",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,756,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui avait jeté sur son dos",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,867,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un manteau fourré de panthère,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,978,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fait de matériaux changeants.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1089,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'ailleurs, cette figure qui se métamorphose à toute vitesse",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1200,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est toujours habillée de choses qui changent :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1311,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle dit une chose, mais quand il s'agit de passer à l'acte,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1422,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle ne peut être qu'en contradiction avec les paroles,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1533,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et par cette belle façon d'être qui est la sienne,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1644,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On l'appelle Inconstance.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1755,1197,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ensuite venait le siège de Duplicité,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,2761,1145,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui toujours s'est appliquée",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,2867,1145,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À tenir un double langage",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,2973,1145,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou des propos à double entente.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3079,1145,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À ses côtés, Fausseté occupait sa place,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3185,1145,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle qui est plus fausse que le liège :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3291,1145,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est quelqu'un en qui l'on imagine trouver quelque vertu,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3397,1145,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais elle se révèle déloyale et creuse.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3503,1145,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Près d'elle était assise Ingratitude",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4504,1186,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui a très mauvais esprit et beaucoup de rudesse",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4609,1186,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car elle refuse sa reconnaissance à toute personne",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4714,1186,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui aurait pris la peine de faire croître sa situation :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4819,1186,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en toutes les cours elle soit condamnée,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4924,1186,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car elle est née sous une funeste étoile !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,5029,1186,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À ses côtés siégeait Vilenie,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,798,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En équipage de chevalier ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,906,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pourtant, à savoir ce qu'est la vraie noblesse,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1014,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle ne consacre pas son cœur et ne lui en montre pas le chemin.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1122,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais si elle était la fille d'un père honorable,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1230,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il serait juste que quelque vertu se montre en elle !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1338,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle s'imagine être noble et sage",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1446,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce qu'elle a reçu un important héritage,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1554,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais elle se leurre et s'égare,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1662,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car la noblesse, on ne la possède pas à cause des terres,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1770,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle procède plutôt du cœur fixé dans le corps de l'homme",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1878,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est doté, en guise de rente, de nobles mœurs ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1986,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parmi ces derniers, ceux qui les cultivent",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2094,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont très nobles et parfaits gentilshommes.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2202,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À propos du noble, je considère et considérerai",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2310,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il a été engendré d'un sang ignoble",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2418,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou conçu par le péché d'adultère,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2526,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand il ne se pare pas et ne se pourvoit pas",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2634,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'actions nobles grâce auxquelles on pourra dire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2742,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ce n'est pas un rustre qui l'a engendré.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2850,1082,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et après venait le siège d'Angoisse",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4021,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'est pas paresseuse quand il s'agit de travailler,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4137,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car même les dimanches et les jours de fête",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4253,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle met au travail les serviteurs et les bêtes :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4369,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est tellement pressée de travailler",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4485,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle ne se soucie guère de prier Dieu.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4601,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'ailleurs, même si elle n'avait ni femme ni enfant,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4717,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle persisterait à vouloir jouer dans la même gamme.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4833,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sachez qu'il est né sous un signe funeste",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4949,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celui qui travaille de la sorte,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5065,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et l'Ancien comme le Nouveau Testament",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5181,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'interdisent, que Dieu me protège !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5297,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Autour du maître de maison, au pelage fauve,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5413,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y avait, que Jésus-Christ m'accorde le salut!",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5529,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'innombrables membres de sa maisonnée ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5645,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y avait là une fort belle compagnie :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5761,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'y trouvaient Tromperie, Escroquerie,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5877,1029,116"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Imposture, Tripot et Tricherie,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5993,1029,116"
+    }
+    
+  ]
+}

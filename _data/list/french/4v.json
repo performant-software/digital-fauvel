@@ -1,0 +1,1308 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/4v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est arrivé au résultat que la position de ce flambeau",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,766,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est complètement bouleversée, et inversée.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,862,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Voilà une bête d'une capacité d'action remarquable:",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,958,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a placé la lune au-dessus du soleil,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1054,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien que le soleil n'a de lumière",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1150,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que celle qui vient de la lune, et qu'il est éclairé par l'arrière.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1246,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est une grand éclipse que l'on peut contempler là!",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1342,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je veux t'apporter des preuves de ce que j'ai dit :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1438,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les sages, qui se fondent sur la raison",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1534,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Emploient une analogie de ce type,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1630,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En comparant au soleil du ciel le pouvoir des prêtres,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1726,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et à la lune, qui est placée en dessous,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1822,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils comparent le pouvoir temporel ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1918,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je veux t'en expliquer la cause.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2014,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dieu, qui est le seigneur et le maître de tous,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2110,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A fait naître son Fils de la Vierge,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2206,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui a célébré le sacrifice comme un prêtre,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2302,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien que pour cela l'état de prêtre doit être",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2398,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Assimilé au soleil,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2494,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car Dieu lui confia l'autorité",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2590,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour apporter la lumière au monde,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2686,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin que par elle il élève son cœur et sa tête",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2782,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour connaître le droit chemin",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2878,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui conduit à la félicité éternelle.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2974,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est en ce sens que Dieu dirigea le pouvoir des prêtres",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3070,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il le plaça à la tête de l'Eglise",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3166,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et voulut créer en eux la faculté",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3262,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tout lier et délier.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3358,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais au pouvoir temporel",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3454,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dieu n'a attribué aucune souveraineté,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3550,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Voulant au contraire qu'il fût soumis aux prêtres,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3646,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour servir de bras à la sainte Eglise,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3742,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle sorte qu'il n'eût la capacité de faire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3838,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ce qui doit plaire à l'Eglise.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3934,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu peux le constater en raisonnant :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4030,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le bras doit obéir à la tête",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4126,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et mettre à exécution",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4222,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce que la tête veut lui imposer.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4318,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le bras est par nature très prompt",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4414,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À protéger la tête de tout préjudice",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4510,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car la tête est située plus haut dans le corps de l'homme",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4606,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ne l'est aucun ,des membres, étant",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4702,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celui qui gouverne le ·corps tout entier.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4798,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est par lui qu'il a la volonté, qu'il entend, qu'il discerne.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4894,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si jamais il arrivait que la tête tombe malade,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4990,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'existe pas de membre, si vigoureux füt-il,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5086,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne se trouve alors dans un état de faiblesse plus grand,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5182,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme le sont les serviteurs par rapport à leur maître.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5278,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ainsi que le pouvoir temporel",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5374,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Doit obéir en toute humilité",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5470,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la sainte Église qui est la souveraine,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5566,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui peut lier corps et âme.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5662,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais Fauvel a agi avec tant de perfidie",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5758,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si bien fait rouler son ·chariot",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5854,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que, malgré Ferrant et Morel,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5950,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le pouvoir temporel",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,6046,1229,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui devrait être placé plus bas comme la lune",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,735,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se trouve, par la roue de Fortune,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,831,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Placé au-dessus de la sainte Église souveraine.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,927,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'Eglise est sous lui, au point qu'elle a du mal",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1023,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A répandre un peu de sa lumière.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1119,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ainsi que tout est sens dessus dessous :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1215,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les membres sont placés au-dessus de la tête.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1311,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il serait fort nécessaire que derechef",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1407,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dieu veuille créer un monde nouveau",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1503,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car celui-ci est submergé par toutes les formes du mal,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1599,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour la raison que Fauvel le gouverne",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1695,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans les ténèbres et sans lanterne,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1791,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant et si bien qu'il l'a fait sortir de la route.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1887,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On ne trouve mentionné ni dans un manuscrit",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1983,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni dans un livre de la sainte Écriture",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2079,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il fût jamais auparavant à tel point hors de toute mesure",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2175,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme nous le voyons être aujourd'hui.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2271,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel y est installé pour toujours,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2367,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il est le maître du jeu de dés",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2463,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est lui qui de tout le monde mène la danse :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2559,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il lui fait faire des tours et des détours",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2655,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour mieux tout emmêler et bouleverser ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2751,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y a pris tant de soin et de peine",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2847,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'aujourd'hui toute créature",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2943,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est complètement transformée au contraire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3039,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce pour quoi Dieu a voulu la créer.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3135,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je te le montre à travers tous les états de la société",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3231,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec des arguments qui ne manquent pas de preuves.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3327,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout d'abord chez les ecclésiastiques",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3423,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui devraient posséder de bonnes qualités ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3519,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sans gloser là-dessus et sans autre commentaire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3615,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je te dirai clairement comment",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3711,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ces gens-là, c'est une évidence",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3807,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ont adopté un comportement perverti.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3903,1239,96"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au temps de la religion primitive,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5166,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'où provient le salut de l'humanité,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5266,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand Dieu eut épousé sainte Église",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5366,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'il l'eut rachetée en versant son sang,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5466,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a fait de Pierre son vicaire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5566,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et voulu qu'il fût le pasteur et le père",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5666,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour gouverner la chrétienté ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5766,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il lui confia les pleins pouvoirs",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5866,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et procéda de même pour les apôtres,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5966,1218,100"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/4v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle sorte que par leur enseignement",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,6066,1218,100"
+    }
+    
+  ]
+}

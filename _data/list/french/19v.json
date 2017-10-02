@@ -1,0 +1,658 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/19v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle jette des regards d'une grande férocité,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5722,1208,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne se fait pas prier pour parler :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5832,1208,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Fauvel, tu es complètement fou et présomptueux",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5942,1208,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi bien dans tes actes que dans tes paroles !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,6052,1208,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Crois-tu que je considère comme une prouesse",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,577,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ta témérité qui dépasse toute mesure ?",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,680,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selon l'expression familière,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,783,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune aide les audacieux.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,886,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais souvent une hardiesse insensée",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,989,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est occasion et cause de tristesse :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1092,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pourtant, j'ai plus souvent apporté mon aide",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1195,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aux fous téméraires qu'aux sages trop lents à agir :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1298,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En effet, les sages redoutent les accidents,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1401,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tandis que les fous se précipitent plus avant.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1504,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Crois-tu, en plus, que tu vivras pour toujours,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1607,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour t'aventurer de la sorte ?",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1710,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis persuadée, plutôt, que jamais auparavant",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1813,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On a entendu parler d'une présomption comparable",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1916,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À celle que tu as imaginée et que tu manifestes !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2019,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu n'as pas bien su qui j'étais !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2122,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comment l'idée a-t-elle pu te monter à la tête,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2225,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jusqu'au sommet, jusqu'au faîte,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2328,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'étais une quelconque dame Marie",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2431,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui prendrait Fauvel pour mari ?",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2534,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu ne sais pas bien ce que je peux faire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2637,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni à quels jeux je suis capable de jouer...",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2740,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, tu ne me connais guère !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2843,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jamais un homme, de nature mortelle,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2946,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'a eu de moi pleine et entière connaissance",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3049,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et n'a pu prendre la pleine mesure de ma puissance.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3152,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne va pas imaginer que c'est par bi richesse",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3255,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que l'on reconnaît mon éminente position!",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3358,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les riches ne pensent pas, à propos de Fortune,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3461,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle puisse, de deux fèves, n'en faire qu'une;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3564,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais quand l'homme se trouve réduit à la pauvreté,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3667,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est alors qu'il se souvient de Fortune.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3770,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi est-il possible de me connaître mieux",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3873,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans le malheur que dans les grandes commodités.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3976,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, tu t'es complètement trompé",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4079,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand tu as manigancé dans ta tête",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4182,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'étais une femme à épouser,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4285,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que je consentirais à me marier avec toi.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4388,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu ne connais ni moi ni mon père,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4491,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu ne sais pas d'où je suis issue, ni pour quoi faire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4594,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis installée en ce monde.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4697,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi je veux te faire comprendre",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4800,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au moins en partie ma situation,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4903,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car j'en vois trop souvent qui mentent",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5006,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parmi ceux qui parlent de Fortune,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5109,1176,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/19v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ignorant si elle est blanche ou brune !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5212,1176,103"
+    }
+    
+  ]
+}

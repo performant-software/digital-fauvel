@@ -1,0 +1,671 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/15r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Murder, Treason, Robbery,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,787,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And even Perjury and False Promise.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,892,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They were mounted on the ladder",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,997,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To see Fauvel, whom they loved.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1102,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Debauchery was also there,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1207,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And Risk, whom God renounces,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1312,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Heresy and Sodomy,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1417,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all types of dangerous life.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1522,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Around the hall, near the pillars,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1627,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They were there in heaps and bounds,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1732,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Near Fauvel and his throne.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1837,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel did not remain silent.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1942,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He held a little baton of elder.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2047,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It did not appear that he had a cold;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2152,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He speaks loudly. This is his theme:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2257,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "\"Lords and ladies who are here,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2362,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You must be joyful and hold parties,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2467,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For you are in my household,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2572,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And are all a part of my lineage.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2677,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And you see that our business",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2782,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is going so well that it must please you.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2887,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Today, I am king and lord",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2992,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of both the kingdom and the empire,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3097,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And you see everyone aspire",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3202,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To serve me and care for me.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3307,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is neither prelate nor clerk nor priest",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3412,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who does not wish to be near me,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3517,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all of the worldly princes",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3622,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rub Fauvel better than Morel!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3727,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You see few people who do not have nice clothing",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3832,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If they do not rub or pet or flatter me.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3937,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have rubbed so much, and been so rubbed,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4042,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That everyone has become stupid because of me.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4147,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have behaved so subtly",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4252,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And so maliciously",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4357,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I do not know how many steps I have taken",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4462,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the great position to which I have climbed.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4567,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I did not come through a straight path,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4672,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since I did not know how to climb that way.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4777,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The straight path is too difficult for me,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4882,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "While the winding one seems good and short to me!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4987,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will never take the right path,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5092,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor will I go there or come through it.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5197,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have done so much—this you can see—",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5302,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I can sit with great pomp.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5407,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have trampled Reason down,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5512,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I do not fear her or care for her anymore!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5617,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My enemies have been expelled",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5722,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And my friends are strong and feared.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5827,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I turn upside down, as it pleases me completely,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5932,1239,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The world, which loves me very much and holds me in high regard.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,6037,1239,105"
+    }
+    
+  ]
+}

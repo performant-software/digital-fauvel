@@ -1,0 +1,970 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/15v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'y a plus personne qui puisse désormais me faire du mal :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,724,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ce que j'entreprends, j'arrive à le mener à bien,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,829,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout se passe pour moi comme je le veux ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,934,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis très riche et mes rentes sont importantes,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1039,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce à mon intelligence et à ma ruse :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1144,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je bénéficie vraiment de la faveur de Fortune,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1249,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle tourne complètement dans le sens où je veux ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1354,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle m'a octroyé un pouvoir souverain :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1459,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du monde, qui est sa demeure,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1564,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle m'en a fait le maître en dépit de Raison;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1669,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cependant, j'ai bien peur d'une chose,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1774,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je n'ose confier à personne d'autre qu'à vous;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1879,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et vous devez tous autant que vous êtes être vigilants",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1984,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour me témoigner votre amour et me conseiller !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2089,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vois que Fortune est changeante,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2194,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que c'est une dame qui inspire l'épouvante :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2299,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce qu'elle veut constamment se renouveler,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2404,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je redoute qu'elle ne se retourne vers moi",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2509,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour me jeter de la position que j'ai atteinte.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2614,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vais maintenant vous dire mon secret,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2719,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Auquel j'ai profondément réfléchi",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2824,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin d'avoir des fondations solides,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2929,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle sorte que jamais aucun homme ne porte atteinte",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3034,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À l'excellence de mon éminente situation.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3139,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Vous savez que je n'ai pas de femme :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3244,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il serait nécessaire que j'épouse",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3349,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelque dame qui me plairait bien,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3454,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin de pouvoir me reproduire.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3559,1187,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ainsi, par la génération,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,766,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En une succession ininterrompue",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,870,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De fils, de neveux, de nièces",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,974,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui hériteraient et participeraient",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1078,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De mon intelligence et de ma nature,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1182,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle façon que toute créature humaine",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1286,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Soit complètement encerclée de mes descendants,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1390,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour la faire vivre selon mon désir.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1494,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or, la pensée m'a traversé, par ailleurs",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1598,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Fortune qui distribue tous les biens,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1702,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne peut pas ne pas m'aimer",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1806,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du moment qu'elle répand sur moi de si grands honneurs,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1910,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle a fait de moi un si grand personnage;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2014,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi ne pourrait-il en être autrement :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2118,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est sans tricherie qu'elle m'a accordé",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2222,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son amour et sa faveur,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2326,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et plus, elle n'est pas mariée,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2430,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et je ne le suis pas non plus, moi qui la désire ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2534,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis persuadé que si quelqu'un lui en parlait",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2638,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle serait très vite d'accord avec cette idée.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2742,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et une fois que je l'aurais épousée,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2846,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je serais le maître de sa roue :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2950,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La dame serait en mon pouvoir,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3054,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle tournerait sa roue selon mon bon plaisir ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3158,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alors ma bonne chance serait assurée",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3262,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et je pourrais dormir tranquille.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3366,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pourtant, même si les femmes sont disposées",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3470,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À bien témoigner de l'amour à ce qu'elles désirent,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3574,1197,104"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est une règle en toute terre",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,808,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne leur pas de faire leur requête les premières.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,909,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais ,la volonté qui chez la femme est inconsistante",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1010,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Laisse apparaître des indices",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1111,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce auxquels elle prend souvent les devants",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1212,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour provoquer la requête d'amour.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1313,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et lorsqu'elle montre de telles apparences",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1414,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par des signes extérieurs, des paroles ou des actes",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1515,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle éprouve un mépris extrême",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1616,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour celui qui tarde à s'exécuter.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1717,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi bien Fortune, qui sape tout,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1818,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est pour son comportement entièrement féminine ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1919,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Voilà pourquoi, si vous approuvez cette décision,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,2020,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je serai prêt rapidement",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,2121,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour lui présenter ma requête et la supplier",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,2222,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De bien vouloir se marier avec moi. »",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,2323,1071,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sans tenir compte de la raison ni de la loi",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3969,3517,976,94"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/15v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le conseil répond sans délai :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3969,3611,976,94"
+    }
+    
+  ]
+}

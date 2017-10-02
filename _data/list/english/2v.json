@@ -1,0 +1,1308 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/2v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The pope sits in his seat",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,609,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which used to be made of rock, and now is made of fragile oak.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,708,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He looks at Fauvel, when he is in his presence,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,807,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He to whom one pays great respect,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,906,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And whom one rubs, in the evening and in the morning.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1005,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The pope also extends his hand",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1104,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And holds him gently from the harness",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1203,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without reproaching anyone for rubbing him,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1302,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then he scratches Fauvel’s head",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1401,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "While saying: “This is a beautiful animal!”",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1500,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to please him, the cardinals say:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1599,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "“You speak the truth, Holy Father!”",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1698,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then they put their hands on Fauvel",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1797,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And begin to pet him;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1896,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It seems to me they hold combs",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,1995,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And brush him around the head.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2094,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I don’t know how they put ointment on him",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2193,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But they trim the hair on his head.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2292,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In that place, kings from all countries",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2391,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are not astonished to rub him.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2490,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is one who surpasses all the others",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2589,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And who is the lord of all of them.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2688,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has forgotten his rank.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2787,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to pet Fauvel, he steps forward.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2886,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With one hand he cuts his mane",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,2985,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And with the other he holds a comb.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3084,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But he does not have a mirror",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3183,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—he should rent one—.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3282,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He should have one,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3381,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he needs to know.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3480,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "After the kings, the counts rub",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3579,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So sweetly that they do not break the skin",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3678,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prelates and abbots, for their part,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3777,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Take their part in rubbing Fauvel,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3876,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On the back and around his flanks,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,3975,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nobody leaves Fauvel's side,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4074,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Under his stomach and in front of his sex,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4173,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One rubs well and the other poorly.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4272,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Priests, deans, archdeacons",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4371,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do not behave as if they were gout-ridden.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4470,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From all sides they come at a gallop",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4569,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And they rub Fauvel and his feet.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4668,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Knights do not miss the call;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4767,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They rub Fauvel on his croup.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=1102,4866,1239,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The squires, who are arrogant,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,556,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lift his feet and clean them,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,655,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And they prepare him a new bed,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,754,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that Fauvel makes a great feast for them.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,853,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Canons, chaplains and parish priests,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,952,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Monks and nuns with all kinds of habits,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1051,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through woods, cities and marshlands",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1150,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rub Fauvel's hocks;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1249,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Between his thighs, near his groin,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1348,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They rub his nerves and veins,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1447,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And Cordeliers and Jacobins,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1546,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When it comes to petting, are true robins;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1645,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They rub in front and then behind.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1744,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They know how to do it too well!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1843,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And poor people come to rub,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,1942,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But they stay near the tail",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2041,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And do the best they can to come closer.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2140,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They cut his tail and braid it.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2239,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now, they have all come to rub,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2338,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The rich, and the large and small monks.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2437,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If we want to understand this book,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2536,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "We must now turn",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2635,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To describing Fauvel properly",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2734,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to saying, through definition,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2833,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "What Fauvel means to us;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,2932,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But beforehand, it is fitting that I speak",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3031,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of his color first.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3130,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aristotle says truly:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3229,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Accidents are a great help",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3328,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In making known the substance.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3427,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel does not have a black color,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3526,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the black color reminds us",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3625,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of death, of pain, and of sadness,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3724,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And Fauvel is full of joy,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3823,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So he is not interested in dressing in black.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,3922,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It does not conform to his nature.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4021,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor is he of a red color.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4120,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He does not compare himself to this color,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4219,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the red color signifies",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4318,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Charity, friend of everyone.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4417,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel is not interested in such a dress,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4516,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he only loves those who rub him.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4615,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor does he have a white color,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4714,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because this signifies",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4813,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That which is clean and pure;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,4912,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But Fauvel is so full of excrement",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5011,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it is necessary to brush him every day.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5110,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, he does not have a white robe.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5209,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If he had one, it would be a waste!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5308,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor does he have a green robe,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5407,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For green signifies",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5506,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Loyal faith and hope;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5605,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But Fauvel has put all of his faith",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5704,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In his present fortune",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5803,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without hoping for the kind that lasts,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,5902,1271,99"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/2v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor does he care about faithfulness.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2v#xywh=3727,6001,1271,99"
+    }
+    
+  ]
+}

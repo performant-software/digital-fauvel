@@ -1,0 +1,476 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/12r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont a toutes gens decevoir",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,777,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y furent, ce te di de voir.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,887,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'estoit brisiez ne deffroissiez",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,997,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le palais, ains fu lambroissiez",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1107,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trop cointement de fust d'Islande",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1217,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A une taille espesse et grande",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1327,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'un bois qui n'est fendu n'ouvert",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1437,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais bien en soi clous et couvert",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1547,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tremble i ot qui resembloit aune,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1657,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes tout fu vernissiez de jaune,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1767,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Estincelant si clerement",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1877,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que nus hons ne puet vraiement",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1987,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Veoir laiens le ciel celestre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2097,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si n'en ist par quelque fenestre,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2207,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car les couleurs sont si ardans",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2317,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il aveuglent les regardans;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2427,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et se voulez que je vous die",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2537,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceus qui leur tindrent compaingnie",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2647,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Fauvel, je les vous dirai,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2757,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ja que puisse n'en mentirai.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2867,1155,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLez Fauvel a destre partie",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4378,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se sist Charnalité s'amie,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4487,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une dame d'auctorité",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4596,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est contraire a Charité,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4705,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Marrastre d'Ospitalité ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4814,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aversaire de Verité,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4923,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nourrice de Crudelité,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5032,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mere de toute iniquité.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5141,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est celle qui n'aimme que li:",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5250,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Semblant d'amour moustre a celi",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5359,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De qui el puet son profit faire,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5468,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Autrement nul ne li puet plaire.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5577,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quant son gaaing plus n'i dure,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5686,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle le het et n'en a cure.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5795,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ceste di certeinnement",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5904,1134,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/12r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle s'aime tant seulement",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,6013,1134,109"
+    }
+    
+  ]
+}

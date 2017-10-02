@@ -1,0 +1,450 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/1v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "RRois, dus et contes verriez",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,745,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour torcher Fauvel aliez ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,838,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz seigneurs temporex et princes",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,931,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y viennent de toutes provinces,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1024,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et chevaliers grans et petiz,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1117,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui au torcher sont bien fetiz.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1210,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'i a, sachiez, ne roy ne conte",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1303,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui de torcher Fauvel ait honte.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1396,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vicontes, prevos et baillis",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1489,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A bien torcher ne sont faillis ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1582,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bourgois de bours et de cités",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1675,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Torchent par grans subtilités,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1768,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et villains de ville champestre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1861,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont emprés Fauvel pour li pestre.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1954,1134,93"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "PPuis en consistoire publique",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,2992,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en va Fauvel, beste autentique,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3090,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quant le pape voit tel beste,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3188,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sachez qu'il li fait moult grant feste",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3286,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les cardinaus moult l'enneurent :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3384,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pour lui torcher [tous] aqueurent.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3482,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le vichancelier, les notaires,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3580,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Auditeurs et referenderes",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3678,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Metent painne d'eus enforcier",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3776,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour Fauvel bien a point torcher.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3874,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prelas n'espargnent mont ne val",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3972,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour torcher ce noble cheval.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4070,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Abbés, gent de religïon",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4168,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y ont trop grant devocïon.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4266,1166,98"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "JJacobins, Cordeliers, ou estes?",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5470,1113,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A ce coup ne soiez pas bestes,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5583,1113,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais pensez bien d'estudier",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5696,1113,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Fauvel souef manier :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5809,1113,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si fetes vous, se Diex m'aït,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5922,1113,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant que chascun s'en esbaït.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,6035,1113,113"
+    }
+    
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/29v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, despite what he hears,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,546,1082,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Does not hesitate, however much he hears",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,666,1082,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To respond in this way,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,786,1082,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As one who is lit up by pride:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,906,1082,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But Fortune, who does not receive favorably",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,567,1040,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Anything that Fauvel has proposed",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,685,1040,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With this last reply",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,803,1040,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Calms him in this manner:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,921,1040,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "“And this is why, as I have already said to you,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4242,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For you have made many men fall",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4345,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And succumb to sin and shame,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4448,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will give you a brief speech.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4551,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "First, it is ordered that you",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4654,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And your lineage will be",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4757,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Brought into shame and sadness.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4860,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All born creatures will rejoice",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4963,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the pains that I will make you receive",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5066,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Will be diverse",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5169,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And conceived through days and weeks;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5272,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will accomplish my duty completely!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5375,1312,103"
+    }
+    
+  ]
+}

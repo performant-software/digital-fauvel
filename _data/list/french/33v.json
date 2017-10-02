@@ -1,0 +1,606 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/33v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il nomme ceux qui vont jouter",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,556,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et leur montre tout ce qu'ils auront à faire,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,662,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En leur disant de préparer immédiatement",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,768,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ce qui leur est nécessaire, et d'y veiller,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,874,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et leur demande à chacun de se comporter",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,980,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De façon à ne pas avoir honte de la joute.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,1086,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils partent aussitôt vaquer à la besogne",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,1192,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'ayant aucune raison d'attendre plus longtemps.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,1298,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur tout ce qui se passe là, les informations",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,1404,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parviennent aux dames, qui chantent ce verset :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1197,1510,1197,106"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et après avoir sollicité le secours et l'aide",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1228,2761,1208,124"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Dieu et de celle qui est le refuge",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1228,2885,1208,124"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tous les. pécheurs sans exception,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1228,3009,1208,124"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elles supplient, sans recours intermédiaire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1228,3133,1208,124"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En chantant jour et nuit",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1228,3257,1208,124"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les paroles et le chant qui suivent :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=1228,3381,1208,124"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les demoiselles ne réclament",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3129,5155,640,152"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pas de trêve, elles sont elles-mêmes très appliquées",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3129,5307,640,152"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De leur côté aux préparatifs.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=2530,5460,1197,131"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur hôte, qui n'a pas son égal,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=2530,5591,1197,131"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Déploie pour elles de si grands efforts",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=2530,5722,1197,131"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'on dirait qu'il devait en obtenir une rente;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=2530,5853,1197,131"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et elles, qui s'en rendent bien compte;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,556,1155,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Remercient Dieu comme il convient de le faire",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,674,1155,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En prononçant ces mots, avec cette mélodie,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,792,1155,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "'1790 Tournées vers Dieu et pleines de dévotion:",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,910,1155,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lorsqu'il fut temps de prendre du repos,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,3895,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chacun voulut s'occuper d'aller se coucher",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,3998,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans l'attente du lendemain.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4101,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais avant que nous aussi nous nous couchions,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4204,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je raconterai à dix d'entre vous ou vingt",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4307,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un événement qui s'est produit cette nuit-là,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4410,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car je ne veux plus rien dire de la joute",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4513,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jusqu'au retour du jour.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4616,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel a manigancé son·mauvais coup",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4719,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce auquel, à son tour, il se tiendra pour sot,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4822,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis il a dit à la plus intime",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,4925,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des suivantes de son épouse",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5028,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De faire entrer sa dame",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5131,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans la chambre à coucher, et de faire en sorte que tout le monde",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5234,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur laisse la place, et qu'ils se coucheront",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5337,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que, les autres qui doivent aller dormir,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5440,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle leur fasse vider les lieux et qu'après cela il entrera",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5543,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans la pièce où il verra sa femme.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5646,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand cela fut fait, il a lui-même fait son entrée",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5749,1365,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/33v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans la garnie de tentures,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33v#xywh=3790,5852,1365,103"
+    }
+    
+  ]
+}

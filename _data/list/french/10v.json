@@ -1,0 +1,138 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/10v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En rapportant à son sujet un motet.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,745,1134,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ah, seigneur Dieu, comme il naviguait",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,858,1134,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De bon cœur sur mer et marchait sur terre",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,971,1134,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour conquérir le Saint-Sépulcre.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,1084,1134,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si les autres avaient tenu compte de son exemple,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,766,1134,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ne se seraient pas mêlés d'aimer Fauvel",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,871,1134,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car Loyauté et Vérité",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,976,1134,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Seraient revenues, une fois Fauvel rejeté.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,1081,1134,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour Philippe, qui règne en ce moment,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2478,5985,1165,147"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous ajouterez encore ce motet:",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2478,6132,1165,147"
+    }
+    
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/42v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May God grant that a purified dew",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,714,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Descend from the sky,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,816,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And he will do it, which will efface",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,918,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Their intention! I do not know when this will be.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1020,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In this beautiful, pure garden",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1122,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Permanently decorated with golden lily flowers,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1224,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel made this fountain come.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1326,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May God grant him bad luck!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1428,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will tell you the truth, if God helps me,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1530,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "About the fountain, out of which",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1632,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A fog emerges every morning",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1734,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which has completely poisoned the vegetation",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1836,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the whole garden,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1938,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For from the fountain a stench",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2040,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of old sins wafts",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2142,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As a result of which I am in a great sweat,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2244,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And which comes from the sons and daughters",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2346,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of Fauvel who do worse than worms",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2448,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And any other bad vermine.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2550,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is neither seed nor root,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2652,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leaf nor branch nor scion",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2754,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they do not destroy!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2856,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There they accomplish their desire fully,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2958,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As a result of which everyone must mourn.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3060,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the most beautiful places, they beat and stomp",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3162,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On the flowers and crush them to the ground,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3264,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that it seems, and it is true,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3366,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That there is no longer a single flower or rose,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3468,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "No faith and no loyalty.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3570,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas! France, how your beauty",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3672,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Falls today into great ruin",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3774,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through Fauvel’s troop",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3876,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which places its delights in all evil.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3978,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They have delivered such a blow to the lily flower,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,4080,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel and Vainglory together,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,4182,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she wavers, it seems to me.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,4284,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, how can you suffer",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1102,5617,1292,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That such a thief be granted",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1102,5737,1292,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such an abundance of good things and such nobility,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1102,5857,1292,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And what does it mean that your heart is not wounded",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1102,5977,1292,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That he dared to cross your threshold",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,724,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With his poisonous decision",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,834,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To ask for your hand in marriage,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,944,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You who are the sovereign lady",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,1054,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the whole world, after the queen",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,1164,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To whom the whole sky bows down.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,1274,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Oh, pure lady of the sky,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,2604,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Honored by the saints",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,2705,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the celestial court,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,2806,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pray especially",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,2907,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To your sweet son, the savior of the world,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3008,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That he confound Fauvel completely",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3109,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And free us from him, and his comb,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3210,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And his followers, who are so vile.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3311,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In doing this, do not be weak.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3412,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I make this prayer to you through this treble [three-voiced motet?]",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3513,1176,101"
+    }
+    
+  ]
+}

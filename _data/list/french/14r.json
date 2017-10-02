@@ -1,0 +1,398 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/14r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais à côté de Fauvel, à sa gauche,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,1848,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai vu Orgueil, trônant en grande pompe ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,1957,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À ses côtés, Présomption,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2066,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mépris et Indignation,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2175,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vaine Coquetterie et puis Vanterie,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2284,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Arrogance et Folle Outrecuidance ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2393,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Après ces convives était assise Hypocrisie",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2502,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui prend un air très humble au-dehors",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2611,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais qui dans son cœur, avec une grande habileté,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2720,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dissimule Orgueil et sa suite.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2829,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est une dame extraordinaire :",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2938,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une fois elle est habillée en religieuse,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3047,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'autre en femme du siècle,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3156,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une fois elle apparaît en Cordelier, l'autre en Cordelière,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3265,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une fois en Jacobin, puis en Jacobine,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3374,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une fois elle est maîtresse, l'autre servante,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3483,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une fois seigneur, l'autre valet.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3592,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle a de multiples cordes à son arc,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3701,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et elle tire tantôt avec l'une, tantôt avec l'autre ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3810,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une fois elle fait des éloges, l'autre elle calomnie ;",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3919,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Devant les gens elle prie et marmotte,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4028,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais dans son cœur se tapit une petite renarde.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4137,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est très habile, par des moyens pacifiques ou belliqueux,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4246,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À se débrouiller à la barbe de Dieu !",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4355,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Faux Semblant était assis à côté d'elle,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4464,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais ni au sujet d'elle ni au sien",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4573,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne veux pas m'étendre davantage,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4682,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il n'y a dans ces personnages aucune vertu,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4791,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et celui qui veut en connaître l'interprétation,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4900,1165,109"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/14r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il aille consulter Le Roman de la Rose.",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,5009,1165,109"
+    }
+    
+  ]
+}

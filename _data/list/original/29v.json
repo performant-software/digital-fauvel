@@ -1,0 +1,268 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/29v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "FFauvel, pour chose que il oïe",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,546,1082,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne lesse, cui que il en oïe",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,666,1082,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne respoigne, en ceste guise",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,786,1082,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Com cil que pur orgueil atise :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,906,1082,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "MMes Fortune a cui n'agree",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,567,1040,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chose que il ait proposee",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,685,1040,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par la responsse darreniere",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,803,1040,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le rapaie en ceste maniere :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,921,1040,118"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "E« Et pour ce, si com je t'ai dit,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4242,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car tu as maint homme laidit",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4345,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et mis a pechié et ahonte,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4448,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hui més te ferai un brief conte :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4551,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "P« Premier est de toi ordené",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4654,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que a honte et a douleur mené",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4757,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Seras et toi et ta ligniee ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4860,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Joie en aura toute riens nee,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4963,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car diverses seront les painnes",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5066,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pensees par jourz et semainnes",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5169,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je vous ferai recevoir ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5272,1312,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/29v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'en ferai tretout mon devoir!",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5375,1312,103"
+    }
+    
+  ]
+}

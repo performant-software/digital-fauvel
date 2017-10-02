@@ -1,0 +1,86 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/french/22r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il se peut aussi que la vérité",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,703,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui souffre quand l'iniquité",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,806,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est exaltée et promue,",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,909,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En fasse parler dans le bon sens",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1012,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et se plaindre qu'un tel soit élevé",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1115,1019,103"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/22r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne possède aucune vertu",
+        "language": "french"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1218,1019,103"
+    }
+    
+  ]
+}

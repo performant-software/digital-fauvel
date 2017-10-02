@@ -1,0 +1,450 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/english/1r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because of Fauvel, whom I see stroked so much—",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,1827,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sweetly, without flaying him—",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,1924,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have become melancholic,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2021,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because he is such a well-polished beast.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2118,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Often they see him in painting,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2215,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Those who do not know if he stands for",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2312,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mockery, wisdom or folly.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2409,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And because of this, without ambiguous language,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2506,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will say about this beast",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2603,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whatever comes into my mind.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2700,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel does not live in a stable any more;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2797,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has a more honorable house.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2894,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He asks for a higher manger",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2991,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A beautiful hayrack and much food.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3088,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has taken up residence in the hall,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3185,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to better demonstrate his royalty;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3282,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And nevertheless, through his knowledge,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3379,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the other rooms he is also revered,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3476,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And in the cloakrooms often",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3573,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has his entourage assemble—",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3670,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which so caringly brushes him",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3767,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that no droppings can remain on him.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3864,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, contrary to Reason,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3961,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Has made him master of her house:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4058,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She puts great effort into glorifying him,",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4155,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For she leads him into the royal palace;",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4252,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She does not stop obtaining honors for him.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4349,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Around Fauvel, there is such a great hoard",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4446,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of people from all countries",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4543,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And of all conditions",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4640,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it is a great marvel:",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4737,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is no one who does not prepare himself",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4834,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To wipe him down gently.",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4931,1124,97"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/1r",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is such a great gathering!",
+        "language": "english"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,5028,1124,97"
+    }
+    
+  ]
+}

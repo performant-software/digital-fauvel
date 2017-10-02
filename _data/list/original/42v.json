@@ -1,0 +1,736 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/42v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "VVuelle Dieu que une rousee",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,714,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Viengne du ciel bien espuree,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,816,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si fera il, qui effecera",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,918,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur weil ! ne sai quant ce sera...",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1020,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEn ce biau jardin espuré",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1122,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A fleurs de lis d'or aduré",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1224,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A fait venir celle fontainne",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1326,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, cui Diex doint male estrainne !",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1428,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "VVoir vous dire, se Diex me saut,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1530,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la fontainne sourt et saut",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1632,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz les matins une broee :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1734,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La plante a trop envenimee",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1836,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et aussi trestout le courtil,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,1938,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car de fontainne sourt il",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2040,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De viez pechiez une pueur",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2142,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De quoi je sui en grant sueur,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2244,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui vient et des fiz et des filles",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2346,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, qui font pis que chanilles",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2448,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne nul autre mauvés vermine ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2550,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'i a semence ne racine,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2652,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fueille ne branche ne cïon",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2754,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne mettent a destrucïon!",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2856,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La font tretout a leur vouloir,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,2958,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De quoi chascun se doit douloir.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3060,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEs plus beaus lieus soulent et boulent",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3162,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les fleurs a la terre et defoulent,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3264,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que il semble, c'est vraie chose,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3366,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il n'i ait mes ne fleur ne rose,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3468,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Point de foy, point de loiauté.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3570,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hé ! las ! France, com ta beauté",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3672,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vet au jour d'ui en grant ruine",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3774,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par la mesnie fauveline",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3876,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui en tout mal met ses deliz !",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,3978,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hurtee ont si la fleur de lis",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,4080,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel et Vainne Gloire ensemble,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,4182,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle chancele, ce me semble.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1029,4284,1396,102"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "FFortune, comment sueffre tu",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1102,5617,1292,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ce larron soit revestu",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1102,5737,1292,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tel bien et de tel noblesce,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1102,5857,1292,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que doit que ton cueur ne blesee",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=1102,5977,1292,120"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qu'il osa passer ton sueil",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,724,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par son envenimé conseil,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,834,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ton cors demander a fame,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,944,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui es la souverainne dame",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,1054,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tout le mont aprés la roÿne",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,1164,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A qui le ciel est tout encline !",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2499,1274,1207,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "HHee, dame du ciel esmeree,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,2604,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De sains et de saintes honoree",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,2705,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dedens la court celestial,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,2806,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car depri en especial",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,2907,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ton douz filz, saveur du monde,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3008,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que il Fauvel du tout confonde",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3109,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et nous toille lui et s'estrille",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3210,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sa suite qui tant est vile.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3311,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En ce faisant ne soiez feble :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3412,1176,101"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/42v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je le te pri par mi ce treble.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42v#xywh=2509,3513,1176,101"
+    }
+    
+  ]
+}

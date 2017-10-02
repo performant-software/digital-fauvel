@@ -1,0 +1,814 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/13v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "AAprés seoit Detracion",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,745,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est de male estracion",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,856,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car elle [est] fille Male Bouche",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,967,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui main se lieve et tart se couche",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1078,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour mal dire a champ et a ville.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1189,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz jourz desvuide mal ou fille",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1300,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Detracion qui bon non amble ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1411,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du tout a sa mere resemble",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1522,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ele ne veut riens tant amer",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1633,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Com gens blamer et diffamer,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1744,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne ne puet oïr que l'en le die",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1855,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nul bien d'omme qui soit en vie",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1966,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et onquore souvent le mort",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2077,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Runge, detrait et point et mort :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2188,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est la sansue envenimee",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2299,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui suce bonne renommee ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2410,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est la langue serpentine",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2521,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui de geter venin ne fine ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2632,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si n'en puet ele tant router",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2743,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle puisse tout hors bouter",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2854,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et plus de gens runge et deveure,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2965,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus en son cors venin demeure.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,3076,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Miex vaut estre feru d'espee",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,3187,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de tel langue envennimee !",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,3298,1229,111"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "AAprés ceste se sist Haÿne",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,4672,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui a tout mal faire est encline,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,4785,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et puis aprés se sist Rancune",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,4898,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est a moult de gens commune :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5011,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est celle qui est si tres dure",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5124,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que dedens le cuer touz jours dure",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5237,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et son mal talant point n'efface",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5350,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Souvent, pour acort que l'en face,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5463,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ains runge toujours le chardon",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5576,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si qu'el ne veut donner pardon",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5689,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nulement ne a mort ne a vie,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5802,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais sachez bien qu'el n'aura mie",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5915,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pardon, s'el ne le veult donner :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,6028,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour noient en feront on sonner",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,6141,1239,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aprés sa mort ne chanter messe",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3811,766,1029,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En enfer prendra sa promesse !",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3811,876,1029,110"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEt puis aprés se sist Tristesce",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2320,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui de nul bien ne s'esleece.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2428,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aprés tantost fu assise Ire",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2536,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui aine ne sot raison eslire",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2644,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ains se prent par impacience",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2752,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz jours a la pire sentence.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2860,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aprés, si com j'oÿ retraire",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2968,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fu Pareceuse de Bien Faire ;",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3076,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Joingnant de li se sist Oiseuse",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3184,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est en touz temps perilleuse.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3292,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aprés fu assise Venus",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3400,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui prent les gens vestuz et nus :",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3508,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce est le pechié naturel",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3616,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui touz jours est de blancdurel",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3724,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se viellesce ou mal ou raison",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3832,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne li fait perdre sa saison.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3940,1165,108"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "JJoingnant de li fu Gloutonnie",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5533,1187,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De trop mengier noire et ternie.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5646,1187,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aprés Yvresce et Lecherie",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5759,1187,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui onques en toute leur vie",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5872,1187,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Juner n'a temps menger ne surent:",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5985,1187,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/13v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leurs enfanz tous saouz moururent.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,6098,1187,113"
+    }
+    
+  ]
+}

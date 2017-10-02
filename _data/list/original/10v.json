@@ -1,0 +1,138 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/original/10v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Recitant de lui un motet.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,745,1134,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ha ! sire Diex, comme il flotet",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,858,1134,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par mer de cuer et marchoit terre",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,971,1134,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour le saint sepucre conqerre.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,1084,1134,113"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se li autre a li garde preïssent,",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,766,1134,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'amer Fauvel ne s'entremeïssent",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,871,1134,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car loiauté et verité",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,976,1134,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Retornassent, Fauvel gité.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,1081,1134,105"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "PPour Phelippes qui regne ores",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2478,5985,1165,147"
+    },
+    
+    {
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "http://fauvel.archivengine.com/canvas/10v",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ci metreiz ce motet onquores.",
+        "language": "original"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2478,6132,1165,147"
+    }
+    
+  ]
+}
