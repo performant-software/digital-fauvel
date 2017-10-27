@@ -15,11 +15,14 @@
       height: 100%;
       position: fixed;
     }
+    div.mirador-container div.mirador-osd {
+      background-color: #dadad0;
+    }
   </style>
   <link rel="stylesheet" type="text/css" href="build/mirador/css/mirador-combined.css">
   <script src="build/mirador/mirador.min.js"></script>
   <script src="js/MiradorTextLayer.js"></script>
-  
+
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
