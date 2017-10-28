@@ -20,6 +20,27 @@
     div.mirador-container div.mirador-osd {
       background-color: #dadad0;
     }
+    .mirador-viewer a.mirador-icon-text-layer {
+      background: none;
+      color: #929191;
+      box-sizing: border-box;
+      margin-right:5px;
+      padding-bottom:30px;
+      width: 30px;
+    }
+    .mirador-viewer a.mirador-icon-text-layer:hover {
+      color: black;
+    }
+    .mirador-viewer a.mirador-icon-text-layer.selected {
+      color: black;
+    }
+    a.mirador-icon-text-layer [class^="icon-"] {
+      display:block;
+      position:absolute;
+    }
+    .mirador-container .text-layer-list {
+      right: 1em;
+    }
   </style>
   <link rel="stylesheet" type="text/css" href="build/mirador/css/mirador-combined.css">
   <script src="build/mirador/mirador.min.js"></script>
