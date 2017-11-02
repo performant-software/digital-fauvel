@@ -1,0 +1,1968 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/20r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "20r-fr-2201",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2201-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Fauvel, laisse tomber ton étrille",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1165,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2202",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2202-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et écoute-moi, car je suis la fille",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1267,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2203",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2203-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du roi qui, sans qu'il ait eu de commencement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1369,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2204",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2204-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Règne et vit éternellement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1471,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2205",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2205-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que l'Écriture appelle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1573,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2206",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2206-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le géant à la double nature",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1675,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2207",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2207-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car, après qu'il eut mis en ordre l'univers,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1777,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2208",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2208-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il voulut être une créature simplement terrestre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1879,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2209",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2209-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Engendré, sans semence de père,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,1981,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2210",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2210-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et naître d'une mère, sans l'intervention d'un homme:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2083,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2211",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2211-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le géant qui par sa force",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2185,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2212",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2212-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Triompha de la mort sur le bois sans écorce ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2287,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2213",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2213-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ce géant qui m'a engendrée.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2389,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2214",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2214-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce que mon père est fort, je suis appelée « Forte » :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2491,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2215",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2215-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis « Fortune », à la fois « une » et « forte »,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2593,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2216",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2216-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais je me comporte différemment",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2695,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2217",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2217-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et, de fait, ma façon d'être est double :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2797,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2218",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2218-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aux uns je me montre belle et aux autres trouble.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,2899,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2219",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2219-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis la fille du roi des rois",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3001,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2220",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2220-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui m'a confié l'univers et tous ses troubles",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3103,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2221",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2221-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien que je règle toute chose",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3205,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2222",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2222-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la manière qui plaît à mon père,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3307,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2223",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2223-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car mon père, j'ose bien le dire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3409,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2224",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2224-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne fait rien sans raison.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3511,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2225",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2225-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fais attention, Fauvel, bête privée de sens,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3613,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2226",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2226-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai une sœur, un peu plus âgée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3715,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2227",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2227-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui s'appelle Sagesse :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3817,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2228",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2228-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle porte la bannière",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,3919,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2229",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2229-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur laquelle les Verus sont représentées.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4021,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2230",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2230-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ce qui a existé, grand ou petit,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4123,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2231",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2231-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui existe et qui existera",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4225,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2232",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2232-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Peut se voir très clairement sur la bannière,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4327,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2233",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2233-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pas seulement dans son apparence superficielle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4429,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2234",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2234-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais dans la totalité de son essence,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4531,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2235",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2235-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chaque chose y étant figurée très nettement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4633,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2236",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2236-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selon l'image qui lui est propre.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4735,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2237",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2237-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celui qui se contemple en cette bannière",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4837,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2238",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2238-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Peut tout y découvrir et lire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,4939,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2239",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2239-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est avec Sagesse qu'il créa l'univers,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5041,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2240",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2240-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le roi qui possède en abondance tous les biens ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5143,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2241",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2241-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est alors qu'il organisa selon la mesure",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5245,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2242",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2242-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'univers et toute la nature :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5347,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2243",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2243-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À travers Sagesse il a tout examiné,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5449,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2244",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2244-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ce qu'il a créé et entrepris.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5551,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2245",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2245-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sagesse est ma sœur, née de mêmes père et mère:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5653,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2246",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2246-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle a créé l'univers, et moi je le gère",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5755,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2247",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2247-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selon les règles fixées par mon père.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5857,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2248",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2248-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le cercle de l'univers et les sphères,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=304,5959,1197,102"
+    },
+    
+    {
+      "@id": "20r-fr-2249",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2249-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je les fais tourner en permanence, sans arrêt :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,703,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2250",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2250-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je fais arriver le soir et le jour;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,806,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2251",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2251-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toutes les choses qui sont en mouvement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,909,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2252",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2252-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont soumises à mon gouvernement.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1012,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2253",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2253-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu te montreras sage si tu comprends ce que je dis :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1115,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2254",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2254-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le pouvoir m'est confié jusqu'au temps",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1218,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2255",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2255-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Où tous les mouvements arriveront à leur terme ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1321,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2256",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2256-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est par moi qu'ils commencent et s'arrêtent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1424,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2257",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2257-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le temps n'étant rien d'autre que la mesure",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1527,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2258",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2258-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tous les mouvements de Nature.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1630,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2259",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2259-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainsi tu peux constater que mon père",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1733,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2260",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2260-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A voulu me confier la responsabilité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1836,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2261",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2261-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De toutes les choses qui sont en mouvement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,1939,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2262",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2262-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien que je me trouve être leur maîtresse ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2042,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2263",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2263-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est pourquoi il est en mon pouvoir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2145,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2264",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2264-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'univers qui tourne en permanence.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2248,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2265",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2265-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est moi qui suis maîtresse du temps,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2351,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2266",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2266-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par lequel je donne la mesure à tout le cours de l'univers.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2454,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2267",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2267-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Amble ou galop, il n'est jamais assez rapide",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2557,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2268",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2268-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour que je n'arrive à lui appliquer la mesure du temps",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2660,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2269",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2269-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce auquel je règle immédiatement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2763,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2270",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2270-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le présent, au moment même où il passe,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2866,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2271",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2271-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Même si l'instant présent est si ténu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,2969,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2272",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2272-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne peut pas être retenu.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3072,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2273",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2273-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais cette charge que j'ai évoquée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3175,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2274",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2274-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se terminera quand le mouvement s'arrêtera,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3278,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2275",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2275-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car l'univers entier cessera d'exister",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3381,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2276",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2276-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussitôt que son mouvement finira.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3484,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2277",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2277-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais aussi longtemps que dure l'univers,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3587,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2278",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2278-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il me faut assumer le soin",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3690,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2279",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2279-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De le gouverner et de le diriger :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3793,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2280",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2280-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi je peux venir en aide ou nuire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3896,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2281",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2281-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selon le tour que j'ai à accomplir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,3999,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2282",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2282-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En distribuant la joie et le malheur.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,4102,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2283",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2283-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et parce que c'est ainsi que je change,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,4205,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2284",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2284-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je précipite souvent l'orgueil à terre,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,4308,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2285",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2285-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien que je donne de l'espérance aux misérables",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,4411,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2286",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2286-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et un grand réconfort face à leur sort.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,4514,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2287",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2287-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour mieux résumer mon sujet",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,4617,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2288",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2288-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vais désormais te donner mes noms.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=1585,4720,1197,103"
+    },
+    
+    {
+      "@id": "20r-fr-2289",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2289-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Prête l'oreille, animal en qui tout mal repose!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,693,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2290",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2290-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, ce n'est pas autre chose",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,796,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2291",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2291-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la Providence divine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,899,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2292",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2292-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui dispose, mesure et délimite",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1002,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2293",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2293-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par la régulation de la droite raison",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1105,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2294",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2294-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'univers et tout son cours.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1208,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2295",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2295-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Écoute, toi, bête de fâcheuse réputation !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1311,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2296",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2296-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai au moins une quadruple dénomination :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1414,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2297",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2297-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon nom exact, c'est Providence",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1517,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2298",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2298-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui m'est attribué pour le motif",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1620,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2299",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2299-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'ai le pouvoir de tout prévoir longtemps à l'avance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1723,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2300",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2300-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selon la manière dont cela doit arriver.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1826,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2301",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2301-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai toujours pleinement anticipé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,1929,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2302",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2302-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon tour, avant qu'il ne soit initié :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2032,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2303",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2303-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sans que rien soit négligé ou ignoré,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2135,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2304",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2304-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout dépend de ma prévoyance.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2238,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2305",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2305-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon deuxième nom, c'est Destinée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2341,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2306",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2306-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'on appelle d'autres fois Fate,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2444,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2307",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2307-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qui veut dire au sens propre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2547,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2308",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2308-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "\"Préposée au mouvement\",",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2650,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2309",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2309-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien que, dans la mesure où je me consacre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2753,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2310",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2310-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À faire tourner ma fameuse roue",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2856,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2311",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2311-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que je suis préposée à cet office,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,2959,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2312",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2312-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je mérite le nom de Destinée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3062,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2313",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2313-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce que je suis déléguée souveraine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3165,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2314",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2314-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est pourquoi, aussi, je porte le nom de Fate",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3268,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2315",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2315-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car c'est par moi que sont déclarées et prononcées",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3371,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2316",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2316-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les secrètes prescriptions de Dieu.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3474,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2317",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2317-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon troisième nom est Hasard de l'aventure,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3577,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2318",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2318-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui survient fréquemment, pénible ou dure",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3680,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2319",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2319-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par le concours de circonstances ignorées",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3783,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2320",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2320-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jusqu'au moment où elles se sont produites;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3886,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2321",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2321-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le quatrième nom qu'on m'applique est Fortune,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,3989,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2322",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2322-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car je suis puissante et que je sais me battre,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4092,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2323",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2323-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle sorte que je renverse, à l'intérieur de mes lices,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4195,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2324",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2324-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les riches, les pauvres, les sages et les sots.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4298,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2325",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2325-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par ce qui vient d'être dit, nous t'expliquons",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4401,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2326",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2326-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comment Fortune a quatre noms,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4504,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2327",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2327-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Semblable à une demoiselle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4607,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2328",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2328-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jetant du haut d'une tourelle élevée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4710,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2329",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2329-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une masse de galets avec des pommes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4813,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2330",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2330-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur plusieurs passants, femmes et hommes,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,4916,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2331",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2331-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que la demoiselle connût",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5019,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2332",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2332-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La façon dont les projectiles devaient tomber :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5122,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2333",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2333-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par sa connaissance de la trajectoire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5225,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2334",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2334-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On lui donnerait le nom de Providence :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5328,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2335",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2335-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par le fait même qu'elle lancerait les projectiles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5431,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2336",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2336-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son nom serait Destinée ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5534,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2337",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2337-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et du fait que les uns seraient blessés",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5637,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2338",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2338-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par les galets qui leur tomberaient dessus,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5740,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2339",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2339-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que les autres recevraient les pommes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5843,1249,103"
+    },
+    
+    {
+      "@id": "20r-fr-2340",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "20r-fr-2340-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne subiraient aucun mal,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/20r#xywh=2877,5946,1249,103"
+    }
+    
+  ]
+}

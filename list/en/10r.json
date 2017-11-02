@@ -1,0 +1,1324 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/10r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "10r-en-1159",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1159-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through Fauvel, that evil beast,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,766,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1160",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1160-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through whom comes every storm,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,875,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1161",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1161-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since he perverts the world in this way,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,984,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1162",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1162-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everywhere, without measure or limit,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1093,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1163",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1163-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And since every creature",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1202,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1164",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1164-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Has left behind its proper nature,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1311,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1165",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1165-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And taken on the opposite, as I have",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1420,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1166",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1166-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Summarized above,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1529,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1167",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1167-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—For I would spend too long",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1638,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1168",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1168-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If I described everything in detail.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1747,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1169",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1169-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I conclude, according to reason,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1856,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1170",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1170-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That we are near the moment",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,1965,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1171",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1171-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "At which the world must end,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2074,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1172",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1172-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For all forms of evil are abundant.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2183,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1173",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1173-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The prophecy tells us",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2292,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1174",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1174-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That when faith will be absent from the world,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2401,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1175",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1175-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then will come",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2510,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1176",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1176-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The son of God, in the Last Judgment;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2619,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1177",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1177-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And I see faith die",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2728,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1178",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1178-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—It may never come again.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2837,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1179",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1179-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If there is a little faith, it is expiring,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,2946,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1180",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1180-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For faith without deeds is not strong.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3055,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1181",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1181-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, I think the Antichrist has come,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3164,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1182",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1182-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because Cupid reigns, as well as Venus,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3273,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1183",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1183-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everywhere, among the great and the small,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3382,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1184",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1184-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And I do not know any woman or man,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3491,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1185",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1185-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who could not truly say",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3600,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1186",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1186-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That the more one lives in this world, the worse it becomes.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3709,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1187",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1187-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This Fauvel does, the lunatic,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3818,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1188",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1188-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who so often follows",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,3927,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1189",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1189-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The advice of Maugis and Basin:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4036,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1190",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1190-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He leads everything according to antiphrasis,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4145,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1191",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1191-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which is to say, through contraries.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4254,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1192",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1192-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone should maintain a safe distance,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4363,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1193",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1193-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For in him and in his face,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4472,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1194",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1194-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "We see depicted and represented",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4581,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1195",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1195-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everything that is false and all flattery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4690,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1196",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1196-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And generalized idolatry.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4799,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1197",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1197-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone today follows the school",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,4908,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1198",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1198-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of catering to Fauvel, the idol.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5017,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1199",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1199-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One shows such reverence",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5126,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1200",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1200-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To everyone who has obtained excellence,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5235,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1201",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1201-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In position, wealth or power,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5344,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1202",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1202-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I dare to say, for this reason,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5453,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1203",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1203-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That the honor that is due to God",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5562,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1204",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1204-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is not paid to him today.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5671,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1205",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1205-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One exerts greater efforts today",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5780,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1206",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1206-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In serving human creatures",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5889,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1207",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1207-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And in having worldly wealth,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,5998,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1208",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1208-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than in serving he whose generosity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=315,6107,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1209",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1209-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Includes everything that is eternal.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1491,724,1123,113"
+    },
+    
+    {
+      "@id": "10r-en-1210",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1210-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "By God, this is completely unreasonable!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1491,837,1123,113"
+    },
+    
+    {
+      "@id": "10r-en-1211",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1211-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "O, spiritual unicorn,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1491,950,1123,113"
+    },
+    
+    {
+      "@id": "10r-en-1212",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1212-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You who are clearer than crystal,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1491,1063,1123,113"
+    },
+    
+    {
+      "@id": "10r-en-1213",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1213-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Descend and spread your grace!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1543,2520,1029,110"
+    },
+    
+    {
+      "@id": "10r-en-1214",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1214-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do not suffer that Fauvel have",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1543,2630,1029,110"
+    },
+    
+    {
+      "@id": "10r-en-1215",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1215-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "His bears dance in this world!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1543,2740,1029,110"
+    },
+    
+    {
+      "@id": "10r-en-1216",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1216-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There are too many of his arrows.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1543,2850,1029,110"
+    },
+    
+    {
+      "@id": "10r-en-1217",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1217-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Banish Fauvel from France;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1543,2960,1029,110"
+    },
+    
+    {
+      "@id": "10r-en-1218",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1218-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has damaged it too much through his whinnying.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=1543,3070,1029,110"
+    },
+    
+    {
+      "@id": "10r-en-1219",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1219-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Here, I want to stop,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,2488,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1220",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1220-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But I pray to all devoutly:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,2597,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1221",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1221-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If I have trimmed Fauvel too closely",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,2706,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1222",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1222-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And cut him too close to the [?],",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,2815,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1223",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1223-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If I have spoken stupidly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,2924,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1224",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1224-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or superfluously,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3033,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1225",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1225-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In any manner at all,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3142,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1226",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1226-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "By God, may I be pardoned this!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3251,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1227",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1227-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God, who is the truth, the path and the life",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3360,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1228",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1228-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Knows that it is not through envy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3469,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1229",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1229-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or through ill intention that I treat this subject,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3578,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1230",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1230-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But so that the deceitful",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3687,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1231",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1231-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel can be truly described",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3796,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1232",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1232-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So plainly and so clearly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,3905,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1233",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1233-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That the false flatterers will be despised",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4014,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1234",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1234-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And, from now on, in all countries,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4123,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1235",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1235-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Truth be restored,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4232,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1236",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1236-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God and the Holy Church loved.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4341,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1237",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1237-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He whom I implore, before I fall silent,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4450,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1238",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1238-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May this little book, which was made completely",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4559,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1239",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1239-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the year 1310,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4668,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1240",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1240-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Please him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4777,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1241",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1241-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Under the reign of the kind lion,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4886,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1242",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1242-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whose manner was more benevolent",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,4995,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1243",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1243-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than was necessary,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5104,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1244",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1244-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—This was because of the great honesty",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5213,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1245",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1245-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That always reigned in him—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5322,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1246",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1246-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Certainly, I believe that he now holds",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5431,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1247",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1247-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The kingdom of paradise.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5540,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1248",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1248-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This was Philip, the son",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5649,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1249",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1249-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the brave and good king Philip",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5758,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1250",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1250-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who left behind the barrels in Aragon;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5867,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1251",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1251-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This one was the son of Saint Louis.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,5976,1123,109"
+    },
+    
+    {
+      "@id": "10r-en-1252",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10r-en-1252-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have completed finished my dit,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10r#xywh=2835,6085,1123,109"
+    }
+    
+  ]
+}

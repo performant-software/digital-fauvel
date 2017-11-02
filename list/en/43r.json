@@ -1,0 +1,456 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/43r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "43r-en-5839",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5839-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lord God, spiritual father,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,1984,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5840",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5840-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Omnipotent, wise and true,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2086,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5841",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5841-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who abides in the holy Trinity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2188,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5842",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5842-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In one selfsame divinity,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2290,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5843",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5843-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who made the earth from nothing,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2392,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5844",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5844-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sea and sky and whatever it encompasses,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2494,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5845",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5845-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who made man in your image",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2596,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5846",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5846-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And gave him sense and power",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2698,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5847",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5847-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To obtain perfect joy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2800,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5848",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5848-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the law that you gave him,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,2902,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5849",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5849-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If he wants to observe it loyally,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3004,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5850",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5850-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lord who generously rewards",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3106,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5851",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5851-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each person according to his merits,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3208,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5852",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5852-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whether to his gain or loss,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3310,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5853",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5853-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who so loved the human race",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3412,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5854",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5854-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you freed it from slavery",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3514,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5855",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5855-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the enemy and the death",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3616,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5856",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5856-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of hell, which has put many to death,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3718,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5857",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5857-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From your sovereign throne,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3820,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5858",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5858-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You sent your son, your own wisdom,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,3922,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5859",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5859-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who with you is one essence,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4024,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5860",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5860-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the Holy Spirit,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4126,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5861",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5861-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As Scripture explains,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4228,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5862",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5862-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through which our sins are lightened,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4330,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5863",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5863-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And made his divinity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4432,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5864",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5864-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dress itself in our humanity,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4534,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5865",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5865-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through the Virgin, ineffably,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4636,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5866",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5866-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without the pure Virgin",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4738,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5867",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5867-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sustaining any corruption",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4840,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5868",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5868-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the body, soul or thought.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,4942,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5869",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5869-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From her was he born in Bethlehem.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,5044,1229,102"
+    },
+    
+    {
+      "@id": "43r-en-5870",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43r-en-5870-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There was God joined to man",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43r#xywh=1543,5146,1229,102"
+    }
+    
+  ]
+}

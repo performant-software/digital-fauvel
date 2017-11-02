@@ -1,0 +1,260 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/29r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "29r-fr-4048",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4048-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Arrière, perfide Satan,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,577,1229,115"
+    },
+    
+    {
+      "@id": "29r-fr-4049",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4049-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Éloigne-toi de moi, va-t'en!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,692,1229,115"
+    },
+    
+    {
+      "@id": "29r-fr-4050",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4050-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Pense, Fauvel, infortuné que tu es,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=1071,3643,546,205"
+    },
+    
+    {
+      "@id": "29r-fr-4051",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4051-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la fin, avec un cœur rempli de douleur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=1071,3848,546,205"
+    },
+    
+    {
+      "@id": "29r-fr-4052",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4052-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et considère que la forme visible du monde",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4042,1166,103"
+    },
+    
+    {
+      "@id": "29r-fr-4053",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4053-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en va subitement et tombe en pourriture!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4145,1166,103"
+    },
+    
+    {
+      "@id": "29r-fr-4054",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4054-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jamais l'amour que tu as pour toi-même, si grand füt-il,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4248,1166,103"
+    },
+    
+    {
+      "@id": "29r-fr-4055",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4055-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne m'empêchera de te faire périr",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4351,1166,103"
+    },
+    
+    {
+      "@id": "29r-fr-4056",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4056-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En même temps que tous les tiens, chacun à son tour :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4454,1166,103"
+    },
+    
+    {
+      "@id": "29r-fr-4057",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4057-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous avez trop bu à grandes lampées !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4557,1166,103"
+    },
+    
+    {
+      "@id": "29r-fr-4058",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4058-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "«Tu es, là, dans l'opulence, si bien que tu as envie de regimber;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,3811,1271,105"
+    },
+    
+    {
+      "@id": "29r-fr-4059",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4059-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu as fait cribler ton avoine :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,3916,1271,105"
+    },
+    
+    {
+      "@id": "29r-fr-4060",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4060-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu ne reconnais pas ton seigneur et maître,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4021,1271,105"
+    },
+    
+    {
+      "@id": "29r-fr-4061",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4061-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les dommages que tu subiras n'en seront que pires !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4126,1271,105"
+    },
+    
+    {
+      "@id": "29r-fr-4062",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4062-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne redoutes-tu pas qu'il considère",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4231,1271,105"
+    },
+    
+    {
+      "@id": "29r-fr-4063",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4063-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En fin de compte les actions que tu as accomplies",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4336,1271,105"
+    },
+    
+    {
+      "@id": "29r-fr-4064",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4064-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans le passé, et que tu reçoives, à gain ou à perte,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4441,1271,105"
+    },
+    
+    {
+      "@id": "29r-fr-4065",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fr-4065-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La récompense que tu mérites ? »",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4546,1271,105"
+    }
+    
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/42r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "42r-fro-5763",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5763-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "[E]ncore y a greignour merveille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,756,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5764",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5764-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui me met la puce en l'oreille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,858,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5765",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5765-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et me fait penser trop souvent :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,960,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5766",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5766-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est que Heresie a en couvent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1062,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5767",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5767-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Fauvel d'esloingner sa vie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1164,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5768",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5768-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A sa fame et a sa lignie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1266,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5769",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5769-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par la fontainne de jouvent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1368,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5770",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5770-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La veult que il et son couvent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1470,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5771",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5771-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se baingnent pour rejouvenir !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1572,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5772",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5772-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La ne se faingnent de venir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1674,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5773",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5773-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vielarz plus que Matursalé",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1776,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5774",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5774-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne fu ; la sont tretuit alé",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1878,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5775",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5775-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Li nonpuissant et li contret :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1980,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5776",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5776-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ancien fait la son tret",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2082,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5777",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5777-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et a jennesce venir cuide",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2184,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5778",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5778-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La fause gent de tout bien vuide,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2286,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5779",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5779-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'ordure et pechiez aournee.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2388,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5780",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5780-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celi fons gete une buee",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2490,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5781",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5781-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la quelle chascun sa face",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2592,1312,102"
+    },
+    
+    {
+      "@id": "42r-fro-5782",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-fro-5782-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nestoie et sa viellesce efface.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2694,1312,102"
+    }
+    
+  ]
+}

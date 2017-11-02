@@ -1,0 +1,1296 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/16v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "16v-fro-1932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nepourquant dedens sont couvertes",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,693,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Petites esmeraudes vertes",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,795,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sont com grain de sel menues",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,897,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'el ne soient aperceües",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,999,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fors que des pouvres qui la portent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1101,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui leurs desconfors en confortent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1203,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "lees deus couronnes tenoit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1305,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune a qui moult avenoit.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1407,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes trop avoit hideus visage :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1509,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne sai privé ne sauvage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1611,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui l'ait itel comme Fortune !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1713,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'une face ot oscure et brune",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1815,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et a regarder trop hideuse,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1917,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et l'autre bele et gracieuse,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2019,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tendre, blanche, clere et rouvente.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2121,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne semble pas fame dolente",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2223,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant l'en la voit de celle part,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2325,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes de l'autre semble lyepart,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2427,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tourment plaine, fele et fiere,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2529,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Desirante que touz jours fiere.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2631,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un des eulz a rouge et ardant,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2733,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fel et horrible en regardant",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2835,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et siet en la face senestre ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2937,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais ver et riant a l'ueil destre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3039,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que souspris et deceüz",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3141,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1957",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1957-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En sont ceus qui en sont veüz.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3243,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1958",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1958-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vestu avoit robe partie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3345,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1959",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1959-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, dont l'une partie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3447,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1960",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1960-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fut de samit, non pas de lange,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3549,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1961",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1961-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si qu'em pluseurs couleurs se change ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3651,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1962",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1962-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'autre part fu d'une vtez sarge",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3753,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1963",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1963-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont Fortune est courtoise et large",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3855,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1964",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1964-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car gerons et pans en depart",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3957,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1965",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1965-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A quiconquez va cele part.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4059,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1966",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1966-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Deus roes out devant Fortune",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4161,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1967",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1967-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui touz jours tournient, mes l'une",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4263,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1968",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1968-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Va tost et l'autre belement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4365,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1969",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1969-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en chascune vraiement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4467,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1970",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1970-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A une mendre roe mise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4569,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1971",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1971-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout par dedens et en tel guise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4671,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1972",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1972-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que mouvement contraire tient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4773,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1973",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1973-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Contre la roe ou el se tient.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4875,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1974",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1974-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "lees roes sanz sejourner",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4977,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1975",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1975-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Font l'estat du monde tomer :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5079,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1976",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1976-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A ce gieu Fortune s'esbat.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5181,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1977",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1977-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les uns blandist, les autres bat,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5283,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1978",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1978-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car a chascun tour qu'elle fait",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5385,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1979",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1979-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aucuns destruit, aucuns refait ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5487,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1980",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1980-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A aucuns baille sa coronne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5589,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1981",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1981-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis la toust et puis la redonne,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5691,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1982",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1982-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis la bonne et puis la mauvese :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5793,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1983",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1983-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainsi depart joie et mesese",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5895,1260,102"
+    },
+    
+    {
+      "@id": "16v-fro-1984",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1984-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que nulz homs ne puet savoir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,714,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1985",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1985-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Combien mal ou bien puisse avoir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,817,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1986",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1986-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car Fortune a tantost venté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,920,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1987",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1987-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De toutes pars sa volenté.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1023,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1988",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1988-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A ses piez seoit Vainne Gloire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1126,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1989",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1989-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui metoit du tout sa memoire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1229,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1990",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1990-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En soi cointement atirer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1332,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1991",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1991-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ceus bien faire en soi mirer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1435,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1992",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1992-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui des roes montent le mont ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1538,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1993",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1993-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par son noble atour les semont",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1641,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1994",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1994-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A li si entendre et veoir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1744,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1995",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1995-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne pensent point a cheoir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1847,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1996",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1996-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selon le tour que font les roes",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1950,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1997",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1997-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant Fortune y gete les poes.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,2053,1218,103"
+    },
+    
+    {
+      "@id": "16v-fro-1998",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1998-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEn cest estat estoit Fortune",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3402,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-1999",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-1999-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant Fauvel avec sa conmune",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3506,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2000",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2000-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Macrocosme s'arriva.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3610,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2001",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2001-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune y sot, tantost i va,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3714,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2002",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2002-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quant il vit sa majesté,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3818,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2003",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2003-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un pou de loing s'est arresté :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3922,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2004",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2004-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il out paour n'est pas merveille !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4026,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2005",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2005-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nepourquant moult bien s'apareille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4130,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2006",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2006-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De parler aviseement,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4234,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2007",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2007-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Agenouillié moult humblement.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4338,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2008",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2008-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Com celui qui bien scet sa game,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4442,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2009",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2009-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Salue Fortune la dame",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4546,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2010",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2010-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et a lors sa besoingne emprise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4650,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2011",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2011-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A parler tout en ceste guise :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4754,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2012",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2012-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ma dame, celi haut seigneur",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4858,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2013",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2013-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'a ne parëil ne greigneur",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4962,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2014",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2014-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous doint longue'vie et leesce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5066,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2015",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2015-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et maintiengne en vostre hautesce !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5170,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2016",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2016-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le grant desir qu'avoir devoie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5274,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2017",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2017-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vous veoir m'a mis a voie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5378,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2018",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2018-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et donné cuer de ci venir ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5482,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2019",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2019-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne m'en povaie plus tenir !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5586,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2020",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2020-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tenu fusse a fouis et a lent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5690,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2021",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2021-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se je n'eüsse grant talent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5794,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2022",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2022-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vous veoir, ma chere dame",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5898,1260,104"
+    },
+    
+    {
+      "@id": "16v-fro-2023",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fro-2023-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A qui je doins ci cors et ame.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,6002,1260,104"
+    }
+    
+  ]
+}

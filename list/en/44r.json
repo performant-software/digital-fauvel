@@ -1,0 +1,568 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/44r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "44r-en-5923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who came to be their host",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,745,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Effaced and took away the shadows",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,846,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And illuminates all obscurity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,947,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through the rays of his pure light.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1048,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He was the host, literally,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1149,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He who wanted to take away  rather than put things there.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1250,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With him, hell has a very bad host",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1351,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he took away all of its people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1452,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And brought them straight onto the path",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1553,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Towards his paradise, full of joy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1654,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Where they will live forever in happiness",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1755,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without suffering or sadness.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1856,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Good, sweet father, full of pity,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1957,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who so loved virginity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2058,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That the very holy Virgin,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2159,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When you were suspended on the high cross,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2260,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Where you suffered a cruel death,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2361,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You commanded John, the virgin apostle,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2462,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To protect her as your spouse.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2563,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since this is our belief",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2664,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And because it is true, seek vengeance on our behalf",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2765,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On Fauvel, who leads the whole of the fruit of France",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2866,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To perdition.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2967,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If you do not deliver a remedy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3068,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because of him, all will return",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3169,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To hell! Oh, God, from this event",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3270,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Deign to protect and defend us.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3371,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without delay, make Fauvel and his whole family",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3472,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Descend there,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3573,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he drinks and devours the blood",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3674,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From your wound, which you redeemed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3775,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With your precious blood! Things",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3876,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are in your power and will be kept silent",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3977,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If he mocks you in this way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4078,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5957",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5957-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And if you do not defend your cause.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4179,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5958",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5958-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will maintain without pausing",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4280,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5959",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5959-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That if he remains unpunished in this way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4381,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5960",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5960-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And if you do not give him what he deserves,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4482,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5961",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5961-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You people will be astonished",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4583,1229,101"
+    },
+    
+    {
+      "@id": "44r-en-5962",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-en-5962-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all will go from bad to worse.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4684,1229,101"
+    }
+    
+  ]
+}

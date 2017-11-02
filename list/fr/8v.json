@@ -1,0 +1,652 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/8v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "8v-fr-911",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-911-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ne détestent rien autant que le cloître :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,777,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-912",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-912-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Peu nombreux sont ceux qui entrent en religion",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,884,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-913",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-913-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sans nourrir l'intention pleine et entière",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,991,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-914",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-914-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'avoir des charges et d'améliorer leur position.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1098,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-915",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-915-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand après avoir fait un bref séjour au cloître,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1205,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-916",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-916-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils se hâtent de retourner dans le siècle,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1312,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-917",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-917-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils sont hors de toute raison et ne sont plus liés par leurs vœux :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1419,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-918",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-918-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ne craignent ni le blâme ni la honte,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1526,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-919",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-919-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne tiennent absolument pas compte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1633,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-920",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-920-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce qu'ils sont consacrés à Jésus-Christ.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1740,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-921",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-921-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des moines ils portent l'habit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1847,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-922",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-922-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais il y a peu de vertu qui habite",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1954,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aujourd'hui sous le froc et sous la robe !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2061,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par des gens de cette sorte Dieu est bien tourné en dérision :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2168,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le seigneur Fauvel qui est leur abbé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2275,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui très souvent leur sert de prédicateur.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2382,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La bête fauve a fait tant et si bien",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2489,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les ordres - Dieu me donne le salut éternel !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2596,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont presque tous en plein désordre :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2703,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On voit bien que Fauvel est un mauvais chef;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2810,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a mené à la catastrophe un ordre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2917,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui était parmi les plus honorés.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3024,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle a tant et si bien fait la bête cruelle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3131,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que notre mère la sainte Église",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3238,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en plaint amèrement et se lamente :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3345,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La tricherie des Templiers, bien avérée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3452,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui les a conduits à la mort, à leur perte,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3559,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En a fait une mère triste et affligée.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3666,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette affaire la fait soupirer et gémir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3773,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si fort qu'elle doit en faire frémir tout homme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3880,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est un véritable fils la sainte Église.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3987,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les Templiers l'ont plongée dans la tristesse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4094,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle s'en lamente, au fond du désespoir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4201,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et se plaint en ces termes :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4308,1239,107"
+    },
+    
+    {
+      "@id": "8v-fr-945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas, quelle infortune,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5680,1197,115"
+    },
+    
+    {
+      "@id": "8v-fr-946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelle catastrophe et quelle cruelle destinée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5795,1197,115"
+    },
+    
+    {
+      "@id": "8v-fr-947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De voir que mes enfants m'ont délaissée !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5910,1197,115"
+    },
+    
+    {
+      "@id": "8v-fr-948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les Templiers que j'aimais tant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6025,1197,115"
+    },
+    
+    {
+      "@id": "8v-fr-949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui m'avaient témoigné tant d'honneur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6140,1197,115"
+    },
+    
+    {
+      "@id": "8v-fr-950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "M'ont fait subir outrage et vilenie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6255,1197,115"
+    },
+    
+    {
+      "@id": "8v-fr-951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Je les ai nourris et allaités",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5712,1050,115"
+    },
+    
+    {
+      "@id": "8v-fr-952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dressés dans la limite de mes possibilités",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5827,1050,115"
+    },
+    
+    {
+      "@id": "8v-fr-953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour défendre la Terre sainte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5942,1050,115"
+    },
+    
+    {
+      "@id": "8v-fr-954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Contre les infidèles Sarrasins,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6057,1050,115"
+    },
+    
+    {
+      "@id": "8v-fr-955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais je vois que maintenant ils sont à ce point dévoyés",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6172,1050,115"
+    },
+    
+    {
+      "@id": "8v-fr-956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fr-956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils ont entrepris de faire la guerre à Jésus-Christ!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6287,1050,115"
+    }
+    
+  ]
+}

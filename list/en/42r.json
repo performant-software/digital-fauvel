@@ -1,0 +1,288 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/42r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "42r-en-5763",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5763-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is an even greater marvel",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,756,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5764",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5764-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That makes me think",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,858,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5765",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5765-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And reflect very often:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,960,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5766",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5766-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is that Heresy has promised",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1062,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5767",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5767-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel to prolong his life",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1164,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5768",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5768-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And that of his wife and his lineage",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1266,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5769",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5769-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through the fountain of youth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1368,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5770",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5770-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is where she wishes that he and his family",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1470,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5771",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5771-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Will bathe to rejuvenate themselves!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1572,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5772",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5772-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Old men, who are older than Mathusalem was,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1674,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5773",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5773-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do not hesitate to come there;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1776,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5774",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5774-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They went there all together,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1878,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5775",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5775-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The invalids and the paralyzed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,1980,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5776",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5776-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All of the old people come to drink in one gulp",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2082,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5777",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5777-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the false people, devoid of all goodness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2184,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5778",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5778-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Adorned with filth and sin,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2286,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5779",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5779-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Believe they return to youth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2388,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5780",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5780-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This fountain emits a vapor",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2490,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5781",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5781-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With which everyone cleans his face",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2592,1312,102"
+    },
+    
+    {
+      "@id": "42r-en-5782",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "42r-en-5782-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And which effaces old age.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/42r#xywh=3066,2694,1312,102"
+    }
+    
+  ]
+}

@@ -1,0 +1,1436 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/26r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "26r-fr-3472",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3472-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'homme dont Amour gouverne le cœur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,367,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3473",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3473-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Blessé et enflammé d'un ardent désir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,475,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3474",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3474-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En voyant que le sort lui est contraire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,583,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3475",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3475-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du côté de la dame à qui il fait le service d'amour,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,691,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3476",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3476-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Même s'il réussit, par un moyen quelconque,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,799,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3477",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3477-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A trouver en lui la consolation de ses tourments ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,907,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3478",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3478-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il y arrive, il faut s'émerveiller",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1015,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3479",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3479-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce qu'Amour soit capable de mettre en si mauvaise posture",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1123,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3480",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3480-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celui qu'il emprisonne dans ses liens :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1231,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3481",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3481-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ille fait dormir bien peu, et beaucoup veiller,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1339,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3482",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3482-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prendre peu de repos, et beaucoup de peine ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1447,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3483",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3483-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout son esprit est encerclé et étreint",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1555,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3484",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3484-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ensuite par le désir, qu'apporte l'amour.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1663,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3485",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3485-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il bouleverse le cœur d'une ardeur si vive",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1771,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3486",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3486-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par la pensée, qu'il se consume comme une mèche",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1879,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3487",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3487-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A force de désirer l'honneur suprême",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1987,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3488",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3488-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour l'acquisition duquel les amants ont bien de la peine :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2095,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3489",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3489-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le désir consume le cœur et dessèche le corps.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2203,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3490",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3490-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et lorsqu'un homme en arrive à ce point",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2311,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3491",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3491-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en permanencè son corps est dans la peine,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2419,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3492",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3492-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son cœur se consume. tout entier, son esprit est captif",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2527,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3493",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3493-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et il est frappé par les mauvais coups du sort !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2635,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3494",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3494-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'un homme dans cette situation ne peut manquer d'être hors de son sens,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2743,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3495",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3495-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si je l'affirme, je ne me trompe en rien.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2851,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3496",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3496-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est bien vrai qu'il peut, en douce espérance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2959,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3497",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3497-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trouver un soulagement de ses tourments,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3067,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3498",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3498-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'amant en qui il y a du cœur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3175,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3499",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3499-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais quand il se rend compte que le malheur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3283,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3500",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3500-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pèse plus lourd dans sa balance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3391,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3501",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3501-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne lui reste guère d'espoir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3499,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3502",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3502-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! moi qui vous débite ces paroles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3607,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3503",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3503-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis déchiré nuit et jour par un tel combat!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3715,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3504",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3504-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Amour ne me laisse aucun repos :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3823,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3505",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3505-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il emprisonne mon esprit, il fait souffrir mon corps ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3931,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3506",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3506-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le désir attise sans cesse à nouveau mon cœur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4039,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3507",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3507-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'une ardeur qui ne s'arrête pas en moi.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4147,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3508",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3508-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De pâtir tourments du corps, sans mentir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4255,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3509",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3509-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou de ressentir la brûlure du cœur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4363,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3510",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3510-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas! je n'oserais pas me plaindre à ce point,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4471,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3511",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3511-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si le sort voulait bien consentir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4579,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3512",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3512-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin de me protéger dans mes [souffrances],",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4687,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3513",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3513-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A ce qu'en moi l'espoir pût demeurer fort.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4795,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3514",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3514-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais quand je me vois à ce point infortuné",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4903,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3515",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3515-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je vois la chance s'élancer loin de moi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5011,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3516",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3516-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au moment où la brûlure d'amour",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5119,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3517",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3517-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vient si férocement attaquer mon cœur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5227,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3518",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3518-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est compréhensible qu'en moi tout bon espoir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5335,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3519",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3519-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Doit complètement disparaître, en vérité.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5443,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3520",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3520-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Assurément, il est bien évident que la chance me fuit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5551,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3521",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3521-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que je suis poursuivi par toutes les malchances",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5659,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3522",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3522-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque je me rends compte qu'à ma dame",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5767,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3523",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3523-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je chéris tant, il lui pèse et l'ennuie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5875,1333,108"
+    },
+    
+    {
+      "@id": "26r-fr-3524",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3524-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le tourment que subis pour elle jour et nuit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,556,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3525",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3525-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que sa mine ne me laisse espérer de secours.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,660,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3526",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3526-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est-il donc, dès lors, extraordinaire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,764,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3527",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3527-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si, en sentant que mon corps, mon cœur et mon esprit sont affligés",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,868,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3528",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3528-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par les souffrances que je sens venir de l'amour",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,972,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3529",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3529-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en ne voyant aucune.bienveillance du sort",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1076,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3530",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3530-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni de la part de celle qui n'a pas d'égale,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1180,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3531",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3531-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je veuille en finir, dans le désespoir?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1284,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3532",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3532-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il vaut mieux que je consente à ma fin",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1388,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3533",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3533-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plutôt que de subir en une continuelle langueur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1492,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3534",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3534-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sans le réconfort de l'espérance, le martyre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1596,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3535",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3535-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À quelqu'un qui s'attend à la mort avec certitude :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1700,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3536",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3536-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mieux vaut pour lui une mort rapide qu'une lente ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1804,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3537",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3537-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Entre deux maux, mieux vaut le moindre !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1908,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3538",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3538-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! mais si mon cœur se soumet à cette perspective,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2012,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3539",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3539-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La raison me blâme et me donne",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2116,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3540",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3540-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le conseil d'abandonner cette voie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2220,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3541",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3541-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il est trop méprisable, l'individu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2324,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3542",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3542-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui se livre à une mort si ignominieuse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2428,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3543",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3543-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui fourvoie son esprit en fin de compte.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2532,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3544",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3544-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon dieu, que faire ? Me voilà pris dans un dilemme !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2636,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3545",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3545-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par la raison je suis critiqué sans ménagements",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2740,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3546",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3546-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si le désespoir me fait aspirer à la mort ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2844,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3547",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3547-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'autre part, je suis accablé de douleur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2948,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3548",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3548-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au point de ne plus accorder beaucoup de valeur à ma vie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3052,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3549",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3549-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car je ne crois guère pouvoir m'attendre à la grâce.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3156,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3550",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3550-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne peux pas, vraiment, rester dans une telle situation!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3260,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3551",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3551-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que vais-je donc faire? C'est en me lamentant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3364,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3552",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3552-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur mes tourments que je veux, si possible, me distraire ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3468,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3553",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3553-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je dis pas par là que je vais les diminuer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3572,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3554",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3554-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ce résultat, je ne peux l'atteindre sans celle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3676,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3555",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3555-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui pourrait rapidement m'en réconforter.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3780,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3556",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3556-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Réconforter? Hélas ! j'ai vu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3884,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3557",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3557-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Depuis longtemps qu'elle s'en moquait",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3988,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3558",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3558-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et cela m'a donné la tentation du désespoir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4092,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3559",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3559-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car elle savait parfaitement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4196,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3560",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3560-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est vers elle que j'ai et que j'avais",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4300,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3561",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3561-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tourné mon cœur et ma volonté.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4404,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3562",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3562-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toutefois, quoi qu'il arrive,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4508,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3563",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3563-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Soit qu'elle prenne pitié de moi ou qu'elle s'en moque,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4612,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3564",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3564-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je veux, à celle que j'aime sans tricher",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4716,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3565",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3565-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Adresser ma complainte, sans faute :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4820,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3566",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3566-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Dieu m'accorde qu'elle serve à soulager",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4924,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3567",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3567-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les cruels tourments que je reçois en réponse.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5028,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3568",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3568-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et puisque les choses en sont arrivées là,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5132,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3569",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3569-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'en suis venu à me plaindre,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5236,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3570",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3570-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je consens à présenter ma complainte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5340,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3571",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3571-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par le biais de ce motet que j'ai retenu,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5444,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3572",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3572-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car je suis traité exactement de la même façon",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5548,1397,104"
+    },
+    
+    {
+      "@id": "26r-fr-3573",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fr-3573-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que celui qu'évoquent les accords de ce motet.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5652,1397,104"
+    }
+    
+  ]
+}

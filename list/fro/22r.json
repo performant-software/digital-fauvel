@@ -1,0 +1,92 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/22r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "22r-fro-2735",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-fro-2735-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ou puet estre que verité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,703,1019,103"
+    },
+    
+    {
+      "@id": "22r-fro-2736",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-fro-2736-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui se deult quant iniquité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,806,1019,103"
+    },
+    
+    {
+      "@id": "22r-fro-2737",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-fro-2737-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est essauciee et avant mise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,909,1019,103"
+    },
+    
+    {
+      "@id": "22r-fro-2738",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-fro-2738-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En fait parler en bonne guise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1012,1019,103"
+    },
+    
+    {
+      "@id": "22r-fro-2739",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-fro-2739-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et plaindre que tiex soit montez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1115,1019,103"
+    },
+    
+    {
+      "@id": "22r-fro-2740",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-fro-2740-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'a en soi nulles bontez,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1218,1019,103"
+    }
+    
+  ]
+}

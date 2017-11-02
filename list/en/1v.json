@@ -1,0 +1,484 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/1v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "1v-en-35",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-35-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You could see kings, dukes and counts",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,745,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-36",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-36-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "United to wipe down Fauvel.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,838,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-37",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-37-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All worldly lords and princes",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,931,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-38",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-38-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Come there from all provinces",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1024,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-39",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-39-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Along with great and minor knights",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1117,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-40",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-40-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who are well suited to rubbing him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1210,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-41",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-41-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Know that there is neither king nor count",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1303,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-42",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-42-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who feels shame in rubbing Fauvel.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1396,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-43",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-43-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Viscounts, officials and bailiffs",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1489,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-44",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-44-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Have not failed to rub him;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1582,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-45",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-45-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bourgeois from the villages and cities",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1675,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-46",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-46-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rub with great ingenuity,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1768,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-47",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-47-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And peasants from rural areas",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1861,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-48",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-48-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Stand next to Fauvel to feed him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1954,1134,93"
+    },
+    
+    {
+      "@id": "1v-en-49",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-49-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to a public consistory",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,2992,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-50",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-50-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel goes, a true animal,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3090,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-51",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-51-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And when the pope sees such an animal,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3188,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-52",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-52-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Know that he holds a great feast for him,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3286,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-53",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-53-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the cardinals honor him greatly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3384,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-54",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-54-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all rush to rub him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3482,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-55",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-55-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The vice chancellors, the notaries,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3580,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-56",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-56-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Auditors and record keepers",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3678,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-57",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-57-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Take great pains",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3776,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-58",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-58-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To rub Fauvel appropriately.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3874,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-59",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-59-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prelates do not spare [trips through] mountain or valley",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3972,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-60",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-60-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To rub this noble horse.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4070,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-61",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-61-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Abbots and religious people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4168,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-62",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-62-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Show him the utmost devotion.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4266,1166,98"
+    },
+    
+    {
+      "@id": "1v-en-63",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-63-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dominicans and Franciscans, where are you?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5470,1113,113"
+    },
+    
+    {
+      "@id": "1v-en-64",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-64-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This time, do not be stupid.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5583,1113,113"
+    },
+    
+    {
+      "@id": "1v-en-65",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-65-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather, make sure you study well",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5696,1113,113"
+    },
+    
+    {
+      "@id": "1v-en-66",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-66-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "How to caress Fauvel:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5809,1113,113"
+    },
+    
+    {
+      "@id": "1v-en-67",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-67-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is, in fact, what you do—God help me—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5922,1113,113"
+    },
+    
+    {
+      "@id": "1v-en-68",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-en-68-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And everyone is astonished by it.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,6035,1113,113"
+    }
+    
+  ]
+}

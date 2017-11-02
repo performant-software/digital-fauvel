@@ -1,0 +1,1352 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/3v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "3v-en-259",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-259-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel is not a reasonable animal",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,808,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-260",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-260-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He is all appearances and not stable;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,905,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-261",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-261-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Full of deception, empty of truth,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1002,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-262",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-262-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A figure made for deceiving people.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1099,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-263",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-263-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel is truly an animal",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1196,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-264",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-264-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For otherwise he could not have",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1293,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-265",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-265-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sovereignty over other animals.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1390,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-266",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-266-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One can know this through reason:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1487,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-267",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-267-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The king of men is a man,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1584,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-268",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-268-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The eagle is the king of the birds just as",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1681,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-269",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-269-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The lion is the king of animals.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1778,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-270",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-270-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Know, therefore, you who are present,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1875,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-271",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-271-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That Fauvel, this noble lord,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1972,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-272",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-272-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is the sovereign and greatest",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2069,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-273",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-273-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of all men who, like animals,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2166,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-274",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-274-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Put their hearts and heads in the world.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2263,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-275",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-275-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such men we should call animals,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2360,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-276",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-276-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of whom Fauvel is the king and lord.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2457,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-277",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-277-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He is the equal of a Templar heretic,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2554,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-278",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-278-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He who makes Fauvel his idol.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2651,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-279",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-279-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel is an animal, and he is an animal also",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2748,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-280",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-280-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever honors and celebrates him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2845,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-281",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-281-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now I want to tell you and prove",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2942,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-282",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-282-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Why Fauvel is devoid of reason:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3039,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-283",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-283-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He should stay supine in his stable",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3136,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-284",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-284-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But for no amount of money would he do this",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3233,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-285",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-285-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he does not want to stay in his place.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3330,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-286",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-286-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He does nothing but come and go.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3427,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-287",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-287-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to obtain a good manger.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3524,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-288",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-288-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He applies himself in order to please.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3621,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-289",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-289-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In trickery and falseness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3718,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-290",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-290-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has placed all of his intelligence.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3815,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-291",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-291-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has come and gone so much",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3912,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-292",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-292-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That he will never be held",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4009,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-293",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-293-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or stopped by a bit or a bridle.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4106,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-294",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-294-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He races everywhere and runs and gallops.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4203,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-295",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-295-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He follows Fortune without reason",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4300,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-296",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-296-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And thus he reigns in every season.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4397,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-297",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-297-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to lift himself up, he applies himself hard",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4494,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-298",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-298-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the instruction manual of flattery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4591,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-299",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-299-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that he can make the fake shine brightly,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4688,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-300",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-300-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Render truth silent and take away what is right.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4785,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-301",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-301-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "His definition, discussed above,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4882,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-302",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-302-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have given; may it be enough for you.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4979,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-303",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-303-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now I will discuss his manner,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5076,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-304",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-304-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In continuing with my material,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5173,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-305",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-305-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "How and why Fauvel, in an abundant way,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5270,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-306",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-306-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel transforms the world into his pasture",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5367,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-307",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-307-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And how both the great and the small",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5464,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-308",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-308-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are eager to rub him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5561,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-309",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-309-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God, the omnipotent king,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5658,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-310",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-310-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who knows all,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5755,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-311",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-311-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the beginning when he made",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5852,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-312",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-312-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The world, with glory,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5949,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-313",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-313-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He put each creature in its proper place",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,6046,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-314",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-314-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And gave it its own nature.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,6143,1260,97"
+    },
+    
+    {
+      "@id": "3v-en-315",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-315-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He ordered everything so wisely,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,756,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-316",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-316-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That no man can, unless he lies,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,852,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-317",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-317-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pretend that he has any fault—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,948,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-318",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-318-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For no one possesses such a degree of mastery.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1044,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-319",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-319-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But what he had ordained",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1140,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-320",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-320-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is so changed and poorly led",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1236,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-321",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-321-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it is necessary, according to reason,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1332,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-322",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-322-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That we be near the moment",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1428,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-323",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-323-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When the world will come to an end,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1524,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-324",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-324-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And God will make another world.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1620,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-325",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-325-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Reason makes a strong argument:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1716,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-326",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-326-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "First of all, since, without any instrument,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1812,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-327",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-327-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It pleased God to make the world",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1908,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-328",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-328-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And he wanted to depict out of clay",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2004,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-329",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-329-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mankind and mold him in his image.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2100,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-330",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-330-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To man he gave such an advantage,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2196,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-331",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-331-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That he made him the king of animals",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2292,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-332",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-332-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the greatest in nobility;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2388,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-333",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-333-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But now everything is all topsy-turvy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2484,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-334",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-334-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That which God had prepared,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2580,1155,96"
+    },
+    
+    {
+      "@id": "3v-en-335",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-335-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For men have turned into animals.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,3822,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-336",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-336-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They hold their heads close to the ground:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,3920,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-337",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-337-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nothing interests them except owning land,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4018,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-338",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-338-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They do not wish to know anything about God.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4116,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-339",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-339-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor do they ever look towards the sky",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4214,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-340",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-340-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For they burn in the fire of covetousness.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4312,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-341",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-341-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The operation demonstrates the argument that",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4410,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-342",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-342-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Form is shaped in the same way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4508,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-343",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-343-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As the work.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4606,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-344",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-344-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, I say certainly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4704,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-345",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-345-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That men have truly become animals",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4802,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-346",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-346-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When they live in the manner of animals.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4900,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-347",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-347-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And for this reason we can rightly say",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4998,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-348",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-348-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That Fauvel is the lord of the world",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5096,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-349",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-349-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he is honored everywhere",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5194,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-350",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-350-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And adored as a God on Earth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5292,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-351",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-351-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Reason has lost her sovereignty",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5390,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-352",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-352-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When we see bestiality",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5488,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-353",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-353-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Placed so high above men.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5586,1166,98"
+    },
+    
+    {
+      "@id": "3v-en-354",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-en-354-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And falsity breaking reason.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5684,1166,98"
+    }
+    
+  ]
+}

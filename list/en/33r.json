@@ -1,0 +1,1282 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/33r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "33r-en-4674",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4674-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Neither the wine nor the sweets",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=157,651,1029,99"
+    },
+    
+    {
+      "@id": "33r-en-4675",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4675-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Come to them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=157,750,1029,99"
+    },
+    
+    {
+      "@id": "33r-en-4676",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4676-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They do not care for any other spices",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=157,849,1029,99"
+    },
+    
+    {
+      "@id": "33r-en-4677",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4677-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Except for the abundant delights",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=157,948,1029,99"
+    },
+    
+    {
+      "@id": "33r-en-4678",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4678-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they had from thinking of God!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=157,1047,1029,99"
+    },
+    
+    {
+      "@id": "33r-en-4679",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4679-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "No one can reproach them for this.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=157,1146,1029,99"
+    },
+    
+    {
+      "@id": "33r-en-4680",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4680-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel was seated at the table.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,2478,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4681",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4681-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In front of him he had his commander,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,2580,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4682",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4682-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And was seated in the manner of an emperor.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,2682,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4683",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4683-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were men with weapons both in front and back",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,2784,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4684",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4684-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To protect this prince.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,2886,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4685",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4685-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One should burn him in hell!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,2988,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4686",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4686-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He was dressed in trickery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3090,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4687",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4687-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In a golden fabric and material from Slavic countries",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3192,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4688",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4688-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In a very noble way.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3294,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4689",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4689-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vainglory was also well dressed,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3396,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4690",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4690-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In an excessive manner;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3498,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4691",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4691-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She truly resembled a bride!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3600,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4692",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4692-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the others, who had to sit",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3702,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4693",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4693-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Very close them, were beautiful",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3804,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4694",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4694-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And adorned with such expensive jewels",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,3906,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4695",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4695-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That each one seems to be royalty.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4008,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4696",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4696-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the other people who stayed outside",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4110,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4697",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4697-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Behaved very courteously,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4212,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4698",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4698-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For they are people of great nobility.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4314,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4699",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4699-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each one makes merry and rejoices",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4416,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4700",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4700-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "According to his station.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4518,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4701",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4701-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The hour of Vespers approaches and arrives,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4620,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4702",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4702-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And it was time to remove the tables",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4722,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4703",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4703-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to play games.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4824,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4704",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4704-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The horns sound, both trumpets and bronze trumpets.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,4926,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4705",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4705-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Viols, bagpipes and chalumeaux,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5028,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4706",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4706-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Psalteries, flutes and lutes.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5130,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4707",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4707-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is no one who knew the art",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5232,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4708",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4708-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who did not play the minstrel.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5334,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4709",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4709-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were many great melodies.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5436,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4710",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4710-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was time to wash up, so people did,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5538,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4711",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4711-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And Fauvel’s people prepared",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5640,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4712",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4712-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And distributed good spices,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5742,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4713",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4713-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pleasing to all people.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=126,5844,1239,102"
+    },
+    
+    {
+      "@id": "33r-en-4714",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4714-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was ginger from Alexandria and India.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,598,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4715",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4715-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afterwards they had poured wine from",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,703,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4716",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4716-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Calabria for drinking.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,808,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4717",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4717-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The hour approached and had already",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,913,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4718",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4718-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Passed when they should have danced,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1018,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4719",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4719-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Played, caroled and amused themselves,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1123,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4720",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4720-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such that everyone, without taking the time to thank anyone,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1228,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4721",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4721-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Went off to participate in the carol,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1333,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4722",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4722-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Except for those who are strangers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1438,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4723",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4723-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who have their hearts with God and the angels.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1543,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4724",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4724-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "These ones behave nobly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1648,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4725",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4725-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And come and go at the party",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1753,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4726",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4726-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to clearly observe",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1858,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4727",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4727-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then go sit down again.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,1963,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4728",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4728-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But Fauvel, who secretly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2068,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4729",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4729-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Understood their intention,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2173,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4730",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4730-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Distributed a secret message instructing that,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2278,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4731",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4731-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On pain of death and seizure of goods, no one",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2383,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4732",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4732-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Should begin",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2488,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4733",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4733-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The joust without a signal",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2593,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4734",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4734-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From him or an explicit command—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2698,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4735",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4735-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May no one do anything else.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2803,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4736",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4736-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But he did not succeed in doing it",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,2908,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4737",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4737-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without the aforementioned ladies",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3013,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4738",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4738-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Realizing it; throughout the land,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3118,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4739",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4739-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Their people came to look for them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3223,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4740",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4740-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to see if any good people were there.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3328,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4741",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4741-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Towards these ones, they moved quickly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3433,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4742",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4742-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to say goodbye until the next day.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3538,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4743",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4743-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then they take each other by the hand",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3643,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4744",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4744-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And descended the steps of the palace,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3748,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4745",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4745-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With the intention of going to their inn.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3853,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4746",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4746-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "At the party, there was no one good",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,3958,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4747",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4747-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or anyone who did anything worth recounting,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4063,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4748",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4748-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who did not keep their company.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4168,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4749",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4749-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each one cries out in a loud voice:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4273,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4750",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4750-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "“Behold the renowned ladies!”",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4378,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4751",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4751-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They escorted them to their inn;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4483,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4752",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4752-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May whoever wishes it return to the party.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4588,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4753",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4753-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Night arrives, which erases the day.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4693,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4754",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4754-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It chases away the party-goers",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4798,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4755",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4755-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who see the night approach",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,4903,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4756",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4756-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And that it is time to go to bed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5008,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4757",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4757-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The wine arrives, and each one swallows",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5113,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4758",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4758-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As much as he wants, and then leaves.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5218,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4759",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4759-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "[Fauvel] wishes to choose the jousters by name",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5323,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4760",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4760-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that Virtue has the worst ones.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5428,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4761",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4761-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But much of what the fool wishes remains undone.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5533,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4762",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4762-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Their defense is in good hands.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5638,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4763",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4763-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He called all of his people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5743,1323,105"
+    },
+    
+    {
+      "@id": "33r-en-4764",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "33r-en-4764-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And instructed them to do his bidding.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/33r#xywh=2793,5848,1323,105"
+    }
+    
+  ]
+}

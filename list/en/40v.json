@@ -1,0 +1,456 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/40v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "40v-en-5531",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5531-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And of She for whom I sing,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,630,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5532",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5532-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This one does not delight in anything",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,738,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5533",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5533-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Except in the arrival of Gluttony, without delay.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,846,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5534",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5534-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She waits for her on her steed;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,954,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5535",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5535-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She does not seek anything else.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1062,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5536",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5536-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She declares that the joust",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1170,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5537",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5537-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Between the two of them is appropriate and reasonable.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1278,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5538",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5538-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Gluttony, with sable weapons,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1386,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5539",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5539-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Joins her line and takes up her lance",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1494,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5540",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5540-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then Abstinence advances.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1602,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5541",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5541-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Her horse rushes forward and the other as well.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1710,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5542",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5542-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They give each other such beautiful blows",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1818,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5543",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5543-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That, at the moment of impact, they are positioned",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1926,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5544",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5544-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that both of them break their lances.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,2034,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5545",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5545-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But Abstinence, in the last attack,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,2142,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5546",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5546-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hits Lady Gluttony",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,2250,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5547",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5547-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With her banner in such a way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,2358,1323,108"
+    },
+    
+    {
+      "@id": "40v-en-5548",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5548-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she becomes clumsy and does not take this as a joke,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,630,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5549",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5549-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Although she held herself on the steed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,755,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5550",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5550-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She returned to her line with a fierce desire",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,880,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5551",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5551-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To go to the third round.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1005,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5552",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5552-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Abstinence does not remain in place,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1130,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5553",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5553-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But rather rushes in a straight line",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1255,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5554",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5554-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Towards Gluttony, whomever this might irritate,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1380,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5555",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5555-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And strikes her in an exposed place",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1505,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5556",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5556-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that she opens her shoulder.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1630,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5557",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5557-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She fell to the ground in a faint.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1755,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5558",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5558-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel’s people picked her up",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1880,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5559",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5559-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And brought her back to their lodges.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,2005,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5560",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5560-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They would have wished to be in Limoges,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,2130,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5561",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5561-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Those who had dressed themselves in iron for Fauvel,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,2255,1312,125"
+    },
+    
+    {
+      "@id": "40v-en-5562",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-en-5562-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But it was too late to repent!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,2380,1312,125"
+    }
+    
+  ]
+}

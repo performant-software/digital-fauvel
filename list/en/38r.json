@@ -1,0 +1,1156 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/38r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "38r-en-5099",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5099-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A bright light shined down upon them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,1963,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5100",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5100-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which left each one surprised.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2072,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5101",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5101-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the light, a voice which spoke",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2181,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5102",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5102-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Words and explained to them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2290,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The ladies in question, their task,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2399,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But it made my heart ache",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2508,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5105",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5105-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I did not understand even though I heard.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2617,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5106",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5106-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then the pavilion disappeared.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2726,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5107",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5107-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Truly I tell you—it is not magic—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2835,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5108",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5108-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A piece of bread and a barrel of wine",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2944,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5109",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5109-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fell from the pavilion to where they were gathered.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3053,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5110",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5110-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Two of the maidens took them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3162,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5111",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5111-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And gave them to a young man",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3271,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5112",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5112-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And recommended each other to God.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3380,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5113",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5113-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The young man who held them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3489,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5114",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5114-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Behaved very nobly.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3598,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5115",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5115-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The bread was flesh and life,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3707,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5116",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5116-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The wine pure blood, without any deposits",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3816,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5117",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5117-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From this God who made Aaron’s rod",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3925,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5118",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5118-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bloom and wished to die",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,4034,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5119",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5119-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On the cross for us on a Friday.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,4143,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5120",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5120-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Listen well to what I say:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,4252,1333,109"
+    },
+    
+    {
+      "@id": "38r-en-5121",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5121-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The young man was Gabriel",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,430,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5122",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5122-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whom the Virgin, queen of the sky,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,553,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5123",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5123-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Had left to nourish them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,676,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5124",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5124-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With bread and wine of the celestial king.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,799,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5125",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5125-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The young man distributed the bread",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,922,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5126",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5126-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In such a way that it multiplied",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1045,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5127",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5127-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the ladies and all of their people.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1168,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5128",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5128-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For each one, afterwards, he poured",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1291,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5129",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5129-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A drop of wine and they drank it.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1414,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5130",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5130-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From this, all of them were full",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1537,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5131",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5131-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As if they had had a quantity of meat",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1660,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5132",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5132-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the same size as Ireland.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1783,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5133",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5133-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then the ladies kneeled",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1906,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5134",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5134-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And wet their faces with tears",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,2029,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5135",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5135-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In praising the God of nature",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,2152,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5136",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5136-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For his glorious food.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,2275,1375,123"
+    },
+    
+    {
+      "@id": "38r-en-5137",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5137-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They could use it safely",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4336,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5138",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5138-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For they accepted it with dignity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4447,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5139",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5139-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without any stain of sin.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4558,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5140",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5140-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I know the Gospel well enough to know that",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4669,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5141",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5141-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever takes the bread in another way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4780,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5142",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5142-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Takes it at the peril of his soul.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4891,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5143",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5143-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Above, I told you everything in order,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5002,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5144",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5144-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So I don’t know what to criticize.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5113,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5145",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5145-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I told you the names of the participants",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5224,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5146",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5146-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And therefore, dear friends,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5335,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5147",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5147-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I would go on without reason.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5446,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5148",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5148-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Please excuse me for not naming them more",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5557,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5149",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5149-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For it would be",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5668,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5150",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5150-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A repetition, as my heart tells me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5779,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5151",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5151-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And it would be useless chatter",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5890,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5152",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5152-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To describe detail by detail",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,6001,1302,111"
+    },
+    
+    {
+      "@id": "38r-en-5153",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5153-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The weapons that they had to wear.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,661,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5154",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5154-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If you would like to be amused,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,771,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5155",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5155-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will tell you, in a general way,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,881,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5156",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5156-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "More than a minstrel",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,991,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5157",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5157-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Would do in one week.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1101,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5158",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5158-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And if I am inspired",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1211,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5159",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5159-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To compose, I will have great joy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1321,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5160",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5160-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And I will describe the weapons",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1431,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5161",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5161-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of some of them, as I know how,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1541,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5162",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5162-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But I will speak in the manner of a clerk.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1651,1323,110"
+    },
+    
+    {
+      "@id": "38r-en-5163",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5163-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The sun, which lights up the earth,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4137,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5164",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5164-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was approaching directly onto Terce,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4244,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5165",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5165-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then appeared",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4351,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5166",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5166-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Virginity, who has the intention",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4458,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5167",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5167-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of obtaining what she seeks.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4565,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5168",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5168-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Her people follow behind her.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4672,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5169",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5169-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the barriers, the jongleurs",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4779,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5170",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5170-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Make so much noise, for whomever this pleases,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4886,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5171",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5171-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it is a marvel to hear.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4993,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5172",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5172-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jongleurs do not know how to distance themselves",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5100,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5173",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5173-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From there where they see profit.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5207,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5174",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5174-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They know well that the Virtues are safer",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5314,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5175",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5175-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than these sodomites,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5421,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5176",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5176-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whom they do not value at all,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5528,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5177",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5177-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all of their assaults.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5635,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5178",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5178-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "These are people whom God hates,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5742,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5179",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5179-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And soon they will have what they desire",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5849,1428,107"
+    },
+    
+    {
+      "@id": "38r-en-5180",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-en-5180-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For they quickly saw Fauvel’s people,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5956,1428,107"
+    }
+    
+  ]
+}

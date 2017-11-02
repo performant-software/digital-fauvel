@@ -1,0 +1,1436 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/26r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "26r-fro-3472",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3472-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLi hans qu'Amours en cuer justise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,367,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3473",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3473-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ardant desir point etatise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,475,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3474",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3474-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant voit que eur li est contraire,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,583,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3475",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3475-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vers sa dame a qui fait servise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,691,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3476",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3476-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conment que cil, n'en quelle guise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,799,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3477",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3477-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ses griez confort en soi traire ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,907,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3478",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3478-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "SS'ille fait, c'est a merveillier",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1015,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3479",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3479-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'amour si mal apareillier",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1123,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3480",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3480-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Seit celui qu'en ses laz enlace :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1231,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3481",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3481-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pou le fait dormir, moult veillier,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1339,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3482",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3482-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pou reposer, moult traveillier ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1447,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3483",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3483-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout son sens enclot et embrace",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1555,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3484",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3484-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDesir aprés, qu'amours amaine;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1663,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3485",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3485-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le cuer d'ardeur si fort demaine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1771,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3486",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3486-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par pensers; qu'il art comme meche",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1879,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3487",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3487-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En desirrant l'onneur hautaine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,1987,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3488",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3488-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour qui acquerre amanz ont paine ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2095,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3489",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3489-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Desir art le cuer, le cors seche.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2203,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3490",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3490-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEt quant hans est a ce menez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2311,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3491",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3491-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en tout temps son cors est penez,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2419,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3492",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3492-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son cuer art tout, son sens est pris,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2527,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3493",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3493-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de eur est mal assenez !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2635,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3494",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3494-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que tel doie estre forssenez,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2743,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3495",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3495-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se le di je, n'ai riens mespris.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2851,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3496",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3496-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "BBien est voir qu'en douce esperance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,2959,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3497",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3497-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ses griez puet prendre alejance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3067,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3498",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3498-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'amant en qui cuer est manant,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3175,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3499",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3499-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes quant il voit que mescheance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3283,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3500",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3500-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Poise le plus en sa balance,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3391,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3501",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3501-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'espoir a pou de remanant.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3499,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3502",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3502-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "HHé las ! je qui ces moz vous baille,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3607,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3503",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3503-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sui nuit et jour en tel bataille !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3715,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3504",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3504-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Amour a sejour ne me lesse :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3823,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3505",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3505-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon sens m'enclot, mon cors travaille;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,3931,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3506",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3506-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Desir mon cuer resprent sanz faille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4039,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3507",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3507-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DD'une ardeur qui en moi ne cesse.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4147,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3508",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3508-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du travail du cors sanz mentir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4255,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3509",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3509-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne de l'ardeur du cuer sentir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4363,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3510",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3510-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Las ! ja tant ne m'osasse plaindre,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4471,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3511",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3511-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'eür me vousist consentir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4579,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3512",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3512-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour moi en mes [griez ?] garantir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4687,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3513",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3513-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'espoir peüst fors en moi maindre;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4795,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3514",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3514-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "MMes quant si me voi mal baillir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,4903,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3515",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3515-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'eür voi loing de moi saillir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5011,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3516",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3516-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lors que mon cuer si aigrement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5119,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3517",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3517-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vient ardeur d'amour assaillir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5227,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3518",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3518-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par droit du tout en moi faillir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5335,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3519",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3519-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Doit tout bon espoir vraiement.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5443,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3520",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3520-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "CCertes bien pert qu'eür me fuit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5551,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3521",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3521-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que tout meseür me suit,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5659,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3522",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3522-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant a ma dame qu'ai tant chiere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5767,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3523",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3523-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'aperçois qu'il grieve n'ennuit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=1491,5875,1333,108"
+    },
+    
+    {
+      "@id": "26r-fro-3524",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3524-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le grief qu'ai pour lui jour et nuit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,556,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3525",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3525-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne secours n'espoir par sa chiere.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,660,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3526",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3526-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDonques est des or mes merveille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,764,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3527",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3527-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se sench que cors, cuer, sens me dueille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,868,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3528",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3528-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des griés que d'amour sench venir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,972,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3529",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3529-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne voi qu'eür bien me veuillie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1076,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3530",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3530-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne du monde la nompareille,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1180,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3531",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3531-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en desesperant veul fenir?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1284,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3532",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3532-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "AAu fenir vaut mieulx que m'assente",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1388,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3533",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3533-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que touz jours en languissant sente",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1492,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3534",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3534-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sanz confort d'espoir martire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1596,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3535",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3535-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui de mort a certaine attente :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1700,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3536",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3536-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mieux li vaut courte mort que lente ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1804,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3537",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3537-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De .ij. mauls vaut mieus le mains pire!",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,1908,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3538",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3538-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLas ! mes s'a ce mon cuer s'adonne,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2012,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3539",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3539-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Raison me blasme et si me donne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2116,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3540",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3540-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conseil de lessier ceste voie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2220,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3541",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3541-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a desprisier est trop personne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2324,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3542",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3542-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui a mort si vil s'abandonne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2428,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3543",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3543-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne qui au fort son sens desvoie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2532,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3544",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3544-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDiex, que ferai je ? Or sui je pris !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2636,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3545",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3545-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De raison sui vilment repris",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2740,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3546",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3546-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'a mort me fait desespoir tendre;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2844,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3547",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3547-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De douleur resui entrepris",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,2948,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3548",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3548-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que petit ma vie pris,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3052,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3549",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3549-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a grace pou me cuit atendre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3156,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3550",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3550-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "AAinssi voir nè puis je remaindre !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3260,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3551",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3551-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ferai dont ? Par moi complaindre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3364,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3552",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3552-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vueil, se puis, mes griez deporter;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3468,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3553",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3553-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pas ne di du tout les restraindre,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3572,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3554",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3554-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a ce ne puis sanz celle ataindre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3676,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3555",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3555-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui tost m'en pourrait conforter.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3780,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3556",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3556-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conforter ? Las ! ce qu'ai veü",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3884,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3557",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3557-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lonc temps qu'il ne li a chalu",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,3988,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3558",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3558-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "M'a de desesperer tenté,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4092,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3559",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3559-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A ce qu'assez a bien seü",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4196,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3560",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3560-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'ai a lui et ai eü",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4300,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3561",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3561-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cuer adrecié et volenté.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4404,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3562",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3562-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toutes voies, comment qu'il aille,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4508,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3563",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3563-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que pitié en praigne ou n'en chaille,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4612,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3564",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3564-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A celle qu'aim sanz decevoir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4716,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3565",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3565-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Complaindre me veul je sanz faille :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4820,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3566",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3566-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Diex doint qu'a moi conforter vaille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,4924,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3567",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3567-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des durs griez qu'ai au recevoir.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5028,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3568",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3568-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et puis qu'ainsi est avenu,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5132,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3569",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3569-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a moi complaindre sui venu,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5236,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3570",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3570-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A faire mes complainz m'acorde",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5340,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3571",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3571-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par ce motet qu'ai retenu,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5444,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3572",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3572-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que tout qu'aussi sui je tenu",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5548,1397,104"
+    },
+    
+    {
+      "@id": "26r-fro-3573",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26r-fro-3573-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Com cil dont ce motet acorde.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26r#xywh=2824,5652,1397,104"
+    }
+    
+  ]
+}

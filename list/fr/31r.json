@@ -1,0 +1,1856 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/31r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "31r-fr-4198",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4198-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'exhale un si suave parfum",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,588,1176,101"
+    },
+    
+    {
+      "@id": "31r-fr-4199",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4199-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la sainte couronne",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,689,1176,101"
+    },
+    
+    {
+      "@id": "31r-fr-4200",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4200-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Dieu a portée, et la vraie Croix",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,790,1176,101"
+    },
+    
+    {
+      "@id": "31r-fr-4201",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4201-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur laquelle il reçut la blessure fatale",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,891,1176,101"
+    },
+    
+    {
+      "@id": "31r-fr-4202",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4202-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin de racheter tous nos péchés.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,992,1176,101"
+    },
+    
+    {
+      "@id": "31r-fr-4203",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4203-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est là que Fauvel décida de s'établir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,1093,1176,101"
+    },
+    
+    {
+      "@id": "31r-fr-4204",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4204-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est là que Fauve! a désiré célébrer ses noces.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,2835,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4205",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4205-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce ne sont pas des évêques ou des abbés portant la crosse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,2937,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4206",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4206-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il a fait venir et qu'il a mandés :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3039,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4207",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4207-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a voulu que, sans se dérober à l'invitation,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3141,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4208",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4208-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vienne son amie Sensualité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3243,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4209",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4209-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il-ne pourrait se passer d'elle;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3345,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4210",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4210-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fornication et Adultère",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3447,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4211",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4211-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'y rendent, sans soulever d'objections;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3549,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4212",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4212-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cupidon viendra, avec Vénus:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3651,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4213",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4213-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des gens de cette espèce, aucun ne fait défaut.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3753,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4214",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4214-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'y rendent Gloutonnerie et Beuverie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3855,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4215",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4215-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A condition de ne pas se retrouver seules ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3957,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4216",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4216-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ivresse, Excès et Ribaudie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4059,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4217",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4217-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les accompagnent, ainsi que Débauche,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4161,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4218",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4218-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Courroux, Tort, Querelle, Homicide,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4263,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4219",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4219-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hypocrisie, Orgueil, Acidie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4365,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4220",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4220-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Larcin, Discorde, Furie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4467,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4221",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4221-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hérésie et Sodomie ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4569,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4222",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4222-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Convoitise, Envie et Mensonge",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4671,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4223",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4223-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne se contentent pas d'y venir en songe.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4773,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4224",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4224-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Médisance, Tromperie et Tricherie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4875,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4225",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4225-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De même qu'Avarice et Félonie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4977,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4226",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4226-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ruse et Faux Semblant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5079,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4227",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4227-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne se privent pas de participer à la fête,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5181,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4228",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4228-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni tout le reste de la compagnie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5283,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4229",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4229-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Formée par le lignage, le conseil et la maisonnée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5385,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4230",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4230-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Fauvel, que j'ai décrite à une autre occasion ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5487,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4231",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4231-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous prennent à cœur d'y venir gaiement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5589,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4232",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4232-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les prêteurs et les usuriers",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5691,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4233",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4233-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Empruntent tous sans exception ces sentiers.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5793,1208,102"
+    },
+    
+    {
+      "@id": "31r-fr-4234",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4234-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils veulent à tout jamais compter parmi les intimes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,514,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4235",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4235-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ces gens gracieux et aimables qui seront l'assistance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,617,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4236",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4236-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette race ; ils arrivent chaque jour plus nombreux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,720,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4237",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4237-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se répandant de toutes parts sur les chemins,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,823,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4238",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4238-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dans la cité évoquée ci-dessus",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,926,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4239",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4239-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chacun cherche un lieu où se loger.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1029,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4240",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4240-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ajoute, du moment que je pense",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1132,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4241",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4241-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À ce qui concerne le palais,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1235,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4242",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4242-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il s'agit à la fois d'un palais et d'une forteresse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1338,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4243",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4243-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'il n'a pas son équivalent dans le monde,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1441,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4244",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4244-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car en matière de châteaux et de petits ouvrages",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1544,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4245",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4245-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y en a, disposés autour de l'endroit,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1647,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4246",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4246-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus d'une dizaine, qui tous correspondent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1750,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4247",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4247-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au palais et contribuent à sa défense ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1853,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4248",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4248-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des deux côtés des portes principales",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1956,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4249",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4249-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du palais se trouvent des fortifications puissantes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2059,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4250",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4250-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et deux ponts de très belle facture :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2162,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4251",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4251-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La totalité du royaume de Castille",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2265,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4252",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4252-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne vaut pas les édifices qu'ils portent !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2368,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4253",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4253-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils s'égarent et ne croient pas ce qui est vrai,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2471,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4254",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4254-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux qui ne croient pas ce que je dis, sans doute,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2574,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4255",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4255-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car j'ai dit toute la vérité sur ce point.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2677,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4256",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4256-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un est situé à droite vers le sud",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2780,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4257",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4257-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et l'autre vers le nord. Et j'affirme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2883,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4258",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4258-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ces ponts que je décris ici",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2986,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4259",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4259-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Permettent de se rendre dans une ville",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3089,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4260",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4260-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui entoure de tous côtés l'île et la Cité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3192,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4261",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4261-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De fort noble manière :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3295,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4262",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4262-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est la ville la plus riche du monde",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3398,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4263",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4263-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et celle où les biens sont les plus abondants.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3501,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4264",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4264-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est appelée Espérance :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3604,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4265",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4265-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'y a que la distance des ponts",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3707,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4266",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4266-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui la sépare du palais décrit ci-dessus.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3810,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4267",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4267-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chaque homme s'écrie et ne cesse de s'écrier:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3913,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4268",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4268-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Du palais qui porte le nom de Désespoir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4016,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4269",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4269-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il viendra beaucoup de mal, comme je m'y attends,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4119,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4270",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4270-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque Fauvel s'y délecte!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4222,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4271",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4271-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Souveraine du ciel, qu'avons-nous fait pour mériter",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4325,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4272",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4272-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que soit avili ce qu'autrefois",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4428,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4273",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4273-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'on appelait le doux paradis?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4531,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4274",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4274-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'est-ce pas là une véritable extravagance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4634,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4275",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4275-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que cette assemblée se tienne en ce lieu ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4737,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4276",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4276-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y a-t-il malheur plus cruel",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4840,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4277",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4277-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de voir un tel pays ainsi métamorphosé ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4943,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4278",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4278-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y a-t-il un sortilège plus incroyable",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5046,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4279",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4279-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de voir les choses tourner de cette façon ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5149,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4280",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4280-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'est-ce pas là plus qu'une infortune,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5252,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4281",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4281-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant à l'endroit où la foi doit en permanence",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5355,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4282",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4282-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dominer, Fauve! installe sa résidence,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5458,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4283",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4283-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qui fait pleurer et crier le monde entier,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5561,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4284",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4284-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Surtout à partir du moment où il y séjourne à plein temps ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5664,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4285",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4285-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hé, Fortune, elle tourne trop doucement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5767,1229,103"
+    },
+    
+    {
+      "@id": "31r-fr-4286",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4286-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ta roue, s'il n'en dégringole pas plus vite,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,493,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4287",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4287-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne tombe à la renverse ! Quelle grande misère, en vérité! »",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,595,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4288",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4288-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous deux, selon les dires de ceux qui les ont vus,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,697,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4289",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4289-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont situés sur une grande île,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,799,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4290",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4290-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le palais aussi bien que la cité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,901,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4291",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4291-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et, par une noble et ingénieuse répartition,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1003,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4292",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4292-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'une des extrémités de l'île est occupée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1105,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4293",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4293-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Transversalement par le palais, lorsque l'on se dirige",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1207,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4294",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4294-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vers l'ouest, en une belle disposition,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1309,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4295",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4295-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tandis que l'autre bout a l'église cathédrale",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1411,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4296",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4296-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la cité, du côté de l'est,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1513,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4297",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4297-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il entoure et porte de fort belle manière.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1615,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4298",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4298-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien que je sois affligé, peiné et attristé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1717,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4299",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4299-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De voir Fauve! tout mettre sens dessus dessous,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1819,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4300",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4300-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je veux continuer le sujet que j'ai entrepris",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1921,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4301",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4301-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et assez rapidement achever cet ouvrage :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2023,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4302",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4302-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant va la cruche à l'eau",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2125,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4303",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4303-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'à la fin elle se brise et se fracasse par terre !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2227,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4304",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4304-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi, je vous déclare, dans ma mélancolie et mon abattement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2329,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4305",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4305-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ce faux jeton qui triomphe partout de tous,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2431,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4306",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4306-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec sa perversité, sait parfaitement que lui-même",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2533,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4307",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4307-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sera vaincu, et finira emprisonné.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2635,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4308",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4308-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais avant qu'il ne se considère vaincu,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2737,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4309",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4309-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a entrepris de se comporter",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2839,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4310",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4310-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "mo De façon encore plus présomptueuse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2941,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4311",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4311-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne l'avait fait au début.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3043,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4312",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4312-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aux noces sont venus tous les membres",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3145,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4313",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4313-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De sa lignée, qu'il a invités par écrit.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3247,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4314",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4314-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vous ai donné le nom de plusieurs d'entre eux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3349,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4315",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4315-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Précédemment, tant et si bien que je ne veux pas",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3451,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4316",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4316-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous faire perdre votre temps pour le répéter,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3553,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4317",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4317-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et d'ailleurs l'énumération serait trop longue",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3655,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4318",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4318-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des noms de cette multitude",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3757,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4319",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4319-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De gens aussi méchants et déplaisants.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3859,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4320",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4320-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ont pénétré dans les salles d'apparat,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3961,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4321",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4321-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "ParmUes réjouissances et les festins.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4063,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4322",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4322-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils y ont trouvé dame Vaine Gloire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4165,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4323",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4323-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils ont saluée avec courtoisie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4267,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4324",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4324-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chacun la regarde avec beaucoup d'attention",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4369,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4325",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4325-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et elle, elle les piège et les leurre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4471,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4326",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4326-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En les endormant au milieu des grands plaisirs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4573,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4327",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4327-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que procurent les belles chambres et lits,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4675,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4328",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4328-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les biens qui sont fuyants comme l'ombre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4777,1250,102"
+    },
+    
+    {
+      "@id": "31r-fr-4329",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-fr-4329-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais qui sont d'autant plus pesants qu'on en possède plus.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4879,1250,102"
+    }
+    
+  ]
+}

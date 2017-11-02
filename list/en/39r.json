@@ -1,0 +1,736 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/39r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "39r-en-5285",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5285-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was the covering of the horse,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,682,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5286",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5286-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Strewn intelligently",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,786,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5287",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5287-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With beautiful and clear little bells",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,890,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5288",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5288-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of silver and white rosettes.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,994,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5289",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5289-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the rest of the charger’s equipment,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1098,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5290",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5290-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The saddle, the straps, the chest covering and the stirrups",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1202,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5291",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5291-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Were made completely in gold and silk",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1306,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5292",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5292-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And, may I not be a liar,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1410,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5293",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5293-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On it was an embroidery with pearls",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1514,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5294",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5294-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Much to the chagrin of hypocrites.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1618,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5295",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5295-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There was a shield of expensive construction.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1722,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5296",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5296-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever made it in this way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1826,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5297",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5297-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was not greedy or avaricious.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,1930,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5298",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5298-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The construction was made of pure silver,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2034,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5299",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5299-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Strewn with big pearls from the Orient",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2138,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5300",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5300-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As far as I know;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2242,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5301",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5301-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was made through divine manufacture,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2346,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5302",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5302-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For in the world, no man would be able",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2450,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5303",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5303-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To create such a fine work.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2554,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5304",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5304-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I know well, without guessing,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2658,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5305",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5305-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she had a strong and solid lance",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2762,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5306",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5306-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which could have been constructed for the king",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2866,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5307",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5307-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of whatever kingdom you wish.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,2970,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5308",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5308-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the side of Virginity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3074,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5309",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5309-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Had slipped heralds with trumpets and they say",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3178,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5310",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5310-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they are very upset that they cannot announce",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3282,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5311",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5311-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The joust, for the start time has passed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3386,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5312",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5312-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And Virginity, without hesitation",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3490,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5313",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5313-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Went to stand in the place which was hers.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3594,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5314",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5314-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now listen to your profit [?]:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3698,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5315",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5315-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With these sane weapons were armed,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3802,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5316",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5316-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that everyone perceived it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,3906,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5317",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5317-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chastity and Religion,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4010,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5318",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5318-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Repentance, Confession,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4114,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5319",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5319-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Penitence and Abstinence,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4218,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5320",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5320-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Honesty and Benevolence",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4322,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5321",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5321-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And around a hundred true virgins",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4426,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5322",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5322-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—No similar ones exist, I think,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4530,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5323",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5323-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For they are too rare now.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4634,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5324",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5324-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With them were the abovementioned",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4738,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5325",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5325-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Virtues, who seemed angry",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4842,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5326",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5326-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they were not assembling.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,4946,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5327",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5327-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She chose Carnality,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5050,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5328",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5328-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And burns to joust with her.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5154,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5329",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5329-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Carnality knew very well",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5258,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5330",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5330-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—Or I am completely stupid—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5362,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5331",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5331-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That Virginity wanted",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5466,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5332",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5332-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To do this. She had a strong, fast",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5570,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5333",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5333-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Horse that was brown.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5674,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5334",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5334-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She did not esteem Virginity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5778,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5335",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5335-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even a little, in her impatience.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5882,1249,104"
+    },
+    
+    {
+      "@id": "39r-en-5336",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "39r-en-5336-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She valued her own worth!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/39r#xywh=1449,5986,1249,104"
+    }
+    
+  ]
+}

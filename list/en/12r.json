@@ -1,0 +1,512 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/12r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "12r-en-1403",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1403-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To deceive everyone,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,777,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1404",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1404-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Were represented there; this I tell you truly.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,887,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1405",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1405-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was not broken or run down,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,997,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1406",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1406-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The palace; rather it had paneling",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1107,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1407",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1407-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Made beautifully out of wood from Iceland",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1217,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1408",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1408-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cut in thick and wide pieces",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1327,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1409",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1409-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From a wood that was neither bent nor full of holes",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1437,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1410",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1410-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But was self-contained and watertight.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1547,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1411",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1411-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were aspens that resembled alders,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1657,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1412",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1412-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But everything was covered in yellow polish,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1767,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1413",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1413-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sparkling so brightly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1877,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1414",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1414-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That no man could truly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,1987,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1415",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1415-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "See the celestial sky from inside",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2097,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1416",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1416-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Unless he put his head out a window,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2207,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1417",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1417-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the colors were so bright",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2317,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1418",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1418-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they blinded those who looked.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2427,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1419",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1419-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And if you want me to tell you",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2537,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1420",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1420-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "About those who kept the company",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2647,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1421",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1421-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of Fauvel, I will list them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2757,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1422",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1422-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And I will not lie, as much as I can.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,2867,1155,110"
+    },
+    
+    {
+      "@id": "12r-en-1423",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1423-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Next to Fauvel, to his right,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4378,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1424",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1424-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was seated Carnality, his friend,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4487,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1425",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1425-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A lady of great authority",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4596,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1426",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1426-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who is contrary to Charity,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4705,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1427",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1427-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The stepmother of Hospitality,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4814,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1428",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1428-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The adversary of Truth,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,4923,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1429",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1429-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The nurse of Cruelty,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5032,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1430",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1430-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mother of all iniquity.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5141,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1431",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1431-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is a woman who loves only herself.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5250,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1432",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1432-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She pretends to have love for whomever",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5359,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1433",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1433-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She can profit from,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5468,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1434",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1434-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Otherwise nobody can please her.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5577,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1435",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1435-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And when her advantage has run out,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5686,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1436",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1436-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She hates him and does not care for him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5795,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1437",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1437-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "About this woman, I say with certainty",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,5904,1134,109"
+    },
+    
+    {
+      "@id": "12r-en-1438",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12r-en-1438-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she only loves herself.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12r#xywh=1648,6013,1134,109"
+    }
+    
+  ]
+}

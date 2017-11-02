@@ -1,0 +1,792 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/5r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "5r-fr-515",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-515-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'humanité revienne sur la bonne voie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,703,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-516",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-516-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour obtenir la félicité éternelle.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,800,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-517",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-517-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ces apôtres eurent eux-mêmes des disciples",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,897,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-518",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-518-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui reçurent, sous leur égide, le pouvoir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,994,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-519",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-519-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tout lier et délier",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1091,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-520",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-520-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de nous réconcilier avec Dieu.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1188,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-521",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-521-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les apôtres devinrent les évêques,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1285,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-522",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-522-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car c'est à eux qu'échut principalement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1382,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-523",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-523-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le gouvernement de l'Église.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1479,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-524",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-524-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et lorsque la foi chrétienne fut à ses débuts",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1576,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-525",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-525-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les disciples se répandirent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1673,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-526",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-526-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À travers le monde entier et travaillèrent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1770,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-527",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-527-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À bien faire progresser la foi,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1867,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-528",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-528-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ils pensaient à trouver le moyen",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,1964,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-529",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-529-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De gagner suffisamment d'âmes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2061,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-530",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-530-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui seraient les reines du paradis.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2158,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-531",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-531-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Saint Pierre, qui était pape,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2255,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-532",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-532-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne s'habillait pas d'étoffe précieuse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2352,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-533",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-533-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne vivait pas d'exactions :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2449,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-534",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-534-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son unique consolation",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2546,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-535",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-535-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Était de vivre saintement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2643,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-536",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-536-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de faire en sorte que le monde fût délivré",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2740,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-537",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-537-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De l'esclavage du péché",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2837,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-538",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-538-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'il fût entièrement mis sur la voie du bien;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,2934,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-539",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-539-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quand il avait fait son œuvre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3031,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-540",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-540-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et prié Dieu pour son peuple",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3128,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-541",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-541-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne pensait pas à mener une vie de mendicité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3225,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-542",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-542-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais pour obtenir sa subsistance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3322,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-543",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-543-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il vivait du produit de sa pêche",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3419,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-544",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-544-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en tirait de quoi vivre petitement.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3516,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-545",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-545-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cependant, sachez qu'il ne s'y connaissait pas en pêche :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3613,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-546",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-546-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il possédait un petit filet",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3710,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-547",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-547-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et une petite barque",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3807,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-548",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-548-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi n'attrapait-il qu'un peu de menu fretin",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,3904,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-549",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-549-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou d'autres espèces de petits poissons",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4001,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-550",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-550-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle façon qu'il füt maintenu en vie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4098,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-551",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-551-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais notre pape d'aujourd'hui,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4195,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-552",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-552-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lui, il pêche en des lieux bien plus propices :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4292,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-553",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-553-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a un filet grand et robuste",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4389,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-554",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-554-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui lui apporte des florins d'or",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4486,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-555",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-555-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En telle quantité que saint Pierre et sa barque",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4583,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-556",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-556-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En vacillent et qu'elle chancelle.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4680,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-557",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-557-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des florins, il en pêche d'innombrables ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4777,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-558",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-558-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne songe pas comment l'ombre seule",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4874,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-559",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-559-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De saint Pierre guérissait habituellement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,4971,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-560",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-560-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chaque personne qui se plaignait mal.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5068,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-561",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-561-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Saint Pierre a vécu sans richesse ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5165,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-562",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-562-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais maintenant il en possède une telle profusion,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5262,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-563",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-563-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son successeur, que cela relève de la merveille;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5359,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-564",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-564-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car Fauvel s'applique et veille",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5456,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-565",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-565-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À lui apporter des florins en nombre suffisant,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5553,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-566",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-566-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et il ne peut en être rassasié.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5650,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-567",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-567-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le pape, je ne le cacherai pas,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5747,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-568",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-568-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Frotte Fauvel, à l'avantage du roi,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5844,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-569",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-569-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À cause des joyaux qu'il lui offre,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,5941,1218,97"
+    },
+    
+    {
+      "@id": "5r-fr-570",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5r-fr-570-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et s'applique à lui plaire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5r#xywh=1659,6038,1218,97"
+    }
+    
+  ]
+}

@@ -1,0 +1,1940 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/25v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "25v-en-3334",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3334-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As long as your generosity lasted,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,504,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3335",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3335-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you would leave me to bear my great pain",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,609,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3336",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3336-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Forever, without comforting me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,714,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3337",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3337-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or without having any distraction",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,819,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3338",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3338-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From you, for the sake of whose love I bear it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,924,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3339",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3339-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So much do I hope for your forgiveness in love [?].",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1029,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3340",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3340-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May the eyes in your bright face be cursed—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1134,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3341",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3341-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which began to move so sweetly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1239,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3342",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3342-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Towards me when they were forced to look at me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1344,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3343",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3343-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Therefore if your very kind gaze",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1449,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3344",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3344-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Had to draw me towards you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1554,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3345",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3345-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through the sweetness that I felt there,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1659,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3346",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3346-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When I sought refuge near you for assistance,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1764,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3347",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3347-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If sweetness leaves you",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1071,1869,1197,105"
+    },
+    
+    {
+      "@id": "25v-en-3348",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3348-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "About your sweet gaze, treason!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,2268,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3349",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3349-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My lady, if this is the way it is, without a debt,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,2371,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3350",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3350-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That in you sweetness is lacking towards me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,2474,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3351",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3351-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have a right to pursue a suit against you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,2577,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3352",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3352-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My lady; know that my accusation",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,2680,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3353",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3353-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Would be of treachery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,2783,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3354",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3354-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For where is there a greater misdeed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,2886,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3355",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3355-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than in completely drawing in a man towards oneself",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,2989,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3356",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3356-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "By making sweet, attractive glances,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3092,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3357",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3357-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And afterwards, when he is caught in the trap,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3195,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3358",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3358-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the miserable, poor man is taken,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3298,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3359",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3359-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leaving him to languish in this state",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3401,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3360",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3360-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without giving him any assistance at all?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3504,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3361",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3361-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This would be cruelty, certainly!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3607,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3362",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3362-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As long as, of a person of great beauty,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3710,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3363",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3363-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such calumny could be spoken,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3813,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3364",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3364-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As of you, in cruelty",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,3916,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3365",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3365-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May it never come to pass",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4019,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3366",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3366-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But certainly it will not.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4122,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3367",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3367-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For it is commonly said",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4225,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3368",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3368-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That mercy must be stationed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4328,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3369",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3369-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In a heart of noble feeling.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4431,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3370",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3370-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, it cannot be the case at all,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4534,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3371",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3371-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Certainly, that [such a heart] does not remain in you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4637,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3372",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3372-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For according to what resembles",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4740,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3373",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3373-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your sweet, loving face,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4843,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3374",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3374-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A noble, well-tested heart",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,4946,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3375",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3375-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Must, according to rights, be found in you.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,5049,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3376",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3376-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And because of the example",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,5152,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3377",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3377-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I am able to find in your sweet face",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,5255,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3378",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3378-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which reassures me with its sweetness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,5358,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3379",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3379-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My hope is very certain",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,5461,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3380",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3380-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That your generous heart full of friendship",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,5564,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3381",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3381-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Will have pity on me again,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,5667,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3382",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3382-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because of this, gracious one,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=1060,5770,1239,103"
+    },
+    
+    {
+      "@id": "25v-en-3383",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3383-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I relinquish as of this moment,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,546,1260,103"
+    },
+    
+    {
+      "@id": "25v-en-3384",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3384-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For as long as I will live,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,649,1260,103"
+    },
+    
+    {
+      "@id": "25v-en-3385",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3385-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The right to file a suit against you",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,752,1260,103"
+    },
+    
+    {
+      "@id": "25v-en-3386",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3386-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to live in another way, at the end,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,855,1260,103"
+    },
+    
+    {
+      "@id": "25v-en-3387",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3387-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Except that all of my rewards are in you.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,958,1260,103"
+    },
+    
+    {
+      "@id": "25v-en-3388",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3388-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And as someone who desires ardently",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,1061,1260,103"
+    },
+    
+    {
+      "@id": "25v-en-3389",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3389-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To have help in his pain,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,1164,1260,103"
+    },
+    
+    {
+      "@id": "25v-en-3390",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3390-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whose heart is darkened and blackened",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,1267,1260,103"
+    },
+    
+    {
+      "@id": "25v-en-3391",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3391-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sweet, well made, charming and delicious,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,1785,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3392",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3392-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pleasant, beautiful and graceful one,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,1888,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3393",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3393-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sovereign in intelligence and beauty,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,1991,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3394",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3394-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fountain of honor and valor,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2094,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3395",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3395-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In whom sweetness and concord live,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2197,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3396",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3396-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As well as pity and graciousness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2300,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3397",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3397-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of all beauty, the lily and the rose,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2403,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3398",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3398-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lady in whom as much grace is enclosed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2506,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3399",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3399-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As there is water in the sea,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2609,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3400",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3400-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Generous, loving heart, without bitterness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2712,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3401",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3401-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With joined hands, I would like to pray",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2815,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3402",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3402-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you not desire to push away",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,2918,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3403",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3403-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The mercy that must come to me through you.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3021,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3404",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3404-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And may God grant that you be reminded",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3124,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3405",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3405-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And that it please you that I be granted",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3227,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3406",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3406-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you have pity on me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3330,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3407",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3407-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since I am, lady—know this—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3433,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3408",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3408-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Anchored and attached",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3536,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3409",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3409-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With my whole heart in love for you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3639,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3410",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3410-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that on no road or path",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3742,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3411",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3411-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "At any time is my attention not directed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3845,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3412",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3412-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Towards pleasant service for you.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,3948,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3413",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3413-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I do not want to direct it anywhere else,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4051,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3414",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3414-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "However much I must suffer.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4154,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3415",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3415-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I must sigh and complain,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4257,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3416",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3416-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moderate my heart and darken my complexion,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4360,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3417",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3417-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For, my very sweet, dear lady,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4463,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3418",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3418-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With all pains and all suffering put behind me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4566,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3419",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3419-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Good hope, through which a lover",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4669,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3420",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3420-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Relieves himself of his anguish, comforts me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4772,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3421",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3421-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And gives me the will",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4875,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3422",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3422-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To abandon heart and body completely",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,4978,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3423",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3423-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without holding anything back",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,5081,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3424",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3424-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to endure and sustain,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,5184,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3425",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3425-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For your sake, the sweet pains of love",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,5287,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3426",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3426-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which are so sweetly delectable",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,5390,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3427",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3427-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To me, and pleasant to feel,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,5493,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3428",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3428-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I do not wish to repent for them ever,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,5596,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3429",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3429-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather I would like to give in to them completely",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,5699,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3430",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3430-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even if I do not feel certain,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=2467,5802,1271,103"
+    },
+    
+    {
+      "@id": "25v-en-3431",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3431-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even though hope leads me in this direction,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,535,1229,122"
+    },
+    
+    {
+      "@id": "25v-en-3432",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3432-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That from my service, lady,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,657,1229,122"
+    },
+    
+    {
+      "@id": "25v-en-3433",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3433-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will obtain a sweet reward in the end.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,779,1229,122"
+    },
+    
+    {
+      "@id": "25v-en-3434",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3434-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now may it be fitting, my sweet kind lady,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,1701,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3435",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3435-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Completely, in entirety, with no reservation,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,1803,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3436",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3436-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor exception, nor reserve,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,1905,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3437",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3437-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the highness and great worth",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2007,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3438",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3438-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of your sweet heart full of generosity,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2109,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3439",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3439-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To command, according to your desire,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2211,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3440",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3440-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As if for your serf and liegeman,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2313,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3441",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3441-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I, who loyally serve you",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2415,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3442",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3442-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—if it pleases you—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2517,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3443",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3443-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Receive as a gift, through heartfelt feeling,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2619,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3444",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3444-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your sweet, simple and pretty love,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2721,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3445",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3445-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even though I am not worthy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2823,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3446",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3446-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To receive such a very valuable gift,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,2925,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3447",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3447-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In consideration of my worth. But if, truly,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3027,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3448",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3448-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If it happens that",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3129,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3449",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3449-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your sweetness and your grace act so that",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3231,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3450",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3450-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your sweet heart is brought to this,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3333,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3451",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3451-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through mercy for me that would overcome you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3435,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3452",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3452-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or if it pleases you to leave me",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3537,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3453",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3453-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In this way, without resigning yourself to",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3639,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3454",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3454-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your sweet help assisting me",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3741,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3455",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3455-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With the pains in which I still languish,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3843,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3456",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3456-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My heart captive in your prison,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,3945,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3457",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3457-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And of which I will never obtain the cure,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4047,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3458",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3458-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If pity does not make you agree",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4149,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3459",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3459-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To have mercy on me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4251,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3460",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3460-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For whatever it might please you to do",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4353,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3461",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3461-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—To leave me in this suffering",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4455,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3462",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3462-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To live or to languish as a martyr,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4557,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3463",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3463-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or if it might be enough for you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4659,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3464",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3464-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "What I have endured and endure—,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4761,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3465",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3465-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May it not go on any longer",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4863,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3466",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3466-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you not bring me assistance;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,4965,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3467",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3467-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And I want you to know well,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,5067,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3468",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3468-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My lady, that as long as I have to live,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,5169,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3469",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3469-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whatever should happen afterwards,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,5271,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3470",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3470-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the same way as I have done until now,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,5373,1302,102"
+    },
+    
+    {
+      "@id": "25v-en-3471",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "25v-en-3471-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And as a true lover must do:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/25v#xywh=3769,5475,1302,102"
+    }
+    
+  ]
+}

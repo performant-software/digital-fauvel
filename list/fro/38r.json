@@ -1,0 +1,1156 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/38r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "38r-fro-5099",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5099-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "SSur elles une clarté vint",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,1963,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5100",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5100-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont chascun esbahi devint ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2072,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5101",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5101-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En la clarté voiz qui donnait",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2181,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5102",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5102-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Paroles et leur esponnoit,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2290,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aus dites dames, leur vouloir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2399,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes ce me fist le cuer douloir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2508,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5105",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5105-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que n'entendi et si oÿ.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2617,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5106",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5106-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Adont le tref s'esvanoÿ:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2726,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5107",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5107-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour voir vous dis, pas ne devin,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2835,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5108",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5108-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un pain et un baril de vin",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,2944,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5109",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5109-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Churent du tref ou mileu d'eles;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3053,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5110",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5110-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce pristrent deus des damoiseles,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3162,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5111",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5111-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A un jouvencelle baillerent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3271,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5112",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5112-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis a Dieu se recommenderent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3380,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5113",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5113-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le jouvence! qui ce tenoit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3489,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5114",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5114-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult gentement se contenoit :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3598,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5115",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5115-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Char fu le pain et le pain vie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3707,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5116",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5116-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le vin sanc pur, sanz point de lie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3816,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5117",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5117-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De celi Dieu qui fist florir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,3925,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5118",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5118-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La verge Aaron et vot morir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,4034,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5119",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5119-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En crois pour nous au venredi.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,4143,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5120",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5120-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or entendez bien que je di :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=168,4252,1333,109"
+    },
+    
+    {
+      "@id": "38r-fro-5121",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5121-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLe jouvence! fu Gabriel",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,430,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5122",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5122-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui la virge royne du ciel",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,553,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5123",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5123-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur lessa pour elles repestre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,676,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5124",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5124-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du pain, du vin le roy celestre ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,799,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5125",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5125-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le jouvencel le pain donna",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,922,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5126",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5126-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tel guise qu'il foisonna",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1045,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5127",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5127-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aus dames et a leur gent toute :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1168,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5128",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5128-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A chascun du vin une goute",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1291,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5129",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5129-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Versa aprés, et il le burent ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1414,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5130",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5130-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce tuit si replaniz furent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1537,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5131",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5131-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Com s'il eüssent de la viande",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1660,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5132",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5132-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant com vaut le païs d'Illande.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1783,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5133",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5133-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Adonc les dames s'agenoillent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,1906,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5134",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5134-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de termes leur faces maillent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,2029,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5135",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5135-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En loant le Dieu de nature",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,2152,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5136",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5136-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De sa glorieuse pasture.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1386,2275,1375,123"
+    },
+    
+    {
+      "@id": "38r-fro-5137",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5137-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "UUser la porent seürement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4336,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5138",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5138-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il la pristrent dignement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4447,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5139",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5139-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sanz nulle tache de pechié :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4558,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5140",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5140-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai tant l'evangile aprochié,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4669,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5141",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5141-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que qui tel pain prent autrement,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4780,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5142",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5142-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ille prent a son jugement.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,4891,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5143",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5143-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDessus vous ai dit tout par ordre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5002,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5144",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5144-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que je n'i sai que remord[r]e",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5113,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5145",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5145-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous les nons des dites parties,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5224,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5146",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5146-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que, chers amis et amies,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5335,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5147",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5147-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'araie sanz reson musé ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5446,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5148",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5148-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De plus nommer les escusé",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5557,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5149",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5149-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "M'en aiez, car une redite",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5668,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5150",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5150-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Seroit, si com le cueur me dite,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5779,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5151",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5151-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si seroit une riote",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,5890,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5152",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5152-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tout deviser note a note",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=1428,6001,1302,111"
+    },
+    
+    {
+      "@id": "38r-fro-5153",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5153-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les armes que doivent porter ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,661,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5154",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5154-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si vous en vuilliez deporter,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,771,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5155",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5155-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si en dirai en general",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,881,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5156",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5156-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus que un menesteral",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,991,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5157",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5157-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne feroit en une semaine ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1101,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5158",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5158-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et se je sui en bonne vaine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1211,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5159",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5159-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De trouver, grant joie en avrai,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1321,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5160",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5160-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et d'aucunes, si com savrai,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1431,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5161",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5161-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les armes vous deviseré",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1541,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5162",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5162-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais en clerjais en parleré.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2772,1651,1323,110"
+    },
+    
+    {
+      "@id": "38r-fro-5163",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5163-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLi solaus qui terre enlumine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4137,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5164",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5164-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Droitement sus tierce chemine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4244,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5165",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5165-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que adonc se presenta",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4351,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5166",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5166-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Virginité qui talant a",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4458,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5167",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5167-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'encontrer ce que elle quiert;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4565,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5168",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5168-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toute sa gent aprés se fiert.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4672,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5169",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5169-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dedens les lices si grant noise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4779,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5170",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5170-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Font jugleurs, a qui qu'envoise,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4886,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5171",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5171-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est merveilles a oïr :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,4993,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5172",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5172-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jugleurs ne sevent point foïr",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5100,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5173",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5173-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la ou il voient le meilleur ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5207,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5174",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5174-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien sevent que seurté greingneur",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5314,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5175",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5175-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ont Vertuz que ces sodomites",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5421,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5176",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5176-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elles ne prisent pas deus mites,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5528,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5177",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5177-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne tretoute leur envaïe !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5635,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5178",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5178-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Gent sont que Diex a en haïe :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5742,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5179",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5179-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par temps aront ce que desirent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5849,1428,107"
+    },
+    
+    {
+      "@id": "38r-fro-5180",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38r-fro-5180-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car les gens Fauvel tantost virent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38r#xywh=2719,5956,1428,107"
+    }
+    
+  ]
+}

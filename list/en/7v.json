@@ -1,0 +1,792 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/7v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "7v-en-751",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-751-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of monetary compensation.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,724,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-752",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-752-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This would not please God.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,821,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-753",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-753-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If they behave in this manner,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,918,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-754",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-754-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They throw everything upside down.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1015,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-755",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-755-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They receive generous prebends,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1112,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-756",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-756-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But they only meagerly serve",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1209,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-757",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-757-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He from whom all goods come.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1306,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-758",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-758-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas! how they expose them to great peril,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1403,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-759",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-759-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The prebends of the Holy Church,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1500,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-760",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-760-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If they do not serve",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1597,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-761",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-761-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the way the Church has ordained!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1694,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-762",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-762-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Some say—but they are not wise—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1791,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-763",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-763-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That prebends are free,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1888,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-764",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-764-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But they make black shoes white.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1985,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-765",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-765-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They receive goods from the Church,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2082,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-766",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-766-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But they spend them, eat them, drink them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2179,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-767",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-767-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And ruin them in a terrible way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2276,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-768",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-768-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without rendering any service to God",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2373,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-769",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-769-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the places where they should stay",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2470,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-770",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-770-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And honor God.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2567,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-771",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-771-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All ecclesiastical benefices",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2664,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-772",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-772-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are given for the holy office:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2761,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-773",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-773-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Therefore, may he be careful, he who holds a great number",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2858,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-774",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-774-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he is obligated to perform a service for each one.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2955,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-775",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-775-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are well equipped, the canons",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3052,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-776",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-776-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whom Saint Benoît-le-Bestourné",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3149,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-777",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-777-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Counts today in his circle,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3246,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-778",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-778-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And who lead a backwards life.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3343,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-779",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-779-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They do not live in the manner of clerks,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3440,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-780",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-780-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But rather of animals.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3537,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-781",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-781-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Some ride on richly-adorned horses,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3634,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-782",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-782-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And others are always outside.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3731,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-783",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-783-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are the sons or nephews of Fauvel.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3828,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-784",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-784-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Their horses have curly hair.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3925,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-785",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-785-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are the stepsons of the Church",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4022,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-786",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-786-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For they play the nobleman too much.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4119,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-787",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-787-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They have fancy hairdos and shoes with laces.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4216,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-788",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-788-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They should cry out “alas!”",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4313,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-789",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-789-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If they looked at the crucifix,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4410,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-790",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-790-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And if they contemplated themselves in it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4507,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-791",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-791-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "How he is raised on the cross,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4604,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-792",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-792-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "How his shoes are tight,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4701,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-793",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-793-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And how he is dressed!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4798,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-794",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-794-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They should not be so stubborn,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4895,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-795",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-795-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or as crazy, these canons,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4992,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-796",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-796-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As to ruin the goods of their master.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5089,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-797",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-797-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the parish priests, what will we say?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5186,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-798",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-798-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "We will read a bit about their position:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5283,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-799",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-799-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are well known everywhere,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5380,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-800",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-800-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For they are seen close up.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5477,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-801",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-801-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I'll speak of them briefly now.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5574,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-802",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-802-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nevertheless, I will not be so silent",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5671,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-803",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-803-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As to say nothing",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5768,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-804",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-804-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of their position and life.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5865,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-805",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-805-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When the churches used to be empty,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5962,1228,97"
+    },
+    
+    {
+      "@id": "7v-en-806",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-en-806-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The good prelates used to give them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,6059,1228,97"
+    }
+    
+  ]
+}

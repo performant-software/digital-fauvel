@@ -1,0 +1,1408 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/11v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "11v-en-1303",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1303-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were escutcheons of combs",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,745,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1304",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1304-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Surrounded by feathers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,852,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1305",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1305-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And strewn with several small beasts,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,959,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1306",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1306-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Little foxes of both sexes,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1066,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1307",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1307-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Snakes, tortoises,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1173,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1308",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1308-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Kites, falcons and cranes,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1280,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1309",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1309-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Goshawks, vultures and panthers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1387,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1310",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1310-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hunting birds and chimeras,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1494,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1311",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1311-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And animals of different types",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1601,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1312",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1312-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In bright and expensive colors,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1708,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1313",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1313-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And fake escutcheons with lozenges,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1815,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1314",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1314-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Around the borders.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,1922,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1315",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1315-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Deceit, Falseness and Guile",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2029,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1316",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1316-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Carried the chair in the air",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2136,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1317",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1317-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—As if through Virgil’s spell—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2243,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1318",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1318-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And everyone was completely amazed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2350,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1319",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1319-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There, Fauvel sits nobly,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2457,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1320",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1320-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dressed in a rich fabric of gold,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2564,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1321",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1321-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Adorned with small furs.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2671,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1322",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1322-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Never will you hear about any more elegant.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2778,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1323",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1323-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He had a coat made of Turkish fabric",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2885,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1324",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1324-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which Hypocrisy had given him",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,2992,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1325",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1325-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With a gold-banded ribbon.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3099,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1326",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1326-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But nothing there was the work of Abel,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3206,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1327",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1327-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather, Cain’s hands made it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3313,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1328",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1328-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For Fauvel follows his lead.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3420,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1329",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1329-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On his head, he had a crown",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3527,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1330",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1330-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Beautiful and good in appearance:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3634,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1331",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1331-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It had precious stones",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3741,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1332",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1332-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Very pretty to behold;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3848,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1333",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1333-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But it did not have any other virtue",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,3955,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1334",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1334-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than to give pleasure",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4062,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1335",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1335-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To those who looked at and contemplated them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4169,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1336",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1336-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So as to burn the insane in vanity.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4276,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1337",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1337-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As soon as Fauvel had acquired them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4383,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1338",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1338-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The powers God had put in them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4490,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1339",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1339-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Disappeared through Fauvel’s sin",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4597,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1340",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1340-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But they did not lose their beauty,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4704,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1341",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1341-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For which reason they are expensive.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4811,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1342",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1342-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are very expensive, for people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,4918,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1343",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1343-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who are rich and full of vanity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5025,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1344",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1344-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Draw their glory and arrogance from them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5132,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1345",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1345-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With this kind of crown was decorated",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5239,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1346",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1346-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, who is not saddened.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5346,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1347",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1347-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is none so beautiful as far as the Gironde,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5453,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1348",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1348-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But it is not round",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5560,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1349",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1349-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For Fauvel and all of his people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5667,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1350",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1350-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Have a shell-shaped [?] head.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5774,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1351",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1351-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But know that his aforementioned palace,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5881,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1352",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1352-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was not covered in red rubies.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=1102,5988,1208,107"
+    },
+    
+    {
+      "@id": "11v-en-1353",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1353-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The palace was covered in slate",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,609,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1354",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1354-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So pleasant that no one who approaches",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,720,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1355",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1355-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is able to leave again,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,831,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1356",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1356-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "However much pain and torment he finds there.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,942,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1357",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1357-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The roof of the palace is shiny,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1053,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1358",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1358-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such that, without measure,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1164,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1359",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1359-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It moves everyone to come inside.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1275,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1360",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1360-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Anyone has difficulty abstaining",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1386,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1361",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1361-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If he enters this house,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1497,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1362",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1362-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "However much he is reasonable,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1608,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1363",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1363-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For it is extremely vain and deceitful.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1719,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1364",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1364-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "After Fauvel has seated him at the table,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1830,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1365",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1365-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He will not leave until his death.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,1941,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1366",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1366-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel hooks him with sweet bites,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2052,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1367",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1367-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that he no longer",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2163,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1368",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1368-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Knows how to eat bread in his house.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2274,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1369",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1369-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was richly painted on the inside,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2385,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1370",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1370-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The aforementioned palace, and gracefully with",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2496,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1371",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1371-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Monkeys, small foxes,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2607,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1372",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1372-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Made in imitation of a noose—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2718,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1373",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1373-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of tricksters and deceivers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2829,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1374",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1374-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of lawyers and advocates,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,2940,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1375",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1375-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of false judges, and false counselors,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3051,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1376",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1376-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "False witnesses, false reporters,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3162,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1377",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1377-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "False hosts, false accountants,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3273,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1378",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1378-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "False lords and false flatterers;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3384,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1379",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1379-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All manners of trickery",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3495,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1380",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1380-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Were painted there in a great troop.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3606,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1381",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1381-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all around were painted",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3717,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1382",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1382-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Songs, lais and many ballades,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3828,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1383",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1383-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hockets, motets and little songs,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,3939,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1384",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1384-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which were not about love,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4050,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1385",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1385-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But about well-tested fraud,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4161,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1386",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1386-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which Master Barat had composed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4272,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1387",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1387-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There, they were marked on the palace,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4383,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1388",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1388-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Well written and well notated",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4494,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1389",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1389-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With flats and fake music.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4605,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1390",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1390-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were also the chronicles",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4716,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1391",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1391-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of falsity, here and there,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4827,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1392",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1392-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dating back to the beginning of the world,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,4938,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1393",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1393-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And of Renart, the whole story",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5049,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1394",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1394-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was painted and well recalled.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5160,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1395",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1395-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And know that, in this same place,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5271,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1396",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1396-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were several deceitful sophisms,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5382,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1397",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1397-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And mixtures of first principles",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5493,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1398",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1398-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With terms and false premises,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5604,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1399",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1399-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to engender conclusions",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5715,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1400",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1400-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of evil and deception.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5826,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1401",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1401-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even the finer points of the proofs,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,5937,1228,111"
+    },
+    
+    {
+      "@id": "11v-en-1402",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11v-en-1402-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the fallacies, which are quick",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11v#xywh=3759,6048,1228,111"
+    }
+    
+  ]
+}

@@ -1,0 +1,1324 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/23v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "23v-fro-2845",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2845-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes richesce ne parfait mie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,619,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2846",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2846-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Riches en ceste mortel vie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,726,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2847",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2847-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car de legier richesce faut",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,833,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2848",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2848-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si ont riches maint deffaut,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,940,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2849",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2849-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme de santé ou de joie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1047,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2850",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2850-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ne leur puet donner monnoie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1154,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2851",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2851-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et riches en pluseurs païs",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1261,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2852",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2852-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont pour leur richesce haïs",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1368,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2853",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2853-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car trop plus sont ceus qui les donnent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1475,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2854",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2854-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Amez, que ceus qui les reponnent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1582,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2855",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2855-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et vraiement Raison repute",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1689,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2856",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2856-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que celi vit en servitude",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1796,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2857",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2857-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme serf et mal fortunez,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,1903,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2858",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2858-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui des biens qu'il a aüné",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2010,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2859",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2859-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'ose donner, touchier ne prendre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2117,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2860",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2860-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne, rien pour son besoing despendre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2224,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2861",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2861-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En richesces a poi d'eür",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2331,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2862",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2862-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fors a cil qui est si meür",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2438,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2863",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2863-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et plains de volenté bonne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2545,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2864",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2864-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'aus povres grant foison en donne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2652,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2865",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2865-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et par pure et vraie pité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2759,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2866",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2866-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En fait œuvres de charité,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2866,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2867",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2867-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et le remenant comme sages",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,2973,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2868",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2868-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Despent pour soi en bons usages ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3080,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2869",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2869-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car autrement nulle richesce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3187,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2870",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2870-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'est fors meschief et grant tristesce.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3294,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2871",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2871-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "E« Et Fauvel, riens plus ne desires",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3401,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2872",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2872-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "FFors que d'estre eu monde grant sire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3508,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2873",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2873-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais saches bien qu'adversité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3615,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2874",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2874-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vaut miex que grant prosperité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3722,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2875",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2875-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car prosperité si enyvre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3829,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2876",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2876-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et le fait en deliz vivre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,3936,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2877",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2877-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et le blandist soef et flate",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4043,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2878",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2878-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant que lui sourvient dame Fate",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4150,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2879",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2879-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui l'a tantost vilment tourné :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4257,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2880",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2880-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour nient s'estait si aourné !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4364,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2881",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2881-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ses anemis ne ses amis",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4471,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2882",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2882-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne congnoissoit, mes quant l'a mis",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4578,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2883",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2883-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune au bas et jus geté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4685,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2884",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2884-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si qu'il est en grant poverté,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4792,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2885",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2885-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lors treuve il ceus qui l'amoient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,4899,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2886",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2886-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et congnoist ceus qui le haoient :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5006,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2887",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2887-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car quant il avoit grant avoir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5113,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2888",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2888-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien ne le peüst savoir ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5220,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2889",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2889-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si est verité sanz fable",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5327,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2890",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2890-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'adversité est profitable,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5434,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2891",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2891-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car riches vivent en doutance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5541,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2892",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2892-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et povres en grant esperance,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5648,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2893",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2893-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et croient adés que Fortune",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5755,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2894",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2894-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A son tour leur doint grace aucune.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5862,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2895",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2895-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce en ce monde aventureus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,5969,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2896",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2896-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'est nul qui soit bien aüreus,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=1197,6076,1249,107"
+    },
+    
+    {
+      "@id": "23v-fro-2897",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2897-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fors cil a qui y puet souffire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,577,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2898",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2898-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tiex biens comme Nostre Sire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,685,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2899",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2899-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Li donne en cest mortel vie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,793,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2900",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2900-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que Dieu en loe et mercie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,901,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2901",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2901-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne plus ne quiert, ains est content",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1009,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2902",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2902-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et Diex l'aimme, car quant on tent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1117,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2903",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2903-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De jour en jour a plus acquerre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1225,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2904",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2904-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'en vit en doleur et en guerre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1333,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2905",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2905-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en mauvese conscience :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1441,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2906",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2906-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car c'est mauvese diligence",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1549,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2907",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2907-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tant amer le monde amer,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1657,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2908",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2908-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'on en laisse Dieu a amer;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1765,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2909",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2909-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et nul ne puet bien, ce me semble,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1873,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2910",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2910-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Amer Dieu et le monde ensemble.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2593,1981,1155,108"
+    },
+    
+    {
+      "@id": "23v-fro-2911",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2911-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il sont de condicions",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2625,2457,1102,111"
+    },
+    
+    {
+      "@id": "23v-fro-2912",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2912-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Contraires ; nepourquant li hans",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2625,2568,1102,111"
+    },
+    
+    {
+      "@id": "23v-fro-2913",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2913-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui a richesce a grant plenté,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2625,2679,1102,111"
+    },
+    
+    {
+      "@id": "23v-fro-2914",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2914-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes pas n'i a le cuer enté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2625,2790,1102,111"
+    },
+    
+    {
+      "@id": "23v-fro-2915",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2915-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ençois les despent bien et donne,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2625,2901,1102,111"
+    },
+    
+    {
+      "@id": "23v-fro-2916",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2916-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selon Dieu en largesce bonne,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2625,3012,1102,111"
+    },
+    
+    {
+      "@id": "23v-fro-2917",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2917-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tel povre en esperit riche homme",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2625,3123,1102,111"
+    },
+    
+    {
+      "@id": "23v-fro-2918",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2918-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'evangile a eureus nomme.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2625,3234,1102,111"
+    },
+    
+    {
+      "@id": "23v-fro-2919",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2919-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": ".I. clerc le roy françois de Rues ( Gervés ?)",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,4179,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2920",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2920-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aus paroles qu'il a conceües",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,4322,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2921",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2921-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En ce livret qu'il a trouvé",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,4465,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2922",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2922-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ha bien et clerement prouvé",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,4608,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son vif engin, son mouvement,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,4751,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il parle trop proprement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,4894,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou livret : ne querez ja men",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,5037,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Congé ! Diex le gart ! amen.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,5180,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "F« Fauvel, je t'ai assez leü :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,5323,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "QQue me chaut s'il t'a despleü ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,5466,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par ce que ai dit as avantage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,5609,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De congnoistre s'es fol ou sage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,5752,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de savoir queles denrees",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,5895,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune vent, a quoi tu bees.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=2583,6038,1260,143"
+    },
+    
+    {
+      "@id": "23v-fro-2933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or pués veoir se c'est grant dame,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=3937,630,1187,123"
+    },
+    
+    {
+      "@id": "23v-fro-2934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, que veus prendre a fame. »",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=3937,753,1187,123"
+    },
+    
+    {
+      "@id": "23v-fro-2935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLors a Fauvel ceste balade",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=3937,876,1187,123"
+    },
+    
+    {
+      "@id": "23v-fro-2936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "MMise avant de cuer moult malade :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=3937,999,1187,123"
+    },
+    
+    {
+      "@id": "23v-fro-2937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEn soi complaingnant derechief",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=3958,5008,1019,110"
+    },
+    
+    {
+      "@id": "23v-fro-2938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23v-fro-2938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "CChante Fauvel enclin le chief :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23v#xywh=3958,5118,1019,110"
+    }
+    
+  ]
+}

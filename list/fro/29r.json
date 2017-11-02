@@ -1,0 +1,260 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/29r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "29r-fro-4048",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4048-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "V« Va arrieres, mauvés Sathan",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,577,1229,115"
+    },
+    
+    {
+      "@id": "29r-fro-4049",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4049-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trai toy enssus de moy, va t'an!",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,692,1229,115"
+    },
+    
+    {
+      "@id": "29r-fro-4050",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4050-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Pensse, Fauvel, maleüreux,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=1071,3643,546,205"
+    },
+    
+    {
+      "@id": "29r-fro-4051",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4051-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A la fin, de cuer douloureux,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=1071,3848,546,205"
+    },
+    
+    {
+      "@id": "29r-fro-4052",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4052-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que du monde la figure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4042,1166,103"
+    },
+    
+    {
+      "@id": "29r-fro-4053",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4053-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'enfuit soudene en pourreture !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4145,1166,103"
+    },
+    
+    {
+      "@id": "29r-fro-4054",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4054-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toy ne sauras ja tant chierir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4248,1166,103"
+    },
+    
+    {
+      "@id": "29r-fro-4055",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4055-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je ne te face perir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4351,1166,103"
+    },
+    
+    {
+      "@id": "29r-fro-4056",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4056-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tous les tiens chascun par say :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4454,1166,103"
+    },
+    
+    {
+      "@id": "29r-fro-4057",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4057-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trop avez beü a grant garsay !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=283,4557,1166,103"
+    },
+    
+    {
+      "@id": "29r-fro-4058",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4058-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C« Cras y es si que veuls regiber",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,3811,1271,105"
+    },
+    
+    {
+      "@id": "29r-fro-4059",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4059-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu as fait t'avoinne cribler :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,3916,1271,105"
+    },
+    
+    {
+      "@id": "29r-fro-4060",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4060-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne recognois pas ton seingneur :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4021,1271,105"
+    },
+    
+    {
+      "@id": "29r-fro-4061",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4061-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si en auras damage greingneur !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4126,1271,105"
+    },
+    
+    {
+      "@id": "29r-fro-4062",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4062-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne creins pas qu'il considere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4231,1271,105"
+    },
+    
+    {
+      "@id": "29r-fro-4063",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4063-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Finaument ce que en arriere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4336,1271,105"
+    },
+    
+    {
+      "@id": "29r-fro-4064",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4064-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Auras fait, et qu'a gaing ou a perte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4441,1271,105"
+    },
+    
+    {
+      "@id": "29r-fro-4065",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29r-fro-4065-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Auras loier de ta desserte ? »",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29r#xywh=2908,4546,1271,105"
+    }
+    
+  ]
+}

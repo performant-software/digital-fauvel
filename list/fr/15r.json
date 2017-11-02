@@ -1,0 +1,722 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/15r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "15r-fr-1697",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1697-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Meurtre, Trahison et Pillage,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,787,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1698",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1698-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et même Parjure et Fausse Promesse :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,892,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1699",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1699-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils étaient montés sur l'échelle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,997,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1700",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1700-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour voir Fauvel qu'ils aimaient.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1102,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1701",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1701-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Là se trouvait aussi Libertinage",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1207,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1702",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1702-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et puis Jeu de Hasard, qui renie Dieu,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1312,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1703",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1703-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y avait Hérésie et Sodomie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1417,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1704",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1704-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tous les modes de vie pervertie ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1522,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1705",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1705-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À travers la grande salle, autour des piliers,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1627,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1706",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1706-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils se pressaient par cents et par mille",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1732,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1707",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1707-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Autour de Fauvel et de son trône.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1837,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1708",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1708-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À cette occasion, Fauvel n'a pas gardé le silence ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,1942,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1709",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1709-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il tenait en main un petit bâton de sureau.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2047,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1710",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1710-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne donnait pas l'impression d'être enrhumé,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2152,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1711",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1711-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais parlait fort ; voici le thème de son discours :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2257,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1712",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1712-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Seigneurs et dames qui êtes présents ici,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2362,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1713",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1713-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous devez manifester votre joie et faire la fête",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2467,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1714",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1714-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car vous faites partie de ma maison",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2572,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1715",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1715-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et appartenez tous à mon lignage ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2677,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1716",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1716-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et vous constatez que notre situation",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2782,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1717",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1717-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est si prospère que cela doit vous faire bien plaisir ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2887,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1718",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1718-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis, au jour d'aujourd'hui, roi et seigneur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,2992,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1719",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1719-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi bien du royaume que de l'empire;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3097,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1720",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1720-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous voyez que le monde entier aspire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3202,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1721",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1721-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À me servir et à être aux petits soins pour moi ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3307,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1722",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1722-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'existe pas de prélat, de clerc ou de prêtre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3412,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1723",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1723-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne souhaite faire partie de mes gens,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3517,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1724",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1724-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tous les princes temporels",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3622,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1725",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1725-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Frottent mieux Fauvel que Morel !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3727,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1726",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1726-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous n'en, voyez pas beaucoup qui aient de beaux habits",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3832,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1727",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1727-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'ils ne m'étrillent pas ou me frottent ou me cajolent.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,3937,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1728",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1728-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai tant frictionné, j'ai été tant frictionné,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4042,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1729",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1729-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je les ai tous faits tourner en bourrique.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4147,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1730",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1730-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je me suis fait si habilement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4252,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1731",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1731-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si malicieusement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4357,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1732",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1732-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je n'ai pu compter les marches",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4462,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1733",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1733-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui mènent à la situation éminente où je me suis hissé.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4567,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1734",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1734-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je n'ai pas emprunté la droite voie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4672,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1735",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1735-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car je ne savais pas monter par ce chemin-là :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4777,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1736",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1736-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La droite voie m'est trop pénible,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4882,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1737",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1737-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alors que la tortueuse me paraît efficace et rapide !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,4987,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1738",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1738-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jamais je ne suivrai le droit chemin,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5092,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1739",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1739-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et jamais je ne le prendrai pour aller ou revenir !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5197,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1740",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1740-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'en ai tant fait, comme vous pouvez le constater,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5302,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1741",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1741-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il est normal que je puisse siéger en grand apparat :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5407,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1742",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1742-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai complètement rabaissé Raison,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5512,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1743",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1743-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et n'ai plus jamais à la craindre ou à en tenir compte !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5617,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1744",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1744-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes ennemis sont chassés",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5722,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1745",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1745-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et mes amis puissants et redoutés :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5827,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1746",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1746-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je pervertis, entièrement à ma guise,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,5932,1239,105"
+    },
+    
+    {
+      "@id": "15r-fr-1747",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15r-fr-1747-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le monde qui m'aime et m'estime fort.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15r#xywh=1564,6037,1239,105"
+    }
+    
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/10v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "10v-en-1253",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1253-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Performing a motet about it.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,745,1134,113"
+    },
+    
+    {
+      "@id": "10v-en-1254",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1254-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "O! Lord God, how he floated",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,858,1134,113"
+    },
+    
+    {
+      "@id": "10v-en-1255",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1255-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On the sea with a good heart and walked on land",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,971,1134,113"
+    },
+    
+    {
+      "@id": "10v-en-1256",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1256-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To conquer the Holy Sepulcher.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=1186,1084,1134,113"
+    },
+    
+    {
+      "@id": "10v-en-1257",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1257-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If the others had followed his example,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,766,1134,105"
+    },
+    
+    {
+      "@id": "10v-en-1258",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1258-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They would not have begun to love Fauvel,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,871,1134,105"
+    },
+    
+    {
+      "@id": "10v-en-1259",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1259-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For Loyalty and Truth",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,976,1134,105"
+    },
+    
+    {
+      "@id": "10v-en-1260",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1260-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Would have come back, once Fauvel was overthrown.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2341,1081,1134,105"
+    },
+    
+    {
+      "@id": "10v-en-1261",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1261-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For Philip, who reigns now,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2478,5985,1165,147"
+    },
+    
+    {
+      "@id": "10v-en-1262",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "10v-en-1262-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You will also include this motet. [SERVANT REGEM]",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/10v#xywh=2478,6132,1165,147"
+    }
+    
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/3r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "3r-fr-205",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-205-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son vêtement, il ne l'a pas de couleur azur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,714,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-206",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-206-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car une telle couleur a une valeur durable :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,816,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-207",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-207-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle traduit la considération",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,918,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-208",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-208-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du bien, de la sagesse et de la raison,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1020,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-209",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-209-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme on peut le prouver par l'exemple du saphir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1122,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-210",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-210-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Où l'on doit trouver de la couleur azur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1224,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-211",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-211-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De même que le firmament d'éther",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1326,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-212",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-212-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est à l'image authentique de l'azur.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1428,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-213",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-213-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais Fauvel ne possède pas durablement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1530,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-214",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-214-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La fortune qu'il a rencontrée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1632,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-215",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-215-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et il ne considère pas la fin,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1734,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-216",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-216-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au contraire, il recherche tout ce qui peut lui plaire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1836,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-217",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-217-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi, Fauvel, que Dieu m'accorde le salut, ·",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,1938,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-218",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-218-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne saurait avoir d'autre couleur que fauve,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2040,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-219",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-219-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et même, sur son dos, il faut qu'on le sache,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2142,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-220",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-220-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne doit pas avoir de raie noire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2244,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-221",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-221-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette sorte de couleur (le fauve) marque la vanité :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2346,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-222",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-222-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour un animal vain, un habit vain.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2448,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-223",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-223-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En plus de cela, il est si bas devant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2550,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-224",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-224-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il en accable bien des gens",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2652,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-225",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-225-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et il boîte des quatre pattes,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2754,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-226",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-226-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais il les croise si ingénieusement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2856,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-227",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-227-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'on a beaucoup de mal à s'en apercevoir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,2958,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-228",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-228-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car c'est une bête pleine de malice.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3060,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-229",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-229-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est temps maintenant que je dévoile",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3162,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-230",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-230-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus complètement le mystère de Fauvel,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3264,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-231",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-231-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour connaître l'explication allégorique",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3366,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-232",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-232-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De son être et sa description.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3468,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-233",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-233-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel est une bête appropriée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3570,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-234",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-234-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par une similitude adéquate,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3672,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-235",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-235-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À symboliser ce qui est vain,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3774,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-236",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-236-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La tromperie et la fausseté de ce monde.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3876,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-237",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-237-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par l'étymologie on peut aussi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,3978,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-238",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-238-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Savoir quelle est son sens allégorique :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4080,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-239",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-239-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "FAUVEL est composé à partir de FAUX",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4182,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-240",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-240-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de VOILE, car il a fondé son arrogance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4284,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-241",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-241-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur la fausseté voilée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4386,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-242",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-242-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sur la tricherie mielleuse.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4488,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-243",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-243-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De son nom, par dérivation, on tire Flatterie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4590,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-244",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-244-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui d'aucun bien n'a de fond ni de rive.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4692,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-245",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-245-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Fauvel est issue Flatterie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4794,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-246",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-246-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui a la souveraineté sur le monde,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4896,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-247",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-247-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et puis en est issue Avarice,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,4998,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-248",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-248-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'est pas négligente quand il s'agit de bouchonner Fauvel,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5100,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-249",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-249-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et encore Vilenie et Variété",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5202,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-250",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-250-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et enfin Envie et Lâcheté.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5304,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-251",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-251-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ces six dames que je viens de nommer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5406,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-252",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-252-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont allégoriquement signifiées par FAUVEL:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5508,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-253",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-253-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si on veut y appliquer son intelligence,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5610,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-254",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-254-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il faut tirer un mot de chacune des lettres.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5712,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-255",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-255-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Fauvel, qui règne ainsi sur la terre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5814,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-256",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-256-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par les différends et la guerre,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,5916,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-257",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-257-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je donnerai la définition",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,6018,1197,102"
+    },
+    
+    {
+      "@id": "3r-fr-258",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3r-fr-258-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour mieux révéler ma pensée.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3r#xywh=1669,6120,1197,102"
+    }
+    
+  ]
+}

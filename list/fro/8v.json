@@ -1,0 +1,652 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/8v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "8v-fro-911",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-911-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Riens ne heent tant com le cloistre :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,777,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-912",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-912-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pou entrent en religion",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,884,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-913",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-913-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'aient plainne entencion",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,991,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-914",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-914-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'avoir offices et d'eus acroistre:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1098,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-915",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-915-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant un pou en cloistre sejournent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1205,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-916",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-916-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et aprés au siecle retournent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1312,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-917",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-917-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hors du sen sont et desliez ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1419,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-918",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-918-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne doutent blasme ne honte,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1526,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-919",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-919-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce tienent trop pou de conte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1633,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-920",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-920-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a Jhesucrist sont dediez.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1740,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-921",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-921-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ont religieus habit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1847,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-922",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-922-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes pou est de bien qui habit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1954,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au jour d'ui souz froc et souz gonne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2061,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par tiex gens est Diex bien gabbé :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2168,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sire Fauvel est leur abbé",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2275,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui moult souvent entr'eus sermonne.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2382,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant en a fait la beste fauve",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2489,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les ordres, se Diex me sauve",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2596,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont pres toutes desordenees :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2703,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien pert Fauvel est mauvés chief;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2810,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un ordre aja mis a meschief",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2917,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui estoit des plus honnorees.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3024,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant en a fait la beste amere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3131,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que sainte Eglise nostre mere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3238,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en complaint griement et demente:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3345,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La fraude des Templiers aperte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3452,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui les a mis a mort, a perte,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3559,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La feit mere triste et dolente.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3666,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Soupirer la fait et gemir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3773,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que tout home en doit fremir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3880,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est droit filz de sainte Eglise.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3987,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Li Templier l'ont mise en tristece,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4094,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si en lamente eri grant destresce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4201,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et se complaint en ceste guise :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4308,1239,107"
+    },
+    
+    {
+      "@id": "8v-fro-945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lasse, com a male aventure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5680,1197,115"
+    },
+    
+    {
+      "@id": "8v-fro-946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chose grieve et fortune dure,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5795,1197,115"
+    },
+    
+    {
+      "@id": "8v-fro-947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant mes enfanz m'ont deguerpie!",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5910,1197,115"
+    },
+    
+    {
+      "@id": "8v-fro-948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Li Templier que je tant amoie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6025,1197,115"
+    },
+    
+    {
+      "@id": "8v-fro-949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui tant honoré m'avoient,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6140,1197,115"
+    },
+    
+    {
+      "@id": "8v-fro-950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "M'ont fait despit et vilanie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6255,1197,115"
+    },
+    
+    {
+      "@id": "8v-fro-951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Nourry les ay et alleitiez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5712,1050,115"
+    },
+    
+    {
+      "@id": "8v-fro-952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et a mon poair afaitiez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5827,1050,115"
+    },
+    
+    {
+      "@id": "8v-fro-953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour deffendre la sainte terre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5942,1050,115"
+    },
+    
+    {
+      "@id": "8v-fro-954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Contre Sarrazins renoiez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6057,1050,115"
+    },
+    
+    {
+      "@id": "8v-fro-955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais or les voi si desvoiez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6172,1050,115"
+    },
+    
+    {
+      "@id": "8v-fro-956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-fro-956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a Jhesucrist ont empris guerre !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6287,1050,115"
+    }
+    
+  ]
+}

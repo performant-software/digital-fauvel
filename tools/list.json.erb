@@ -5,10 +5,11 @@
   "resources": [
     <% @annotations.each do |annotation| %>
     {
+      "@id": "<%= annotation["@annoId"] %>",
       "@type":"oa:Annotation",
       "motivation":"sc:painting",
       "resource": {
-        "@id": "http://<%= domain %>/canvas/<%= folio %>",
+        "@id": "<%= annotation["@bodyId"] %>",
         "@type": "dctypes:Text",
         "format": "text/plain",
         "chars": "<%= annotation['text'] %>",

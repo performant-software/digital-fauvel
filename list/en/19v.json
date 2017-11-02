@@ -1,0 +1,708 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/19v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "19v-en-2151",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2151-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She looks at him with great violence,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5722,1208,110"
+    },
+    
+    {
+      "@id": "19v-en-2152",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2152-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And does not make her words scarce.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5832,1208,110"
+    },
+    
+    {
+      "@id": "19v-en-2153",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2153-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "\"Fauvel, you are very crazy and presumptuous,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5942,1208,110"
+    },
+    
+    {
+      "@id": "19v-en-2154",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2154-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Both in deeds and in actions!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,6052,1208,110"
+    },
+    
+    {
+      "@id": "19v-en-2155",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2155-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do you think that I take for prowess",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,577,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2156",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2156-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your overly-confident audacity?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,680,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2157",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2157-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "According to a common expression,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,783,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2158",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2158-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune helps the audacious,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,886,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2159",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2159-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But often foolish audacity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,989,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2160",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2160-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is the occasion for and cause of sadness;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1092,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2161",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2161-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And I have helped more foolish audacious people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1195,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2162",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2162-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than overcautious wise men.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1298,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2163",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2163-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For wise men fear accidents,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1401,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2164",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2164-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "While the foolish bound towards them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1504,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2165",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2165-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do you think you will live forever,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1607,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2166",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2166-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In putting yourself at risk in this way?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1710,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2167",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2167-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But I think one has never heard spoken",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1813,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2168",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2168-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the level of presumptuousness",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1916,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2169",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2169-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You have undertaken and conceived!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2019,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2170",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2170-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You did not know me well enough!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2122,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2171",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2171-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "How did it come into your head,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2225,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2172",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2172-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the tippy top and summit,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2328,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2173",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2173-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I might be Lady Maron",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2431,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2174",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2174-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who would take Fauvel as a husband?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2534,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2175",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2175-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do you not know what I am capable of,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2637,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2176",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2176-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And what games I know how to play?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2740,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2177",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2177-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, you do not know me at all!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2843,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2178",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2178-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "No mortal man",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2946,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2179",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2179-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ever had full knowledge of me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3049,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2180",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2180-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor did he ever know the full extent of my power.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3152,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2181",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2181-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do not think that through wealth",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3255,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2182",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2182-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My eminence can be known!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3358,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2183",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2183-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rich people do not think about Fortune",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3461,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2184",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2184-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she can make two beans one,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3564,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2185",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2185-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But when they must become poor,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3667,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2186",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2186-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then they remember Fortune.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3770,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2187",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2187-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, one can know me better through misfortune",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3873,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2188",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2188-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than through great fortune.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3976,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2189",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2189-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, you deceived yourself",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4079,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2190",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2190-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When you decided",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4182,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2191",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2191-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I am the marrying type,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4285,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2192",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2192-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And that I would grant you my hand.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4388,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2193",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2193-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You do not know me or my mother,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4491,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2194",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2194-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or where I am from, or what",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4594,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2195",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2195-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I established myself in this world to do.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4697,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2196",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2196-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, I want to make you understand",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4800,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2197",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2197-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My situation, at least a little,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4903,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2198",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2198-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For I see that many who speak of Fortune",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5006,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2199",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2199-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Often lie,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5109,1176,103"
+    },
+    
+    {
+      "@id": "19v-en-2200",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-en-2200-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Not knowing whether she is a blonde or a brunette!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5212,1176,103"
+    }
+    
+  ]
+}

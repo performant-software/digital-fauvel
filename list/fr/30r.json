@@ -1,0 +1,624 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/30r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "30r-fr-4086",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4086-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« J'e les ferai dégringoler ignominieusement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,462,1291,120"
+    },
+    
+    {
+      "@id": "30r-fr-4087",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4087-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ferai tuer les uns, pendre les autres,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,582,1291,120"
+    },
+    
+    {
+      "@id": "30r-fr-4088",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4088-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les uns auront à subir des dommages et des pertes matérielles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,702,1291,120"
+    },
+    
+    {
+      "@id": "30r-fr-4089",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4089-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les autres mourront dans la misère !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,822,1291,120"
+    },
+    
+    {
+      "@id": "30r-fr-4090",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4090-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je leur ferai à mainte reprise endurer mainte souffrance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,942,1291,120"
+    },
+    
+    {
+      "@id": "30r-fr-4091",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4091-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quel que soit le déplaisir que cela te causera,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,1062,1291,120"
+    },
+    
+    {
+      "@id": "30r-fr-4092",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4092-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De sorte que les gens de bien ressentiront une grande joie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,1182,1291,120"
+    },
+    
+    {
+      "@id": "30r-fr-4093",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4093-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand les méchants suivront ce chemin. »",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,1302,1291,120"
+    },
+    
+    {
+      "@id": "30r-fr-4094",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4094-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fàuvel a écouté et entendu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,514,1176,107"
+    },
+    
+    {
+      "@id": "30r-fr-4095",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4095-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce que la dame lui a exposé:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,621,1176,107"
+    },
+    
+    {
+      "@id": "30r-fr-4096",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4096-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est éperdu, ne sait plus que faire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,728,1176,107"
+    },
+    
+    {
+      "@id": "30r-fr-4097",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4097-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ses larmes lui mouillent le visage ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,835,1176,107"
+    },
+    
+    {
+      "@id": "30r-fr-4098",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4098-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne sachant plus quelle voie il doit prendre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,942,1176,107"
+    },
+    
+    {
+      "@id": "30r-fr-4099",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4099-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni quelle doit être l'issue de l'affaire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,1049,1176,107"
+    },
+    
+    {
+      "@id": "30r-fr-4100",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4100-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a fait le motet qui suit,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,1156,1176,107"
+    },
+    
+    {
+      "@id": "30r-fr-4101",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4101-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais il n'y prend guère de plaisir!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,1263,1176,107"
+    },
+    
+    {
+      "@id": "30r-fr-4102",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4102-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Entretemps Fortune réfléchit et se dit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,493,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que pour le moment elle ne veut plus accabler",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,597,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, qui est frappé de stupeur, de plus d'outrages",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,701,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4105",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4105-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et elle lui tient ces propos : « Animal plein de perfidie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,805,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4106",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4106-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne veux pas, du moment que tu as franchi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,909,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4107",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4107-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les portes de ma demeure, que tu partes sans avoir une faveur :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1013,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4108",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4108-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "«Voici la belle Vaine Gloire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1117,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4109",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4109-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La demoiselle pleine de tromperie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1221,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4110",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4110-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celle qui insidieusement enivre les gens",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1325,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4111",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4111-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui veulent vivre sur un grand pied,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1429,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4112",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4112-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui les conduit à se fier aux plaisirs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1533,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4113",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4113-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin qu'ils s'oublient eux-mêmes et leur propre fin;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1637,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4114",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4114-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est elle qui jadis, pour les cinq vierges folles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1741,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4115",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4115-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A éteint leurs lampes et leurs cierges,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1845,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4116",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4116-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car la virginité qu'elles possédaient,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1949,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4117",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4117-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elles l'avaient entièrement soumise à Vaine Gloire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2053,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4118",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4118-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette demoiselle Vaine Gloire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2157,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4119",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4119-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est aussi éphémère que transitoire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2261,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4120",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4120-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dispense des potions si douces à boire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2365,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4121",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4121-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "qu'elles font perdre toute faculté de penser",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2469,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4122",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4122-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la joie qui dure éternellement.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2573,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4123",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4123-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle d'une nature foncièrement trompeuse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2677,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4124",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4124-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vaine Gloire, tel est mon sentiment:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2781,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4125",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4125-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle a très vite fait d'entraîner les gens",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2885,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4126",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4126-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vers les excès et la présomption,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2989,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4127",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4127-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais elle réduit à néant tout bienfait,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,3093,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4128",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4128-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand elle se précipite pour l'accomplir, et le fait disparaître",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,3197,1396,104"
+    },
+    
+    {
+      "@id": "30r-fr-4129",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-fr-4129-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne supportant pas qu'il soit payé de retour.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,3301,1396,104"
+    }
+    
+  ]
+}

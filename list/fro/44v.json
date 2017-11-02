@@ -1,0 +1,204 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/44v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "44v-fro-5963",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5963-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDous Jhesucrist, cueur Fauvel seure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=1123,735,1292,112"
+    },
+    
+    {
+      "@id": "44v-fro-5964",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5964-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il gaste tout et deveure !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=1123,847,1292,112"
+    },
+    
+    {
+      "@id": "44v-fro-5965",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5965-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Douz Diex, ne met a nonchaloir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=1123,959,1292,112"
+    },
+    
+    {
+      "@id": "44v-fro-5966",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5966-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vertuz qui tant sefont valoir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=1123,1071,1292,112"
+    },
+    
+    {
+      "@id": "44v-fro-5967",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5967-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ci aval pour nous soustenir !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=2446,735,956,107"
+    },
+    
+    {
+      "@id": "44v-fro-5968",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5968-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fai Fauvel et sa gent fenir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=2446,842,956,107"
+    },
+    
+    {
+      "@id": "44v-fro-5969",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5969-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tres douz lis de virginité !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=2446,949,956,107"
+    },
+    
+    {
+      "@id": "44v-fro-5970",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5970-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Garde vertuz, car verité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=2446,1056,956,107"
+    },
+    
+    {
+      "@id": "44v-fro-5971",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5971-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Soustiennent, et tiengne en puissance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,703,1522,80"
+    },
+    
+    {
+      "@id": "44v-fro-5972",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5972-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le lis et le jardin de France,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,783,1522,80"
+    },
+    
+    {
+      "@id": "44v-fro-5973",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5973-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et Fauvet mette en tel prison",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,863,1522,80"
+    },
+    
+    {
+      "@id": "44v-fro-5974",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5974-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne puistfaire traïson,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,943,1522,80"
+    },
+    
+    {
+      "@id": "44v-fro-5975",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5975-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que tu, Dieu, roy de justise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,1023,1522,80"
+    },
+    
+    {
+      "@id": "44v-fro-5976",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fro-5976-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Soiez honorez et sainte Eglise.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,1103,1522,80"
+    }
+    
+  ]
+}

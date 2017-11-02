@@ -1,0 +1,736 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/43v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "43v-en-5871",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5871-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then he lived among men",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,714,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5872",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5872-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For thirty two years, just as Scripture",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,817,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5873",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5873-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Has taught us, and he preached",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,920,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5874",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5874-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And gave many good examples.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1023,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5875",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5875-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He accomplished so many beautiful miracles",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1126,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5876",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5876-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That no man had heard of similar ones,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1229,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5877",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5877-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all of this for our instruction.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1332,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5878",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5878-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The felonious, hypocritical Jews,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1435,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5879",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5879-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The cursed race of God,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1538,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5880",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5880-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mourned this evilly.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1641,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5881",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5881-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And they searched for false witnesses",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1744,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5882",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5882-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And accused him treacherously",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1847,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5883",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5883-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the false judge Pilate",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,1950,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5884",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5884-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who, knowing their trickery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2053,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5885",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5885-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And their envy and their perversity,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2156,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5886",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5886-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Judged it good to do their bidding,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2259,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5887",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5887-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And, in order to wash his hands of this, made it",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2362,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5888",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5888-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Understood that he was displeased",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2465,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5889",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5889-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And that this was not his decision.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2568,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5890",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5890-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This was perfect hypocrisy!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2671,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5891",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5891-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This can be well perceived",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2774,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5892",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5892-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since the facts argue in the same direction as the words,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2877,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5893",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5893-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "At least this obviously!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,2980,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5894",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5894-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And for this he received the payment",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3083,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5895",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5895-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which must result from such a crime,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3186,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5896",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5896-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And may he suffer this with no end!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3289,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5897",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5897-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then the Savior was tied up,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3392,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5898",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5898-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Spat upon, beaten, crucified,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3495,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5899",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5899-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hanged on the holy scale,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3598,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5900",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5900-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Stuck with a lance in his side,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3701,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5901",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5901-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From which blood and water came out.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3804,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5902",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5902-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Those who saw this have written it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,3907,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5903",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5903-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As wise and sensible people,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4010,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5904",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5904-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And their account is true.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4113,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5905",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5905-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This was our redemption,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4216,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5906",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5906-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This our intention.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4319,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5907",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5907-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There, he suffered death because of envy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4422,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5908",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5908-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But in dying he gave us life.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4525,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5909",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5909-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "His death killed our death",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4628,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5910",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5910-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As a result of which we were prisoners and condemned.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4731,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5911",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5911-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And he resurrected us from death",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4834,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5912",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5912-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When he threw his friends out of hell",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,4937,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5913",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5913-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Where they lay, more uncomfortable than in chains,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5040,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5914",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5914-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then hell was looted",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5143,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5915",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5915-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the devils astonished,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5246,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5916",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5916-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And they believed they had been betrayed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5349,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5917",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5917-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They did not know how to behave",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5452,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5918",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5918-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When they saw hell lit up",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5555,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5919",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5919-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And their dark cavern",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5658,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5920",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5920-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which had never been joyous,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5761,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5921",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5921-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Light up with such great lights.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5864,1260,103"
+    },
+    
+    {
+      "@id": "43v-en-5922",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "43v-en-5922-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But they could do nothing, for he",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/43v#xywh=2509,5967,1260,103"
+    }
+    
+  ]
+}

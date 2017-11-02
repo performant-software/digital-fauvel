@@ -1,0 +1,512 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/37r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "37r-fro-4975",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4975-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce furent cil qu'at fait veillier",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,672,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4976",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4976-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, pour euls appareillier",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,772,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4977",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4977-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A la jouste, et qui la estoient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,872,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4978",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4978-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aus chans touz pres et assaoient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,972,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4979",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4979-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur grans chevaus et leur destriers.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1072,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4980",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4980-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par regart estaient si fiers",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1172,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4981",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4981-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je les tieng pour forsenez :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1272,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4982",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4982-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il paroit que dyable amenez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1372,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4983",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4983-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les eüst en cele pourprise !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1472,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4984",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4984-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce fu es prez devant l'eglise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1572,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4985",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4985-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Saint Germain en une plainne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1672,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4986",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4986-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Seant entre les murs et Sainne.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1772,1186,100"
+    },
+    
+    {
+      "@id": "37r-fro-4987",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4987-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Volentiers regardai les lices :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3097,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4988",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4988-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne furent pas faites d'esclices,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3195,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4989",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4989-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais de gros et de fort merrein ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3293,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4990",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4990-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et car je savoie moult bien",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3391,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4991",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4991-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'ostel des Vertuz, l'avalai",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3489,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4992",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4992-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Sainne et par un bac alai",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3587,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4993",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4993-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au devant dit hostel ; la vi,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3685,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4994",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4994-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se ne fui en l'er ravi,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3783,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4995",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4995-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Merveilles, one ne furent teles :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3881,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4996",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4996-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car sur l'ostel vi deus escheles",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3979,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4997",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4997-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont les bouz dessouz aus pignons",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,4077,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4998",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4998-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se tenaient, se bien lignon.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,4175,1155,98"
+    },
+    
+    {
+      "@id": "37r-fro-4999",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-4999-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLes bouz d'en haut au ciel tenaient:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5502,1186,118"
+    },
+    
+    {
+      "@id": "37r-fro-5000",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5000-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par la venaient et aloient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5620,1186,118"
+    },
+    
+    {
+      "@id": "37r-fro-5001",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5001-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce m'est vis, anges et archanges.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5738,1186,118"
+    },
+    
+    {
+      "@id": "37r-fro-5002",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5002-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne le di pour nules losanges,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5856,1186,118"
+    },
+    
+    {
+      "@id": "37r-fro-5003",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5003-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes pour raconter le miracle.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,630,1092,99"
+    },
+    
+    {
+      "@id": "37r-fro-5004",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5004-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par les rues ot si grant chacle",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,729,1092,99"
+    },
+    
+    {
+      "@id": "37r-fro-5005",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5005-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour les anges veoir monter",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,828,1092,99"
+    },
+    
+    {
+      "@id": "37r-fro-5006",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5006-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est merveilles a conter.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,927,1092,99"
+    },
+    
+    {
+      "@id": "37r-fro-5007",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5007-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je croi que conforter venioient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,1026,1092,99"
+    },
+    
+    {
+      "@id": "37r-fro-5008",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5008-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les dames et puis s'en aloient.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,1125,1092,99"
+    },
+    
+    {
+      "@id": "37r-fro-5009",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5009-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et chantoient si com semble",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1417,5281,1040,126"
+    },
+    
+    {
+      "@id": "37r-fro-5010",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fro-5010-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceste prose trestouz ensemble :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1417,5407,1040,126"
+    }
+    
+  ]
+}

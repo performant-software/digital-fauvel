@@ -1,0 +1,288 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/27v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "27v-fro-3752",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3752-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Nature en vous fausseroit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,567,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3753",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3753-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'estiez envieuse ne dure.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,670,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3754",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3754-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "JJe ne sai qu'il m'en avendra",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,773,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3755",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3755-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes a ce qu'a gré vous vendra,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,876,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3756",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3756-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sui, dame, tout abandonné",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,979,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3757",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3757-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Las ! quant en meschief tendra",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1082,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3758",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3758-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a mort vostre amour me vendra,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1185,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3759",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3759-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mar fu mon cuer a vous donné.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1288,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3760",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3760-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDame, ja Dieus ne doint qu'aviegne !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1391,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3761",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3761-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes s'il couvient que mort soustiegne,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1494,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3762",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3762-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour vous pas tant ne m'est amer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1597,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3763",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3763-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis que de vostre gré me viegne ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1700,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3764",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3764-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes par pitié tant vous souviegne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1803,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3765",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3765-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je muir par tres bien amer.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,1906,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3766",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3766-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEt se douceur toute est si morte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2009,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3767",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3767-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'au morir bien amer m'aporte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2112,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3768",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3768-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En ce que vrai martir serai,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2215,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3769",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3769-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dame, en mourant me reconforte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2318,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3770",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3770-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et par ardeur mon cuer m'enorte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2421,1386,103"
+    },
+    
+    {
+      "@id": "27v-fro-3771",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27v-fro-3771-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'atendant ma mort chanterai :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27v#xywh=1113,2524,1386,103"
+    }
+    
+  ]
+}

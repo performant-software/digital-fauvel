@@ -1,0 +1,1464 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/23r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "23r-fr-2741",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2741-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "«Et qui ne veut et d'ailleurs ne mérite pas",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,735,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2742",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2742-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les honnêtes gens disent du bien de lui.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,840,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2743",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2743-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ainsi que celui qui est monté haut,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,945,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2744",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2744-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "soit plein de vice ou de qualités,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1050,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2745",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2745-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Subit toutes sortes de contrariétés",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1155,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2746",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2746-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui viennent de la vérité ou de l'envie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1260,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2747",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2747-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou d'un grand chagrin ou de l'inquiétude,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1365,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2748",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2748-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la maladie ou du mauvais sort ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1470,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2749",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2749-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est ce que veut dire la petite roue",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1575,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2750",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2750-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui s'oppose constamment à la grande:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1680,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2751",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2751-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'y a personne, en effet, c'est incontestable,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1785,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2752",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2752-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À qui Fortune se donne tout entière,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1890,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2753",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2753-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car même si elle se donnait complètement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,1995,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2754",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2754-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est par ailleurs si extraordinairement capricieuse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2100,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2755",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2755-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle voudrait repartir aussitôt",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2205,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2756",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2756-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que nul ne pourrait la retenir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2310,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2757",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2757-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "«Jamais on n'a vu sur terre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2415,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2758",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2758-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un homme à ce point favorisé de la fortune",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2520,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2759",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2759-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'ait en même temps que son bonheur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2625,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2760",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2760-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une part non négligeable d'adversité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2730,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2761",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2761-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme par exemple quelqu'un qui possède",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2835,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2762",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2762-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De l'argent, qui en a plein ses coffres et ses greniers,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,2940,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2763",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2763-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais qui n'a que peu d'amis,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3045,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2764",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2764-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est un rustre, un bâtard, ou qui a voué",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3150,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2765",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2765-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son cœur et son corps à la convoitise,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3255,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2766",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2766-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au que chacun n'a pour lui que haine et mépris,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3360,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2767",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2767-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qut met une telle passion à posséder",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3465,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2768",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2768-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne supporte pas de manger à satiété,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3570,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2769",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2769-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou alors, il acquiert sa fortune de telle manière",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3675,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2770",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2770-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est au prix de sa damnation.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3780,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2771",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2771-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Un autre exemple : un homme qui est noble,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3885,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2772",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2772-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Courtois, libéral et soucieux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,3990,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2773",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2773-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'honorer les gens de bien,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4095,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2774",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2774-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais qui est chez lui dans un tel dénuement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4200,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2775",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2775-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que rien n'est aussi froid que son âtre.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4305,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2776",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2776-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'un côté je suis pour lui une marâtre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4410,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2777",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2777-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de l'autre je suis comme sa mère:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4515,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2778",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2778-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ainsi que sa situation est entremêlée.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4620,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2779",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2779-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est honoré pour sa noblesse de caractère",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4725,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2780",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2780-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais la pauvreté le touche au plus profond de lui-même ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4830,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2781",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2781-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il préférerait être moine cloîtré,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,4935,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2782",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2782-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Là où personne ne pourrait le reconnaître !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5040,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2783",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2783-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Encore un exemple : un homme beau, avec de belles rentes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5145,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2784",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2784-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et une femme selon ses désirs,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5250,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2785",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2785-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais qui ne peut pas avoir d'enfants",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5355,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2786",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2786-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne sait pas qui va hériter de ses biens,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5460,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2787",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2787-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tandis qu'il y en a d'aucuns, par mon âme,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5565,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2788",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2788-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ont de beaux enfants et une belle femme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5670,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2789",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2789-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais en entend rapporter souvent des nouvelles",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5775,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2790",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2790-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui pour lui sont tristes et cruelles.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5880,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2791",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2791-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'existe pas de prince, de roi ou d'empereur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,5985,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2792",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2792-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelle que soit la hauteur du trône où il est assis,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=1543,6090,1145,105"
+    },
+    
+    {
+      "@id": "23r-fr-2793",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2793-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelle que soit sa ou l'étendue de sa puissance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,703,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2794",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2794-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour qui tout se prodmt selon ses désirs,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,809,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2795",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2795-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car la petite roue à contresens",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,915,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2796",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2796-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fait vite se noyer celui qui nage.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1021,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2797",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2797-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et cette même finalité peut se trouver",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1127,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2798",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2798-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans la grande roue qui tourne lentement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1233,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2799",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2799-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui signifie l'homme qui s'élève",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1339,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2800",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2800-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou qui tombe, connaissant la douleur et la honte.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1445,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2801",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2801-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que celui-ci prenne garde, c'est le conseil que je lui",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1551,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2802",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2802-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De l'autre roue plus petite tournant à contresens, donne,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1657,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2803",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2803-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne cesse d'opposer sa résistance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1763,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2804",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2804-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour enlever clous ou rivets et faire chuter",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1869,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2805",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2805-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelqu'un de la roue du dessus :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,1975,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2806",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2806-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le jeu de la \"chantepleure \" !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2081,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2807",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2807-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Par ces exemples tu peux avoir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2187,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2808",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2808-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une idée pour me connaître.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2293,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2809",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2809-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu n'as pas perdu tes efforts",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2399,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2810",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2810-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si tu çomprends bien ce qu'est Fortune !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2505,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2811",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2811-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si tu savais parfaitement de quoi il s'agit,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2611,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2812",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2812-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu n'aurais vraiment pas beaucoup d'amour pour le monde",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2717,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2813",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2813-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tu n'y chercherais pas ton bonheur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2823,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2814",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2814-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car rien n'y est assuré.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,2929,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2815",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2815-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelle sécurité ont les gens riches",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3035,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2816",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2816-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui possèdent des biens en grandes quantités ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3141,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2817",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2817-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leurs richesses leur sont très vite enlevées :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3247,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2818",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2818-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La mort leur touche de près les flancs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3353,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2819",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2819-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle manière qu'ils savent avec certitude",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3459,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2820",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2820-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils ne vivront pas longtemps,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3565,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2821",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2821-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car dès qu'un enfant est sorti du ventre maternel,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3671,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2822",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2822-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne fait rien d'autre que mourir et avancer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3777,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2823",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2823-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vers sa mort d'heure en heure;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3883,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2824",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2824-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'ailleurs, aussitôt né, il pleure",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,3989,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2825",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2825-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et donne l'impression que Nature lui dit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4095,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2826",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2826-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il naît à une existence pénible et vouée à la mort,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4201,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2827",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2827-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans laquelle il chemine en hâtant le pas :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4307,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2828",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2828-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne fera qu'un bref passage",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4413,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2829",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2829-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Connaissant grand tourment et grande peine,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4519,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2830",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2830-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont la fin n'est jamais certaine.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4625,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2831",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2831-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi nourrissent-ils un désir tout à fait insensé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4731,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2832",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2832-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux qui mettent leur plaisir suprême",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4837,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2833",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2833-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans la possession des richesses temporelles :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,4943,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2834",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2834-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils s'imaginent qu'ils sont au comble du bonheur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5049,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2835",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2835-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Etre favorisés par la fortune et chanceux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5155,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2836",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2836-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand leurs biens sont plantureux,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5261,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2837",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2837-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais je t'affirme en vérité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5367,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2838",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2838-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ce n'est pas une forme de félicité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5473,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2839",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2839-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la possession des richesses temporelles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5579,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2840",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2840-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car tu dois comprendre et retenir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5685,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2841",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2841-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la félicité, elle, est pleine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5791,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2842",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2842-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Bien, car c'est la bonté suprême",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,5897,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2843",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2843-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui fait de tout homme un seigneur accompli,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,6003,1271,106"
+    },
+    
+    {
+      "@id": "23r-fr-2844",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "23r-fr-2844-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il se met en peine de choisir ce Bien.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/23r#xywh=2824,6109,1271,106"
+    }
+    
+  ]
+}

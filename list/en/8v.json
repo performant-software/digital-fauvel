@@ -1,0 +1,652 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/8v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "8v-en-911",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-911-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They detest nothing so much as the cloister.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,777,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-912",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-912-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There are few who enter the orders",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,884,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-913",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-913-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who do not have the full intention",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,991,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-914",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-914-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of obtaining offices and improving their positions.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1098,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-915",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-915-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When they stay in the cloister a little,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1205,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-916",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-916-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And return to the world afterwards,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1312,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-917",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-917-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They have completely deviated from sense;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1419,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-918",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-918-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are not afraid of blame or shame,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1526,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-919",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-919-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And do not take account of the fact",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1633,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-920",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-920-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they are devoted to Christ.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1740,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-921",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-921-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They have religious garb",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1847,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-922",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-922-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But there is little good that lives",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,1954,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Under those frocks and surcoats today.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2061,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God is mocked through these sorts of people.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2168,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lord Fauvel, who often delivers sermons,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2275,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is their abbot.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2382,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has played the tawny animal so well",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2489,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That the orders—may God save me—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2596,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are completely disordered.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2703,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It is clear that Fauvel is a bad leader;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2810,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has already derailed an order",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,2917,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That was one of the most honored.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3024,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has played the cruel beast so well",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3131,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That the Holy Church, our mother,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3238,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cries out loudly and laments.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3345,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The open trickery of the Templars,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3452,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which brought them to death, and to their loss,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3559,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Made her a sad and mournful mother.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3666,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This makes her sigh and groan,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3773,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such that every man who is a true son",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3880,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the Holy Church must tremble.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,3987,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Templars have brought her to sadness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4094,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And she laments, in great distress,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4201,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And complains in this way:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2404,4308,1239,107"
+    },
+    
+    {
+      "@id": "8v-en-945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "“Alas! What misfortune,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5680,1197,115"
+    },
+    
+    {
+      "@id": "8v-en-946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "What a terrible thing and a horrible fate,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5795,1197,115"
+    },
+    
+    {
+      "@id": "8v-en-947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That my children have deserted me!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,5910,1197,115"
+    },
+    
+    {
+      "@id": "8v-en-948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Templars, whom I loved so much,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6025,1197,115"
+    },
+    
+    {
+      "@id": "8v-en-949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And who had brought me so much honor,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6140,1197,115"
+    },
+    
+    {
+      "@id": "8v-en-950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Have brought me shame and done base things.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=2488,6255,1197,115"
+    },
+    
+    {
+      "@id": "8v-en-951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I nourished them and fed them my milk",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5712,1050,115"
+    },
+    
+    {
+      "@id": "8v-en-952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And molded them as much as I could",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5827,1050,115"
+    },
+    
+    {
+      "@id": "8v-en-953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To defend the Holy Land",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,5942,1050,115"
+    },
+    
+    {
+      "@id": "8v-en-954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Against the infidel Saracens,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6057,1050,115"
+    },
+    
+    {
+      "@id": "8v-en-955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But now I see they are so deviant",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6172,1050,115"
+    },
+    
+    {
+      "@id": "8v-en-956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "8v-en-956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they have begun a war against Jesus Christ!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/8v#xywh=3748,6287,1050,115"
+    }
+    
+  ]
+}

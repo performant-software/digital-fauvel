@@ -1,0 +1,568 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/44r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "44r-fr-5923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui était venu pour être leur hôte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,745,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Etait quelqu'un qui efface et enlève les ténèbres",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,846,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et illumine toute obscurité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,947,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par les rayons de sa pure clarté.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1048,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il était l'« hôte» de l'enfer, littéralement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1149,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En voulant « ôter » et non pas mettre ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1250,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec lui, l'enfer a eu un bien funeste hôte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1351,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il en a enlevé tous les siens",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1452,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les a emmenés par le droit chemin",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1553,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans son paradis, plein de félicité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1654,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Où ils vivront éternellement dans l'allégresse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1755,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sans souffrance aucune et sans tristesse.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1856,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cher et doux Père, toi qui es plein de pitié,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,1957,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toi qui aimas tant la virginité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2058,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la très sainte Vierge mère,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2159,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lorsque tu étais suspendu à la haute Croix",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2260,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Où tu as subi une mort cruelle,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2361,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu l'as confiée, afin qu'il la garde",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2462,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme si c'était ton épouse, à Jean l'apôtre vierge;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2563,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque telle est notre foi, et que nous croyons",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2664,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que cela est vrai, venge-nous",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2765,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Fauvel qui conduit à la ruine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2866,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La totalité du fruit de la France.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,2967,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si tu n'y apportes pas de remède,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3068,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À cause de lui, tous feront le trajet inverse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3169,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et retourneront en enfer : hé, Dieu, de ce mauvais tour",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3270,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Veuillez nous garder et nous défendre ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3371,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au contraire, fais-y descendre sans délai",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3472,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel et l'ensemble de sa troupe",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3573,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il boit et engloutit le sang",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3674,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ta plaie, que tu as rachetée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3775,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ton précieux sang! l'affaire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3876,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est entre tes mains, elle sera cachée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,3977,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il se moque ainsi de toi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4078,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5957",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5957-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si tu ne défends pas ta cause.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4179,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5958",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5958-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je soutiendrai sans faire aucune pause",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4280,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5959",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5959-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que s'il s'en tire ainsi et en est quitte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4381,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5960",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5960-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que tu ne lui rendes ce qu'il mérite,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4482,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5961",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5961-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ton peuple en sera tout ébahi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4583,1229,101"
+    },
+    
+    {
+      "@id": "44r-fr-5962",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44r-fr-5962-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tout ira de mal en pis.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44r#xywh=283,4684,1229,101"
+    }
+    
+  ]
+}

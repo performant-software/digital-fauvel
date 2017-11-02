@@ -1,0 +1,1114 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/18v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "18v-fr-2024",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2024-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Je ne peux éviter de le faire, car vous savez parfaitement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,4756,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2025",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2025-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est vous qui m'avez fait tel que je suis :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,4862,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2026",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2026-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis votre créature, du tout au tout,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,4968,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2027",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2027-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Votre serviteur, le produit de votre action.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5074,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2028",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2028-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je serais incapable de décrire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5180,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2029",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2029-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La position à laquelle vous m'avez élevé ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5286,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2030",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2030-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je serais incapable de dire le nombre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5392,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2031",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2031-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des honneurs que j'ai obtenus à votre ombre !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5498,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2032",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2032-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous m'avez laissé tous vos biens, sans que je le mérite,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5604,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2033",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2033-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À disposition, la chose est évidente.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5710,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2034",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2034-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est la raison pour laquelle je suis venu vers vous",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5816,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2035",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2035-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour vous faire don de ma personne, comme votre débiteur ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5922,1197,106"
+    },
+    
+    {
+      "@id": "18v-fr-2036",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2036-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis votre serviteur et votre homme lige :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4389,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2037",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2037-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi, je vous adresse ma supplique,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4492,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2038",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2038-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À vous, en tant que ma souveraine,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4595,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2039",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2039-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Demandant que cela ne vous pèse ni ne vous fasse de peine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4698,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2040",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2040-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'aie eu la hardiesse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4801,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2041",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2041-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De venir vous voir de la manière dont je le fais,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4904,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2042",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2042-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car, ma dame, je considère",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5007,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2043",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2043-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'étendue des biens que vous voulez bien me dispenser:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5110,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2044",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2044-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous m'avez fait roi et seigneur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5213,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2045",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2045-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la fois du royaume et de l'empire;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5316,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2046",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2046-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'existe pas de prince ou de prélat ecclésiastique",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5419,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2047",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2047-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne m'honore, ne m'aime ou m'estime ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5522,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2048",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2048-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'existe désormais ni grand ni petit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5625,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2049",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2049-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'ait le désir et l'appétit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5728,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2050",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2050-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De me rendre quelque service",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5831,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2051",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2051-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par lequel il puisse obtenir ma faveur.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5934,1270,103"
+    },
+    
+    {
+      "@id": "18v-fr-2052",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2052-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce à vous je suis riche et puissant :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,714,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2053",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2053-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est à moi que tout le monde obéit ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,817,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2054",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2054-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aujourd'hui, tout le monde est prêt",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,920,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2055",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2055-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A s'incliner devant ma majesté.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1023,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2056",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2056-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis honoré comme Dieu sur terre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1126,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2057",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2057-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En tous lieux, en temps de paix comme en guerre,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1229,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2058",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2058-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À condition que je bénéficie vraiment de votre faveur.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1332,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2059",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2059-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous êtes ma vie et ma joie !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1435,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2060",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2060-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est la douceur de votre mine qui a allumé ma flamme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1538,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2061",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2061-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car je sens dans mon cœur l'étincelle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1641,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2062",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2062-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'amour qui à la fois me réchauffe et me glace;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1744,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2063",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2063-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'amour que j'ai pour vos qualités",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1847,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2064",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2064-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Me fait ressentir dans mon cœur une grande chaleur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1950,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2065",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2065-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais la peur de perdre votre faveur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2053,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2066",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2066-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "M'a donné souvent froid, comme de la glace",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2156,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2067",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2067-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car vous savez, dame, que l'amour",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2259,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2068",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2068-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est une forme de vie opposée à l'existence habituelle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2362,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2069",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2069-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il contient la proposition et l'antithèse ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2465,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2070",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2070-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est fait de tourments plus que de repos ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2568,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2071",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2071-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une fois il nourrit la vive espérance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2671,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2072",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2072-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'obtenir rapidement ce qu'il désire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2774,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2073",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2073-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et l'autre, la crainte de l'échec",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2877,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2074",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2074-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le plonge dans le désespoir le plus complet.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2980,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2075",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2075-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est un débat tout à fait contradictoire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3083,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2076",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2076-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que conduit l'amour en permanence !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3186,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2077",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2077-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ne sont plus maîtres d'eux-mêmes,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3289,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2078",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2078-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux ou celles que l'amour a en son pouvoir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3392,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2079",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2079-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est parce que l'amour me domine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3495,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2080",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2080-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'ai entrepris de vous adresser ces paroles;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3598,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2081",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2081-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne peux plus, en effet, cacher mes sentiments ni me taire :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3701,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2082",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2082-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est la force de l'amour qui me contraint à le faire !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3804,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2083",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2083-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi, dame qui participez de la divinité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3907,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2084",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2084-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Veuillez avoir pitié de moi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4010,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2085",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2085-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car c'est un amour authentique qui me pousse ainsi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4113,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2086",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2086-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À vous demander de m'accorder votre amour.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4216,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2087",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2087-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et l'amour d'ailleurs me donne de l'assurance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4319,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2088",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2088-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque vous avez pris si grand soin",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4422,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2089",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2089-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De me procurer des honneurs plus grands qu'à tous les autres,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4525,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2090",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2090-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De m'exalter et me faire vénérer;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4628,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2091",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2091-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et cela, vous ne l'auriez jamais fait,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4731,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2092",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2092-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Assurément, si vous n'aviez de l'amour pour moi.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4834,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2093",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2093-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! comment donc pourrais-je me retenir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4937,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2094",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2094-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vous aimer, vous qui êtes toute ma joie ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5040,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2095",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2095-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De plus, la femme est d'un tempérament si affectueux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5143,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2096",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2096-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle ne peut pas haïr celui qui l'aime :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5246,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2097",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2097-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au contraire, la nature féminine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5349,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2098",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2098-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est, en soi, douce, tendre et encline",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5452,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2099",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2099-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À écouter et à aimer celui",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5555,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2100",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2100-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui veut la requérir d'amour.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5658,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2101",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2101-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous avez bien voulu m'élever si haut",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5761,1208,103"
+    },
+    
+    {
+      "@id": "18v-fr-2102",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-fr-2102-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il n'y a rien qui puisse me faire du mal.]",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5864,1208,103"
+    }
+    
+  ]
+}

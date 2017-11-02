@@ -1,0 +1,1408 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/4v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "4v-en-415",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-415-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Has acted so that this source of light",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,766,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-416",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-416-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is completely reversed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,862,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-417",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-417-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He is an animal with much power!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,958,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-418",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-418-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He placed the moon above the sun,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1054,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-419",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-419-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that the sun does not have light",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1150,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-420",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-420-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Except from the moon, from which it is backlit.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1246,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-421",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-421-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You can find a great eclipse there!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1342,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-422",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-422-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "What I have told you I want to prove.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1438,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-423",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-423-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sages, using reason,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1534,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-424",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-424-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Make similar comparisons",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1630,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-425",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-425-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Between the sun and the priests",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1726,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-426",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-426-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the sun, which is beneath,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1822,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-427",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-427-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They compare to earthly power.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,1918,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-428",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-428-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I want to tell you the reason for this.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2014,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-429",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-429-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God, who is lord and master of everything,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2110,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-430",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-430-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Made his son be born from the Virgin,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2206,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-431",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-431-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who practiced sacrifice like a priest;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2302,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-432",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-432-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, the priesthood",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2398,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-433",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-433-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Should be compared to the sun,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2494,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-434",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-434-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For God gave it the authority",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2590,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-435",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-435-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To give light to the world,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2686,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-436",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-436-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through which it would be able to lift its heart and head,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2782,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-437",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-437-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to make known the true path",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2878,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-438",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-438-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Towards eternal joy.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,2974,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-439",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-439-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God led the priesthood in this way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3070,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-440",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-440-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he commanded they lead the Church [?]",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3166,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-441",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-441-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And wanted to create the power in it",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3262,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-442",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-442-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To link and unlink everything.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3358,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-443",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-443-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But over worldly power",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3454,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-444",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-444-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God gave nobody sovereignty,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3550,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-445",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-445-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather he wanted it to be under the priesthood,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3646,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-446",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-446-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To serve as the arm of the Holy Church,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3742,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-447",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-447-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such that it only had the power to do",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3838,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-448",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-448-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That which would please the Church.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,3934,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-449",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-449-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And you can see this through reasoning:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4030,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-450",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-450-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The arm must obey the head",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4126,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-451",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-451-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And put into action",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4222,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-452",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-452-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That which the head commands.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4318,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-453",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-453-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through its nature, the arm is always ready",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4414,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-454",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-454-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To keep the head from injury",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4510,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-455",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-455-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the head is situated higher in man.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4606,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-456",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-456-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than any other member, as it is",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4702,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-457",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-457-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The one that governs the whole body.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4798,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-458",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-458-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through it, one desires, hears and understands.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4894,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-459",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-459-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And if the head were sick,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,4990,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-460",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-460-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is no other member, however vigorous,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5086,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-461",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-461-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That would not be in a great position of weakness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5182,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-462",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-462-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As are servants towards their lord.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5278,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-463",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-463-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Thus must temporal power",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5374,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-464",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-464-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Obey in humility",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5470,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-465",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-465-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Holy Church, which is the lady",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5566,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-466",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-466-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who can link body and soul.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5662,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-467",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-467-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But Fauvel has fauveled so much",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5758,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-468",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-468-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And rolled his cart so well",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5854,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-469",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-469-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That, despite Ferrand and Morel,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,5950,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-470",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-470-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Secular power",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=1186,6046,1229,96"
+    },
+    
+    {
+      "@id": "4v-en-471",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-471-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which should be low like the moon,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,735,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-472",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-472-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Has, through Fortune’s wheel,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,831,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-473",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-473-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sovereignty over the Holy Church.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,927,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-474",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-474-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Church is so far down that it has trouble",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1023,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-475",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-475-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Giving even the slightest bit of light.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1119,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-476",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-476-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Thus is everything topsy-turvy.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1215,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-477",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-477-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The rest of the body is above the head.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1311,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-478",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-478-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There would be a great need that",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1407,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-479",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-479-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God create a new world,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1503,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-480",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-480-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this one is overflowing with all evil,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1599,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-481",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-481-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For Fauvel governs it",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1695,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-482",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-482-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In darkness and with no lantern,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1791,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-483",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-483-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In such a way that he has thrown it off course.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1887,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-484",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-484-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One cannot find it mentioned in any manuscript",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,1983,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-485",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-485-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or in any book of Holy Scripture",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2079,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-486",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-486-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For it has never before been so out of measure",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2175,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-487",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-487-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As we see it now.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2271,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-488",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-488-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel is lying there permanently,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2367,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-489",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-489-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he is the master the dice game.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2463,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-490",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-490-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Out of everyone, he leads the dance.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2559,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-491",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-491-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He makes it turn and turn again",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2655,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-492",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-492-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to jumble and upend everything;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2751,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-493",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-493-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has put his intelligence and attention towards this so much",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2847,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-494",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-494-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That today every creature",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,2943,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-495",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-495-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is turned around and contrary",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3039,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-496",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-496-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To that for which God made him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3135,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-497",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-497-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will show you this in all levels of society",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3231,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-498",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-498-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through arguments which do not lack proofs.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3327,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-499",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-499-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "First, with respect to ecclesiastics,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3423,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-500",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-500-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who should have good qualities,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3519,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-501",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-501-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without gloss and without commentary",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3615,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-502",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-502-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will tell you clearly:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3711,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-503",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-503-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such people—it is obvious—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3807,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-504",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-504-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Have begun to act in topsy-turvy fashion.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,3903,1239,96"
+    },
+    
+    {
+      "@id": "4v-en-505",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-505-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the time of early religion,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5166,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-506",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-506-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From which human salvation derives,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5266,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-507",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-507-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When God wed the Holy Church",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5366,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-508",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-508-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And saved it with his blood,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5466,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-509",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-509-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He made Saint Peter his vicar",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5566,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-510",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-510-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And wanted him to be pastor and father",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5666,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-511",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-511-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to govern Christianity.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5766,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-512",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-512-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He gave him an abundance of power",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5866,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-513",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-513-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And did the same for the apostles",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,5966,1218,100"
+    },
+    
+    {
+      "@id": "4v-en-514",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4v-en-514-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such that, through their teaching,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4v#xywh=3748,6066,1218,100"
+    }
+    
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/1r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "1r-fr-1",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-1-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À cause de Fauvel, que je vois torcher avec tant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,1827,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-2",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-2-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout en douceur, sans qu'on l'égratigne,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,1924,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-3",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-3-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai sombré dans la mélancolie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2021,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-4",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-4-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce qu'il est aujourd'hui une bête au poil si brillant.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2118,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-5",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-5-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Souvent le voient représenté en peinture",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2215,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-6",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-6-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des gens qui ne savent pas si ce qui est figuré par lui",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2312,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-7",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-7-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est dérision, sagesse ou folie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2409,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-8",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-8-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi, sans la moindre équivoque,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2506,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-9",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-9-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vais dire sur ce genre de bête",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2603,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-10",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-10-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qui peut me passer par la tête.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2700,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-11",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-11-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel ne couche plus dans une écurie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2797,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-12",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-12-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il possède une demeure plus honorable :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2894,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-13",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-13-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il exige une mangeoire plus prestigieuse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2991,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-14",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-14-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un beau râtelier et une nourriture abondante.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3088,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-15",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-15-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a pris ses quartiers dans la salle d'apparat,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3185,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-16",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-16-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin de mieux exhiber sa dignité royale.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3282,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-17",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-17-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais à travers les autres pièces aussi,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3379,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-18",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-18-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce à son savoir, on le révère beaucoup,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3476,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-19",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-19-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et il arrive fréquemment que dans les chambres",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3573,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-20",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-20-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il fasse rassembler toute sa suite",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3670,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-21",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-21-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui avec tant d'application le frotte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3767,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-22",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-22-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne peut subsister la moindre crotte.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3864,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-23",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-23-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, l'adversaire de Raison,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3961,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-24",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-24-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En a fait le seigneur de sa maison :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4058,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-25",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-25-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle se donne beaucoup de mal pour le promouvoir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4155,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-26",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-26-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisqu'elle l'emmène au palais du roi;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4252,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-27",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-27-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle ne cesse de lui faire obtenir des honneurs.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4349,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-28",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-28-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Autour de Fauvel, il y a une telle foule qui se presse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4446,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-29",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-29-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De gens issus de toutes nations",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4543,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-30",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-30-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de toutes conditions",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4640,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-31",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-31-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'en est tout à fait extraordinaire :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4737,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-32",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-32-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pas un qui ne se mette en quatre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4834,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-33",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-33-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour bouchonner Fauvel tout en douceur ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4931,1124,97"
+    },
+    
+    {
+      "@id": "1r-fr-34",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fr-34-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le rassemblement en est prodigieux !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,5028,1124,97"
+    }
+    
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/14r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "14r-en-1605",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1605-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But next to Fauvel, to his left,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,1848,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1606",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1606-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I saw Pride, in great pomp,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,1957,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1607",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1607-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then Presumption,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2066,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1608",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1608-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Disdain and Indignation,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2175,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1609",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1609-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vain Flirtation and then Ostentation,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2284,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1610",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1610-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Arrogance and Crazy Overconfidence.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2393,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1611",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1611-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afterwards was seated Hypocrisy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2502,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1612",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1612-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who is very humble on the outside",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2611,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1613",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1613-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But in her heart, with great mastery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2720,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1614",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1614-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conforms to Pride and his followers.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2829,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1615",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1615-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She is a marvelous woman.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,2938,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1616",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1616-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sometimes she is dressed as a nun,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3047,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1617",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1617-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In a habit, and then as a secular woman,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3156,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1618",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1618-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then as a Franciscan monk, then a Franciscan nun,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3265,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1619",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1619-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then as a Dominican monk, then as a Dominican nun,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3374,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1620",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1620-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sometimes a lady, another a young girl,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3483,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1621",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1621-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then as a lord, and then as a servant.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3592,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1622",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1622-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She has many strings in her bow.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3701,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1623",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1623-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She pulls on one and then the other.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3810,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1624",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1624-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sometimes she praises, and sometimes she disparages.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,3919,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1625",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1625-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In front of people she prays and murmurs,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4028,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1626",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1626-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But in her heart she has a little fox.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4137,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1627",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1627-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She knows well, in times of peace and war,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4246,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1628",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1628-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "How to make fun of God!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4355,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1629",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1629-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "False Seeming was seated next to her,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4464,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1630",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1630-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But about neither of them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4573,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1631",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1631-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Would I like to speak longer,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4682,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1632",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1632-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For in them, there is no good.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4791,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1633",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1633-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And whoever would like to know how to gloss them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,4900,1165,109"
+    },
+    
+    {
+      "@id": "14r-en-1634",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14r-en-1634-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Should consult the Romance of the rose.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14r#xywh=1659,5009,1165,109"
+    }
+    
+  ]
+}

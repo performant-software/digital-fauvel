@@ -1,0 +1,708 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/19v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "19v-fro-2151",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2151-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult regarde par grant fierté,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5722,1208,110"
+    },
+    
+    {
+      "@id": "19v-fro-2152",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2152-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De parler ne fait pas chierté :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5832,1208,110"
+    },
+    
+    {
+      "@id": "19v-fro-2153",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2153-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "F« Fauvel, moult y es fouis et hardiz",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,5942,1208,110"
+    },
+    
+    {
+      "@id": "19v-fro-2154",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2154-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tant par faiz comme par diz !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=2551,6052,1208,110"
+    },
+    
+    {
+      "@id": "19v-fro-2155",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2155-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cuides tu que tiengne a proesce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,577,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2156",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2156-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Outrecuidiee hardiesce ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,680,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2157",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2157-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Selonc la parole commune,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,783,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2158",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2158-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les hardiz aide Fortune.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,886,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2159",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2159-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes souvent foie hardiesce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,989,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2160",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2160-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est cas et cause de tristece ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1092,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2161",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2161-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si ai ge plus fouls hardis",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1195,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2162",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2162-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aidé que sages trop tardis :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1298,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2163",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2163-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car li sages les cas redoutent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1401,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2164",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2164-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et li fouls plus avant se boutent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1504,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2165",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2165-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi crois tu [touz] jours durer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1607,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2166",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2166-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour toi ainssi avanturer ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1710,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2167",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2167-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes je croi qu'ainc mes n'oÿ on",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1813,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2168",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2168-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parler de tel presumpcïon",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,1916,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2169",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2169-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme as emprise et conceüe !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2019,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2170",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2170-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu ne m'as pas bien cogneüe!",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2122,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2171",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2171-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comment t'est il monté en teste",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2225,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2172",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2172-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par le pignon ou par le feste",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2328,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2173",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2173-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je soie dame Maron",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2431,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2174",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2174-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui preugne Fauvel a baron ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2534,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2175",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2175-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne sez pas bien que je puis faire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2637,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2176",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2176-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne de quiex mereles sai traire ...",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2740,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2177",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2177-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, tu ne me congnois mie !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2843,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2178",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2178-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Onques homme de mortel vie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,2946,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2179",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2179-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'out de moi plainne connoissance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3049,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2180",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2180-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'a plain ne connut ma puissance.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3152,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2181",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2181-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne cuide pas que par richesce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3255,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2182",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2182-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Soit cogneüe ma hautesce !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3358,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2183",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2183-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Riches ne pensent de Fortune",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3461,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2184",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2184-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ele puist de deus feves faire une ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3564,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2185",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2185-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes quant homs pouvre estre couvient,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3667,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2186",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2186-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Fortune lors li souvient.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3770,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2187",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2187-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce me puet l'en par mesaise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3873,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2188",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2188-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Miex cognoistre que par grant aise.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,3976,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2189",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2189-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, tu es trop deceü",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4079,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2190",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2190-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant en ton sens as porveü",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4182,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2191",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2191-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je fame a marier soie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4285,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2192",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2192-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'a toi espouser m'otroie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4388,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2193",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2193-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu ne connois moi ne mon pere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4491,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2194",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2194-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne ne ses dont sui, n'a quoi fere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4594,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2195",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2195-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je sui en ce monde establie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4697,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2196",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2196-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce te vueil une partie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4800,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2197",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2197-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De mon estat faire sentir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,4903,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2198",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2198-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car j'en voi trop souvent mentir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5006,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2199",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2199-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aucuns qui parlent de Fortune,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5109,1176,103"
+    },
+    
+    {
+      "@id": "19v-fro-2200",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19v-fro-2200-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nonsachanz s'elle est blanche ou brune !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19v#xywh=3885,5212,1176,103"
+    }
+    
+  ]
+}

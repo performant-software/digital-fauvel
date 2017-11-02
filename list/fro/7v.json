@@ -1,0 +1,792 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/7v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "7v-fro-751",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-751-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A merite pecuniaire.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,724,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-752",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-752-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce ne devroit pas a Dieu plaire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,821,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-753",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-753-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il le font en ceste maniere :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,918,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-754",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-754-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il metent ce devant derriere.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1015,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-755",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-755-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des prouvendes ont largement,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1112,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-756",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-756-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes il servent escharcement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1209,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-757",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-757-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celi de qui touz les biens vienent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1306,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-758",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-758-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Helas ! com a grant peril tienent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1403,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-759",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-759-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les prouvendes de sainte Eglyse",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1500,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-760",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-760-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se il n'en rendent tel servise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1597,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-761",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-761-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme l'Eglyse a ordené !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1694,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-762",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-762-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aucuns dient, non pas sené,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1791,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-763",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-763-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que leur prouvendes sont trop franches :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1888,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-764",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-764-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais c'est noires chauces blanches.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,1985,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-765",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-765-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les biens de l'Eglise reçoivent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2082,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-766",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-766-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Despendent, menjuent et boivent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2179,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-767",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-767-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et gastent en mauvese guise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2276,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-768",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-768-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sanz fere a Dieu nul servise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2373,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-769",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-769-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Es lieus ou doivent demourer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2470,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-770",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-770-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ilueques Dieu honourer.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2567,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-771",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-771-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ecclesial benefice",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2664,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-772",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-772-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est donné pour divin office :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2761,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-773",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-773-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or s'i gart qui en a grant nombre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2858,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-774",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-774-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car pour chascun servir s'encombre!",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,2955,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-775",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-775-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien sont li chanoine aourné",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3052,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-776",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-776-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que saint Benoit le bestourné",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3149,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-777",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-777-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A au jour d'ui de sa mesnie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3246,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-778",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-778-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui maynent bestornee vie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3343,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-779",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-779-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne vivent mie clerjaument",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3440,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-780",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-780-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainçois vivent bestiaument.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3537,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-781",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-781-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les uns chevauchent a lorain,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3634,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-782",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-782-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les autres sont touz jours forain :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3731,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-783",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-783-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Fauvel sont filz ou neveus.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3828,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-784",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-784-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au dorenlot sont leur cheveus :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,3925,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-785",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-785-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il sont de l'Eglise fillastre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4022,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-786",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-786-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il font trop le gentillastre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4119,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-787",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-787-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Coiffes ont et solers a las.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4216,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-788",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-788-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien devraient crier « Halas ! »",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4313,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-789",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-789-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se le crucefix regardassent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4410,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-790",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-790-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en li souvent se mirassent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4507,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-791",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-791-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conmant il est en croix haucié,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4604,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-792",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-792-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conmant il est etroit chaucié",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4701,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-793",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-793-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de quel robe il est vestu !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4798,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-794",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-794-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne deüssent pas si testu",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4895,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-795",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-795-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne si fous les chanoines estre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,4992,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-796",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-796-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour gaster les biens de leur mestre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5089,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-797",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-797-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDes prestres curez que dirons?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5186,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-798",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-798-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De leur estat .i. pou lirons :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5283,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-799",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-799-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il sont par tout bien conneüs",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5380,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-800",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-800-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ilz sont de plus pres veüs ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5477,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-801",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-801-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Briement ore m'en passerai.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5574,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-802",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-802-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nepourquant pas ne me tairai",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5671,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-803",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-803-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je aucune chose ne die",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5768,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-804",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-804-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De leur estat ne de leur vie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5865,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-805",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-805-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant eglyses vaquier souloient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,5962,1228,97"
+    },
+    
+    {
+      "@id": "7v-fro-806",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7v-fro-806-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les bons prelas si les donnaient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7v#xywh=2520,6059,1228,97"
+    }
+    
+  ]
+}

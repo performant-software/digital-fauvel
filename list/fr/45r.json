@@ -1,0 +1,148 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/45r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "45r-fr-5977",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5977-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ferrant a péri, et Fauvel aurait bien dû",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,672,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5978",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5978-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Périr lui aussi, lui qui ne trouve personne pour l'arrêter",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,782,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5979",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5979-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En ce monde, car tous lui obéissent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,892,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5980",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5980-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'il a tout pillé !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1002,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5981",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5981-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il nous a dépouillés de tout par ses paroles séductrices",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1112,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5982",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5982-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il nous a trompés en nous volant.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1222,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5983",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5983-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il finira bien, car il ne pourra pas",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1332,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5984",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5984-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vivre toujours. Ici s'achève mon second livre.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1442,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5985",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5985-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Dieu le reçoive favorablement :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1552,1197,110"
+    },
+    
+    {
+      "@id": "45r-fr-5986",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fr-5986-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai soif, il est temps que je boive !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1662,1197,110"
+    }
+    
+  ]
+}

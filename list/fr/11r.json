@@ -1,0 +1,568 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/11r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "11r-fr-1263",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1263-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À propos de Fauvel vous avez bien entendu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=315,5785,924,257"
+    },
+    
+    {
+      "@id": "11r-fr-1264",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1264-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comment on le frictionne et le nettoie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=315,6042,924,257"
+    },
+    
+    {
+      "@id": "11r-fr-1265",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1265-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais parce qu'il serait nécessaire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,787,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1266",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1266-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À l'humanité tout entière",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,898,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1267",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1267-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De connaître l'histoire de Fauvel",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1009,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1268",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1268-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de bien la garder en mémoire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1120,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1269",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1269-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il est le symbole de tout mal,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1231,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1270",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1270-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que, comme nous dit l'Écriture,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1342,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1271",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1271-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nul ne peut correctement éviter le vice",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1453,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1272",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1272-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il n'a pas la connaissance préalable du mal,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1564,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1273",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1273-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ces raisons, je veux encore ajouter",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1675,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1274",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1274-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelque propos qui contribue",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1786,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1275",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1275-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À révéler plus complètement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1897,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1276",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1276-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La situation de Fauvel et son entreprise :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2008,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1277",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1277-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin que nous puissions vivre débarrassés de lui",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2119,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1278",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1278-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai composé à son sujet ce second livre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2230,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1279",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1279-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui raconte la manière dont Fauvel",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2341,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1280",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1280-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'est marié et multiplié.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2452,1176,111"
+    },
+    
+    {
+      "@id": "11r-fr-1281",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1281-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un jour, il séjournait en son palais,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,3874,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1282",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1282-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, qui ne donne pas l'impression d'être un joyeux compagnon,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,3982,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1283",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1283-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien qu'il possède au pays de Galles",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4090,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1284",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1284-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des châteaux, des donjons, des manoirs, des salles d'apparat.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4198,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1285",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1285-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Autour de lui il y avait grand nombre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4306,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1286",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1286-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De gens, tous de sa párenté,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4414,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1287",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1287-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il n'y avait dans son entourage",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4522,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1288",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1288-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nul qui ne lui fût proche par le lignage.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4630,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1289",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1289-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il était assis sur un siège pliant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4738,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1290",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1290-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais je crois qu'il n'existe pas ici six personnes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4846,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1291",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1291-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui en aient jamais vu d'aussi magnifique",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4954,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1292",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1292-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou qui en aient entendu parler :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5062,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1293",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1293-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il était si beau que, par saint Côme,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5170,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1294",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1294-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cela semblait être une œuvre de magie !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5278,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1295",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1295-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il était fait d'un or produit par l'alchimie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5386,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1296",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1296-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui paraissait pur, mais qui ne l'était point;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5494,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1297",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1297-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cependant, il brillait avec une telle splendeur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5602,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1298",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1298-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que toute personne qui se trouvait à proximité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5710,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1299",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1299-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne pouvait manquer d'être éblouie par sa vision",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5818,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1300",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1300-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et d'avoir le désir de s'y installer.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5926,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1301",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1301-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il était orné d'émail à la mode irlandaise,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,6034,1166,108"
+    },
+    
+    {
+      "@id": "11r-fr-1302",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fr-1302-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Travaillé selon la technique sarrasine,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,6142,1166,108"
+    }
+    
+  ]
+}

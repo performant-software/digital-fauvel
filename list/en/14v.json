@@ -1,0 +1,876 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/14v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "14v-en-1635",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1635-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afterwards was seated Inconstancy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,756,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1636",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1636-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who had thrown onto her back",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,867,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1637",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1637-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A cloak lined with panther fur",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,978,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1638",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1638-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Made out of changing material.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1089,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1639",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1639-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And this figure, who is always changing,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1200,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1640",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1640-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is always dressed in things that change:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1311,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1641",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1641-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She says one thing, but in action",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1422,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1642",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1642-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She is nothing but the opposite,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1533,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1643",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1643-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And through her beautiful behavior",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1644,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1644",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1644-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She is called Inconstancy.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1197,1755,1197,111"
+    },
+    
+    {
+      "@id": "14v-en-1645",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1645-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Next was seated Duplicity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,2761,1145,106"
+    },
+    
+    {
+      "@id": "14v-en-1646",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1646-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who always directs her attention",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,2867,1145,106"
+    },
+    
+    {
+      "@id": "14v-en-1647",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1647-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Towards doublespeak",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,2973,1145,106"
+    },
+    
+    {
+      "@id": "14v-en-1648",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1648-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or language with a double meaning.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3079,1145,106"
+    },
+    
+    {
+      "@id": "14v-en-1649",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1649-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Next to her, Falsity had her seat,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3185,1145,106"
+    },
+    
+    {
+      "@id": "14v-en-1650",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1650-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which is falser than cork.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3291,1145,106"
+    },
+    
+    {
+      "@id": "14v-en-1651",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1651-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In her one thinks one will find some goodness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3397,1145,106"
+    },
+    
+    {
+      "@id": "14v-en-1652",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1652-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But she is disloyal and empty.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1207,3503,1145,106"
+    },
+    
+    {
+      "@id": "14v-en-1653",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1653-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Next to her was seated Ingratitude",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4504,1186,105"
+    },
+    
+    {
+      "@id": "14v-en-1654",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1654-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who is very bad and disagreeable,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4609,1186,105"
+    },
+    
+    {
+      "@id": "14v-en-1655",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1655-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For she does not want to recognize",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4714,1186,105"
+    },
+    
+    {
+      "@id": "14v-en-1656",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1656-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever might have exerted effort in helping her.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4819,1186,105"
+    },
+    
+    {
+      "@id": "14v-en-1657",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1657-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May she be condemned in all courts,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,4924,1186,105"
+    },
+    
+    {
+      "@id": "14v-en-1658",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1658-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For she was born under a bad star!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=1218,5029,1186,105"
+    },
+    
+    {
+      "@id": "14v-en-1659",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1659-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Next to her was seated Baseness",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,798,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1660",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1660-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the clothing of knighthood;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,906,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1661",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1661-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But towards knowing true nobility",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1014,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1662",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1662-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She does put or direct her heart.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1122,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1663",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1663-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But if she were the daughter of a good father,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1230,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1664",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1664-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It would be fitting that some good quality appear in her!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1338,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1665",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1665-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She believes she is noble and wise",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1446,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1666",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1666-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because she has a great inheritance",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1554,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1667",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1667-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But she deceives herself and errs,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1662,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1668",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1668-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For nobility is not of the earth,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1770,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1669",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1669-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather it is grafted in man through the heart",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1878,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1670",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1670-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which is paid with noble qualities.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,1986,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1671",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1671-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Those in whom they are present",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2094,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1672",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1672-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are very noble and well mannered.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2202,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1673",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1673-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "About the nobleman, I declare and will declare",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2310,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1674",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1674-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That he is born of bad blood,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2418,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1675",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1675-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or born in the sin of adultery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2526,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1676",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1676-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If he does not equip and provide himself with",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2634,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1677",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1677-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Noble actions, through which one can say",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2742,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1678",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1678-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it was no peasant who gave birth to him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3853,2850,1082,108"
+    },
+    
+    {
+      "@id": "14v-en-1679",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1679-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And afterwards was seated Anxiety",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4021,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1680",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1680-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who is not lazy about working,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4137,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1681",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1681-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For on Sundays and feast days,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4253,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1682",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1682-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She makes servants and animals work.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4369,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1683",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1683-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She has such great haste to work",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4485,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1684",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1684-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she does not care about honoring God.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4601,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1685",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1685-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And even if she did not have a child or wife,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4717,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1686",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1686-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She would still want to act this way.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4833,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1687",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1687-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Know that he was born under a bad star,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,4949,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1688",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1688-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever works in this way.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5065,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1689",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1689-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Both testaments",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5181,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1690",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1690-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Forbid it, may God help me!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5297,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1691",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1691-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Around the lord who is tawny",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5413,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1692",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1692-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There was—may Christ save me—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5529,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1693",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1693-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "An abundance of people from his household.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5645,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1694",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1694-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There was a great crowd there.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5761,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1695",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1695-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There was Deceit, [?],",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5877,1029,116"
+    },
+    
+    {
+      "@id": "14v-en-1696",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "14v-en-1696-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Traitor, Scheming, Trickery",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/14v#xywh=3843,5993,1029,116"
+    }
+    
+  ]
+}

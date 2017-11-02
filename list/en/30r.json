@@ -1,0 +1,624 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/30r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "30r-en-4086",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4086-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will make them fall basely,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,462,1291,120"
+    },
+    
+    {
+      "@id": "30r-en-4087",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4087-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Kill some and capture the others.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,582,1291,120"
+    },
+    
+    {
+      "@id": "30r-en-4088",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4088-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Some will have injuries and losses,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,702,1291,120"
+    },
+    
+    {
+      "@id": "30r-en-4089",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4089-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And others will die in poverty!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,822,1291,120"
+    },
+    
+    {
+      "@id": "30r-en-4090",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4090-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I will make them suffer many evils",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,942,1291,120"
+    },
+    
+    {
+      "@id": "30r-en-4091",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4091-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "However much it must displease you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,1062,1291,120"
+    },
+    
+    {
+      "@id": "30r-en-4092",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4092-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that the good will have great joy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,1182,1291,120"
+    },
+    
+    {
+      "@id": "30r-en-4093",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4093-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When the wicked follow this path.”",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=189,1302,1291,120"
+    },
+    
+    {
+      "@id": "30r-en-4094",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4094-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel has listened and heard",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,514,1176,107"
+    },
+    
+    {
+      "@id": "30r-en-4095",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4095-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "What the lady has said to him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,621,1176,107"
+    },
+    
+    {
+      "@id": "30r-en-4096",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4096-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He is lost, and does not know what he should do.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,728,1176,107"
+    },
+    
+    {
+      "@id": "30r-en-4097",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4097-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "His face is wet from crying",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,835,1176,107"
+    },
+    
+    {
+      "@id": "30r-en-4098",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4098-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And he does not know which path he should take,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,942,1176,107"
+    },
+    
+    {
+      "@id": "30r-en-4099",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4099-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor what the ending to all of this will be.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,1049,1176,107"
+    },
+    
+    {
+      "@id": "30r-en-4100",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4100-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He made the motet that follows",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,1156,1176,107"
+    },
+    
+    {
+      "@id": "30r-en-4101",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4101-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But he does not take any pleasure in it!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=1564,1263,1176,107"
+    },
+    
+    {
+      "@id": "30r-en-4102",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4102-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Meanwhile, Fortune decides",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,493,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she will not attack",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,597,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, who is stupefied, any further.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,701,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4105",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4105-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She says to him: “Beast of trickery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,805,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4106",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4106-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I do not wish, since you have entered my gates,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,909,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4107",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4107-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you not take away some favor.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1013,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4108",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4108-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Behold the beautiful Vainglory,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1117,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4109",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4109-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The deceitful maiden",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1221,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4110",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4110-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who subtly inebriates people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1325,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4111",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4111-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who wish to live high up in the world,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1429,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4112",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4112-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And makes them trust in delights",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1533,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4113",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4113-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that they forget themselves and their ending.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1637,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4114",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4114-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And long ago she, for the five foolish virgins,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1741,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4115",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4115-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Put out their lamps and their candles,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1845,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4116",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4116-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the virginity that they possessed,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,1949,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4117",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4117-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They had entrusted it to Vainglory completely.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2053,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4118",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4118-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The maiden Vainglory,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2157,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4119",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4119-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who is so ephemeral and transitory,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2261,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4120",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4120-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Gives drinks so sweetly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2365,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4121",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4121-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That one loses all memory completely",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2469,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4122",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4122-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the joy that lasts forever.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2573,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4123",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4123-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She is of a very deceitful nature,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2677,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4124",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4124-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vainglory, it seems to me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2781,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4125",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4125-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She has very quickly swept people away",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2885,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4126",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4126-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With pride and arrogance,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,2989,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4127",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4127-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all good things, if she interferes in them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,3093,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4128",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4128-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She reduces to nothingness and makes perish;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,3197,1396,104"
+    },
+    
+    {
+      "@id": "30r-en-4129",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "30r-en-4129-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She does not allow people to receive their just deserts.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/30r#xywh=2898,3301,1396,104"
+    }
+    
+  ]
+}

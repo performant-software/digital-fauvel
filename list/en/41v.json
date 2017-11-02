@@ -1,0 +1,1352 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/41v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "41v-en-5667",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5667-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Never had such great horses",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,724,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5668",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5668-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For jousting been seen",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,827,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5669",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5669-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the country, in mountains or valleys,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,930,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5670",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5670-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Especially bred horses,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1033,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5671",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5671-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As were those of the ladies that day,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1136,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5672",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5672-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which they offered without hesitation",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1239,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5673",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5673-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the good people who gathered there",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1342,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5674",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5674-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to the jonglers who were there.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1445,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5675",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5675-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the rumor has already flown",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1548,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5676",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5676-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everywhere that",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1651,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5677",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5677-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "These women who have jousted",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1754,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5678",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5678-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are those who will hold the circle",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1857,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5679",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5679-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the world and its center",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,1960,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5680",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5680-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without any objection",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2063,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5681",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5681-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And without which no man who is alive",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2166,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5682",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5682-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Can arrive on the path of salvation.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2269,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5683",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5683-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On foot and on horseback,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2372,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5684",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5684-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through mountains and valleys,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2475,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5685",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5685-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They fill the path and the road,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2578,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5686",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5686-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Those who leave their houses to see the ladies.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2681,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5687",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5687-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is no lady or lord",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2784,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5688",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5688-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who does not show greater joy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2887,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5689",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5689-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than any seen before,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,2990,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5690",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5690-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So much are they joyful because of the arrival",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3093,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5691",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5691-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the ladies and because of their stay.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3196,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5692",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5692-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each one praises God",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3299,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5693",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5693-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And exerts efforts to show his joy.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3402,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5694",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5694-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everywhere bells sound,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3505,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5695",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5695-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trumpets, tambourines, drums and bagpipes.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3608,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5696",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5696-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jongleurs pull all sorts of stunts.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3711,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5697",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5697-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is no one who is lazy!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3814,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5698",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5698-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone cries out: “May they be welcome!”",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,3917,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5699",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5699-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And show, in their appearance, their great desire",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4020,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5700",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5700-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To please these ladies.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4123,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5701",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5701-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever could give to them gave to them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4226,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5702",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5702-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And abandoned whatever he had:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4329,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5703",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5703-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Horses, crowns and brooches,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4432,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5704",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5704-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fabrics, belts and precious rings,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4535,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5705",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5705-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Goblets, cups of gold and silver.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4638,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5706",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5706-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But they took little, for they were",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4741,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5707",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5707-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Honorable people and free from greed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4844,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5708",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5708-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They did not want anything from other people.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,4947,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5709",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5709-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They were escorted to their inns",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5050,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5710",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5710-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And very honored",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5153,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5711",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5711-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And when it came time to take leave,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5256,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5712",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5712-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each one of them knew well how",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5359,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5713",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5713-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To thank the appropriate person",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5462,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5714",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5714-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And felt obliged",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5565,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5715",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5715-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To them out of pure and true affection,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5668,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5716",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5716-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without rubbing Fauvel at all.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5771,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5717",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5717-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On the sly, Fauvel had already assembled",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5874,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5718",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5718-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As many people as he could",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=1144,5977,1334,103"
+    },
+    
+    {
+      "@id": "41v-en-5719",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5719-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "At his home, among his relatives",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,714,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5720",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5720-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of which there was a great abundance,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,817,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5721",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5721-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And Vainglory and her friends,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,920,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5722",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5722-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Were gathered with Fauvel’s people.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1023,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5723",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5723-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They forget their shame",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1126,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5724",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5724-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But were angrier than they appeared.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1229,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5725",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5725-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Despite all of this they had their party",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1332,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5726",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5726-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And have not separated since.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1435,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5727",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5727-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel slept so often",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1538,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5728",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5728-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With Vainglory that she had",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1641,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5729",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5729-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From Fauvel—without giving an exact count—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1744,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5730",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5730-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Many children, for she gave birth to many.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1847,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5731",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5731-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everywhere there are already new little Fauvels",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,1950,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5732",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5732-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who are worse than wolf cubs.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2053,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5733",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5733-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "His lineage grew so much",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2156,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5734",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5734-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That no greater had ever been seen!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2259,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5735",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5735-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He advanced well in this world,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2362,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5736",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5736-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And sent his friends everywhere!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2465,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5737",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5737-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But above all things I lament",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2568,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5738",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5738-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The beautiful garden full of grace",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2671,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5739",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5739-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Where God, through a special decision,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2774,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5740",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5740-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Planted the flower of loyalty",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2877,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5741",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5741-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And sowed excellently",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,2980,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5742",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5742-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The noble grain and seed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3083,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5743",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5743-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the flower of Christianity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3186,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5744",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5744-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And other flowers in great abundance:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3289,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5745",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5745-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The flowers of peace and the flowers of justice,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3392,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5746",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5746-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The flower of faith and the flower of nobility,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3495,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5747",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5747-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The flower of honor and the flower which bloomed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3598,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5748",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5748-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With wisdom and knighthood.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3701,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5749",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5749-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such a garden, which is adorned with such flowers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3804,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5750",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5750-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was born under a good star.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,3907,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5751",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5751-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is the garden of sweet France.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4010,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5752",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5752-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas! What a misfortune",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4113,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5753",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5753-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That into this very beautiful orchard",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4216,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5754",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5754-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel came to take up residence.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4319,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5755",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5755-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If only he had not had the eyes or the teeth",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4422,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5756",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5756-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With which he entered into it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4525,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5757",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5757-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the animal full of all evil",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4628,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5758",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5758-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leads his wife into the garden",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4731,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5759",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5759-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all of his allies",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4834,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5760",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5760-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who have wickedly entrapped us.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,4937,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5761",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5761-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And because this makes me angry,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,5040,1302,103"
+    },
+    
+    {
+      "@id": "41v-en-5762",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "41v-en-5762-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I place this motet here, whomever it might upset:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/41v#xywh=3801,5143,1302,103"
+    }
+    
+  ]
+}

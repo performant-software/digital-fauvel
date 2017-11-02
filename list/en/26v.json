@@ -1,0 +1,302 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/26v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "26v-en-3574",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3574-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now my life and my death",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,3759,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3575",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3575-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are in your hands completely, my lady;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,3865,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3576",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3576-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I want this with my whole heart, without hesitation",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,3971,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3577",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3577-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of any sort—may no one believe this.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4077,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3578",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3578-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May God grant that pity touch you enough",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4183,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3579",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3579-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That my end not have come.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4289,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3580",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3580-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas! Very sweet, refined lady,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4395,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3581",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3581-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If you ever desired that",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4501,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3582",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3582-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My life be over in such a short time,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4607,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3583",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3583-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "[The life] that I have planted in you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4713,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3584",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3584-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My love, alas! What a destiny!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4819,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3585",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3585-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My whole heart would tear up with horror.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4925,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3586",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3586-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I cannot see any other end",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5031,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3587",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3587-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To my painful torments than death,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5137,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3588",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3588-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My lady; and this must happen to me",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5243,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3589",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3589-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If you do not deign to consent",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5349,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3590",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3590-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To relieving my pains",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5455,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3591",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3591-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through the sweet assistance that might come to me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5561,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3592",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3592-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Certainly, if I do not have your sweet assistance,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5667,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3593",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3593-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My dear lady, the only outcome",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5773,1376,106"
+    },
+    
+    {
+      "@id": "26v-en-3594",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-en-3594-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is death, and I will be delivered.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5879,1376,106"
+    }
+    
+  ]
+}

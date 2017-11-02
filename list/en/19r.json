@@ -1,0 +1,680 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/19r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "19r-en-2103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And when she agrees to listen,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,724,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She cannot refuse her beseecher.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,827,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2105",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2105-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, my lady, in hopes",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,930,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2106",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2106-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of this great reward, if you please,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1033,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2107",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2107-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I beg and beseech your love.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1136,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2108",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2108-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I do not desire anything more in this world.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1239,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2109",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2109-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And so that you not think that I desire",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1342,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2110",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2110-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Something from which honesty might suffer,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1445,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2111",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2111-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And from which a note of baseness",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1548,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2112",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2112-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Would appear in what I am saying",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1651,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2113",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2113-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—I would not wish to do this for anything,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1754,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2114",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2114-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "My sweet, generous lady—,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1857,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2115",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2115-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason I want to reveal my whole heart,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1960,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2116",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2116-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As long as you are not moved to anger.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2063,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2117",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2117-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "\"Very sweet lady, you know",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2166,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2118",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2118-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you possess great wealth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2269,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2119",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2119-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All belongings, money, gold, deniers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2372,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2120",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2120-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Come from nowhere except from your attics.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2475,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2121",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2121-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You are queen and lady of the world.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2578,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2122",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2122-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Both men and animals,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2681,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2123",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2123-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Birds and all mortal things,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2784,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2124",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2124-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are under your power.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2887,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2125",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2125-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Therefore it must be very painful to you",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2990,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2126",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2126-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you have neither son nor nephew",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3093,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2127",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2127-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To be the heir of your inheritance—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3196,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2128",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2128-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And you are already quite old!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3299,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2129",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2129-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You were born a very long time ago",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3402,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2130",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2130-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And you are not married yet!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3505,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2131",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2131-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And, moreover, I am thinking of",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3608,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2132",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2132-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The fact that you entrusted me with your riches.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3711,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2133",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2133-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because of this, if it would please you to consider",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3814,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2134",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2134-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Taking me as a husband,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3917,1165,103"
+    },
+    
+    {
+      "@id": "19r-en-2135",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2135-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then your goods would be",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5229,1207,107"
+    },
+    
+    {
+      "@id": "19r-en-2136",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2136-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "More secure and I would be assuaged,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5336,1207,107"
+    },
+    
+    {
+      "@id": "19r-en-2137",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2137-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For I would be assured",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5443,1207,107"
+    },
+    
+    {
+      "@id": "19r-en-2138",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2138-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you won't take away my luck,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5550,1207,107"
+    },
+    
+    {
+      "@id": "19r-en-2139",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2139-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since, through your promise you would be mine",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5657,1207,107"
+    },
+    
+    {
+      "@id": "19r-en-2140",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2140-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And I yours; then I would devote myself",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5764,1207,107"
+    },
+    
+    {
+      "@id": "19r-en-2141",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2141-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To loving you, serving and pleasing you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5871,1207,107"
+    },
+    
+    {
+      "@id": "19r-en-2142",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2142-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "More than a child does his mother!\"",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5978,1207,107"
+    },
+    
+    {
+      "@id": "19r-en-2143",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2143-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then Fauvel fell silent and sighed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,588,1260,117"
+    },
+    
+    {
+      "@id": "19r-en-2144",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2144-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With one of those fake sighs he masters so well.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,705,1260,117"
+    },
+    
+    {
+      "@id": "19r-en-2145",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2145-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He truly believes that, by moonlight,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,822,1260,117"
+    },
+    
+    {
+      "@id": "19r-en-2146",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2146-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has managed to ensnare Fortune!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,939,1260,117"
+    },
+    
+    {
+      "@id": "19r-en-2147",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2147-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But it is he who is ensnared",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,1056,1260,117"
+    },
+    
+    {
+      "@id": "19r-en-2148",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2148-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "By Pride, who mocks him!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,1173,1260,117"
+    },
+    
+    {
+      "@id": "19r-en-2149",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2149-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When Fauvel had fallen silent,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2887,1680,1281,115"
+    },
+    
+    {
+      "@id": "19r-en-2150",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-en-2150-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune began to respond:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2887,1795,1281,115"
+    }
+    
+  ]
+}

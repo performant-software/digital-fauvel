@@ -1,0 +1,1044 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/15v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "15v-fro-1748",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1748-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'est nul qui mes me puist grever :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,724,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1749",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1749-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quanqu'empren sai bien achever,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,829,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1750",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1750-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trestout me vient a volenté ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,934,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1751",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1751-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult sui riches et bien renté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1039,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1752",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1752-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par mon sens et par ma fallace ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1144,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1753",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1753-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai bien de Fortune la grace,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1249,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1754",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1754-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du tout a mon vouloir tournie ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1354,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1755",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1755-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult m'a donné grant seigneurie :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1459,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1756",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1756-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du monde, qui est sa meson '",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1564,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1757",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1757-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "M'a fait seigneur maugré Reson,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1669,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1758",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1758-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais je me dout moult d'une chose",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1774,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1759",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1759-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a nul fors qu'a vous dire n'ose ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1879,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1760",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1760-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et vous devez trestouz vúiller",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,1984,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1761",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1761-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour moi amer et conseiller !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2089,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1762",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1762-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je voi que Fortune est mouvable",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2194,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1763",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1763-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dame moult espouantable :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2299,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1764",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1764-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce qu'adés veult estre neuve,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2404,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1765",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1765-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Me dout que vers moi ne se meuve",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2509,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1766",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1766-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ge ter moi de mon degré.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2614,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1767",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1767-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or vous dirai je mon segré,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2719,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1768",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1768-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'ai pensé parfondement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2824,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1769",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1769-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour estre fondé fermement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,2929,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1770",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1770-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que jamés nulz homs ne blece",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3034,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1771",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1771-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'excellence de ma hautece.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3139,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1772",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1772-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "V« Vous savez que n'ai point de fame :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3244,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1773",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1773-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mestier serait qu'aucune dame",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3349,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1774",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1774-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui bien me plairait espousasse",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3454,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1775",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1775-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que je me montepliasse.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=1228,3559,1187,105"
+    },
+    
+    {
+      "@id": "15v-fro-1776",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1776-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ainsi par generacion",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,766,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1777",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1777-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En parmanant succession",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,870,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1778",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1778-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De fils, de neveus et de nieces",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,974,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1779",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1779-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui eüssent et part et pieces",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1078,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1780",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1780-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De mon sens et de ma nature,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1182,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1781",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1781-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si que humainne creature",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1286,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1782",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1782-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fust toute de mes heirs pourprise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1390,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1783",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1783-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour faire la vivre a ma guise.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1494,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1784",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1784-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or ai je pensé d'autre part",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1598,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1785",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1785-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Fortune qui tout depart,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1702,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1786",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1786-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne puet estre qu'el ne m'aimme",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1806,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1787",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1787-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant si grans honneurs en moi seme,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,1910,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1788",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1788-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis qu'ele m'a fait si grant maistre,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2014,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1789",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1789-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il n'en pourroit nulement estre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2118,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1790",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1790-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle ne m'ait sanz fallace",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2222,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1791",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1791-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Donnee s'amour et sa grace,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2326,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1792",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1792-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et elle n'est pas mariee,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2430,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1793",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1793-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne moi aussi, qui a li bee ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2534,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1794",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1794-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et croi, qui li em parleroit,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2638,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1795",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1795-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que moult toust s'i acorderoit.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2742,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1796",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1796-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et se j'espousee l'avoie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2846,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1797",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1797-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De sa roe mestre seroie :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,2950,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1798",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1798-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La dame en mon danger seroit,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3054,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1799",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1799-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout a mon plaisir tournerait ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3158,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1800",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1800-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lors seroie de bon eür",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3262,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1801",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1801-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et me dormiroie a seür.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3366,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1802",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1802-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes conment que fames s'atirent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3470,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1803",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1803-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A bien amer ce qu'il desirent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=2520,3574,1197,104"
+    },
+    
+    {
+      "@id": "15v-fro-1804",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1804-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si n'est li droiz en nule terre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,808,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1805",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1805-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elles doivent prumier requerre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,909,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1806",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1806-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes volenté qui est legiere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1010,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1807",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1807-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En fame moustre tel maniere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1111,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1808",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1808-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par quoi ele est souvent premiere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1212,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1809",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1809-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'esmouvoir qu'on la requiere.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1313,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1810",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1810-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quant elle semblant en fait",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1414,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1811",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1811-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par signe ou en dit ou en fait,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1515,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1812",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1812-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle tient a trop grant despit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1616,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1813",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1813-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celi qui sur ce met respit.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1717,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1814",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1814-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi Fortune qui tout mine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1818,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1815",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1815-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est en moers toute feminine,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,1919,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1816",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1816-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pour ce, se le conseillez,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,2020,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1817",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1817-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je serai tost apareilliez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,2121,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1818",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1818-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A li requerre [et] supplier",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,2222,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1819",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1819-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'em moi se voille marier. »",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3832,2323,1071,101"
+    },
+    
+    {
+      "@id": "15v-fro-1820",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1820-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "SSanz regarder reson ne loy",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3969,3517,976,94"
+    },
+    
+    {
+      "@id": "15v-fro-1821",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "15v-fro-1821-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Respont le conseil sans deloy :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/15v#xywh=3969,3611,976,94"
+    }
+    
+  ]
+}

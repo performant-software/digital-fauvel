@@ -1,0 +1,1184 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/7r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "7r-fr-667",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-667-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous les jours ils vont de mal en pis ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,714,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-668",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-668-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'est plus temps que l'on regarde",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,812,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-669",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-669-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parmi leurs actes, pour y trouver des exemples",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,910,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-670",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-670-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais ils doivent savoir et comprendre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1008,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-671",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-671-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Dieu au jour du jugement dernier",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1106,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-672",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-672-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En tirera une cruelle vengeance.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1204,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-673",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-673-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! pourquoi ne réfléchissent-ils pas",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1302,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-674",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-674-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nos prélats qui aujourd'hui ont tant d'estime pour eux-mêmes ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1400,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-675",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-675-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À cause des biens, qu'ils possèdent et des rentes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1498,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-676",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-676-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que leur offre l'Eglise, ils se sont voués",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1596,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-677",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-677-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À l'orgueil et à la vanité :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1694,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-678",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-678-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils veulent en permanence, c'est la vérité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1792,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-679",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-679-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avoir des honneurs et être magnifiquement servis,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1890,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-680",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-680-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec force génuflexions et toutes sortes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,1988,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-681",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-681-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De révérences faites en enlevant le chaperon ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2086,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-682",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-682-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils reçoivent tant d'honneurs de tous côtés",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2184,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-683",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-683-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ne semble pas, en résumé,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2282,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-684",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-684-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils soient nés de femme et d'homme,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2380,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-685",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-685-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais ils accroissent de jour en jour leur train :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2478,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-686",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-686-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ne pensent pas au solde",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2576,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-687",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-687-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils auront à payer à la reddition générale des comptes ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2674,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-688",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-688-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Dieu les préserve d'en subir la honte!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2772,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-689",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-689-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La vaine gloire dont ils boivent à grands traits",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2870,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-690",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-690-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les honneurs les piègent à ce point :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,2968,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-691",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-691-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils sont enivrés et il ne leur vient plus à l'esprit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3066,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-692",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-692-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qu'il serait de leur devoir de faire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3164,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-693",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-693-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La raison me dit et me suggère",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3262,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-694",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-694-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils ne sont pas entrés par la porte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3360,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-695",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-695-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce à laquelle les prélats entrèrent jadis,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3458,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-696",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-696-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais qu'ils ont grimpé par-dessus les murs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3556,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-697",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-697-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'une autre manière que n'avait fait Céphas;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3654,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-698",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-698-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils en ont fait tellement, par tous les moyens licites ou illicites,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3752,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-699",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-699-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que cette engeançe de monte-en-l'air détient",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3850,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-700",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-700-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La maîtrise de l'Église, c'est ce qu'il y a de pire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,3948,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-701",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-701-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel les porte jusqu'au pied des murs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4046,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-702",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-702-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et Simonie qui est robuste",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4144,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-703",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-703-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur met immédiatement en place l'échelle :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4242,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-704",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-704-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils la grimpent si vite que c'en est une merveille.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4340,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-705",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-705-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il me semble que je n'ai pas vu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4438,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-706",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-706-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De mon temps un prélat se faire élire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4536,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-707",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-707-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce qu'il était de sainte vie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4634,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-708",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-708-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais que c'est la grandeur du lignage ou la simonie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4732,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-709",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-709-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui imposent du tout au tout leur volonté.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4830,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-710",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-710-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sans elles plus aucun clerc n'est pourvu de charge,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,4928,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-711",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-711-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'il ne l'obtient pas par la servilité.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,5026,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-712",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-712-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et là encore, Fauvel trompe son monde",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,5124,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-713",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-713-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car le bon serviteur bien éprouvé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,5222,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-714",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-714-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est très souvent beaucoup plus mal payé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=1606,5320,1260,98"
+    },
+    
+    {
+      "@id": "7r-fr-715",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-715-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et bien moins prébendé que ne l'est celui",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,714,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-716",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-716-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui se présente après lui et ne le vaut guère.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,811,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-717",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-717-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le bon ne se soucie pas de flatter,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,908,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-718",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-718-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais l'autre sait bien gratter Fauvel.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1005,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-719",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-719-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et Fauvel qui distribue les prébendes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1102,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-720",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-720-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'a aucune considération pour la personne",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1199,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-721",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-721-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De celui qui remplit correctement son service :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1296,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-722",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-722-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne regarde que celui qui le sert en le frottant.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1393,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-723",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-723-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi ils perdent souvent leur peine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1490,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-724",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-724-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux qui s'attachent à servir des gens de cette espèce.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1587,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-725",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-725-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'à nos prélats Dieu donne conseil",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1684,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-726",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-726-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour qu'ils mettent plus d'enthousiasme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1781,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-727",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-727-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À aimer la foi, la raison et la droiture",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1878,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-728",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-728-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainsi que ceux qui ont été confiés à leurs soins :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,1975,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-729",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-729-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils sont la tête de la sainte Église,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2072,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-730",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-730-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour autant, voici ce que je leur dis, une fois de plus :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2169,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-731",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-731-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que par leur notoire défaillance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2266,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-732",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-732-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'Église, qui jadis fut au plus haut",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2363,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-733",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-733-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est rabaissée, affligée et humiliée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2460,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-734",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-734-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme la barque ployant sous la nasse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2557,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-735",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-735-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'on n'en peut plus tirer aucun profit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2654,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-736",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-736-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car les pêcheurs sont à blâmer.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2751,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-737",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-737-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Occupons-nous des autres situations que l'on trouve",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2848,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-738",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-738-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans l'Église: nous en voyons fort peu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,2945,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-739",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-739-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne soient sortis de l'état où ils devraient se trouver",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3042,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-740",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-740-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parmi les chanoines, les moines, les clercs et les prêtres.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3139,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-741",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-741-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les chanoines ont la haine de l'Église",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3236,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-742",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-742-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et s'y rendent peu souvent, sauf quand ils espèrent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3333,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-743",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-743-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y recevoir quelque argent ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3430,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-744",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-744-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainsi, ils remplissent mal leur devoir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3527,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-745",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-745-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le principal de leurs soucis doit être",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3624,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-746",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-746-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De bien payer à Dieu ce qui lui revient,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3721,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-747",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-747-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De chanter ses louanges et de l'adorer,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3818,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-748",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-748-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et au sein de l'Église, d'honorer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,3915,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-749",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-749-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Autant le grand que le plus petit.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,4012,1344,97"
+    },
+    
+    {
+      "@id": "7r-fr-750",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "7r-fr-750-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ne doivent pas viser en premier lieu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/7r#xywh=2887,4109,1344,97"
+    }
+    
+  ]
+}

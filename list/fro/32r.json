@@ -1,0 +1,988 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/32r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "32r-fro-4472",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4472-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qui leur faut. Legierement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,640,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4473",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4473-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A chemin se mettent briement,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,741,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4474",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4474-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tant on fait par leurs journees",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,842,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4475",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4475-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en la ville sont arrivees",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,943,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4476",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4476-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La ou doivent faire sejour.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1044,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4477",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4477-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur hoste, ainz que veïst le jour,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1145,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4478",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4478-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avecques de gent moult grant monte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1246,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4479",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4479-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur estoit alé a l'encontre,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1347,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4480",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4480-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si les conduit a son manair.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1448,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4481",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4481-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La noise s'en va jusqu'en [l']air",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1549,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4482",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4482-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ont du bon avenement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1650,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4483",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4483-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des dames, qu'aiment grandement",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1751,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4484",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4484-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et le diz hostes et hostesse.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1852,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4485",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4485-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il font tantost vuider la presse,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,1953,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4486",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4486-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les dames se herbergerent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,2054,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4487",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4487-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que leur hostes si conforterent :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=231,2155,1239,101"
+    },
+    
+    {
+      "@id": "32r-fro-4488",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4488-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EElles descendent et se metent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=997,3454,515,205"
+    },
+    
+    {
+      "@id": "32r-fro-4489",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4489-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En chambres ou ce qu'il souhaitent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=997,3659,515,205"
+    },
+    
+    {
+      "@id": "32r-fro-4490",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4490-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Treuvent trestout a leur desir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,3843,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4491",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4491-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis se reposent a lesir.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,3948,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4492",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4492-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et le jour de feste est venus :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4053,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4493",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4493-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les grans galos et les menus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4158,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4494",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4494-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vienent gent de moult noble atour ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4263,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4495",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4495-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du palais regardent la cour.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4368,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4496",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4496-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La [sont tout] ententiz a faire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4473,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4497",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4497-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qu'apartient a leur afaire.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4578,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4498",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4498-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur gent s'en vont sanz plus atendre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4683,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4499",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4499-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A leurs hostiex qu'il ont fait prendre ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4788,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4500",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4500-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour metre leur choses a point",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4893,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4501",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4501-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'estre pareceus nul n'a point.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,4998,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4502",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4502-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LL'en crie aus queus, car ja assises",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5103,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4503",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4503-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont les tables, et napes mises ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5208,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4504",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4504-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les viandes furent prestes,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5313,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4505",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4505-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Souffisans pour tiex quatre festes.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5418,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4506",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4506-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce se furent avisees",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5523,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4507",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4507-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les Vertuz bien appareilliees,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5628,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4508",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4508-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et honnestement, a biau conduit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5733,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4509",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4509-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en vont la ou estoit le bruit ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=199,5838,1334,105"
+    },
+    
+    {
+      "@id": "32r-fro-4510",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4510-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Es sales entrent humblement ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,577,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4511",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4511-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La se contindrent sagement,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,681,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4512",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4512-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'i a oule qui se desvoit :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,785,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4513",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4513-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chascun de grant desir les voit.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,889,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4514",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4514-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "OOr est il temps que je vous conte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,993,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4515",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4515-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Fauvel qui en palais monte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1097,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4516",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4516-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et comment hautement parla :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1201,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4517",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4517-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Vous qui ci estes par ça, par la,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1305,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4518",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4518-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes douz amis, mes douces dames,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1409,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4519",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4519-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pieça, fait il, que mes n'entrames",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1513,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4520",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4520-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En ce païs n'en ceste terre :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1617,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4521",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4521-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fame nous est couvenu querre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,1721,1218,104"
+    },
+    
+    {
+      "@id": "32r-fro-4522",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4522-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De nostre affaire, si l'avons",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,556,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4523",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4523-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A nostre endroit, si com savons ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,661,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4524",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4524-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chascuns se jeut et esbanie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,766,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4525",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4525-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et demaint joliete vie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,871,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4526",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4526-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rie chante et face joie ! »",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,976,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4527",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4527-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De 'ce faire trop fort les proie :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1081,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4528",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4528-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz et toutes le saluerent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1186,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4529",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4529-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Gentement et l'en mercierent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1291,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4530",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4530-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes les Vertus dirent entr'eles :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1396,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4531",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4531-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Lasses, comment chanteront celes",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1501,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4532",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4532-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui cheües sont en orphenté ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1606,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4533",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4533-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or soit pose qu'mons chanté! »",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2866,1711,1166,105"
+    },
+    
+    {
+      "@id": "32r-fro-4534",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4534-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "TTrompeurs saillent, si cornerent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,5502,1207,115"
+    },
+    
+    {
+      "@id": "32r-fro-4535",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4535-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tantost toutes gens laverent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,5617,1207,115"
+    },
+    
+    {
+      "@id": "32r-fro-4536",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4536-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et alerent aus tables seoir.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,5732,1207,115"
+    },
+    
+    {
+      "@id": "32r-fro-4537",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4537-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grant foison poïst on veoir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=1575,5847,1207,115"
+    },
+    
+    {
+      "@id": "32r-fro-4538",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4538-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De viandes bonnes et fines :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2835,5512,1186,113"
+    },
+    
+    {
+      "@id": "32r-fro-4539",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4539-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chapons y ot, oisons, gelines,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2835,5625,1186,113"
+    },
+    
+    {
+      "@id": "32r-fro-4540",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4540-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cignes, paons, perdriz, fesanz,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2835,5738,1186,113"
+    },
+    
+    {
+      "@id": "32r-fro-4541",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32r-fro-4541-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Haîrons, butors qui sont plaizanz ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32r#xywh=2835,5851,1186,113"
+    }
+    
+  ]
+}

@@ -1,0 +1,1856 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/32v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "32v-en-4542",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4542-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And many kinds of venison,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,567,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4543",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4543-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Captured by force through running hunting dogs,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,669,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4544",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4544-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Stags, deer, rabbits, wild boars,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,771,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4545",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4545-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which live in these woods,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,873,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4546",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4546-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And all kinds of good venison.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,975,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4547",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4547-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There was an abundance of fish,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1077,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4548",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4548-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The best of the whole region:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1179,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4549",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4549-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sturgeons, salmon and plaice,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1281,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4550",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4550-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Congers, sea bass, porpoises, brill,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1383,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4551",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4551-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Turbots, red mullets and large codfish,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1485,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4552",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4552-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fatty mackerels and large hakes,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1587,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4553",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4553-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fresh herrings and smelt,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1689,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4554",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4554-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And so many other fish of the sea",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1791,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4555",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4555-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As if one had attempted to sow them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1893,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4556",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4556-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were also many sorts,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,1995,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4557",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4557-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fish from ponds and from rivers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2097,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4558",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4558-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each one prepared with great attention,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2199,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4559",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4559-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "According to its nature,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2301,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4560",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4560-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With green sauce or with cameline sauce.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2403,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4561",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4561-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were pikes in a gelatinous sauce,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2505,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4562",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4562-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Large sea lampreys prepared in the same way,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2607,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4563",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4563-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And roaches and breams afterwards",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2709,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4564",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4564-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In a different preparation.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2811,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4565",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4565-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then trout pâté,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,2913,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4566",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4566-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chubs and roasted carps,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3015,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4567",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4567-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Marinated in verjuice,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3117,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4568",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4568-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And large eels in a pastry",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3219,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4569",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4569-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And roasted in the fire.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3321,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4570",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4570-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sticklebacks in a “chaudume” sauce,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3423,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4571",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4571-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As is the custom",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3525,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4572",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4572-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of cooks who know the rules",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3627,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4573",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4573-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For preparing them. There were tenches",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3729,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4574",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4574-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which are called “upside down.”",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3831,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4575",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4575-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were waffles and wafers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,3933,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4576",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4576-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Choux pastry, tarts and flans,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4035,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4577",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4577-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cheese tarts in large heaps,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4137,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4578",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4578-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Apples in spices, cakes with cream,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4239,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4579",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4579-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Crêpes, doughnuts and fried croquettes.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4341,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4580",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4580-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There were good and precious wines,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4443,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4581",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4581-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Very delicious to drink:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4545,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4582",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4582-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Some were spiced with zedoary, some with rose and other flowers,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4647,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4583",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4583-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Well colored wines from Gascony,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4749,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4584",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4584-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From Montpellier and La Rochelle,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4851,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4585",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4585-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And sweet wines and wine from Castille,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,4953,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4586",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4586-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From Beaune and from Saint-Pourçain,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,5055,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4587",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4587-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which rich people consider healthful,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,5157,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4588",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4588-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From Saint-Gengoux and from Navarre,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,5259,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4589",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4589-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From the vineyard called La Barre,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,5361,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4590",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4590-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From Spain, from Anjou, from Orléans,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,5463,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4591",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4591-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From Auxerre and from the region around Laon,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,5565,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4592",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4592-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And from Saint-Jean and the Beauvaisis,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,5667,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4593",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4593-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "French wine and wine from nearby places.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=1123,5769,1355,102"
+    },
+    
+    {
+      "@id": "32v-en-4594",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4594-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There was wine with honey and spices and good claret.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,514,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4595",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4595-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The most powerful and the most richly dressed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,617,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4596",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4596-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ate the most gluttonously.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,720,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4597",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4597-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They devoured the wines.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,823,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4598",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4598-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There was a cook who had devoted all of his attention",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,926,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4599",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4599-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To making a dish of a very different sort,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1029,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4600",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4600-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without delaying.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1132,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4601",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4601-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He made it quickly, fresh and appetizing,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1235,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4602",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4602-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With a sauce so spicy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1338,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4603",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4603-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That everyone is eager to drink.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1441,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4604",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4604-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was served between the roasts and the dessert.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1544,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4605",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4605-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was tasty and delicious, but",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1647,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4606",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4606-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone immediately calls out for drink so much",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1750,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4607",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4607-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That a big barrel of wine must be brought up",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1853,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4608",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4608-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Into the hall.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,1956,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4609",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4609-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone, when they see it, laughs and jumps.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2059,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4610",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4610-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The barrel is called Shame:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2162,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4611",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4611-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Excess draws and gives so much from it",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2265,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4612",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4612-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she cannot be called avaricious.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2368,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4613",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4613-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One does not wait to wash up",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2471,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4614",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4614-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to drink; but rather drinks in big gulps.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2574,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4615",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4615-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In this way, they receive both shame and joy.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2677,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4616",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4616-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The fried plate I mentioned above",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2780,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4617",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4617-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was made of sins against nature",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2883,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4618",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4618-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And of all different kinds of other sins",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,2986,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4619",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4619-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through which the situation has changed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,3089,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4620",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4620-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the disadvantage of the good, there where Fauvel resides,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,3192,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4621",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4621-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who attacks and overthrows everything.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,3295,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4622",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4622-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is the kind of food that people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,3398,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4623",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4623-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who are slanderers must eat.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,3501,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4624",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4624-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is what people who have power",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,3604,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4625",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4625-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Out of nothing [?] are like—and even worse.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2520,3707,1228,103"
+    },
+    
+    {
+      "@id": "32v-en-4626",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4626-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Debauchery, who works with spices,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2551,5040,1250,112"
+    },
+    
+    {
+      "@id": "32v-en-4627",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4627-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Has a very joyful expression there.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2551,5152,1250,112"
+    },
+    
+    {
+      "@id": "32v-en-4628",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4628-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "These are strong spices, strong sweets",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2551,5264,1250,112"
+    },
+    
+    {
+      "@id": "32v-en-4629",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4629-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Composed of the sin of envy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2551,5376,1250,112"
+    },
+    
+    {
+      "@id": "32v-en-4630",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4630-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ardent covetousness and theft,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2551,5488,1250,112"
+    },
+    
+    {
+      "@id": "32v-en-4631",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4631-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of pleasure for which everyone thirsts,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2551,5600,1250,112"
+    },
+    
+    {
+      "@id": "32v-en-4632",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4632-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which she distributes and delivers everywhere",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2551,5712,1250,112"
+    },
+    
+    {
+      "@id": "32v-en-4633",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4633-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Very generously and without any discussion,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=2551,5824,1250,112"
+    },
+    
+    {
+      "@id": "32v-en-4634",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4634-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And everyone licks his beard.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,567,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4635",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4635-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever takes any has a mouth so dry",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,669,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4636",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4636-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That he must drink immediately",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,771,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4637",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4637-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And says: “How is it possible that wine does not come?”",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,873,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4638",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4638-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then the cupbearer appears, as well as Drunkenness,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,975,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4639",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4639-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And each one pours and fills the cups generously",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1077,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4640",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4640-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And has some poured for each table,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1179,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4641",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4641-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Both in the length of the room and the width,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1281,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4642",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4642-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With wine in such a great quantity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1383,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4643",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4643-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That everyone has complete freedom",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1485,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4644",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4644-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To get drunk gluttonously.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1587,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4645",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4645-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even Excess, in order to meet demand,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1689,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4646",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4646-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Opens the barrel with her mouth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1791,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4647",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4647-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Drunkenness stands so closely to her",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1893,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4648",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4648-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That the barrel will soon be empty!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,1995,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4649",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4649-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone exerts great pains in drinking.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,2097,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4650",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4650-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They will always have drunk shame",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,2199,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4651",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4651-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And spread it everywhere inside,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3832,2301,1166,102"
+    },
+    
+    {
+      "@id": "32v-en-4652",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4652-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Except near the very gracious",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,3643,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4653",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4653-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ladies who are the opposite of the Vices",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,3746,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4654",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4654-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which were discussed above.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,3849,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4655",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4655-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They have a very modest behavior and are",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,3952,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4656",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4656-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Wise, beautiful, pleasant,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4055,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4657",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4657-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are good listeners and better at keeping quiet,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4158,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4658",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4658-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Well educated in honor and goodness.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4261,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4659",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4659-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They were seated together.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4364,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4660",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4660-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This filthy and porcine people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4467,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4661",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4661-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Does not pay attention to them, for",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4570,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4662",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4662-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From all sides the crowd is so thick",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4673,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4663",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4663-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That people cannot see each other,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4776,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4664",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4664-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And because everyone works",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4879,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4665",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4665-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "At putting shame in his belly.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,4982,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4666",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4666-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The ladies whose gaze was directed towards God",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,5085,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4667",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4667-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Did not behave in this way ever.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,5188,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4668",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4668-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They abstained from the food.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,5291,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4669",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4669-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They looked around modestly.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,5394,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4670",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4670-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Abstinence and Sobriety,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,5497,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4671",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4671-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Temperance and Purity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,5600,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4672",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4672-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And Moderation, who do not bend,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,5703,1218,103"
+    },
+    
+    {
+      "@id": "32v-en-4673",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "32v-en-4673-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Serve them and cut up slices.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/32v#xywh=3790,5806,1218,103"
+    }
+    
+  ]
+}

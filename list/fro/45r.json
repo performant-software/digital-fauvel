@@ -1,0 +1,148 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/45r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "45r-fro-5977",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5977-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ferrant fina, bien deüst finer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,672,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5978",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5978-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, qui n'a a qui finer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,782,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5979",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5979-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En ce monde, car tuit obé-",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,892,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5980",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5980-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Issent a lui, tout a robé !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1002,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5981",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5981-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Robé nous a tout en lobant,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1112,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5982",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5982-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et lobé en nous desrobant.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1222,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5983",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5983-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il finera, car touz jourz vivre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1332,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5984",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5984-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne pourra pas. Ci faut mon livre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1442,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5985",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5985-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Secont. Dieu en gré le reçoive :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1552,1197,110"
+    },
+    
+    {
+      "@id": "45r-fro-5986",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "45r-fro-5986-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai sef, il est temps que je boive !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/45r#xywh=1648,1662,1197,110"
+    }
+    
+  ]
+}

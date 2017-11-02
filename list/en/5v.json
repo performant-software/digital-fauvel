@@ -1,0 +1,1352 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/5v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "5v-en-571",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-571-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He sends him revenues from his taxes",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,661,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-572",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-572-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And offers him prebends",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,757,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-573",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-573-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For his clerks, everywhere and generously.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,853,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-574",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-574-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas! How evil is this behavior",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,949,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-575",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-575-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For in this situation we see the Church",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1045,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-576",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-576-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pay the tribute and find itself in a precarious position",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1141,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-577",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-577-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since Fauvel, who is literate in this area,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1237,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-578",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-578-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Has obtained the taxes",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1333,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-579",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-579-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the king, with the approval of the pope.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1429,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-580",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-580-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The pope does not wear his cape,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1525,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-581",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-581-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor is he the tutor of the clergy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1621,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-582",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-582-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But is made into the executor of the king,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1717,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-583",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-583-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such that through lay justice",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1813,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-584",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-584-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Governs the Holy Church.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,1909,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-585",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-585-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is something done deliberately.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,2005,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-586",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-586-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is no use in protesting.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,2101,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-587",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-587-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Thus the pope rubs Fauvel",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,2197,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-588",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-588-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So much that he flays the clergy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,2293,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-589",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-589-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Although he does not appear to touch them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,2389,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-590",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-590-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But the Holy Church trembles in all its parts.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,2485,1123,96"
+    },
+    
+    {
+      "@id": "5v-en-591",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-591-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "What can we say of the cardinals",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4011,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-592",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-592-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Without driving them to anger?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4109,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-593",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-593-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With all reverence due to them,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4207,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-594",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-594-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "We can pronounce this judgment:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4305,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-595",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-595-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they resemble the first apostles",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4403,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-596",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-596-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Very little, it seems to me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4501,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-597",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-597-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The first apostles were",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4599,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-598",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-598-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Poor, and they lived poorly.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4697,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-599",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-599-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They were full of charity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4795,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-600",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-600-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And based their existence on humility.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4893,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-601",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-601-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now the dice have changed, alas!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,4991,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-602",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-602-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For our prelates act in a different way.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5089,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-603",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-603-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I cannot tell a good story about them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5187,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-604",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-604-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For Avarice and Vainglory",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5285,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-605",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-605-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Have removed them from the right path.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5383,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-606",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-606-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are too close to them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5481,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-607",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-607-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are pastors, but only to feed themselves.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5579,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-608",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-608-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Today the wolf is the master of the sheep!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5677,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-609",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-609-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They know well how to take off the wool",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5775,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-610",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-610-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So close to the skin that it bleeds;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5873,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-611",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-611-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are always ready to sheer",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,5971,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-612",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-612-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And they do not wait for summer.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=1197,6069,1207,98"
+    },
+    
+    {
+      "@id": "5v-en-613",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-613-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In all seasons they pluck and pillage.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,672,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-614",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-614-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It is Fauvel who wants this, for they pet him",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,773,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-615",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-615-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And rub him gently.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,874,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-616",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-616-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They sing Placebo loudly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,975,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-617",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-617-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But dirige they sing without notes.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1076,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-618",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-618-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is an earthquake all over",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1177,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-619",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-619-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the earth turns backwards",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1278,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-620",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-620-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And clerks and laypeople, monks and city dwellers",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1379,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-621",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-621-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are turned upside down.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1480,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-622",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-622-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas! How is it that young prelates",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1581,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-623",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-623-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who have no knowledge of the Church",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1682,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-624",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-624-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are installed through simony.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1783,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-625",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-625-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They hold the name of holy father",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1884,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-626",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-626-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And they are children. It must not please",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,1985,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-627",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-627-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "God that the Church, his spouse,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2086,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-628",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-628-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is held in the hands of such prelates.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2187,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-629",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-629-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They are not confident leaders;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2288,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-630",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-630-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Young people are not so mature!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2389,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-631",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-631-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nevertheless, with a little distance,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2490,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-632",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-632-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I would not be able to distinguish",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2591,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-633",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-633-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which prelates",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2692,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-634",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-634-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do their duty today the best:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2793,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-635",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-635-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Some, of whom I will speak later on,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2894,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-636",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-636-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Participant in the counsel of the king.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,2995,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-637",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-637-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the investigations, in judgments,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3096,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-638",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-638-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the courts of justice, in the parliaments,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3197,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-639",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-639-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Our prelates go; they understand all of this well.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3298,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-640",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-640-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The goods of the Church depend on them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3399,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-641",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-641-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The poor have a meager part",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3500,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-642",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-642-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For Fauvel splits up the alms",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3601,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-643",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-643-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And spends everything on parties.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3702,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-644",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-644-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to the poor people, he gives nothing.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3803,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-645",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-645-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through such prelates, as I see it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,3904,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-646",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-646-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Church today is more devoid of",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4005,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-647",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-647-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Faith than has ever been seen before.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4106,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-648",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-648-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through them, the king is often",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4207,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-649",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-649-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Led to impose high taxes",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4308,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-650",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-650-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On the Church and to cause it pain.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4409,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-651",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-651-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through the prelates, who are eager to please",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4510,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-652",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-652-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The king and to do his bidding",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4611,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-653",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-653-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Holy Church is fallen today",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4712,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-654",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-654-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And loses its liberty today as well.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4813,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-655",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-655-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Such prelates are not fathers",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,4914,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-656",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-656-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But rather stepfathers who do not love",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5015,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-657",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-657-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The children of their spouses",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5116,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-658",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-658-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through whom honors are given to them:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5217,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-659",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-659-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The children, whose mother they do not love,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5318,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-660",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-660-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cannot please them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5419,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-661",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-661-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Our prelates fulfill their duties",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5520,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-662",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-662-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For they are posts of elder",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5621,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-663",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-663-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And of reed in the Holy Church.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5722,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-664",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-664-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They support it in such a way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5823,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-665",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-665-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That they pinch and cut their subjects",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,5924,1312,101"
+    },
+    
+    {
+      "@id": "5v-en-666",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "5v-en-666-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And fail them in all of their needs.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/5v#xywh=3759,6025,1312,101"
+    }
+    
+  ]
+}

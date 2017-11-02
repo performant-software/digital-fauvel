@@ -1,0 +1,1562 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/24r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "24r-fr-2939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est alors que Fauvel s'est enhardi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,3664,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À répondre de la manière suivante",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,3767,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans une attitude modeste et douce",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,3870,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À Fortune qui le traite fort rudement :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,3973,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ma dame, ayez pitié de moi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4076,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si ne prononce un mot ou la moitié d'un mot",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4179,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui devrait logiquement vous plaire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4282,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car au jour d'aujourd'hui je ne sais plus quoi faire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4385,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si vous n'avez pas pitié de moi.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4488,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je commence par vous dire ces vers:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4591,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je sois sage ou stupide,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4694,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plein de loyauté ou pétri de vices,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4797,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Outrecuidant dans mes actes ou mes paroles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,4900,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Présomptueux ou insènsé, téméraire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5003,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'avoir pris une initiative d'une telle hardiesse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5106,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de vouloir me marier au-dessus de ma condition,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5209,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En voulant épouser la plus grande dame",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5312,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du monde, celle qui peut tout imprégner dé sa couleur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5415,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2957",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2957-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous devez m'en tenir pour excusé,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5518,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2958",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2958-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car j'ai appliqué les recommandations d'Amour",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5621,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2959",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2959-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui gouverne à sa guise",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5724,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2960",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2960-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous ceux qu'elle tient sous sa coupe",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5827,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2961",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2961-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui inspire à mon cœur le vif désir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,5930,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2962",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2962-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je nie consacre à composer ce poème.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=252,6033,1144,103"
+    },
+    
+    {
+      "@id": "24r-fr-2963",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2963-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vous le présente dans sa splendeur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1533,735,798,89"
+    },
+    
+    {
+      "@id": "24r-fr-2964",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2964-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dame, avec un cœur parfaitement loyal :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1533,824,798,89"
+    },
+    
+    {
+      "@id": "24r-fr-2965",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2965-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Amour, dont la puissance est telle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,1963,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2966",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2966-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'à contrecœur même le plus sage se soumet à ses règlements",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2074,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2967",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2967-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais auquel souvent il doit obéir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2185,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2968",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2968-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour peu qu'il arrive",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2296,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2969",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2969-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'Amour veuille l'amener à se mettre à son service,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2407,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2970",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2970-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lui qui lance si ingénieusement et sait tirer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2518,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2971",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2971-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sa flèche, issue de tromperie ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2629,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2972",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2972-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a tiré sur moi, selon son bon plaisir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2740,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2973",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2973-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une de ses flèches: il semble qu'il souhaite",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2851,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2974",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2974-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que mon cœur se réveille pour le servir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,2962,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2975",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2975-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Après avoir connu un long temps de repos.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3073,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2976",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2976-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ah mon Dieu ! s'il avait plu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3184,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2977",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2977-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Amour de m'épargner,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3295,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2978",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2978-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'éviter de me faire porter ce fardeau,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3406,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2979",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2979-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il m'aurait assurément fait une grande faveur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3517,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2980",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2980-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car j'ai subi maint horrible tourment",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3628,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2981",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2981-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pendant quelque temps, à son service,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3739,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2982",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2982-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin de mériter par les efforts consentis",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3850,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2983",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2983-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le don qu'un amant sincère doit attendre ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,3961,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2984",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2984-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi je redoute encore plus de prendre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4072,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2985",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2985-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De me jeter dans les angoisses qu'il crée. l'initiative",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4183,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2986",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2986-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cependant, bien que j'aie été sévèrement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4294,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2987",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2987-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Maltraité autrefois en le servant,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4405,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2988",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2988-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'y aura jamais dans mon cœur de dissimulation",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4516,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2989",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2989-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui me vaudrait d'être blâmé par Amour,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4627,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2990",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2990-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car lorsque je mesure l'honneur, la valeur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4738,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2991",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2991-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le grand bénéfice, l'avantage et la faveur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4849,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2992",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2992-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Amour, à condition que l'on",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,4960,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2993",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2993-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Accomplisse son service sans hésitation",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,5071,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2994",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2994-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon cœur ne peut se résoudre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,5182,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2995",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2995-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À ne pas exécuter sa volonté;	parfaitement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,5293,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2996",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2996-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourqum, avec l'envie qui m'est venue d'aimer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,5404,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2997",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2997-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vais chanter, animépar le désir amoureux :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1554,5515,1207,111"
+    },
+    
+    {
+      "@id": "24r-fr-2998",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2998-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vais aimer, certes, sincèrement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1575,6006,892,110"
+    },
+    
+    {
+      "@id": "24r-fr-2999",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-2999-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais déjà en ce moment présent j'aime",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=1575,6116,892,110"
+    },
+    
+    {
+      "@id": "24r-fr-3000",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3000-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque Amour l'exige et l'ordonne :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,693,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3001",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3001-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est fou, celui qui y chercherait un autre motif",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,796,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3002",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3002-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la simple volonté d'Amour.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,899,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3003",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3003-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne faut pas, en vérité, que j'abandonne cette volonté :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1002,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3004",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3004-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je commettrais une folie incroyable",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1105,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3005",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3005-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'essayer d'éviter un tendre désir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1208,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3006",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3006-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque Amour l'a fait lever dans'mon cœur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1311,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3007",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3007-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'en outre, afin de mieux connaître la direction",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1414,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3008",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3008-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A suivre pour parcourir le sentier de l'amour",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1517,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3009",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3009-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et afin que mon cœur y consente plus facilement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1620,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3010",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3010-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai un modèle si agréable à aimer,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1723,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3011",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3011-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que rien ne devrait me plaire autant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1826,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3012",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3012-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "- J'ai le droit contempler en ce modèle,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,1929,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3013",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3013-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si du moms je ne sais parmi les mauvais le pire -",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2032,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3014",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3014-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de mener une vie d'amant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2135,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3015",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3015-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de me mettre à l'épreuve pour le service d'amour",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2238,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3016",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3016-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et surtout si je sais et constate une chose :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2341,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3017",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3017-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est qu'en cet où Amour m'envoie service",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2444,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3018",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3018-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et où elle veut que j'accomplisse de tout cœur mon",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2547,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3019",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3019-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne vois pas qu'avec un cœur soumis comme le mien",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2650,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3020",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3020-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je mériterais quelque reproche que ce fût",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2753,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3021",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3021-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De part de quiconque, pour peu qu'il ait bien",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2856,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3022",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3022-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Considéré ma dame et qu'il l'ait bien vue",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,2959,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3023",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3023-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pris conscience de sa grande valeur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,3062,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3024",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3024-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou alors ce n'est que par pure envie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,3165,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3025",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3025-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J025 Qu'il m'en blâme, car, sainte Marie!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,3268,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3026",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3026-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pourquoi m'en ferait-on le reproche?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2940,3371,1218,103"
+    },
+    
+    {
+      "@id": "24r-fr-3027",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3027-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est tout à fait juste que je prenne le soin",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,3927,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3028",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3028-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'être d'humeur amoureuse et gaie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4026,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3029",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3029-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si je ne suis pas complètement insensé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4125,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3030",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3030-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque pour aimer je suis dirigé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4224,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3031",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3031-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vers une dame de valeur, c'est incontestable :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4323,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3032",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3032-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De valeur ? Qui redoute qu'en elle fassent défaut",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4422,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3033",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3033-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La valeur, l'honneur, la perfection et la bonté?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4521,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3034",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3034-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je suis persuadé qu'elle a dépassé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4620,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3035",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3035-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En matière de sagesse, de douceur, de noblesse de cœur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4719,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3036",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3036-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de comportement, ainsi que d'élégance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4818,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3037",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3037-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La plus grande partie de celles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,4917,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3038",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3038-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Femmes mariées ou jeunes filles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5016,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3039",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3039-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui habitent la ville où elle demeure ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5115,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3040",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3040-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En effet, il est vrai pour moi, que Dieu me gouverne !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5214,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3041",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3041-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sa bonne réputation est telle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5313,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3042",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3042-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que si j'avais déjà prononcé son nom,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5412,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3043",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3043-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne sais pas qui cela pourrait être",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5511,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3044",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3044-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui risquerait d'être en désaccord avec moi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5610,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3045",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3045-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car même ceux qui souhaitent tout le mal possible",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5709,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3046",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3046-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui ne disent généralement pas de bien,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5808,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3047",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3047-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux qu'on a l'habitude d'appeler les médisants,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,5907,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3048",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3048-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne peuvent dissimuler leur cœur au point",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,6006,1082,99"
+    },
+    
+    {
+      "@id": "24r-fr-3049",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "24r-fr-3049-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "(À force d'en entendre dire du bien par tous",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/24r#xywh=2971,6105,1082,99"
+    }
+    
+  ]
+}

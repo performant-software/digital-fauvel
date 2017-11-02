@@ -1,0 +1,484 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/1r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "1r-fro-1",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-1-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDe Fauvel que tant voi torcher",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,1827,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-2",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-2-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Doucement, sanz lui escorcher,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,1924,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-3",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-3-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sui entrez en merencolie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2021,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-4",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-4-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce qu'est beste si polie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2118,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-5",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-5-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Souvent le voient en pointure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2215,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-6",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-6-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tex qui ne sevent sa figure :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2312,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-7",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-7-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moquerie, sens ou folie ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2409,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-8",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-8-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pour ce, sanz amphibolie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2506,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-9",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-9-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Clerement dirai de tel beste",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2603,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-10",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-10-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce qu'il m'en puet cheoir en teste.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2700,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-11",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-11-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "FFauvel ne gist mes en l'estable,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2797,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-12",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-12-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a meson plus honorable :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2894,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-13",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-13-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Haute mengoere demande,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,2991,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-14",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-14-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rastelier bel et assez vïande.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3088,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-15",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-15-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il s'est herbergiez en la sale,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3185,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-16",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-16-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour miex demoustrer sa regale ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3282,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-17",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-17-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et nonpourquant par sa scïence",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3379,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-18",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-18-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Es chambres a grant reverence,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3476,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-19",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-19-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et es gardes robes souvent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3573,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-20",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-20-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fait toust assembler son couvent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3670,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-21",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-21-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui si soingneusement le frote",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3767,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-22",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-22-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en lui ne peut remanoir crote.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3864,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-23",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-23-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, contraire a Raison,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,3961,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-24",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-24-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'a fet seigneur de sa meson :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4058,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-25",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-25-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En lui essaucer met grant peine,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4155,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-26",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-26-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ou palais roialle mainne ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4252,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-27",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-27-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De lui fere honorer ne cesse.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4349,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-28",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-28-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Entour Fauvel a si grant presse",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4446,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-29",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-29-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De gens de toutes nacïons,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4543,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-30",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-30-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de toutes condicïons",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4640,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-31",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-31-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est une trop grant meryeille :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4737,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-32",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-32-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'i a nul qui ne s'apareille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4834,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-33",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-33-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De torcher Fauvel doucement ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,4931,1124,97"
+    },
+    
+    {
+      "@id": "1r-fro-34",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1r-fro-34-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trop i a grant assemblement !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1r#xywh=1690,5028,1124,97"
+    }
+    
+  ]
+}

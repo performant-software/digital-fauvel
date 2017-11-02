@@ -1,0 +1,1856 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/31r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "31r-en-4198",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4198-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Emit such a sweet scent",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,588,1176,101"
+    },
+    
+    {
+      "@id": "31r-en-4199",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4199-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As does the holy crown",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,689,1176,101"
+    },
+    
+    {
+      "@id": "31r-en-4200",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4200-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That God wore, and the true cross",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,790,1176,101"
+    },
+    
+    {
+      "@id": "31r-en-4201",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4201-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Where he received the mortal wound",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,891,1176,101"
+    },
+    
+    {
+      "@id": "31r-en-4202",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4202-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to redeem all of our sins.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,992,1176,101"
+    },
+    
+    {
+      "@id": "31r-en-4203",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4203-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is where Fauvel decided to establish himself.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=252,1093,1176,101"
+    },
+    
+    {
+      "@id": "31r-en-4204",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4204-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is where Fauvel desired to celebrate his wedding.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,2835,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4205",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4205-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He did not invite or call for",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,2937,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4206",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4206-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bishops or abbots bearing crosses:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3039,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4207",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4207-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He wanted that, without declining,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3141,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4208",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4208-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Carnality his friend come,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3243,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4209",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4209-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he could not do without her.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3345,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4210",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4210-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fornication, Adultery",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3447,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4211",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4211-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Come there, without saying anything against it.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3549,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4212",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4212-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cupid will come as well as Venus.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3651,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4213",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4213-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of such people, no one remains behind.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3753,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4214",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4214-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Gluttony and Drinking come",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3855,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4215",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4215-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And hope that they are not alone.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,3957,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4216",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4216-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Inebriation, Excess and Ribaldry",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4059,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4217",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4217-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Come with them, as well as Lechery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4161,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4218",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4218-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Anger, Fault, Quarrel, Homicide,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4263,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4219",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4219-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hypocrisy, Pride, Acedia,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4365,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4220",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4220-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Theft, Discord, Fury,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4467,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4221",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4221-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Heresy and Sodomy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4569,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4222",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4222-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Covetousness, Envy, and Lie",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4671,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4223",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4223-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do not come there only in dreams.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4773,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4224",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4224-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Slander, Deceit, Trickery,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4875,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4225",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4225-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Greed and Felony,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,4977,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4226",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4226-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ruse and False Seeming",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5079,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4227",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4227-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Do not go to the party walking,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5181,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4228",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4228-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor all the rest of the company",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5283,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4229",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4229-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the lineage, counsel and household",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5385,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4230",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4230-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of Fauvel, which I have described elsewhere.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5487,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4231",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4231-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All come joyfully",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5589,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4232",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4232-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Both the lenders and the usurers",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5691,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4233",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4233-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Come down these paths together.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=241,5793,1208,102"
+    },
+    
+    {
+      "@id": "31r-en-4234",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4234-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They want to be acquainted, forever, with",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,514,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4235",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4235-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Those gracious and agreeable people",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,617,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4236",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4236-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who come. They come from day to day",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,720,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4237",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4237-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And proceed along the paths from all directions.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,823,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4238",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4238-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the city mentioned above,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,926,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4239",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4239-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each one looks for a place to lodge.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1029,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4240",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4240-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moreover, since I remember",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1132,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4241",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4241-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Something concerning the palace,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1235,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4242",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4242-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I say that it is both a palace and a castle",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1338,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4243",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4243-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And there is none like it in the world,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1441,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4244",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4244-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For there are smaller castles",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1544,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4245",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4245-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the surrounding area—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1647,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4246",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4246-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "More than ten, corresponding completely",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1750,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4247",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4247-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With the palace and giving it assistance.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1853,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4248",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4248-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On the two sides of the main doors",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,1956,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4249",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4249-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the palace, there are very strong constructions,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2059,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4250",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4250-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And two bridges of very beautiful design.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2162,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4251",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4251-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even the whole kingdom of Castille",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2265,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4252",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4252-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is not worth what these are worth!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2368,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4253",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4253-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They diverge from believing the truth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2471,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4254",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4254-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Some surely do not believe this, without a doubt,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2574,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4255",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4255-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For I am telling the whole truth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2677,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4256",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4256-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One is situated towards the right at noon,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2780,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4257",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4257-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The other towards the north. And I say",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2883,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4258",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4258-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That one goes on these bridges that I describe here",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,2986,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4259",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4259-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To access the city, which is seated",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3089,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4260",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4260-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Near the island and the area near the cathedral,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3192,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4261",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4261-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In a very noble manner.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3295,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4262",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4262-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It is the richest city in the world",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3398,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4263",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4263-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the place where riches abound the most.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3501,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4264",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4264-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It is called Hope.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3604,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4265",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4265-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Only the distance of the bridges",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3707,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4266",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4266-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Separates it from the palace described above.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3810,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4267",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4267-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each man cries out and does not stop crying:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,3913,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4268",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4268-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "“From the palace named Hopelessness",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4016,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4269",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4269-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Much evil will come, as I expect,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4119,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4270",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4270-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since Fauvel rejoices!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4222,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4271",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4271-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lady of the sky, through what fault",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4325,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4272",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4272-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is now base what used to be",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4428,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4273",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4273-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Called sweet paradise?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4531,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4274",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4274-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is it not very strange",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4634,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4275",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4275-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That this assembly will be held there?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4737,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4276",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4276-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is there a greater misfortune",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4840,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4277",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4277-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than to see such a country metamorphosed in this way?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,4943,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4278",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4278-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is there a greater spell",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5046,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4279",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4279-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than that things proceed in this way?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5149,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4280",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4280-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is this not more than a misfortune,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5252,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4281",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4281-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When from the place where faith",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5355,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4282",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4282-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Should reign, Fauvel makes his abode,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5458,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4283",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4283-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because of which everyone brays and cries",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5561,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4284",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4284-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now that he lives there completely?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5664,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4285",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4285-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Oh, Fortune! She turns so sweetly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=1606,5767,1229,103"
+    },
+    
+    {
+      "@id": "31r-en-4286",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4286-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your wheel when it does not fall faster",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,493,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4287",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4287-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Onto him [?]! Certainly, this is a great sin!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,595,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4288",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4288-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Both, as those who have seen it say,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,697,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4289",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4289-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Are situated on a great island",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,799,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4290",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4290-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the palace and the area around the cathedral",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,901,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4291",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4291-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And, through a noble subtlety,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1003,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4292",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4292-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One of the edges of the island is occupied crosswise",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1105,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4293",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4293-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "By the palace, when one goes towards",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1207,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4294",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4294-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The west, in a beautiful way.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1309,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4295",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4295-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the other edge",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1411,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4296",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4296-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the cité, towards the Orient,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1513,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4297",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4297-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Includes the mother church in a very noble way.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1615,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4298",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4298-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even though I am pained, sad and mournful",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1717,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4299",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4299-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because Fauvel turns everything upside down,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1819,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4300",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4300-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The subject that I have taken up,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,1921,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4301",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4301-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I want to pursue, and finish this book quickly.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2023,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4302",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4302-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The jug goes to the water so often",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2125,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4303",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4303-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it falls to the ground and is broken.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2227,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4304",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4304-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Therefore I tell you, melancholic and defeated,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2329,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4305",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4305-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That this false one who conquers everyone everywhere,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2431,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4306",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4306-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because of his evil, he knows that he will be conquered",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2533,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4307",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4307-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And will end up imprisoned.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2635,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4308",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4308-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Before he considers himself conquered,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2737,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4309",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4309-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He has undertaken to behave himself",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2839,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4310",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4310-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In an even more presumptuous manner",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,2941,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4311",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4311-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than he did at the beginning.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3043,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4312",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4312-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "All of his relatives, whom he has invited",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3145,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4313",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4313-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through letters, have come.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3247,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4314",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4314-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have told you the names of several",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3349,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4315",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4315-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Above, so I do not want to drone on",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3451,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4316",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4316-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To repeat them again",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3553,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4317",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4317-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And it would take too long to write",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3655,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4318",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4318-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The names of this multitude",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3757,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4319",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4319-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of wicked and unpleasant people.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3859,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4320",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4320-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They have entered the great halls,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,3961,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4321",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4321-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Making merry and having large parties.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4063,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4322",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4322-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They found Lady Vainglory",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4165,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4323",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4323-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And greeted her courteously.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4267,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4324",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4324-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each one looks at her with great attention",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4369,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4325",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4325-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And she deceives them and lures them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4471,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4326",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4326-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And makes them fall asleep in the great pleasures",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4573,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4327",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4327-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of beautiful rooms and beds",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4675,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4328",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4328-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And riches which flee like shadows",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4777,1250,102"
+    },
+    
+    {
+      "@id": "31r-en-4329",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "31r-en-4329-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But which weigh one down, the more one possesses them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/31r#xywh=2887,4879,1250,102"
+    }
+    
+  ]
+}

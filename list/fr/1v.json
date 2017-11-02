@@ -1,0 +1,484 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/1v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "1v-fr-35",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-35-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous pourriez y voir des rois, des ducs et des comtes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,745,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-36",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-36-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alliés pour bouchonner Fauvel ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,838,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-37",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-37-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous les seigneurs temporels et les princes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,931,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-38",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-38-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Viennent à lui de toutes provinces,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1024,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-39",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-39-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainsi que les chevaliers, grands et petits,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1117,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-40",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-40-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui sont particulièrement habiles à frotter.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1210,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-41",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-41-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'existe pas, sachez-le, de roi ou de comte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1303,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-42",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-42-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À qui bouchonner Fauvel fasse éprouver de la honte.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1396,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-43",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-43-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les vicomtes, les prévôts et les baillis",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1489,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-44",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-44-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne sont jamais en reste pour bien frotter;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1582,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-45",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-45-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les habitants des bourgs et des villes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1675,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-46",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-46-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le frottent avec une remarquable ingéniosité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1768,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-47",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-47-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De même que les paysans venus des villages",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1861,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-48",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-48-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se tiennent à côté de Fauvel pour le nourrir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1081,1954,1134,93"
+    },
+    
+    {
+      "@id": "1v-fr-49",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-49-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ensuite, c'est en consistoire public",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,2992,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-50",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-50-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que se rend Fauvel, pourtant authentique animal,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3090,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-51",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-51-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quand le pape voit une bête de la sorte,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3188,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-52",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-52-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sachez qu'il lui fait fête avec beaucoup d'enthousiasme;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3286,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-53",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-53-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tandis que les cardinaux lui font grand honneur :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3384,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-54",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-54-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour le bouchonner ils accourent tous.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3482,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-55",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-55-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les vice-chanceliers, les notaires,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3580,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-56",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-56-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les auditeurs et les référendaires",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3678,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-57",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-57-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se mettent en frais et déploient tous leurs efforts",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3776,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-58",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-58-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour bouchonner Fauvel bien comme il faut.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3874,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-59",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-59-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les prélats n'épargnent pas les voyages par monts et par",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,3972,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-60",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-60-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour bouchonner ce noble cheval",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4070,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-61",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-61-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les abbés, les religieux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4168,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-62",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-62-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lui témoignent une extraordinaire dévotion.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=1102,4266,1166,98"
+    },
+    
+    {
+      "@id": "1v-fr-63",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-63-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jacobins, Cordeliers, où êtes-vous ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5470,1113,113"
+    },
+    
+    {
+      "@id": "1v-fr-64",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-64-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette fois-ci, ne soyez pas comme des bêtes,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5583,1113,113"
+    },
+    
+    {
+      "@id": "1v-fr-65",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-65-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais songez à bien étudier la façon",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5696,1113,113"
+    },
+    
+    {
+      "@id": "1v-fr-66",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-66-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De caresser doucement Fauvel :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5809,1113,113"
+    },
+    
+    {
+      "@id": "1v-fr-67",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-67-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est bien ainsi que vous faites, que Dieu me vienne en aide,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,5922,1113,113"
+    },
+    
+    {
+      "@id": "1v-fr-68",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "1v-fr-68-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au point que tout un chacun en est ébahi.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/1v#xywh=3696,6035,1113,113"
+    }
+    
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/36v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "36v-fro-4931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "OOnc chalivali si parfaiz",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1354,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par desguiser, par diz, par faiz",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1454,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne fu com cil en toutes choses:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1554,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'avaient pas les bouches closes",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1654,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De bien crier et de fort braire ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1754,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A qui qu'il en deüst desplaire,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1854,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Semblant n'en fist onques Fauveaus:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,1954,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus assez li fti des aviaus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,2054,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il ot eü avec sa fame",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,2154,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il honora comme sa dame.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3927,2254,1260,100"
+    },
+    
+    {
+      "@id": "36v-fro-4941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "AA la jouste veuil repairier",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2467,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car j'oi l'aloete chanter,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2569,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le tarin, le chardonnerel",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2671,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui, plus tost que menesterel",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2773,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le jour cornent, perçoivent l'aube.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2875,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est en icelui temps que l'aube",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,2977,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Espine et les fleurs s'esgaient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3079,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que li oiseil leur chant essaient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3181,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme l'estournel et le merle,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3283,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le mauviz trestout par le merle,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3385,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et la fauvete et la linote :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3487,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz oiseillons a une flote",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3589,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En jardins et en buissonnez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3691,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Maintiennent leur jolis sonnez,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3793,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Neis ceus qui sont mis par les cages,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3895,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'en verdeur sont les bocages,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,3997,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4957",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4957-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que trestout le chetif vermine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4099,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4958",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4958-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui souz terre tout l'iver mine,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4201,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4959",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4959-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se met en haut tout apparant ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4303,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4960",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4960-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que fleurs vont le paÿs parant",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4405,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4961",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4961-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par diverses couleurs nouveles,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4507,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4962",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4962-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que damoisaus et damoiseles",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4609,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4963",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4963-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui en amour loial languissent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4711,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4964",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4964-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour le joli temps s'esjouissent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4813,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4965",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4965-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cil oisel m'enseingnent sanz doute",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,4915,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4966",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4966-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que l'aube du jour tout hors boute",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5017,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4967",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4967-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La nuit et le pooir qu'apert",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5119,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4968",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4968-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour l'entré du jour qui appert.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5221,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4969",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4969-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLors vi le jour cler et luisant,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5323,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4970",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4970-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si m'en alai tout deduisant",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5425,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4971",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4971-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au lieu ou l'en dut assembler",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5527,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4972",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4972-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour joster, mes forment trembler",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5629,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4973",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4973-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tantost me fist gent malt vilaine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5731,1271,102"
+    },
+    
+    {
+      "@id": "36v-fro-4974",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "36v-fro-4974-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que j'encontrai a male estraine.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/36v#xywh=3895,5833,1271,102"
+    }
+    
+  ]
+}

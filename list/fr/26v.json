@@ -1,0 +1,302 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/26v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "26v-fr-3574",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3574-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Maintenant c'est entièrement entre vos mains, ma dame",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,3759,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3575",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3575-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que se trouvent ma vie et ma mort, par mon âme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,3865,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3576",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3576-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je le désire de tout cœur, et je n'y mets aucune réserve",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,3971,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3577",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3577-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'aucune sorte, que personne n'aille le croire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4077,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3578",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3578-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Dieu accorde que la pitié vous atteigne assez",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4183,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3579",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3579-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour que ma fin ne soit pas arrivée !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4289,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3580",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3580-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hélas ! très douce et délicate dame,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4395,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3581",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3581-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si jamais il vous devenait agréable que ma vie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4501,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3582",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3582-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fût achevée en un si court laps de temps,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4607,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3583",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3583-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette vie que j'ai ancrée en vous,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4713,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3584",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3584-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon amour, hélas, quelle destinée !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4819,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3585",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3585-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon cœur tout entier fond en larmes, d'effroi.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,4925,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3586",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3586-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne peux trouver d'autre issue",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5031,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3587",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3587-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À mes cruels tourments, que la mort,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5137,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3588",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3588-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chère dame, qui m'attend à coup sûr",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5243,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3589",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3589-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si vous ne daignez pas vous disposer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5349,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3590",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3590-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À me soigner de mes maux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5455,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3591",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3591-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par le tendre secours qui viendrait de vous.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5561,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3592",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3592-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Assurément, si je n'ai pas votre tendre secours,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5667,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3593",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3593-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ma chère dame, je cours au plus vite",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5773,1376,106"
+    },
+    
+    {
+      "@id": "26v-fr-3594",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "26v-fr-3594-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la mort, et je suis débarrassé de mes maux.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/26v#xywh=3769,5879,1376,106"
+    }
+    
+  ]
+}

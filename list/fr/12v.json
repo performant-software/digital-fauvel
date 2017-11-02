@@ -1,0 +1,1100 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/12v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "12v-fr-1439",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1439-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car tel est son comportement, sachez-le :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,756,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1440",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1440-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle considère tout le monde comme vil et sa propre personne comme fort estimable.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,865,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1441",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1441-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle aime son corps et le soigne bien,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,974,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1442",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1442-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'esprit tourné vers les jouissances de la chair,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1083,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1443",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1443-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Raffinée dans ses plaisirs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1192,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1444",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1444-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en matière de ruse, subtile et agile.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1301,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1445",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1445-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est jolie, et ne se soucie guère de son âme :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1410,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1446",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1446-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle mène une vie de femme dissipée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1519,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1447",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1447-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il lui paraît trop pénible",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1628,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1448",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1448-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'aimer Dieu et son prochain ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1737,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1449",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1449-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais elle en fait souvent mine,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1846,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1450",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1450-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cependant voici dans quelles conditions :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1955,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1451",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1451-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est qu'elle n'y met ni son cœur ni sa volonté ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2064,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1452",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1452-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jamais un sage ne lui a fait confiance!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2173,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1453",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1453-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi je crois que David clame",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2282,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1454",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1454-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que nous ne devons pas nous fier aux princes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2391,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1455",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1455-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni aux fils de cette fange qu'est la chair",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2500,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1456",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1456-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Où il n'y a point de salut.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2609,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1457",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1457-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sensualité, qui est insensée au point",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2718,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1458",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1458-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De fuir Raison et son enseignement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2827,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1459",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1459-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne se fait d'ailleurs aucun souci de ce qu'on la blâme,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2936,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1460",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1460-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et elle n'apprécie personne qui lui dirait où est son bien ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3045,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1461",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1461-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est tellement imbue de sa noblesse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3154,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1462",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1462-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle n'aime que les membres de son lignage:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3263,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1463",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1463-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle ne fera pas de gracieuseté",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3372,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1464",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1464-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sinon à ceux qui feront partie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3481,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1465",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1465-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ses neveux, de ses cousins ou de sa parenté :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3590,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1466",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1466-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce à cette dame, ils reçoivent souvent des rentes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3699,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1467",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1467-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et obtiennent d'importants bénéfices,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3808,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1468",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1468-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les enfants et ceux qui sont pleins de vices.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3917,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1469",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1469-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les prélats et les grands sont contaminés",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4026,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1470",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1470-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout à fait ignominieusement par ce péché :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4135,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1471",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1471-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils n'aiment que leurs amis de même sang!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4244,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1472",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1472-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel y a mis tant du sien",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4353,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1473",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1473-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il n'y a là rien qui ressemble à de la charité.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4462,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1474",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1474-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils agissent ainsi pour la postérité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4571,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1475",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1475-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour laisser après leur mort la mémoire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4680,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1476",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1476-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De leur vie de vaine gloire.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4789,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1477",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1477-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais les gens de cette sorte n'auront aucune importance :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4898,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1478",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1478-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand ils mourront, tous les biens leur échapperont !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5007,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1479",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1479-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sensualité est la nourrice",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5116,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1480",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1480-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Fauvel, en qui sont concentrés tant de vices :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5225,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1481",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1481-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est Sensualité qui l'a allaité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5334,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1482",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1482-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À son sein, qui n'est que pourriture;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5443,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1483",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1483-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Voilà pourquoi Fauvel est si plein d'ordure",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5552,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1484",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1484-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'il finira en pourriture.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5661,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1485",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1485-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et au sujet de cette Sensualité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5770,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1486",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1486-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'apôtre nous dit en vérité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5879,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1487",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1487-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que lorsque arrivera la fin de ce monde charnel,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5988,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1488",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1488-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au sein duquel tout le mal jaillit et prolifère,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,6097,1313,109"
+    },
+    
+    {
+      "@id": "12v-fr-1489",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1489-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les gens qui vivront à ce moment-là",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,735,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1490",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1490-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'aimeront qu'eux-mêmes,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,850,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1491",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1491-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car chacun sera à ce point obsédé par la chair",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,965,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1492",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1492-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que plus personne n'aimera d'autre que soi.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1080,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1493",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1493-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alors il n'y aura plus de charité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1195,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1494",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1494-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui vient des deux pôles, âme et corps :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1310,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1495",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1495-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sensualité qui partage l'os",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1425,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1496",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1496-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le retient tout entier d'un côté :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1540,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1497",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1497-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle distribue l'os et le maigre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1655,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1498",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1498-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais elle est rude pour se garder le gras,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1770,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1499",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1499-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'elle fait naître parmi les nations",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1885,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1500",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1500-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des querelles et des discordes.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,2000,1050,115"
+    },
+    
+    {
+      "@id": "12v-fr-1501",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1501-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Installée à côté de Sensualité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3328,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1502",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1502-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y avait, me semble-t-il, Convoitise",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3433,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1503",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1503-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est fort mal intentionnée.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3538,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1504",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1504-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle était et sèche, elle avait le teint gris et pâle,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3643,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1505",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1505-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais elle n'était pas extravagante",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3748,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1506",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1506-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au point de ne pas posséder un coffre plein de deniers.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3853,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1507",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1507-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est, en effet, nuit et jour en guerre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3958,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1508",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1508-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour posséder plus et acquérir davantage.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4063,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1509",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1509-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle a transformé son existence en grande souffrance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4168,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1510",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1510-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il n'y a rien qui lui suffise.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4273,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1511",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1511-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Serait-elle reine de France,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4378,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1512",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1512-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que cela ne lui paraîtrait pas suffisant,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4483,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1513",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1513-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'elle préférerait endurer de cruels tourments",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4588,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1514",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1514-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour obtenir, en plus, le titre d'impératrice !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4693,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1515",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1515-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle fait des pieds et des mains, en permanence, pour posséder,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4798,1134,105"
+    },
+    
+    {
+      "@id": "12v-fr-1516",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fr-1516-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et plus elle en a, plus son mal s'aggrave.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4903,1134,105"
+    }
+    
+  ]
+}

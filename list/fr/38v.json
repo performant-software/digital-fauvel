@@ -1,0 +1,1464 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/38v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "38v-fr-5181",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5181-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Arrivant sur place pour l'entreprise",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,682,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5182",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5182-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui leur fera connaître aujourd'hui la honte.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,786,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5183",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5183-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel se trouvait dans la pièce principale",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,890,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5184",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5184-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pourvue de piliers de marbre et d'ambre,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,994,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5185",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5185-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec de grandes fenêtres qui donnent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1098,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5186",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5186-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur le lieu où les joutes prennent du retard :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1202,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5187",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5187-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il se rendit sur place et sa femme avec lui",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1306,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5188",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5188-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais une chose ne leur fit guère plaisir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1410,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5189",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5189-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est que les Vertus étaient arrivées, comme on pouvait le désirer,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1514,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5190",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5190-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans toute leur splendeur, ce qui fit retomber",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1618,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5191",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5191-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur bonne humeur : ils se disaient qu'il serait bon",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1722,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5192",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5192-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De voir de près comment les choses tourneront.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1826,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5193",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5193-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vigueur, Justice et Hardiesse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,1930,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5194",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5194-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À cause de leur valeur morale et de leur noblesse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2034,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5195",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5195-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Furent désignées, par le décret et la décision",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2138,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5196",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5196-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Sapience, la souveraine vertu,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2242,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5197",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5197-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour préserver la fête",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2346,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5198",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5198-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des comportements vils et des troubles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2450,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5199",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5199-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pour cela, elles font dégager la foule.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2554,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5200",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5200-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vais maintenant vous livrer mon sentiment",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2658,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5201",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5201-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur les armes que portent les Vices.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2762,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5202",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5202-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils sont pleins de mauvaises dispositions :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2866,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5203",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5203-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous, d'un commun accord, n'ont qu'un seul office,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,2970,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5204",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5204-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est de faire du mal et d'infliger de mauvais traitements;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3074,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5205",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5205-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous passent leur vie dans la saleté,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3178,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5206",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5206-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'il est normal et juste",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3282,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5207",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5207-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils ne peuvent qu'avoir un équipement ignoble,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3386,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5208",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5208-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Même s'ils ont assez de moyens.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3490,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5209",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5209-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils ont des écus de fausseté avec des armoiries noires,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3594,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5210",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5210-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur lesquels sont représentées des âmes qui, en larmes,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3698,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5211",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5211-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se consument dansle feu et les flammes.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3802,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5212",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5212-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leurs bannières sont faites d'infamie;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,3906,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5213",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5213-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ornées d'images de grands serpents",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4010,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5214",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5214-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que l'on voit en train de ronger les flancs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4114,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5215",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5215-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les mamelles des damnés, sans fin,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4218,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5216",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5216-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si on me demande des détails",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4322,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5217",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5217-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur le reste des armures et parures",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4426,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5218",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5218-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils portent, elles sont noires et grises,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4530,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5219",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5219-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Peintes avec des couleurs si laides",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4634,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5220",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5220-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ce serait une souffrance de les décrire !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4738,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5221",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5221-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leurs lances et les banderoles qui y sont accrochées",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4842,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5222",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5222-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont ornées de petites figures de diables",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,4946,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5223",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5223-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tachées de saleté, sans rien d'autre,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5050,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5224",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5224-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Garnies de bandes d'orgueil et de venin",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5154,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5225",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5225-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et d'autres ornements, extravagants et bizarres",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5258,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5226",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5226-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont je ne saurais décrire la façon.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5362,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5227",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5227-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cependant, grâce à une prérogative exclusive,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5466,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5228",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5228-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sensualité, l'ardente, la brûlante",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5570,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5229",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5229-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et celles que Fauvel a désignées",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5674,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5230",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5230-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour jouter, sont mieux équipées",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5778,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5231",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5231-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que leurs compagnes, en vérité.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5882,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5232",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5232-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai l'intention de passer vite",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=1155,5986,1480,104"
+    },
+    
+    {
+      "@id": "38v-fr-5233",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5233-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur l'évocation de l'élégance et de la grâce",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,672,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5234",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5234-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'affichent les Vertus sur leurs chevaux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,775,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5235",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5235-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elles possèdent un certain nombre d'armes et de parures",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,878,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5236",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5236-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus blanches que la neige en hiver,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,981,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5237",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5237-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Resplendissantes d'argent et d'or.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1084,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5238",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5238-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En mille trois cent seize ans",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1187,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5239",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5239-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On n'avait vu une telle magnificence",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1290,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5240",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5240-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour la valeur, la beauté et la richesse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1393,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5241",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5241-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme celle de leurs armes et ornements :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1496,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5242",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5242-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On y trouvait des pierres précieuses de toute sorte ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1599,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5243",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5243-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leurs tuniques étaient parsemées",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1702,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5244",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5244-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des plus belles et des plus authentiques ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1805,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5245",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5245-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Freins, chanfreins et selles",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,1908,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5246",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5246-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Étaient sertis de belles émeraudes de bonne qualité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2011,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5247",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5247-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et garnis d'orfroi avec raffinement.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2114,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5248",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5248-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On y trouvait largement des rubis balais",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2217,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5249",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5249-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et maintes topazes également ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2320,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5250",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5250-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jamais, pourtant de gens, en sipeu d'espace,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2423,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5251",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5251-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On n'avait vu ni connu tant de richesse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2526,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5252",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5252-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme il y en. avait rassemblée là !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2629,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5253",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5253-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les saphirs, les perles et les diamants",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2732,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5254",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5254-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui sont appropriés pour ceux qui aiment de pur amour,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2835,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5255",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5255-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne faisaient pas défaut non plus en ce lieu;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,2938,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5256",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5256-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celui qui voudrait contester le fait, se tromperait.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3041,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5257",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5257-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y en avait parmi elles quelques-unes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3144,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5258",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5258-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui portaient des armes de couleur brune",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3247,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5259",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5259-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec le bord entaillé de pointes d'argent et d'or.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3350,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5260",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5260-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand je rêve dans mon sommeil, j'ai l'impression",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3453,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5261",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5261-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De voir leur noble contenance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3556,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5262",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5262-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par la bannière que je tiens dans ma main!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3659,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5263",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5263-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y en avait d'autres de couleur bleue",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3762,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5264",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5264-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec un semis de fleurs de lis dorées,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3865,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5265",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5265-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'autres de couleur rouge avec des lions",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,3968,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5266",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5266-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rampants en blanc : il n'existe point ici d'homme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4071,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5267",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5267-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Capable de les rappeler en totalité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4174,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5268",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5268-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni de les décrire sans éveiller les doutes.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4277,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5269",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5269-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Virginité poursuit et conduit",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4380,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5270",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5270-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette tâche souverainement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4483,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5271",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5271-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est elle qui est la mieux parée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4586,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5272",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5272-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et la plus gracieusement armée :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4689,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5273",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5273-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle portait des armes blanches et sans tache,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4792,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5274",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5274-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Brillamment dorées et peintes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4895,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5275",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5275-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'images de très beaux petits angelots.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,4998,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5276",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5276-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jamais Tristan ou Lancelot",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5101,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5277",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5277-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'avaient eu droit à de plus belles parures !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5204,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5278",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5278-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On aurait eu du mal à évaluer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5307,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5279",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5279-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le prix de son noble équipage.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5410,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5280",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5280-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cependant, j'apprécie tout particulièrement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5513,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5281",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5281-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un grand destrier pommelé",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5616,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5282",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5282-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au large poitrail, à la large croupe,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5719,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5283",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5283-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De toute beauté, une merveille sans pareille,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5822,1302,103"
+    },
+    
+    {
+      "@id": "38v-fr-5284",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "38v-fr-5284-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur lequel elle était assise. Toute vermeille",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/38v#xywh=3906,5925,1302,103"
+    }
+    
+  ]
+}

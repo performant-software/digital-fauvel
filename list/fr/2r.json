@@ -1,0 +1,512 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/2r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "2r-fr-69",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-69-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les Augustins, les nonnes et les moines,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,1837,1229,105"
+    },
+    
+    {
+      "@id": "2r-fr-70",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-70-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les archidiacres et les chanoines",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,1942,1229,105"
+    },
+    
+    {
+      "@id": "2r-fr-71",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-71-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les clercs déjà pourvus par l'Église",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2047,1229,105"
+    },
+    
+    {
+      "@id": "2r-fr-72",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-72-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se sont déjà bien mobilisés pour bouchonner,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2152,1229,105"
+    },
+    
+    {
+      "@id": "2r-fr-73",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-73-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les pauvres clercs qui n'ont pas de rente",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2257,1229,105"
+    },
+    
+    {
+      "@id": "2r-fr-74",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-74-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y consacrent parfaitement toute leur attention",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2362,1229,105"
+    },
+    
+    {
+      "@id": "2r-fr-75",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-75-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais ne réussissent pas à être aussi près,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2467,1229,105"
+    },
+    
+    {
+      "@id": "2r-fr-76",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-76-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni à être autant devant que les grands personnages,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=409,2572,1229,105"
+    },
+    
+    {
+      "@id": "2r-fr-77",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-77-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi en sont-ils fâchés et pleins de dépit,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,703,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-78",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-78-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au point qu'on les entend souvent dire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,801,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-79",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-79-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Fortune, qui n'est pas stable",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,899,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-80",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-80-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui n'arrête pas de tourner,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,997,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-81",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-81-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Changera de place celui qui est le plus en avant,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1095,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-82",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-82-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fera du haut le bas et de l'éloigné le proche.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1193,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-83",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-83-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le fait que Fortune tourne si rapidement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1291,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-84",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-84-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne met aucun terme à son mouvement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1389,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-85",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-85-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Apporte du réconfort aux pauvres",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1487,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-86",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-86-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les distrait agréablement de leurs malheurs.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1585,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-87",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-87-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et même quand ils ne réussissent pas à arriver",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1683,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-88",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-88-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jusqu'à bouchonner Fauvel et le toucher,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1781,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-89",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-89-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils disent : « Que Dieu garde une bête de cette sorte,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1879,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-90",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-90-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle a un fort beau corps et une fort belle tête. »",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,1977,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-91",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-91-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il convient maintenant de savoir quelles sont la manière,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2075,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-92",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-92-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les comportements et la mine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2173,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-93",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-93-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui sont adoptés pour bouchonner ce cheval fauve.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2271,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-94",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-94-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "On ne reconnaît pas la nonne au voile ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2369,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-95",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-95-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi il est bon qu'on les connaisse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2467,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-96",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-96-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car plusieurs le frottent qui n'y laissent de trace.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=1680,2565,1260,98"
+    },
+    
+    {
+      "@id": "2r-fr-97",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-97-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je commencerai tout d'abord par le pape;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,1837,1239,101"
+    },
+    
+    {
+      "@id": "2r-fr-98",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-98-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'est pas juste qu'il soit épargné,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,1938,1239,101"
+    },
+    
+    {
+      "@id": "2r-fr-99",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-99-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais je déclare publiquement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2039,1239,101"
+    },
+    
+    {
+      "@id": "2r-fr-100",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-100-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ce n'est pas mon intention",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2140,1239,101"
+    },
+    
+    {
+      "@id": "2r-fr-101",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-101-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De m'attaquer à l'honneur de Rome",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2241,1239,101"
+    },
+    
+    {
+      "@id": "2r-fr-102",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-102-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À qui doit obéir tout homme,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2342,1239,101"
+    },
+    
+    {
+      "@id": "2r-fr-103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais de Fauvel je dirai la vérité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2443,1239,101"
+    },
+    
+    {
+      "@id": "2r-fr-104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "2r-fr-104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainsi que je puis la concevoir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/2r#xywh=2971,2544,1239,101"
+    }
+    
+  ]
+}

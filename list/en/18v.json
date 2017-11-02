@@ -1,0 +1,1114 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/18v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "18v-en-2024",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2024-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I must do this, for you know",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,4756,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2025",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2025-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I am as you have made me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,4862,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2026",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2026-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I am your creature, completely,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,4968,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2027",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2027-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your servant, the product of your craft.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5074,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2028",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2028-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I could not describe",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5180,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2029",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2029-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The state to which you have made me rise.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5286,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2030",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2030-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I could not count the number",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5392,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2031",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2031-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of honors that I have in your shadow!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5498,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2032",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2032-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You have left me all of your rewards without merit,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5604,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2033",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2033-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is clear.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5710,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2034",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2034-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And for this reason I came to you",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5816,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2035",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2035-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To offer myself to you as a debtor.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=1218,5922,1197,106"
+    },
+    
+    {
+      "@id": "18v-en-2036",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2036-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I am your servant and your liegeman.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4389,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2037",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2037-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I beg you, lady, as",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4492,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2038",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2038-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One who is my sovereign,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4595,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2039",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2039-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May it not be a trouble or inconvenience",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4698,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2040",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2040-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I have so boldly decided",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4801,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2041",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2041-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To come see you in this way.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,4904,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2042",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2042-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For, my lady, I am considering",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5007,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2043",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2043-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The rewards that it pleases you to give me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5110,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2044",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2044-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You have made me king and lord",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5213,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2045",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2045-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of the kingdom and the empire.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5316,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2046",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2046-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is neither prince nor prelate in the Church",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5419,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2047",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2047-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who does not honor me and love and value me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5522,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2048",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2048-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "There is no longer anyone, great or small,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5625,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2049",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2049-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who does not have the desire and appetite",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5728,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2050",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2050-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To do me a favor,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5831,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2051",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2051-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through which he might obtain my good graces.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=2499,5934,1270,103"
+    },
+    
+    {
+      "@id": "18v-en-2052",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2052-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Through you I am rich and powerful.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,714,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2053",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2053-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To me all are obedient.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,817,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2054",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2054-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Today, all are ready",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,920,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2055",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2055-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To bow down before my majesty.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1023,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2056",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2056-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I am honored as a God on earth",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1126,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2057",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2057-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In all places, whether in peace or in war",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1229,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2058",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2058-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As long as I remain in your favor.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1332,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2059",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2059-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You are my life and my joy!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1435,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2060",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2060-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your sweet appearance has set me on fire,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1538,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2061",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2061-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For I feel in my heart the spark",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1641,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2062",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2062-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of Love, which heats me and freezes me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1744,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2063",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2063-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From love of your worth,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1847,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2064",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2064-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I feel in my heart a great heat,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,1950,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2065",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2065-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But fear of losing your good graces,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2053,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2066",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2066-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Has often made me as cold as ice.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2156,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2067",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2067-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For you know, lady, that love",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2259,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2068",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2068-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is contrary to life and to death,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2362,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2069",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2069-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For in it, it proposes and opposes,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2465,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2070",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2070-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It creates suffering more than it rests,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2568,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2071",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2071-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sometimes it holds great hope",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2671,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2072",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2072-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of obtaining what one desires.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2774,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2073",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2073-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Other times it creates despair of everything,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2877,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2074",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2074-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Because it [creates] fear of falling.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,2980,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2075",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2075-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A very contrary disputation,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3083,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2076",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2076-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Love leads in all seasons!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3186,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2077",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2077-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He or she whom love masters,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3289,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2078",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2078-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "No longer has control over themselves.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3392,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2079",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2079-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And because love controls me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3495,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2080",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2080-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I have undertaken this speech.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3598,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2081",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2081-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I can no longer hide or remain silent.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3701,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2082",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2082-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The strength of love makes me do this!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3804,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2083",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2083-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this reason, god-like lady,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,3907,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2084",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2084-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "May you take pity on me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4010,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2085",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2085-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For true love commands me",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4113,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2086",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2086-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I request your love.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4216,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2087",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2087-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And love assures me,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4319,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2088",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2088-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since you have taken such great pains",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4422,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2089",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2089-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To have me honored",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4525,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2090",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2090-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And exalted and adored.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4628,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2091",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2091-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You would certainly have never done this,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4731,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2092",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2092-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "If you did not love me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4834,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2093",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2093-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas! How could I restrain myself",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,4937,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2094",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2094-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From loving you, you who are my joy?",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5040,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2095",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2095-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And woman, who is of such a sweet nature,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5143,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2096",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2096-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That she cannot hate he whom she loves.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5246,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2097",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2097-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather, feminine nature is",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5349,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2098",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2098-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sweet, in and of itself, tender and ready",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5452,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2099",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2099-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To hear and love whomever",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5555,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2100",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2100-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Wants to request its love.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5658,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2101",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2101-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You have deigned to elevate me so much",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5761,1208,103"
+    },
+    
+    {
+      "@id": "18v-en-2102",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "18v-en-2102-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That there is nothing that might bother me.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/18v#xywh=3853,5864,1208,103"
+    }
+    
+  ]
+}

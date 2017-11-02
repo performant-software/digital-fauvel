@@ -1,0 +1,512 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/37r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "37r-en-4975",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4975-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was those whom Fauvel had made stay awake",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,672,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4976",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4976-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to prepare them",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,772,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4977",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4977-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For the joust, and who were there",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,872,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4978",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4978-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the fields, completely ready, and were trying out",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,972,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4979",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4979-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Their big horses and their chargers.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1072,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4980",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4980-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the eye, they were so fierce",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1172,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4981",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4981-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That I considered them to be crazy.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1272,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4982",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4982-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was clear that the devil",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1372,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4983",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4983-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Had brought them to this place!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1472,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4984",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4984-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It was in the fields in front of the church",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1572,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4985",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4985-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of Saint Germain, in a plain",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1672,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4986",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4986-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Situated between the city walls and the Seine.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1772,1186,100"
+    },
+    
+    {
+      "@id": "37r-en-4987",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4987-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I willingly gazed at the barriers.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3097,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4988",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4988-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They were not made with wood that split easily,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3195,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4989",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4989-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But rather with large and strong construction wood.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3293,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4990",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4990-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And since I knew very well",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3391,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4991",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4991-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Where the Virtues were staying, I descended",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3489,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4992",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4992-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Seine and, in a small boat, I went",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3587,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4993",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4993-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To the front of the inn. There, I saw",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3685,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4994",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4994-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "—If I was not lifted into the air—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3783,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4995",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4995-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Marvels of the sort that had never existed.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3881,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4996",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4996-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For on the inn I saw two ladders",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3979,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4997",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4997-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of which the lower ends were propped",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,4077,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4998",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4998-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Against the gables, if we are tracing the lines well.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,4175,1155,98"
+    },
+    
+    {
+      "@id": "37r-en-4999",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-4999-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The upper extremities touched the sky,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5502,1186,118"
+    },
+    
+    {
+      "@id": "37r-en-5000",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5000-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And from there came and went,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5620,1186,118"
+    },
+    
+    {
+      "@id": "37r-en-5001",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5001-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It seems to me, angels and archangels.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5738,1186,118"
+    },
+    
+    {
+      "@id": "37r-en-5002",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5002-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I do not tell you this in order to report lies",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5856,1186,118"
+    },
+    
+    {
+      "@id": "37r-en-5003",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5003-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But rather to tell you about the miracle.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,630,1092,99"
+    },
+    
+    {
+      "@id": "37r-en-5004",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5004-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the streets there was such a great crowd",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,729,1092,99"
+    },
+    
+    {
+      "@id": "37r-en-5005",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5005-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To see the angels climb",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,828,1092,99"
+    },
+    
+    {
+      "@id": "37r-en-5006",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5006-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it is a miracle to recount.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,927,1092,99"
+    },
+    
+    {
+      "@id": "37r-en-5007",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5007-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I think they came to comfort",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,1026,1092,99"
+    },
+    
+    {
+      "@id": "37r-en-5008",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5008-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The ladies and then left.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,1125,1092,99"
+    },
+    
+    {
+      "@id": "37r-en-5009",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5009-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And, as it seems to me, they sang",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1417,5281,1040,126"
+    },
+    
+    {
+      "@id": "37r-en-5010",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-en-5010-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This prose all together:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1417,5407,1040,126"
+    }
+    
+  ]
+}

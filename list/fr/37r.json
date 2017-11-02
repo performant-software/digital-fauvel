@@ -1,0 +1,512 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/37r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "37r-fr-4975",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4975-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il s'agissait de ceux que Fauvel avait",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,672,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4976",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4976-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fait veiller, afin de les préparer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,772,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4977",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4977-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la joute, et qui se trouvaient là",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,872,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4978",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4978-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur le champ, tous déjà prêts, et qui essayaient",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,972,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4979",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4979-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leurs grands chevaux et leurs destriers.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1072,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4980",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4980-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À les voir, ils étaient si farouches",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1172,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4981",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4981-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je les tins pour fous furieux :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1272,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4982",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4982-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il était manifeste que c'est le diable",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1372,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4983",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4983-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui les avait amenés en cette enceinte !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1472,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4984",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4984-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cela se passait les prés devant l'église",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1572,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4985",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4985-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Saint-Germain, dans une plaine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1672,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4986",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4986-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Située entre les murs de la ville et la Seine.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,1772,1186,100"
+    },
+    
+    {
+      "@id": "37r-fr-4987",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4987-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est avec plaisir que j'admirais les lices :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3097,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4988",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4988-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elles n'avaient pas été faites avec du bois de fente",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3195,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4989",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4989-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais constituées de gros et solides morceaux de bois de construction;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3293,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4990",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4990-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et comme je savais parfaitement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3391,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4991",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4991-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Où logeaient les Vertus, je descendis par les prés",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3489,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4992",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4992-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la Seine, et par un bac je me rendis",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3587,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4993",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4993-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Devant le logis en question ; là, j'ai vu,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3685,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4994",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4994-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si du moins je n'ai pas été enlevé dans les airs,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3783,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4995",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4995-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un spectacle merveilleux, tel qu'il n'y en eut jamais :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3881,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4996",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4996-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au-dessus du logis je vis, en effet, deux échelles",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,3979,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4997",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4997-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont les extrémités inférieures s'accrochaient",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,4077,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4998",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4998-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aux pignons, si nous en avons bien pris la mesure.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=147,4175,1155,98"
+    },
+    
+    {
+      "@id": "37r-fr-4999",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-4999-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant aux extrémités supérieures, elles touchaient le ciel,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5502,1186,118"
+    },
+    
+    {
+      "@id": "37r-fr-5000",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5000-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sur les échelles allaient et venaient",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5620,1186,118"
+    },
+    
+    {
+      "@id": "37r-fr-5001",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5001-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A mon avis des anges et des archanges.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5738,1186,118"
+    },
+    
+    {
+      "@id": "37r-fr-5002",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5002-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne le dis pas pour vous raconter de belles histoires",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=126,5856,1186,118"
+    },
+    
+    {
+      "@id": "37r-fr-5003",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5003-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais pour vous rapporter le miracle.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,630,1092,99"
+    },
+    
+    {
+      "@id": "37r-fr-5004",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5004-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À travers les rues il y avait une telle presse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,729,1092,99"
+    },
+    
+    {
+      "@id": "37r-fr-5005",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5005-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour voir grimper les anges",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,828,1092,99"
+    },
+    
+    {
+      "@id": "37r-fr-5006",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5006-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est incroyable à relater.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,927,1092,99"
+    },
+    
+    {
+      "@id": "37r-fr-5007",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5007-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je crois qu'ils venaient apporter leur réconfort",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,1026,1092,99"
+    },
+    
+    {
+      "@id": "37r-fr-5008",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5008-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aux dames, et puis qu'ils repartaient.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1459,1125,1092,99"
+    },
+    
+    {
+      "@id": "37r-fr-5009",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5009-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les anges chantaient, comme il me semble,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1417,5281,1040,126"
+    },
+    
+    {
+      "@id": "37r-fr-5010",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "37r-fr-5010-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cette prose, tous en chœur :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/37r#xywh=1417,5407,1040,126"
+    }
+    
+  ]
+}

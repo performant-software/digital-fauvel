@@ -1,0 +1,848 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/4r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "4r-fro-355",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-355-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "AAussi l'ordenance devine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5344,1102,106"
+    },
+    
+    {
+      "@id": "4r-fro-356",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-356-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est du touttornee a ruine :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5450,1102,106"
+    },
+    
+    {
+      "@id": "4r-fro-357",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-357-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nous alons par nuitsanz lanterne,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5556,1102,106"
+    },
+    
+    {
+      "@id": "4r-fro-358",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-358-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant bestiauté nous gouverne.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5662,1102,106"
+    },
+    
+    {
+      "@id": "4r-fro-359",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-359-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Las ! que ne fu Fauvel morné,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5768,1102,106"
+    },
+    
+    {
+      "@id": "4r-fro-360",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-360-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant le monde a si bestorné !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5874,1102,106"
+    },
+    
+    {
+      "@id": "4r-fro-361",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-361-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chascun treuve en li grant saveur",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5980,1102,106"
+    },
+    
+    {
+      "@id": "4r-fro-362",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-362-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour acquerre humainne faveur.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,6086,1102,106"
+    },
+    
+    {
+      "@id": "4r-fro-363",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-363-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "HHe las He las ! quant je regarde",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5376,1176,101"
+    },
+    
+    {
+      "@id": "4r-fro-364",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-364-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que pour ce Fauvel, que feu arde,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5477,1176,101"
+    },
+    
+    {
+      "@id": "4r-fro-365",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-365-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est sainte Eglise aujour d'ui",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5578,1176,101"
+    },
+    
+    {
+      "@id": "4r-fro-366",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-366-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au dessouz et si grant ennui",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5679,1176,101"
+    },
+    
+    {
+      "@id": "4r-fro-367",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-367-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a painne porra relever!.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5780,1176,101"
+    },
+    
+    {
+      "@id": "4r-fro-368",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-368-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz les jours la voi si grever",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5881,1176,101"
+    },
+    
+    {
+      "@id": "4r-fro-369",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-369-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que c'est une trop grant merveille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5982,1176,101"
+    },
+    
+    {
+      "@id": "4r-fro-370",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-370-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que saint Pere ne s'apareille,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,6083,1176,101"
+    },
+    
+    {
+      "@id": "4r-fro-371",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-371-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDe toust secourre a sa nacele,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,714,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-372",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-372-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui si horriblement chancele",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,810,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-373",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-373-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que l'estat de crestienté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,906,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-374",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-374-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En doit tout estre espoventé ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1002,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-375",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-375-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Li gouverneur sont esbloé !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1098,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-376",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-376-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sachiez que l'arche Noe",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1194,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-377",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-377-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne fu onques en si grant doute",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1290,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-378",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-378-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par unde nule qui tant boute",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1386,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-379",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-379-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'estre noiee et desconfite",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1482,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-380",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-380-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Com la nacele dessus cite,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1578,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-381",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-381-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est a dire l'Iglise presente",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1674,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-382",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-382-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la nacele represente ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1770,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-383",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-383-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De toutes pars est en tempeste,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1866,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-384",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-384-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "James en li [n'a] joie ne feste :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1962,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-385",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-385-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien puet par desolacion",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2058,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-386",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-386-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chanter la lamentacion",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2154,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-387",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-387-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Jeremie le prophete;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2250,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-388",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-388-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je croi qu'elle fut pour li fete!",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2346,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-389",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-389-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La dame des rois et des princes,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2442,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-390",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-390-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Princesse de toutes provinces,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2538,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-391",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-391-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Gist au jour d'ui sous le treü",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2634,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-392",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-392-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus c'onques mes ne fut veü",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2730,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-393",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-393-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis que l'Eglise primitive",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2826,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-394",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-394-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fu essauciee et mise a rive.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2922,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-395",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-395-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel qui est faus et quassé",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3018,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-396",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-396-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ce broet li a brassé :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3114,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-397",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-397-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si comme il veut Fortune tourne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3210,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-398",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-398-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ce que Diex a fait bestorne.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3306,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-399",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-399-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or te veil moustrer la maniere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3402,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-400",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-400-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme il met ce devant derriere.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3498,1187,96"
+    },
+    
+    {
+      "@id": "4r-fro-401",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-401-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "OOr entent, tu qui Fauvel torches :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4788,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-402",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-402-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Diex fist au premier .ij. grans torches,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4885,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-403",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-403-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plainnes de moult tres grant lumiere,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4982,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-404",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-404-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais c'est par diverse maniere.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5079,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-405",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-405-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'une a non soleil, l'autre lune ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5176,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-406",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-406-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Clarté de jourz nous donne l'une :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5273,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-407",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-407-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le soleil qui luist de jour,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5370,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-408",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-408-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La lune de nuit sanz sejour.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5467,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-409",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-409-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes le soleil, se Diex m'ament,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5564,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-410",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-410-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est trop plus haut ou firmament",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5661,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-411",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-411-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que n'est la lune, c'est sanz doute,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5758,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-412",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-412-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne elle n'a de clarté goute",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5855,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-413",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-413-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que le soleil ne li envoie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5952,1291,97"
+    },
+    
+    {
+      "@id": "4r-fro-414",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-fro-414-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes Fauvel, qui trestout desvoie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,6049,1291,97"
+    }
+    
+  ]
+}

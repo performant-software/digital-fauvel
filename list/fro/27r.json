@@ -1,0 +1,2206 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/27r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "27r-fro-3595",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3595-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or veulliez que soit terme court",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,609,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3596",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3596-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a vo secours aie recours:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,714,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3597",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3597-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si porrai, dame, en espoir vivre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,819,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3598",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3598-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "HHé, noblece en gent cors assise,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,924,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3599",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3599-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Douceur de vis, de cuer franchise,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1029,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3600",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3600-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aiez pitié de vostre amant,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1134,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3601",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3601-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui s'entente en vous a si mise:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1239,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3602",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3602-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou monde fors vous riens ne prise,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1344,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3603",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3603-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'autre rien ne vet reclamant.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1449,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3604",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3604-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDieus, trop par sera grant durté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1554,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3605",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3605-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Douce dame, quant la durté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1659,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3606",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3606-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De moi savez, qu'en vous servir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1764,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3607",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3607-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ai mon cuer du tout ahurté,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1869,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3608",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3608-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si souffrez qu'en maleürté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,1974,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3609",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3609-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Me muire et sanz le deservir.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2079,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3610",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3610-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDeservir? las! qu'en mon aage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2184,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3611",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3611-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aie en fait n'en ditn'en courage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2289,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3612",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3612-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vers vous mespris, il ne puet estre !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2394,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3613",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3613-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Hé las ! dont me vandroit tel rage ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2499,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3614",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3614-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'avoie voir fait tel outrage,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2604,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3615",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3615-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De male heure dui onques nestre !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2709,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3616",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3616-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEt comment, douce, gracieuse,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2814,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3617",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3617-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Me serez si contrarieuse,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,2919,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3618",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3618-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en moi le meffait ne savez,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3024,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3619",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3619-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Com de ma mort estre envieuse ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3129,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3620",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3620-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Las ! certes, d'estre si crieuse",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3234,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3621",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3621-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le nom ne le semblant n'avez !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3339,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3622",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3622-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDonques, gent cors et claire face",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3444,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3623",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3623-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Deigniez qu'en moy vo franc cuer face",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3549,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3624",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3624-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui vous aing et sanz decevoir,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3654,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3625",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3625-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par douceur et pitié sa grace ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3759,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3626",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3626-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Diex ! vous verrai je en point n'en place",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3864,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3627",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3627-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en gré me deignez recevoir?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,3969,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3628",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3628-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "HHé las ! et j'ai droit, dire n'ose",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4074,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3629",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3629-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que soie de si haute chose",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4179,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3630",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3630-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Digne, par moi ne mès desertes,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4284,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3631",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3631-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se vous, de beauté lis et rose,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4389,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3632",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3632-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par douceur qu,i eri vous repose,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4494,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3633",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3633-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne m'en fesiez grace certes.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4599,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3634",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3634-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "HHé dame d'ardant cuer amee",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4704,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3635",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3635-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De moi nuit et jour reclamee,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4809,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3636",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3636-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or me soit vostre grace ouverte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,4914,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3637",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3637-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car d'ardeur d'amour enflammee",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5019,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3638",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3638-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Me rouir, ne parole entamee",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5124,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3639",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3639-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'en est qu'a vous n'ai descouverte.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5229,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3640",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3640-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDonques dame en ce prenez garde",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5334,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3641",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3641-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nus ne set mes maus ; ce regarde",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5439,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3642",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3642-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fors vous, n'en n'i puet conseil metre,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5544,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3643",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3643-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'or sui en vostre seule garde.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5649,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3644",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3644-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour Dieu, vo secours plus ne tarde !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5754,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3645",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3645-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Temps est de vous en entremetre !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5859,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3646",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3646-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "CChiere dame j'ai grant doutance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=157,5964,1313,105"
+    },
+    
+    {
+      "@id": "27r-fro-3647",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3647-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ne destourbent m'alejance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,546,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3648",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3648-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Deus choses : je dout de chascune !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,648,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3649",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3649-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est qu'a vostre douce acointance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,750,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3650",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3650-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'atende par vostre acordance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,852,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3651",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3651-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Autre de moi : en est ci l'une.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,954,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3652",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3652-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LL'autre est : je dout que quant m'assemble",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1056,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3653",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3653-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A vous pour vous prier que semble",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1158,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3654",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3654-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je ne serve fors de flavele,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1260,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3655",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3655-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce que je ne fremi ne tremble",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1362,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3656",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3656-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quant compaignie est ensemble",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1464,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3657",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3657-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que je chant et jeue et revele :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1566,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3658",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3658-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLas ! quant a la doute premiere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1668,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3659",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3659-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pri je la mort qu'elle me fiere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1770,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3660",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3660-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainz qu'ainssi soit que je la voie !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1872,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3661",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3661-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult mieux me vaudroit estre en biere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,1974,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3662",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3662-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'estre pour autre mis arriere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2076,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3663",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3663-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce qu'aim tant: j'enrageroie!",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2178,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3664",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3664-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "QQuant a l'autre, biau sire Dieus,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2280,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3665",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3665-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant vers vous trai, ma dame, au mieus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2382,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3666",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3666-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en puis, prang en moi cuer et force.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2484,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3667",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3667-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien porroit estre atourné tieus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2586,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3668",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3668-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "[... ]",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2688,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3669",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3669-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce en contenance m'efforce.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2790,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3670",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3670-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DD'autre part s'en la compaingnie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2892,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3671",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3671-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je chant, jangle ou faiz jeuerie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,2994,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3672",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3672-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Peut estre que c'est pour esbatre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3096,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3673",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3673-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes tout pour cela n'est ce mie:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3198,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3674",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3674-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'en jeue bien quant cuer ennuie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3300,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3675",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3675-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour maint mauvaiz mesdit abatre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3402,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3676",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3676-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "HHé las ! dolent, dont me vandroit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3504,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3677",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3677-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne jouer [n'] esbatre orendroit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3606,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3678",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3678-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'estre gaiz dé droite saison",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3708,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3679",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3679-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui bien mon afaire entendroit ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3810,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3680",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3680-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se jolis sui en nul endroit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,3912,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3681",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3681-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A droit sui jolis sanz raison !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4014,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3682",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3682-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "SSanz raison? Voire, n'en doutez 1",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4116,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3683",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3683-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Las! qu'[ou]feu d'amours sui boutez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4218,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3684",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3684-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui m'art le cuer, le cors m'eschache;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4320,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3685",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3685-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A maus souffrir sui atournez :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4422,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3686",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3686-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A estre de dame escoutez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4524,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3687",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3687-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne puis en riens que prier sache.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4626,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3688",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3688-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDouce dame ne vous ennuit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4728,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3689",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3689-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se ce qu'i pens qui me nuit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4830,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3690",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3690-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vers vous ai dit par devinaille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,4932,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3691",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3691-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a souffrir ai tant jour et nuit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5034,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3692",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3692-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce de quoi le cuer me cuit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5136,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3693",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3693-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comment que par ma bouche saille.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5238,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3694",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3694-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "NNonpourquant, dame, en quant qu'ai dit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5340,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3695",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3695-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Encontre vous n'ai rien mesdit,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5442,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3696",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3696-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A espoir de quant que dout n'est riens.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5544,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3697",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3697-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes bons malade ou qu'en lesdit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5646,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3698",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3698-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A trop des pensers s'enresdit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5748,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3699",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3699-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis de son mal, puis de son bien.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=1512,5850,1312,102"
+    },
+    
+    {
+      "@id": "27r-fro-3700",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3700-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "HHé de douceur enamouree",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,514,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3701",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3701-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je muir en vie enlangouree",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,618,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3702",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3702-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant ai le cuer d'ardeur nerci",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,722,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3703",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3703-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se vous tres douce savouree",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,826,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3704",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3704-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne m'alegiez sanz demouree",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,930,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3705",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3705-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par donner espoir de mercy.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1034,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3706",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3706-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "QQuant li hons languissant demeure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1138,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3707",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3707-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne n'a espoir de jour ne d'eure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1242,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3708",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3708-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que l'en le doie secourir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1346,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3709",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3709-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et touz jourz meschief li cueurt seure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1450,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3710",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3710-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour voir di, se Dieus me segneure !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1554,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3711",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3711-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en puet ce compter pour mourir.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1658,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3712",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3712-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDame qui ces ma us me donnez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1762,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3713",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3713-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En moi si les afoisonnez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1866,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3714",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3714-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par l'espoir de mercy restraindre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,1970,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3715",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3715-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a moi plaindre en sui adonnez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2074,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3716",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3716-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes cause ai d'estre abandonnez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2178,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3717",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3717-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'autre plus a moi complaindre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2282,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3718",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3718-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLas ! mes moi complaindre que' monte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2386,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3719",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3719-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en vous, dame, a qui je raconte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2490,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3720",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3720-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes griez, ne puis secours trouver,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2594,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3721",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3721-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se de moi voir ne faites conte ?",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2698,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3722",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3722-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nul meschief le mien ne seurmonte :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2802,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3723",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3723-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A desconfit me puis prouver !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,2906,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3724",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3724-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "EEt toutes fois, haute noblesce,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3010,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3725",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3725-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce que ne puis ma destresce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3114,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3726",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3726-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien dire vous quant sui present",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3218,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3727",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3727-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant me destraint d'amour l'aspresce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3322,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3728",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3728-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce par ce dit si m'adresce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3426,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3729",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3729-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Donc a vous, dont vous fais present.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3530,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3730",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3730-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "OOr veuillez gente, noble et cointe,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3634,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3731",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3731-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Estre de douceur si acointe",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3738,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3732",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3732-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en pitiez deigniez regarder",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3842,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3733",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3733-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'au cuer par l'amoureuse pointe",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,3946,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3734",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3734-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vostre douce amour m'est jointe",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4050,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3735",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3735-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'ardeur dont ne me puis garder.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4154,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3736",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3736-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "SSi en faciez, s'a gré vous vient,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4258,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3737",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3737-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dame, selon ce qu'il appartient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4362,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3738",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3738-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et veez sa franchise ensievrre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4466,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3739",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3739-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant par vostre amour mal me tient,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4570,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3740",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3740-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et mon cuer en gré le soustient,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4674,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3741",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3741-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en doi par vous mourir ou vivre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4778,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3742",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3742-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "SSi mourroi ainssi sanz desserte,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4882,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3743",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3743-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ne soit il de moi grant perte,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,4986,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3744",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3744-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si sembleroit ce cruauté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,5090,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3745",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3745-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A trouver de pitié poverte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,5194,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3746",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3746-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En dame tant gente et aperte",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,5298,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3747",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3747-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ou tant ait sens et beauté.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,5402,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3748",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3748-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "CCertes, nus ce ne penseroit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,5506,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3749",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3749-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui bien de vous regarderoit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,5610,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3750",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3750-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le gent cors, la douce figure,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,5714,1365,104"
+    },
+    
+    {
+      "@id": "27r-fro-3751",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "27r-fro-3751-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainz tout temps affermé seroit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/27r#xywh=2835,5818,1365,104"
+    }
+    
+  ]
+}

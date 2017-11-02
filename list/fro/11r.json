@@ -1,0 +1,568 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/11r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "11r-fro-1263",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1263-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDe Fauvel bien oÿ avés",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=315,5785,924,257"
+    },
+    
+    {
+      "@id": "11r-fro-1264",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1264-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme il est frotez et lavez.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=315,6042,924,257"
+    },
+    
+    {
+      "@id": "11r-fro-1265",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1265-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes pour ce que necessité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,787,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1266",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1266-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Seroit a toute humanité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,898,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1267",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1267-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Fauvel cognoistre l'istoire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1009,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1268",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1268-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et bien retenir en memoire,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1120,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1269",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1269-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il est de tout mal figure,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1231,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1270",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1270-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si com nous dit l'Escripture",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1342,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1271",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1271-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nul ne puet bien eschiver vice",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1453,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1272",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1272-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si ne cognoist ainçois malice,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1564,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1273",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1273-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce voil je onquore dire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1675,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1274",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1274-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aucune chose qui s'atire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1786,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1275",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1275-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A ce que plus a plain apere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,1897,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1276",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1276-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'estat de Fauvel et l'affere :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2008,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1277",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1277-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin que sanz lui puissiems vivre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2119,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1278",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1278-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ai de li fait ce secont livre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2230,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1279",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1279-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui parle comment mariez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2341,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1280",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1280-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'est Fauvel et montepliez.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1564,2452,1176,111"
+    },
+    
+    {
+      "@id": "11r-fro-1281",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1281-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "UUn jour estoit en son palais",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,3874,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1282",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1282-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel qui ne pert pas galais,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,3982,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1283",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1283-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ait il ou païs de Gales",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4090,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1284",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1284-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chastiaus, donjons, manois et salles.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4198,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1285",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1285-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Entour lui avoit grant plenté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4306,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1286",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1286-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De gens touz de son parenté,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4414,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1287",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1287-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il n'avoit de son mesnage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4522,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1288",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1288-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nul qui ne li fust de lignage.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4630,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1289",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1289-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En un faudestuel fu assis,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4738,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1290",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1290-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes je croi que ci n'a pas sis",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4846,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1291",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1291-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui aussi bel onques veïssent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,4954,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1292",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1292-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne qui de tel parler oïssent :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5062,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1293",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1293-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bel estoit, que par saint Cosme,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5170,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1294",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1294-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce paroit œuvre de fantosme !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5278,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1295",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1295-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il estoit d'un or d'arquemie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5386,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1296",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1296-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Semblant fin, mes ne le fu mie ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5494,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1297",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1297-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes si grandement reluisoit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5602,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1298",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1298-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il n'est nul qui pres de luy soit",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5710,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1299",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1299-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne s'esbloie du veoir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5818,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1300",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1300-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui n'ait fain d'iluec seoir.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,5926,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1301",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1301-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Esmaillié fu en taille iroise,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,6034,1166,108"
+    },
+    
+    {
+      "@id": "11r-fro-1302",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "11r-fro-1302-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ouvré d'euvre sarrazinoise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/11r#xywh=1585,6142,1166,108"
+    }
+    
+  ]
+}

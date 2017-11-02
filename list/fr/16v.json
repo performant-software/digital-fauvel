@@ -1,0 +1,1296 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/16v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "16v-fr-1932",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1932-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Néanmoins, à l'intérieur sont cachées",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,693,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1933",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1933-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De petites émeraudes vertes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,795,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1934",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1934-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui font l'effet de petits grains de sel,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,897,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1935",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1935-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien que personne ne s'aperçoit de leur présence",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,999,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1936",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1936-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sauf les malheureux qui la portent,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1101,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1937",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1937-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui y trouvent du réconfort dans leur affliction.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1203,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1938",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1938-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Voilà les deux couronnes que tenait en main",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1305,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1939",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1939-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, à qui cela allait parfaitement.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1407,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1940",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1940-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais son visage était tout à fait hideux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1509,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1941",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1941-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et je ne connais personne, proche ou étranger,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1611,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1942",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1942-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui l'ait aussi affreux que Fortune !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1713,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1943",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1943-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un des côtés est sombre et de teinte brune,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1815,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1944",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1944-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout à fait hideuse à regarder,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,1917,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1945",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1945-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tandis que l'autre est belle et gracieuse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2019,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1946",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1946-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Délicate, blanche, avec un teint éclatant et vermeil.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2121,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1947",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1947-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle ne donne pas l'impression d'être une femme triste",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2223,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1948",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1948-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand on la regarde de ce côté-là ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2325,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1949",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1949-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De l'autre, elle a l'air d'un léopard,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2427,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1950",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1950-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Semblant pleine de fureur, cruelle et féroce,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2529,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1951",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1951-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et toujours prête à frapper.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2631,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1952",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1952-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un de ses yeux est rouge et brûlant,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2733,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1953",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1953-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cruel, et son regard est horrible ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2835,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1954",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1954-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est celui qui se trouve sur la moitié gauche;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,2937,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1955",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1955-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En revanche, elle a l'œil droit brillant et enjoué",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3039,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1956",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1956-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'ils sont séduits et piégés,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3141,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1957",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1957-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux qu'elle regarde avec l'œil droit.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3243,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1958",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1958-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle avait revêtu une robe partagée en deux,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3345,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1959",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1959-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune, avec une partie faite",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3447,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1960",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1960-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De drap de soie moiré, et non d'étoffe de laine,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3549,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1961",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1961-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'elle prend diverses couleurs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3651,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1962",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1962-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'autre était fabriquée dans un vieux tissu de serge",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3753,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1963",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1963-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont Fortune est généreuse et libérale",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3855,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1964",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1964-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car elle en distribue des pans et des morceaux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,3957,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1965",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1965-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À quiconque va de ce côté-là.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4059,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1966",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1966-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y avait deux roues devant Fortune",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4161,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1967",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1967-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui tournaient sans arrêt, mais l'une",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4263,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1968",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1968-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Va vite et l'autre doucement,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4365,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1969",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1969-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dans chacune, en vérité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4467,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1970",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1970-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Était placée une roue plus petite,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4569,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1971",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1971-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui se trouvait à l'intérieur, et de telle façon",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4671,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1972",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1972-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle tournait en sens inverse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4773,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1973",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1973-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la roue dans laquelle elle était installée.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4875,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1974",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1974-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ces roues ne s'arrêtent pas",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,4977,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1975",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1975-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De faire tourner l'état du monde :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5079,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1976",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1976-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le jeu auquel Fortune se divertit.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5181,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1977",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1977-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle cajole les uns, aux autres elle distribue des coups,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5283,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1978",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1978-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car à chaque tour qu'elle fait faire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5385,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1979",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1979-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle en anéantit certains et en rétablit d'autres ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5487,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1980",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1980-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À quelques-uns elle offre sa couronne,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5589,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1981",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1981-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis la reprend, et la redonne,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5691,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1982",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1982-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une fois la mauvaise, l'autre la bonne ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5793,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1983",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1983-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ainsi qu'elle répartit la joie et la peine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=1249,5895,1260,102"
+    },
+    
+    {
+      "@id": "16v-fr-1984",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1984-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant et si bien qu'aucun humain ne peut savoir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,714,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1985",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1985-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelle part de mal ou de bien il peut obtenir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,817,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1986",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1986-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car Fortune est prompte à jeter au vent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,920,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1987",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1987-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tous côtés, ses volontés.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1023,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1988",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1988-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À ses pieds était assise Vaine Gloire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1126,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1989",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1989-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'avait qu'une seule chose en tête,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1229,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1990",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1990-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est de se parer avec grâce",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1332,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1991",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1991-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour faire en sorte qu'ils se contemplent en elle, comme dans un miroir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1435,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1992",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1992-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux qui sont en train de monter au sommet des roues ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1538,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1993",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1993-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par ses nobles apprêts elle les encourage",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1641,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1994",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1994-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À lui porter toute leur attention et à la regarder",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1744,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1995",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1995-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle façon qu'ils ne songent point à la chute,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1847,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1996",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1996-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui les attend quand les roues font un tour",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,1950,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1997",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1997-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au moment où Fortune y donne un coup de patte.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3843,2053,1218,103"
+    },
+    
+    {
+      "@id": "16v-fr-1998",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1998-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Voilà dans quel état se présentait Fortune",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3402,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-1999",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-1999-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand Fauvel avec son assemblée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3506,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2000",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2000-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Arriva à Macrocosme.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3610,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2001",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2001-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il savait que Fortune y était, et alla immédiatement la trouver,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3714,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2002",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2002-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et, au spectacle de sa majesté,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3818,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2003",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2003-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il marqua un arrêt à quelque distance :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,3922,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2004",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2004-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rien d'étonnant à ce qu'il ait eu peur!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4026,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2005",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2005-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Néanmoins, il prit les bonnes dispositions",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4130,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2006",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2006-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour parler de manière avisée :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4234,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2007",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2007-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il était agenouillé très humblement.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4338,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2008",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2008-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme quelqu'un qui connaît bien son affaire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4442,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2009",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2009-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il salua Fortune, la noble dame,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4546,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2010",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2010-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et se mit ensuite à sa besogne",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4650,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2011",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2011-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En s'exprimant exactement en ces termes:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4754,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2012",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2012-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Ma dame, que le souverain Seigneur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4858,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2013",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2013-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'a pas d'égal ni de supérieur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,4962,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2014",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2014-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous accorde longue vie et joie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5066,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2015",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2015-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'il vous garde en votre éminente position !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5170,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2016",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2016-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le grand désir qui s'imposait à moi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5274,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2017",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2017-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vous voir m'a fait me mettre en route",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5378,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2018",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2018-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et donné le courage de venir ici ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5482,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2019",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2019-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je n'arrivais plus à résister !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5586,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2020",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2020-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'aurais passé pour insensé ou indolent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5690,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2021",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2021-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si je n'avais eu le désir ardent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5794,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2022",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2022-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vous voir, ma chère dame,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,5898,1260,104"
+    },
+    
+    {
+      "@id": "16v-fr-2023",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16v-fr-2023-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À qui j'offre ici mon corps et mon âme.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16v#xywh=3874,6002,1260,104"
+    }
+    
+  ]
+}

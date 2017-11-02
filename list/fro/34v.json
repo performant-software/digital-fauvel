@@ -1,0 +1,624 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/34v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "34v-fro-4887",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4887-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "PPuis menoient un chariot ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,1827,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4888",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4888-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dedens le chariot si ot",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,1927,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4889",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4889-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un engin de roes de charetes",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2027,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4890",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4890-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fors, reddes et moult tres bien faites",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2127,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4891",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4891-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et au tourner qu'eles fesoient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2227,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4892",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4892-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sis bastons de fer encontroient",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2327,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4893",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4893-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dedens les moieux bien cloez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2427,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4894",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4894-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et boen atachiez; or m'oez:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2527,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4895",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4895-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si grant son et si variable,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2627,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4896",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4896-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si let et si espoentable",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2727,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4897",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4897-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A l'encontrer fesoient donner",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2827,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4898",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4898-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que l'en n'oïst pas Dieu tonner.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,2927,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4899",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4899-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis fesoient une crierie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3027,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4900",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4900-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Onques tele ne fu oÿe :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3127,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4901",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4901-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Li un moutret son cul au vent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3227,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4902",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4902-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Li autre rompet un auvent,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3327,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4903",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4903-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un cassait fenestre et huis,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3427,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4904",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4904-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'autre getoit le sel ou puis,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3527,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4905",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4905-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un getoit le bren aus visages :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3627,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4906",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4906-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Trop estaient les et sauvages !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3727,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4907",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4907-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Es testes orent barboeres ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3827,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4908",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4908-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec eus portaient deus bieres",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,3927,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4909",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4909-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ou il avait gent trop avable",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,4027,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4910",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4910-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour chanter la chanson au deable !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,4127,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4911",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4911-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un crie corbeilles et venz,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,4227,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4912",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4912-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'autre de quel part vient li vent.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2509,4327,1197,100"
+    },
+    
+    {
+      "@id": "34v-fro-4913",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4913-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "IIl y ravoit un grant jaiant",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2625,5670,1113,120"
+    },
+    
+    {
+      "@id": "34v-fro-4914",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4914-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui aloit trop forment braiant ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=2625,5790,1113,120"
+    },
+    
+    {
+      "@id": "34v-fro-4915",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4915-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vestu ert de bon broissequin ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,514,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4916",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4916-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je croi que c'estoit Hellequin,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,621,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4917",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4917-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tuit li autre de sa mesnie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,728,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4918",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4918-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui le suivent toute enragie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,835,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4919",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4919-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Montez ert sus un roncin haut,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,942,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4920",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4920-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si tres gras que, par saint Quinaut,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1049,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4921",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4921-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'en li peust les costes conter",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1156,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4922",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4922-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sus com sus lates monter",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1263,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour couvrir de tuille ou d'escil",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1370,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi com si venist d'essil.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1477,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'estoit espoentable chose",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1584,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A regarder, bien dire l'ose.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1691,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec eus avait Hellequines",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1798,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui avaient cointises'fines,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,1905,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et se deduis[oi]ent en ce",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,2012,1197,107"
+    },
+    
+    {
+      "@id": "34v-fro-4930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "34v-fro-4930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lay chanter qui ci se commence :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/34v#xywh=3685,2119,1197,107"
+    }
+    
+  ]
+}

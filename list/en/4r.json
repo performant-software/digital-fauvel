@@ -1,0 +1,848 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/4r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "4r-en-355",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-355-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Thus is divine order",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5344,1102,106"
+    },
+    
+    {
+      "@id": "4r-en-356",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-356-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Completely ruined.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5450,1102,106"
+    },
+    
+    {
+      "@id": "4r-en-357",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-357-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "We go through night without a lantern,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5556,1102,106"
+    },
+    
+    {
+      "@id": "4r-en-358",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-358-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When bestiality governs us.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5662,1102,106"
+    },
+    
+    {
+      "@id": "4r-en-359",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-359-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas! Why is Fauvel not mourned [as dead]",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5768,1102,106"
+    },
+    
+    {
+      "@id": "4r-en-360",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-360-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since he has so completely upturned the world!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5874,1102,106"
+    },
+    
+    {
+      "@id": "4r-en-361",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-361-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everyone finds in him a great desire",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,5980,1102,106"
+    },
+    
+    {
+      "@id": "4r-en-362",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-362-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To obtain human favor.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=399,6086,1102,106"
+    },
+    
+    {
+      "@id": "4r-en-363",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-363-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alas, alas! When I see",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5376,1176,101"
+    },
+    
+    {
+      "@id": "4r-en-364",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-364-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That for Fauvel—may fire consume him—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5477,1176,101"
+    },
+    
+    {
+      "@id": "4r-en-365",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-365-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The Holy Church today",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5578,1176,101"
+    },
+    
+    {
+      "@id": "4r-en-366",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-366-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is so debased and in such trouble",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5679,1176,101"
+    },
+    
+    {
+      "@id": "4r-en-367",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-367-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it will only be able to right itself with difficulty!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5780,1176,101"
+    },
+    
+    {
+      "@id": "4r-en-368",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-368-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Every day I see it so oppressed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5881,1176,101"
+    },
+    
+    {
+      "@id": "4r-en-369",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-369-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That it is a great marvel",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,5982,1176,101"
+    },
+    
+    {
+      "@id": "4r-en-370",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-370-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That Saint Peter does not prepare",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=1701,6083,1176,101"
+    },
+    
+    {
+      "@id": "4r-en-371",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-371-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Assistance for his boat,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,714,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-372",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-372-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which rocks so horribly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,810,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-373",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-373-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That all of Christianity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,906,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-374",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-374-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Should be terrified;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1002,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-375",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-375-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Those who rule are dazzled!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1098,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-376",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-376-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Know that Noah’s Ark",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1194,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-377",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-377-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was never in such great peril",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1290,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-378",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-378-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Under the movement of any wave",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1386,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-379",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-379-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of being submerged and destroyed",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1482,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-380",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-380-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As the boat mentioned above.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1578,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-381",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-381-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That is to say, the present Church,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1674,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-382",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-382-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which is represented by the boat,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1770,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-383",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-383-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "From all sides is assailed,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1866,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-384",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-384-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Never in it is there joy or feasting;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,1962,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-385",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-385-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In desolation, it can well sing",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2058,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-386",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-386-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The lamentation",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2154,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-387",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-387-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of Jeremiah, the prophet;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2250,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-388",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-388-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I think it was composed for her!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2346,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-389",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-389-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The lady of kings and of princes,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2442,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-390",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-390-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Princess of all provinces,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2538,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-391",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-391-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lies today submitted to the tribute,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2634,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-392",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-392-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "More than has ever been seen",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2730,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-393",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-393-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Since the early Church",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2826,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-394",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-394-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was built and brought to the bank.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,2922,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-395",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-395-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, who is false and broken",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3018,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-396",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-396-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Constructed this evil trick:",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3114,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-397",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-397-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune turns just as he wants",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3210,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-398",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-398-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And upends that which God has made.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3306,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-399",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-399-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now I want to show you the way",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3402,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-400",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-400-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In which he turns everything upside down.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2950,3498,1187,96"
+    },
+    
+    {
+      "@id": "4r-en-401",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-401-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Now listen, you who rub Fauvel!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4788,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-402",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-402-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In the beginning, God made two big torches,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4885,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-403",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-403-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Full of brilliant light,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,4982,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-404",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-404-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But he made them in a different manner.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5079,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-405",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-405-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One is called the sun, the other the moon.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5176,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-406",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-406-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One gives us light in the day;",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5273,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-407",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-407-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It is the sun, which shines in the day,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5370,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-408",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-408-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the moon in the night without rest.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5467,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-409",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-409-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But the sun—may God help me—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5564,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-410",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-410-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is situated much higher in the firmament",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5661,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-411",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-411-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Than the moon, without doubt,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5758,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-412",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-412-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nor does it have any light",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5855,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-413",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-413-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That the sun does not send it.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,5952,1291,97"
+    },
+    
+    {
+      "@id": "4r-en-414",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "4r-en-414-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But Fauvel, who sets everything off its course,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/4r#xywh=2961,6049,1291,97"
+    }
+    
+  ]
+}

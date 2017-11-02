@@ -1,0 +1,1100 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/12v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "12v-fro-1439",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1439-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car elle, sachez, [a] tel maniere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,756,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1440",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1440-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que tous tient vil et soi trop chere.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,865,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1441",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1441-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son cors ainme et bien le coitive,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,974,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1442",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1442-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En deliz charniex ententive,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1083,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1443",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1443-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En ses plaisances moult soutive",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1192,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1444",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1444-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et en barat aguë et vive.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1301,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1445",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1445-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Cointe est et pou li chaut de l'ame :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1410,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1446",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1446-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vie mainne de fole fame,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1519,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1447",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1447-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il li semble trop amer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1628,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1448",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1448-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A Dieu et son prochain amer ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1737,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1449",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1449-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais semblant en fait moult souvent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1846,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1450",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1450-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Non pourquant c'est par tel couvent",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,1955,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1451",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1451-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que cueur ne volenté n'i a :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2064,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1452",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1452-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Onques sages ne s'i fia !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2173,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1453",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1453-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce croi je que David crie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2282,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1454",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1454-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'es princes ne nous fions mie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2391,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1455",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1455-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne es filz dou charnel palut",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2500,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1456",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1456-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Es quiex il n'a point de salut.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2609,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1457",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1457-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Charnalité qui est si fole",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2718,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1458",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1458-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ele fuit raison et s'escole",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2827,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1459",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1459-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne n'a cure c'on la chastie,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,2936,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1460",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1460-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'ainme nul qui son bien li die ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3045,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1461",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1461-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est de si gentil courage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3154,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1462",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1462-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'el n'ainme fors que son lignage:",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3263,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1463",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1463-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ja courtoisie ne fera",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3372,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1464",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1464-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fors a celui qui li sera",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3481,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1465",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1465-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Niés, cousin ou de parenté :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3590,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1466",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1466-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par ceste sont souvent renté",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3699,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1467",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1467-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et emportent grans benefices",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3808,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1468",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1468-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les enfanz et les plains de vices.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,3917,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1469",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1469-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prelaz et grant gent entechié",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4026,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1470",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1470-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont trop vilment de ce pechié :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4135,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1471",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1471-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'ainment fors leurs charniex amis !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4244,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1472",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1472-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel du sien tant i a mis",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4353,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1473",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1473-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'en ce n'a riens de charité.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4462,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1474",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1474-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ce font pour posterité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4571,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1475",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1475-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'avoir aprés la mort memoire,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4680,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1476",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1476-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De leur vie de vainne gloire.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4789,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1477",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1477-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes de tex gens poi en chaudra :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,4898,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1478",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1478-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant mourront tout bien leur faudra !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5007,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1479",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1479-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Charnalité est la nourrice",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5116,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1480",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1480-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, ou il a tant de vice :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5225,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1481",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1481-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Charnalité si le nourri",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5334,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1482",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1482-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En son sain qui est tout pourri ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5443,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1483",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1483-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pour ce est Fauvel plain d'ordure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5552,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1484",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1484-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sa fin sera pourreture.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5661,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1485",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1485-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de ceste charnalité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5770,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1486",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1486-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nous dit l'apostre en verité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5879,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1487",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1487-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'em la fin de ce charnel monde",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,5988,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1488",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1488-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En qui tout mal sourt et habunde",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=1081,6097,1313,109"
+    },
+    
+    {
+      "@id": "12v-fro-1489",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1489-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les gens qui adonques seront",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,735,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1490",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1490-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Eulz tant seulement ameront",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,850,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1491",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1491-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car chascun si charnel sera",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,965,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1492",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1492-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que nus fors que soi n'emmera.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1080,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1493",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1493-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lors ne sera pas charité.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1195,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1494",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1494-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui vient de double extremité :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1310,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1495",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1495-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Charnalité qui l'os depart",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1425,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1496",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1496-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si le tient toute d'une part",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1540,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1497",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1497-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "- Ele donne l'ous et le megre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1655,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1498",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1498-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais au cras retenir est, egre -",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1770,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1499",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1499-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si qu'el fait par les nascions",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,1885,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1500",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1500-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Contens et separacions.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3801,2000,1050,115"
+    },
+    
+    {
+      "@id": "12v-fro-1501",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1501-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "DDelez Charnalité assise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3328,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1502",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1502-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fu ce me semble Couvoitise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3433,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1503",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1503-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est de volenté moult male.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3538,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1504",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1504-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Maigre fu, seiche, bise et pale",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3643,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1505",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1505-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si n'est pas si anormale",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3748,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1506",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1506-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quele n'ait de deniers plainne male.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3853,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1507",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1507-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car est nuit et jour en guerre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,3958,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1508",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1508-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour plus avoir et plus acquerre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4063,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1509",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1509-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sa vie en grant douleur a mise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4168,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1510",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1510-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il n'est riens qui li souffise.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4273,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1511",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1511-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Se ele estoir roÿne de France",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4378,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1512",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1512-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si n'aroit elle pas soufisance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4483,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1513",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1513-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ainçois souferroit grant martire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4588,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1514",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1514-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour avoir enquore l'empire!",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4693,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1515",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1515-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz jours à avoir trait et tire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4798,1134,105"
+    },
+    
+    {
+      "@id": "12v-fro-1516",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "12v-fro-1516-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et tant plus a tant et plus empire.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/12v#xywh=3811,4903,1134,105"
+    }
+    
+  ]
+}

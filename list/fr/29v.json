@@ -1,0 +1,288 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/29v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "29v-fr-4066",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4066-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, malgré tout ce qu'il s'entend dire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,546,1082,120"
+    },
+    
+    {
+      "@id": "29v-fr-4067",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4067-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne laisse pas, quoi qu'il entende,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,666,1082,120"
+    },
+    
+    {
+      "@id": "29v-fr-4068",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4068-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De répondre, de la façon qui suit,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,786,1082,120"
+    },
+    
+    {
+      "@id": "29v-fr-4069",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4069-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Enflammé par un orgueil sans mélange :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=1123,906,1082,120"
+    },
+    
+    {
+      "@id": "29v-fr-4070",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4070-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais Fortune, à qui n'agrée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,567,1040,118"
+    },
+    
+    {
+      "@id": "29v-fr-4071",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4071-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rien de ce qu'il a mis dans ses propos,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,685,1040,118"
+    },
+    
+    {
+      "@id": "29v-fr-4072",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4072-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avec sa dernière réponse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,803,1040,118"
+    },
+    
+    {
+      "@id": "29v-fr-4073",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4073-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le calme de la manière suivante :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3790,921,1040,118"
+    },
+    
+    {
+      "@id": "29v-fr-4074",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4074-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Et c'est pourquoi, èomme je te l'ai expliqué,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4242,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4075",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4075-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car tu as fait tomber maint homme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4345,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4076",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4076-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans le déshonneur, le péché et la honte,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4448,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4077",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4077-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vais dès lors te faire un bref discours :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4551,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4078",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4078-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Tout d'abord, il est ordonné, à ton sujet,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4654,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4079",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4079-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que tu seras condamné à vivre dans l'ignominie et la souffrance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4757,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4080",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4080-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toi et avec toi ta lignée;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4860,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4081",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4081-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toute créature vivante s'en réjouira,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,4963,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4082",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4082-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car les peines qui vous attendent seront diverses,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5066,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4083",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4083-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elles seront imaginées selon les jours et les semaines,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5169,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4084",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4084-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celles que je vous ferai subir :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5272,1312,103"
+    },
+    
+    {
+      "@id": "29v-fr-4085",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "29v-fr-4085-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je remplirai entièrement mon devoir à cet égard!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/29v#xywh=3822,5375,1312,103"
+    }
+    
+  ]
+}

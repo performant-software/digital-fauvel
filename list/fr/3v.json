@@ -1,0 +1,1352 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/3v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "3v-fr-259",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-259-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel, c'est une bête privée de raison,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,808,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-260",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-260-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un être d'apparence et dépourvu de stabilité ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,905,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-261",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-261-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plein de tromperie, vide de vérité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1002,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-262",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-262-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une figure faite pour duper les gens.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1099,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-263",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-263-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel est, pour de vrai, une bête,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1196,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-264",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-264-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car autrement il ne pourrait pas",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1293,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-265",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-265-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Exercer le pouvoir sur les bêtes.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1390,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-266",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-266-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En raisonnant on peut le comprendre aisément :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1487,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-267",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-267-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le roi des hommes, c'est un homme,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1584,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-268",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-268-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'aigle est le roi des oiseaux tout comme",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1681,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-269",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-269-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le lion est appelé roi des bêtes ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1778,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-270",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-270-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi, sachez, vous qui êtes ici présents,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1875,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-271",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-271-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Fauvel, ce noble seigneur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,1972,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-272",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-272-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est le souverain et le plus important",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2069,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-273",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-273-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tous les hommes qui à l'instar des bêtes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2166,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-274",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-274-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Attachent leur cœur et leur tête au monde :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2263,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-275",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-275-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De tels hommes, nous devons les appeler bêtes,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2360,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-276",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-276-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et Fauvel en est le roi et le seigneur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2457,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-277",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-277-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aux Templiers, ces hérétiques, ressemble",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2554,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-278",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-278-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celui qui de Fauvel fait son idole ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2651,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-279",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-279-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel est une bête, et il est une bête",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2748,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-280",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-280-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celui qui l'honore et le fête.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2845,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-281",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-281-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je veux maintenant te dire et prouver",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,2942,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-282",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-282-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pourquoi il faut trouver Fauvel dépourvu de raison :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3039,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-283",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-283-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il devrait rester couché dans son écurie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3136,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-284",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-284-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais pour rien au monde il ne le ferait",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3233,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-285",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-285-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il refuse de rester à sa place :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3330,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-286",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-286-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il ne fait qu'aller et venir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3427,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-287",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-287-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour obtenir une mangeoire bien garnie ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3524,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-288",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-288-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il prend grand soin de pouvoir plaire :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3621,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-289",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-289-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est en tromperie et en fausseté",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3718,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-290",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-290-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il a complètement détourné son habileté.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3815,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-291",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-291-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a fait tant de tours et de détours",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,3912,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-292",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-292-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que plus jamais il ne sera retenu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4009,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-293",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-293-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ni arrêté par un frein ou une bride.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4106,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-294",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-294-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Partout il se précipite, court et galope",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4203,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-295",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-295-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il va au gré de la fortune, sans raison,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4300,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-296",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-296-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est ainsi qu'il règne en tout temps.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4397,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-297",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-297-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a grand soin de progresser",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4494,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-298",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-298-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans le manuel d'instruction de la flatterie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4591,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-299",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-299-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Afin d'arriver à bien faire briller le faux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4688,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-300",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-300-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À cacher la vérité et à supprimer le juste.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4785,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-301",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-301-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sa définition, que j'ai proposée ci-dessus,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4882,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-302",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-302-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je l'ai explicitée : cela devrait te suffire comme cela.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,4979,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-303",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-303-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À partir de maintenant, je te parlerai de sa manière,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5076,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-304",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-304-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En poursuivant dans ma matière,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5173,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-305",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-305-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je te dirai comment et pour quelle raison, de façon surabondante",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5270,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-306",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-306-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fauvel fait tourner tout le monde en bourrique,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5367,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-307",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-307-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et comment il se fait que grands et petits",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5464,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-308",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-308-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ont faim de le bouchonner.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5561,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-309",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-309-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dieu, le roi tout-puissant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5658,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-310",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-310-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui possède la connaissance de toute chose,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5755,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-311",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-311-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lorsqu'il créa, au début des temps",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5852,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-312",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-312-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le monde dans toute sa gloire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,5949,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-313",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-313-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Donna sa place à toutes les créatures",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,6046,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-314",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-314-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et leur confia leur nature propre.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=1102,6143,1260,97"
+    },
+    
+    {
+      "@id": "3v-fr-315",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-315-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a tout mis en ordre avec tant de sagesse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,756,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-316",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-316-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'aucun être humain ne peut, sauf à mentir,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,852,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-317",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-317-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Prétendre qu'il ait quelque défaut",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,948,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-318",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-318-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car personne ne possède un tel degré de maîtrise.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1044,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-319",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-319-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais ce qu'il avait mis en ordre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1140,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-320",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-320-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est à ce point bouleversé et malmené",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1236,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-321",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-321-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il faut bien, en bonne logique,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1332,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-322",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-322-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que nous soyons proches du moment",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1428,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-323",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-323-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Où ce monde touchera à sa fin",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1524,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-324",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-324-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que Dieu créera un autre monde.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1620,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-325",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-325-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La raison fournit de puissants arguments",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1716,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-326",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-326-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout d'abord, puisque sans outil",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1812,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-327",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-327-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il a plu à Dieu de créer le monde",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,1908,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-328",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-328-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qu'il a voulu façonner avec de la boue",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2004,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-329",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-329-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'homme et le former à sa ressemblance ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2100,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-330",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-330-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il donna à l'homme une position si avantageuse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2196,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-331",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-331-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il le fit seigneur des animaux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2292,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-332",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-332-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et supérieur au reste par la noblesse ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2388,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-333",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-333-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais aujourd'hui elle est complètement sens dessus dessous",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2484,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-334",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-334-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'œuvre que Dieu avait apprêtée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3738,2580,1155,96"
+    },
+    
+    {
+      "@id": "3v-fr-335",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-335-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car les hommes sont devenus des bêtes.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,3822,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-336",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-336-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils tiennent la tête tournée vers le sol",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,3920,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-337",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-337-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et rien ne les intéresse sauf de posséder de la terre.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4018,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-338",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-338-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De Dieu, ils ne veulent rien savoir :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4116,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-339",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-339-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jamais ils ne tournent les yeux vers le ciel",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4214,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-340",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-340-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ils brûllent dans le feu de la convoitise.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4312,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-341",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-341-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La pratique par ailleurs apporte l'argument",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4410,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-342",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-342-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la forme est considérée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4508,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-343",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-343-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comme correspondant aux œuvres.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4606,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-344",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-344-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est la raison pour quoi je dis avec certitude",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4704,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-345",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-345-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les hommes sont réellement des bêtes",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4802,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-346",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-346-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand ils vivent à la manière des bêtes ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4900,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-347",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-347-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pour cela nous pouvons dire à juste titre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,4998,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-348",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-348-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Fauvel est le seigneur du monde :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5096,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-349",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-349-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En effet, il est honoré partout",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5194,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-350",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-350-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et adoré comme Dieu sur la terre.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5292,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-351",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-351-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Raison a perdu sa souveraineté",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5390,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-352",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-352-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque nous voyons la bestialité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5488,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-353",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-353-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dominer les hommes à ce point",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5586,1166,98"
+    },
+    
+    {
+      "@id": "3v-fr-354",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "3v-fr-354-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que la fausseté écrase la raison.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/3v#xywh=3769,5684,1166,98"
+    }
+    
+  ]
+}

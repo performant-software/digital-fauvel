@@ -1,0 +1,876 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/13v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "13v-fr-1543",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1543-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À la suite était assise Calomnie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,745,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1544",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1544-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont les origines sont ignobles,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,856,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1545",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1545-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisqu'elle est fille de Male Bouche,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,967,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1546",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1546-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui se lève de bon matin et se couche tard",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1078,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1547",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1547-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour médire à droite et à gauche.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1189,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1548",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1548-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle est constamment en train de dévider ou de filer le mal,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1300,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1549",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1549-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Calomnie qui vole la bonne réputation ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1411,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1550",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1550-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle ressemble tout à fait à sa mère,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1522,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1551",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1551-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car elle n'apprécie rien autant",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1633,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1552",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1552-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de faire des reproches aux gens et de les diffamer,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1744,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1553",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1553-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et elle ne peut supporter d'entendre dire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1855,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1554",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1554-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du bien d'un homme vivant,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,1966,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1555",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1555-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui plus est, souvent elle lui donne des coups de dents,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2077,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1556",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1556-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le ronge, le torture, le pique et l'achève :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2188,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1557",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1557-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est la sangsue venimeuse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2299,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1558",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1558-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui suce la bonne réputation ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2410,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1559",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1559-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est la langue de serpent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2521,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1560",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1560-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne cesse de jeter son venin ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2632,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1561",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1561-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pourtant elle ne peut en éructer suffisamment",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2743,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1562",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1562-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour en régurgiter la totalité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2854,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1563",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1563-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et plus elle ronge de gens et en dévore,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,2965,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1564",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1564-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus il demeure de venin dans son corps.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,3076,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1565",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1565-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mieux vaut recevoir un coup d'épée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,3187,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1566",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1566-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que d'être frappé par une telle langue venimeuse!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1144,3298,1229,111"
+    },
+    
+    {
+      "@id": "13v-fr-1567",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1567-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À sa suite siégeait Haine",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,4672,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1568",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1568-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est encline à faire toute sorte de mal,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,4785,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1569",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1569-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ensuite s'était assise Rancune",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,4898,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1570",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1570-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'un grand nombre de gens ont en commun :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5011,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1571",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1571-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est celle qui est à ce point cruelle",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5124,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1572",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1572-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle s'installe pour toujours dans le cœur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5237,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1573",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1573-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et n'efface pas souvent son ressentiment,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5350,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1574",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1574-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Même si l'on est parvenu à se mettre d'accord,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5463,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1575",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1575-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui, au contraire, ronge constamment le chardon",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5576,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1576",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1576-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'elle n'a l'intention de pardonner",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5689,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1577",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1577-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À aucun prix, ni pour la vie ni pour la mort ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5802,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1578",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1578-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais sachez bien qu'elle-même trouvera point",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,5915,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1579",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1579-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De pardon, si elle ne veut l'accorder :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,6028,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1580",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1580-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est en vain qu'on fera sonner les cloches",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=1218,6141,1239,113"
+    },
+    
+    {
+      "@id": "13v-fr-1581",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1581-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Après sa mort, ou chanter une messe :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3811,766,1029,110"
+    },
+    
+    {
+      "@id": "13v-fr-1582",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1582-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est en enfer qu'elle recevra ce qu'elle a promis !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3811,876,1029,110"
+    },
+    
+    {
+      "@id": "13v-fr-1583",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1583-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et après, c'était la place de Tristesse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2320,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1584",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1584-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ne réjouit aucune bonne chose.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2428,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1585",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1585-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Immédiatement après était assise Colère",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2536,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1586",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1586-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est à jamais incapable de faire le choix de la raison,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2644,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1587",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1587-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui se précipite, sous le coup de l'impatience,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2752,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1588",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1588-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toujours vers la pire des décisions.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2860,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1589",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1589-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Après venait, comme je l'ai entendu raconter,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,2968,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1590",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1590-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Paresseuse-de-Bien-Faire;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3076,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1591",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1591-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À proximité siégeait Oiseuse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3184,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1592",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1592-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est un danger permanent.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3292,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1593",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1593-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ensuite, il y avait la place de Vénus,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3400,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1594",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1594-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui attrape les gens, qu'ils soient vêtus ou nus :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3508,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1595",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1595-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le péché naturel dont le goût plaît",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3616,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1596",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1596-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toujours, comme celui du calville blanc,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3724,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1597",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1597-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tant que la vieillesse, la maladie ou la sagesse",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3832,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1598",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1598-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne l'ont fait passer de saison.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3822,3940,1165,108"
+    },
+    
+    {
+      "@id": "13v-fr-1599",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1599-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Toute proche d'elle il y avait Gloutonnerie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5533,1187,113"
+    },
+    
+    {
+      "@id": "13v-fr-1600",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1600-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dont le teint était assombri et terni à force de trop manger.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5646,1187,113"
+    },
+    
+    {
+      "@id": "13v-fr-1601",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1601-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puis Ivresse et Débauche",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5759,1187,113"
+    },
+    
+    {
+      "@id": "13v-fr-1602",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1602-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui à aucun moment, de toute leur existence,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5872,1187,113"
+    },
+    
+    {
+      "@id": "13v-fr-1603",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1603-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'ont été capables de jeûner ou de manger au moment opportun :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,5985,1187,113"
+    },
+    
+    {
+      "@id": "13v-fr-1604",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13v-fr-1604-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leurs enfants en sont morts, complètement saouls.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13v#xywh=3853,6098,1187,113"
+    }
+    
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/19r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "19r-fro-2103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et quant el veut d'oïr user",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,724,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le priant ne puet refuser.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,827,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2105",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2105-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce, ma dame, en esperance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,930,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2106",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2106-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Du grant bien de vostre plaisance,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1033,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2107",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2107-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vostre amour vous pri et requier :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1136,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2108",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2108-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Riens plus en ce monde ne quier ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1239,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2109",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2109-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que ne cuidiez que je voille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1342,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2110",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2110-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Chose dont honnesté se dueille",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1445,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2111",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2111-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dont note de vilanie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1548,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2112",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2112-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parust en chose que je die",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1651,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2113",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2113-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "- Pour rien ne le vourroie fere,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1754,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2114",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2114-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ma douce dame debonere -,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1857,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2115",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2115-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce vous voil tout mon cuer dire,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1960,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2116",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2116-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes que ne vous en mouvez d'ire.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2063,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2117",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2117-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "T« Tres douce dame, vous savez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2166,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2118",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2118-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que grans possessions avez :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2269,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2119",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2119-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout avoir, argent, or, deniers,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2372,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2120",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2120-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne vient fors que de vos greniers ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2475,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2121",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2121-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Roÿne et dame du monde estes,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2578,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2122",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2122-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A vous sont et homes et bestes,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2681,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2123",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2123-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Oysiaus et toutes mortiex choses",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2784,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2124",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2124-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En vostre seigneurie encloses.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2887,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2125",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2125-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or vous doit estre moult greveus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2990,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2126",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2126-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ce que n'avez filz ne neveus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3093,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2127",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2127-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour estre hoirs de vostre heritage,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3196,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2128",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2128-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et si avez ja grant aage !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3299,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2129",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2129-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult a grant temps que fustes nee",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3402,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2130",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2130-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et encor n'estes mariee !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3505,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2131",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2131-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et d'autre part, je me regarde",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3608,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2132",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2132-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de vos biens m'avez fait garde,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3711,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2133",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2133-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par quoi, s'il vous plaisoit entendre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3814,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2134",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2134-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a mari me vousissiez prendre,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3917,1165,103"
+    },
+    
+    {
+      "@id": "19r-fro-2135",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2135-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A« Adonques seriez plus seüire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5229,1207,107"
+    },
+    
+    {
+      "@id": "19r-fro-2136",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2136-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vos biens et je en greigneur cure",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5336,1207,107"
+    },
+    
+    {
+      "@id": "19r-fro-2137",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2137-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car aussi seroie je asseür",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5443,1207,107"
+    },
+    
+    {
+      "@id": "19r-fro-2138",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2138-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ne me todriez eür,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5550,1207,107"
+    },
+    
+    {
+      "@id": "19r-fro-2139",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2139-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car par vo foy serïez moie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5657,1207,107"
+    },
+    
+    {
+      "@id": "19r-fro-2140",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2140-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et je vostre ; lors penseroie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5764,1207,107"
+    },
+    
+    {
+      "@id": "19r-fro-2141",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2141-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De vous amer, servir et plaire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5871,1207,107"
+    },
+    
+    {
+      "@id": "19r-fro-2142",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2142-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus que ne fait enfant sa mere ! »",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5978,1207,107"
+    },
+    
+    {
+      "@id": "19r-fro-2143",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2143-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "LLors se taist Fauvel et soupire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,588,1260,117"
+    },
+    
+    {
+      "@id": "19r-fro-2144",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2144-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'uns faus souspirs dont il est sire,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,705,1260,117"
+    },
+    
+    {
+      "@id": "19r-fro-2145",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2145-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien cuide par nuit a la lune",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,822,1260,117"
+    },
+    
+    {
+      "@id": "19r-fro-2146",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2146-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Embireliquoquier Fortune !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,939,1260,117"
+    },
+    
+    {
+      "@id": "19r-fro-2147",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2147-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Non mes embireliquoqué",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,1056,1260,117"
+    },
+    
+    {
+      "@id": "19r-fro-2148",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2148-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est par orgueil, dont est moqué !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,1173,1260,117"
+    },
+    
+    {
+      "@id": "19r-fro-2149",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2149-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "QQuant dant Fauvel ot fait silence",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2887,1680,1281,115"
+    },
+    
+    {
+      "@id": "19r-fro-2150",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fro-2150-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune a respondre commence :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2887,1795,1281,115"
+    }
+    
+  ]
+}

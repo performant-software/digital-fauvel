@@ -1,0 +1,456 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/40v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "40v-fr-5531",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5531-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et au nom de Celle pour qui je chante,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,630,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5532",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5532-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Celle-ci ne se délecte de rien d'autre",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,738,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5533",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5533-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que de la perspective de la voir arriver sans tarder.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,846,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5534",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5534-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle l'attend sur son destrier :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,954,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5535",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5535-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle n'a pas d'autre désir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1062,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5536",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5536-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle déclare que la joute entre elles deux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1170,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5537",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5537-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Est appropriée et parfaitement justifiée.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1278,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5538",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5538-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Gloutonnerie, avec des armoiries de couleur noire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1386,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5539",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5539-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rejoint sa rangée et saisit sa lance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1494,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5540",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5540-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et à ce moment, Abstinence s'avance.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1602,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5541",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5541-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son cheval s'élance et l'autre de même :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1710,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5542",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5542-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elles se donnent réciproquement de si beaux coups,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1818,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5543",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5543-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'au moment du choc, elles font en sorte",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,1926,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5544",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5544-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que toutes les deux brisent leur lance.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,2034,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5545",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5545-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais Abstinence, au deuxième galop",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,2142,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5546",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5546-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touche avec sa bannière si brutalement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,2250,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5547",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5547-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dame Gloutonnerie qu'elle en fut abrutie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=1081,2358,1323,108"
+    },
+    
+    {
+      "@id": "40v-fr-5548",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5548-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ce ne fut pas pour elle une plaisanterie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,630,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5549",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5549-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Néanmoins elle se maintint en selle.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,755,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5550",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5550-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle retourna à son couloir; le cœur farouche,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,880,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5551",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5551-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour se présenter au troisième assaut.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1005,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5552",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5552-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Abstinence ne reste pas collée sur place",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1130,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5553",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5553-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais s'élança en ligne droite",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1255,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5554",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5554-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sur Gloutonnerie, sans se soucier de qui s'en irrite,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1380,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5555",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5555-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et s'en alla la frapper à·un endroit découvert",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1505,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5556",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5556-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si fort qu'elle lui ouvrit l'épaule :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1630,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5557",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5557-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'autre tomba par terre, évanouie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1755,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5558",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5558-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les gens de Fauvell'ont relevée aussitôt",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,1880,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5559",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5559-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et emmenée dans leurs loges.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,2005,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5560",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5560-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils auraient bien aimé être à Limoges,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,2130,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5561",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5561-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ceux qui s'étaient couverts de fer sur ordre de Fauvel",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,2255,1312,125"
+    },
+    
+    {
+      "@id": "40v-fr-5562",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "40v-fr-5562-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mais il était trop tard pour s'en repentir!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/40v#xywh=3738,2380,1312,125"
+    }
+    
+  ]
+}

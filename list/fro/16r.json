@@ -1,0 +1,1548 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fro/16r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "16r-fro-1822",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1822-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Sire Fauvel, noble emperiere,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,766,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1823",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1823-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien devez seoir en chaiere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,868,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1824",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1824-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et gouverner trestout l'empire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,970,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1825",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1825-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quar a vos sens riens ne s'atire :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1072,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1826",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1826-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vostre engin tout surmonte et passe",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1174,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1827",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1827-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Maugré qu'em ait Reson la lasse",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1276,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1828",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1828-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne Loiauté ne Verité;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1378,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1829",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1829-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout avez bien suspedité",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1480,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1830",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1830-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et vo majesté est souvraine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1582,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1831",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1831-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Desus toute vertu humaine ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1684,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1832",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1832-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bones moers et bon accident",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1786,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1833",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1833-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "S'en sont fui en occident",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1888,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1834",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1834-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Es illes ou nulli n'abite :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1990,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1835",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1835-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz les avez par vostre lite",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2092,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1836",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1836-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Abatuz et touz desvoiez",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2194,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1837",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1837-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et puis en essil envoiez.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2296,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1838",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1838-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "NeÔs les cardinaus vertus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2398,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1839",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1839-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ont leur escus plains de pertus",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2500,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1840",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1840-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que frains leur avez a l'espee ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2602,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1841",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1841-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout ont perdu a la meslee",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2704,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1842",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1842-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car vous savez trop de la guerre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2806,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1843",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1843-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Regner devez en toute terre !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2908,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1844",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1844-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le tres grant sens qu'en vous oons,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3010,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1845",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1845-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sire, moult prisons et loons",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3112,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1846",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1846-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et moult est noble la pensee",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3214,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1847",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1847-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que vous [avez] ci recitee",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3316,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1848",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1848-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour vostre hautece fremer",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3418,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1849",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1849-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par tout et ci et outre mer.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3520,1186,102"
+    },
+    
+    {
+      "@id": "16r-fro-1850",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1850-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vo cuer nous avez descouvert",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,682,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1851",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1851-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et vo grant secré aouvert,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,787,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1852",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1852-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et comment que soions felons",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,892,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1853",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1853-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si est il droiz que le celons,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,997,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1854",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1854-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car se vers les autres fauls sommes,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1102,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1855",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1855-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si sommes nous vos liges hommes",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1207,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1856",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1856-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et vos serjanz et vos amis :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1312,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1857",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1857-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Touz jours chascun de nous a mis",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1417,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1858",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1858-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et metra en vous servir painne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1522,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1859",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1859-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour donner vous honneur mondaine",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1627,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1860",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1860-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car la chose trop pres vous touche ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1732,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1861",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1861-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et pour ce y metrons cuer et bouche,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1837,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1862",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1862-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quar nous ne querons fors qu'avoir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1942,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1863",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1863-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Honneur ou monde et grant avoir !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2047,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1864",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1864-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne nous chaut des ames perdre",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2152,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1865",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1865-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour nous en vo service aherdre.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2257,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1866",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1866-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Moult nous semble bonne besongne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2362,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1867",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1867-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que vous tantost et sanz pouloingne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2467,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1868",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1868-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Metez painne au dit mariage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2572,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1869",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1869-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'a pensé vo gentil courage :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2677,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1870",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1870-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quanque nous sommes l'agreons",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2782,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1871",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1871-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car trop grant honneur y veons. »",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2887,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1872",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1872-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "QQuant sire Fauvet out oÿ",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2992,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1873",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1873-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Son conseil, moult s'en esjoï",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3097,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1874",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1874-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il est touz jours moult aise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3202,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1875",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1875-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant on li dit chose qui li plese.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3307,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1876",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1876-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tantost commande a emmaler",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3412,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1877",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1877-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tout son hernois pour s'en aler",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3517,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1878",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1878-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vers Fortune l'aventureuse.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3622,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1879",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1879-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il çaint l'espee et si se heuse",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3727,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1880",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1880-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les esperons pas n'oublie.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3832,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1881",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1881-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lors s'en va a grant compaingnie",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3937,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1882",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1882-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ses gens et de ses amis.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4042,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1883",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1883-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En bien cheminer tant a mis",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4147,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1884",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1884-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et alé de nuiz et de jours",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4252,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1885",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1885-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A grans esploiz et briez sejours",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4357,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1886",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1886-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'il est venuz a Macrocosme",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4462,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1887",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1887-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Une cité de grant fantosme",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4567,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1888",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1888-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui fu jadis faite pour l'omme,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4672,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1889",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1889-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que Raison microcosme nomme.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4777,1186,105"
+    },
+    
+    {
+      "@id": "16r-fro-1890",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1890-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Illuec faisoit sa residence",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,693,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1891",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1891-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La dame de grant reverence.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,794,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1892",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1892-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui tourne tout a la volee :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,895,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1893",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1893-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est Fortune la redoutee.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,996,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1894",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1894-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En son palais fu sanz seoir",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1097,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1895",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1895-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour ce qu'el veut par tout veoir;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1198,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1896",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1896-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Onques ne se siet ne arreste",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1299,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1897",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1897-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car a tourner est touz jours preste,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1400,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1898",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1898-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sachoiz, moult seroit bon maçon",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1501,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1899",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1899-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui pourroit bien de sa façon",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1602,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1900",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1900-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La verité a plain descrire !",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1703,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1901",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1901-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Un pou vous en vueil ore dire",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1804,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1902",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1902-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour savoir en quel contenance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1905,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1903",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1903-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sire Fauvel qui moult s'avance",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,2006,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1904",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1904-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour dame Fortune trouver",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,2107,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1905",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1905-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant il li vint s'amor rouver.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,2208,1197,101"
+    },
+    
+    {
+      "@id": "16r-fro-1906",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1906-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "FFortune avoit semblant de fame",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3423,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1907",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1907-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui fust ou royne ou grant dame",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3524,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1908",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1908-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et sembloit bien a son visage",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3625,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1909",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1909-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ele eüst moult courant courage.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3726,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1910",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1910-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Biau grant avoit et bien faitis",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3827,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1911",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1911-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les membres lons et traitis ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3928,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1912",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1912-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En sa main tint double couronne :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4029,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1913",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1913-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'une pert male et l'autre bonne,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4130,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1914",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1914-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et celle c'om a bonne cuide",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4231,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1915",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1915-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'estoit pas si com sembloit vuide",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4332,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1916",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1916-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De beles pierres precieuses",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4433,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1917",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1917-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A regarder moult gracieuses ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4534,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1918",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1918-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes moult en i avoit de teles",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4635,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1919",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1919-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui n'estoient ne bonnes ne beles,",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4736,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1920",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1920-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ains semblent estre crapodines",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4837,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1921",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1921-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Poingnans par dedens comme espines",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4938,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1922",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1922-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Jusqu'au cuer desouz la chemise ;",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5039,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes a painne nul s'en avise",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5140,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fors ceus qui portent [tel] couronne",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5241,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quant Fortune leur abandone.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5342,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'autre couronne qui pert male",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5443,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si est et vil et orde et sale",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5544,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et est d'un metal trop trenchant :",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5645,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui l'a, n'a talent qu'il en chant",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5746,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne qu'il puisse bon semblant fere",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5847,1333,101"
+    },
+    
+    {
+      "@id": "16r-fro-1931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-fro-1931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car tel couronne est trop amere.",
+        "language": "fro"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5948,1333,101"
+    }
+    
+  ]
+}

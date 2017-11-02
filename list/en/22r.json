@@ -1,0 +1,92 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/22r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "22r-en-2735",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-en-2735-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or it is also possible that truth,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,703,1019,103"
+    },
+    
+    {
+      "@id": "22r-en-2736",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-en-2736-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which mourns when iniquity",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,806,1019,103"
+    },
+    
+    {
+      "@id": "22r-en-2737",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-en-2737-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is exalted and put forward",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,909,1019,103"
+    },
+    
+    {
+      "@id": "22r-en-2738",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-en-2738-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And makes people speak of this, rightfully,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1012,1019,103"
+    },
+    
+    {
+      "@id": "22r-en-2739",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-en-2739-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And complain that someone is elevated",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1115,1019,103"
+    },
+    
+    {
+      "@id": "22r-en-2740",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "22r-en-2740-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who has no good qualities in him",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/22r#xywh=2782,1218,1019,103"
+    }
+    
+  ]
+}

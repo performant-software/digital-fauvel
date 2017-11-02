@@ -1,0 +1,204 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/44v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "44v-fr-5963",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5963-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Doux Jésus-Christ, cours à l'assaut de Fauvel,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=1123,735,1292,112"
+    },
+    
+    {
+      "@id": "44v-fr-5964",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5964-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car il abîme tout et dévore tout",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=1123,847,1292,112"
+    },
+    
+    {
+      "@id": "44v-fr-5965",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5965-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Doux Seigneur, ne traite pas avec indifférence",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=1123,959,1292,112"
+    },
+    
+    {
+      "@id": "44v-fr-5966",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5966-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les Vertus qui se rendent si utiles",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=1123,1071,1292,112"
+    },
+    
+    {
+      "@id": "44v-fr-5967",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5967-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ici-bas pour nous apporter leur soutien !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=2446,735,956,107"
+    },
+    
+    {
+      "@id": "44v-fr-5968",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5968-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fais périr Fauvet et ses sbires,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=2446,842,956,107"
+    },
+    
+    {
+      "@id": "44v-fr-5969",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5969-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Très doux lis de virginité !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=2446,949,956,107"
+    },
+    
+    {
+      "@id": "44v-fr-5970",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5970-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Protège les Vertus, car elles sont le soutien",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=2446,1056,956,107"
+    },
+    
+    {
+      "@id": "44v-fr-5971",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5971-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De la vérité, et maintiens en puissance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,703,1522,80"
+    },
+    
+    {
+      "@id": "44v-fr-5972",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5972-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le lis et le jardin de France,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,783,1522,80"
+    },
+    
+    {
+      "@id": "44v-fr-5973",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5973-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que Fauvel soit jeté dans une prison",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,863,1522,80"
+    },
+    
+    {
+      "@id": "44v-fr-5974",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5974-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Telle, qu'il ne pourra perpétrer de trahison,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,943,1522,80"
+    },
+    
+    {
+      "@id": "44v-fr-5975",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5975-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De telle façon que toi, Dieu, roi de justice,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,1023,1522,80"
+    },
+    
+    {
+      "@id": "44v-fr-5976",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "44v-fr-5976-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tu sois honoré, ainsi que Sainte Église.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/44v#xywh=3717,1103,1522,80"
+    }
+    
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/19r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "19r-fr-2103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et lorsqu'elle consent à lui prêter l'oreille,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,724,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle ne peut pas refuser celui qui la prie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,827,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2105",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2105-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est pourquoi, ma dame, dans l'espoir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,930,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2106",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2106-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'obtenir ce grand bienfait, que cela vous agrée,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1033,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2107",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2107-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je vous prie de m'accorder votre amour et le requiers:",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1136,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2108",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2108-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je ne désire rien de plus en ce monde;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1239,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2109",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2109-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et afin que vous n'imaginiez pas que je recherche",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1342,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2110",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2110-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quelque chose dont l'honnêteté pourrait souffrir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1445,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2111",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2111-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et qui ferait apparaître une tache de vilenie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1548,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2112",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2112-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Dans les propos que je pourrais tenir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1651,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2113",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2113-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "(Pour rien au monde je ne voudrais le faire,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1754,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2114",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2114-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ma douce dame pleine de bonté),",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1857,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2115",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2115-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "J'ai l'intention de vous dévoiler tout mon cœur,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,1960,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2116",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2116-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À condition que cela ne vous mette pas en colère.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2063,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2117",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2117-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "« Très douce dame, vous savez",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2166,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2118",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2118-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que vous possédez de grandes richesses :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2269,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2119",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2119-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Tous les biens, l'argent, l'or et les deniers",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2372,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2120",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2120-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "N'ont d'autre provenance que vos greniers ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2475,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2121",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2121-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Vous êtes la reine et la maîtresse du monde,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2578,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2122",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2122-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est à vous qu'appartiennent les hommes et les bêtes,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2681,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2123",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2123-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les oiseaux et tous les êtres mortels",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2784,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2124",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2124-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont inclus dans la sphère de votre pouvoir.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2887,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2125",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2125-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il doit vous être fort pénible, maintenant,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,2990,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2126",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2126-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De n'avoir ni fils ni neveu",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3093,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2127",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2127-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui puisse recueillir votre héritage,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3196,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2128",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2128-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Alors que votre âge est déjà bien avancé !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3299,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2129",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2129-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il y a bien longtemps que vous êtes née",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3402,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2130",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2130-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et vous n'êtes pas encore mariée!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3505,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2131",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2131-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par ailleurs, je prends en considération",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3608,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2132",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2132-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le fait que vous avez fait de moi le gardien de vos biens,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3711,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2133",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2133-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Grâce à quoi, s'il vous plaisait de songer",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3814,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2134",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2134-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À bien vouloir me prendre pour mari,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=357,3917,1165,103"
+    },
+    
+    {
+      "@id": "19r-fr-2135",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2135-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Eh bien ! vous seriez plus en sécurité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5229,1207,107"
+    },
+    
+    {
+      "@id": "19r-fr-2136",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2136-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour vos richesses, et moi j'y mettrais plus de sollicitude",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5336,1207,107"
+    },
+    
+    {
+      "@id": "19r-fr-2137",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2137-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car je me sentirais moi-même rassuré",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5443,1207,107"
+    },
+    
+    {
+      "@id": "19r-fr-2138",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2138-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ce que vous ne me priveriez pas de ma chance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5550,1207,107"
+    },
+    
+    {
+      "@id": "19r-fr-2139",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2139-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce que vous seriez mienne en engageant votre foi",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5657,1207,107"
+    },
+    
+    {
+      "@id": "19r-fr-2140",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2140-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que moi je serais à vous ; alors je me consacrerais",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5764,1207,107"
+    },
+    
+    {
+      "@id": "19r-fr-2141",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2141-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À vous aimer, à vous servir et à vous plaire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5871,1207,107"
+    },
+    
+    {
+      "@id": "19r-fr-2142",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2142-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Plus que ne le fait un enfant avec sa mère !»",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=336,5978,1207,107"
+    },
+    
+    {
+      "@id": "19r-fr-2143",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2143-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ensuite Fauvel se tait et soupire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,588,1260,117"
+    },
+    
+    {
+      "@id": "19r-fr-2144",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2144-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'un de ces soupirs fallacieux dont il est le maître,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,705,1260,117"
+    },
+    
+    {
+      "@id": "19r-fr-2145",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2145-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et croit bien pouvoir, de nuit, à la lumière de la lune,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,822,1260,117"
+    },
+    
+    {
+      "@id": "19r-fr-2146",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2146-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Emberlificoter Fortune !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,939,1260,117"
+    },
+    
+    {
+      "@id": "19r-fr-2147",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2147-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Eh non ! c'est lui qui est emberlificoté",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,1056,1260,117"
+    },
+    
+    {
+      "@id": "19r-fr-2148",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2148-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par l'orgueil, qui se moque de lui!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2919,1173,1260,117"
+    },
+    
+    {
+      "@id": "19r-fr-2149",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2149-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Après que Fauvel a fait silence",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2887,1680,1281,115"
+    },
+    
+    {
+      "@id": "19r-fr-2150",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "19r-fr-2150-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune commence à lui répondre en ces termes :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/19r#xywh=2887,1795,1281,115"
+    }
+    
+  ]
+}

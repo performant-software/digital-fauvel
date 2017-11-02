@@ -1,0 +1,1520 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/9v.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "9v-fr-1051",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1051-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne les satisfasse prestement",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,724,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1052",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1052-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne comble leurs désirs.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,827,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1053",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1053-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien que tout cela soit dépourvu de raison,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,930,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1054",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1054-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils veulent pourtant, en toute circonstance,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1033,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1055",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1055-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'on leur déclare : «C'est bien dit, monseigneur!»",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1136,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1056",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1056-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils sont contents quand on les considère comme sages.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1239,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1057",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1057-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mon Dieu ! qu'il y a de visages faux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1342,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1058",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1058-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À travers tout le royaume et dans l'empire!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1445,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1059",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1059-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Faux sont les serviteurs, faux les seigneurs,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1548,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1060",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1060-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Faux les petits, faux les plus grands,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1651,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1061",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1061-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Faux, ils le sont aujourd'hui tous et toutes ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1754,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1062",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1062-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les seigneurs ont leur pensée occupée à accabler",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1857,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1063",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1063-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leurs sujets et à lever sur eux",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,1960,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1064",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1064-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des impôts vexatoires et des taxes funestes.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2063,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1065",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1065-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les grands seigneurs, c'est une chose tout à fait extraordinaire",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2166,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1066",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1066-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne veulent pas qu'on leur donne des conseils",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2269,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1067",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1067-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Autres que ceux qui conviennent le mieux à leurs idées,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2372,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1068",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1068-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'ils sont nombreux, ceux qui n'osent plus dire la vérité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2475,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1069",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1069-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De peur de mettre en colère leur seigneur :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2578,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1070",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1070-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ainsi qu'ils frottent la bête fauve.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2681,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1071",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1071-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il n'y a plus un seul roi, pas un duc, pas un comte,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2784,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1072",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1072-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui ne soit perverti et ne vive honteusement.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2887,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1073",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1073-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il faudrait bien qu'ils s'inquiètent",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,2990,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1074",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1074-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De ne pas œuvrer le droit et la justice :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3093,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1075",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1075-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Leur esprit est tout entier occupé par le désir",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3196,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1076",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1076-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De s'enrichir sans rien payer en retour.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3299,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1077",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1077-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les rois et les contes, autrefois, avaient coutume",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3402,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1078",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1078-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De puiser largement dans les biens qu'ils possédaient",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3505,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1079",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1079-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pour fonder et doter les églises,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3608,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1080",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1080-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Mes ce sont eux, maintenant, qui les ruinent :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3711,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1081",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1081-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils dépouillent et pillent le crucifix,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3814,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1082",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1082-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et dérobent ses biens de les manières.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,3917,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1083",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1083-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils n'ont que haine pour l'Église et tout le clergé ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4020,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1084",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1084-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils se refusent à accomplir quelque bonne action que ce soit,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4123,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1085",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1085-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Aussi bien les chevaliers que les écuyers ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4226,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1086",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1086-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ils sont si imbus de leur noblesse aujourd'hui",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4329,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1087",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1087-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'ils méprisent tous les autres,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4432,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1088",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1088-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Au point que cela ne peut qu'être très fâcheux.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4535,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1089",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1089-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les nobles sont pleins de vilenie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4638,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1090",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1090-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est quelque chose de tout à fait antinomique",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4741,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1091",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1091-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la vilenie et la noblesse ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4844,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1092",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1092-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et c'est pourquoi, il me semble en bonne logique",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,4947,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1093",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1093-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les deux ne peuvent être associées :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5050,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1094",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1094-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La sagesse vaut mieux que la noblesse sans raison !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5153,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1095",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1095-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La noblesse, comme dit le sage,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5256,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1096",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1096-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne vient de rien d'autre que des qualités du cœur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5359,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1097",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1097-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est paré de bonnes mœurs :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5462,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1098",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1098-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle ne vient pas, sachez-le, du ventre :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5565,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1099",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1099-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le ventre est de l'excrément et se transforme en excrément.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5668,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1100",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1100-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Personne ne tire sa noblesse d'une telle configuratton.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5771,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1101",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1101-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si les gentilshommes réfléchissaient à",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5874,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1102",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1102-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comment ils étaient et dans quel état",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=1155,5977,1228,103"
+    },
+    
+    {
+      "@id": "9v-fr-1103",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1103-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À l'intérieur du ventre de leur mère :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=2488,5670,1145,110"
+    },
+    
+    {
+      "@id": "9v-fr-1104",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1104-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Y ont-ils bénéficié du moindre avantage",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=2488,5780,1145,110"
+    },
+    
+    {
+      "@id": "9v-fr-1105",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1105-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Par rapport à des gens de petite naissance ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=2488,5890,1145,110"
+    },
+    
+    {
+      "@id": "9v-fr-1106",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1106-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Comment peut-on les sortir de là ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=2488,6000,1145,110"
+    },
+    
+    {
+      "@id": "9v-fr-1107",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1107-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Avaient-ils une noble nourriture ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,745,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1108",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1108-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Je leur pose encore une autre question :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,848,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1109",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1109-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sont-ils sortis à cheval du ventre maternel",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,951,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1110",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1110-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ces nobles qui sont si vifs ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1054,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1111",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1111-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elles ne sont pas en argent, leurs entrailles :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1157,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1112",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1112-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ne sont-ils pas descendants au même degré ?",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1260,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1113",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1113-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nous sommes tous nés d'une seule et même semence,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1363,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1114",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1114-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'il n'y a aucune différence",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1466,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1115",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1115-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Entre un non-noble et un gentilhomme :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1569,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1116",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1116-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Nous sommes tous nés d'Ève et d'Adam",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1672,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1117",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1117-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et nous sommes tous condamnés à mourir !",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1775,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1118",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1118-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Parce que ce dernier a mordu dans la pomme.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1878,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1119",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1119-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il est bien misérable l'orgueil de ce monde,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,1981,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1120",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1120-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Car ce monde, c'est la vallée profonde,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2084,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1121",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1121-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Pleine de malheur et de douleur :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2187,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1122",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1122-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Faste et fête n'y ont pas de raison d'être,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2290,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1123",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1123-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sauf pour ceux qui frottent la bête",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2393,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1124",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1124-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui est entièrement de couleur fauve.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2496,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1125",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1125-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il s'agit de Fauvel qui met tout sens dessus dessous :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2599,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1126",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1126-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Des nobles il fait des gens de basse condition, et en contrepartie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2702,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1127",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1127-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il pousse les gens de basse condition à mener noble vie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2805,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1128",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1128-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les nobles issus d'un bon lignage,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,2908,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1129",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1129-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Il les rend orgueilleux et pleins d'outrecuidance",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3011,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1130",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1130-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'ils en perdent leur noblesse.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3114,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1131",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1131-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Le monde entier, selon mon avis,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3217,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1132",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1132-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ressemble à une charrue à laquelle on a attelé des chiens :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3320,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1133",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1133-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'un tire vers l'avant, l'autre vers l'arrière.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3423,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1134",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1134-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les seigneurs veulent trop de grandeur",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3526,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1135",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1135-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les sujets, de leur côté, jouent à être les maîtres :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3629,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1136",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1136-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est le « métier du brancardier ».",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3732,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1137",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1137-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Puisque les rois sont menteurs",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3835,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1138",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1138-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les puissants flatteurs,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,3938,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1139",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1139-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les prélats sont pleins de vaine coquetterie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4041,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1140",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1140-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que les membres de la noblesse haïssent l'Église,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4144,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1141",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1141-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que le clergé est un exemple de vices,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4247,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1142",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1142-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les religieux se vautrent dans les plaisirs,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4350,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1143",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1143-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les puissants sont dépourvus de charité",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4453,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1144",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1144-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les marchands manquent à la vérité,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4556,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1145",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1145-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que ceux qui travaillent sont sans loyauté,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4659,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1146",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1146-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les hôtes sont remplis de cruauté,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4762,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1147",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1147-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les baillis et les juges sans pitié",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4865,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1148",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1148-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les parents sans véritable amitié,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,4968,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1149",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1149-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les voisins médisants et pleins d'envie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5071,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1150",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1150-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Les jeunes enfants pleins de malice,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5174,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1151",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1151-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et ne sont qu'une engeance déloyale et fausse,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5277,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1152",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1152-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les seigneurs sont remplis de tricherie,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5380,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1153",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1153-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que la Fortune sourit aux tricheurs,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5483,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1154",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1154-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les voyous gouvernent la communauté,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5586,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1155",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1155-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'on aime mieux le corps que l'âme,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5689,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1156",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1156-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que les femmes sont les maîtresses de leur mari,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5792,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1157",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1157-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que sainte Église n'est guère honorée",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5895,1229,103"
+    },
+    
+    {
+      "@id": "9v-fr-1158",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "9v-fr-1158-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que la France est tombée dans la servitude",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/9v#xywh=3748,5998,1229,103"
+    }
+    
+  ]
+}

@@ -7,7 +7,7 @@ INPUT_DIR = '_assets/xml'
 TEMPLATE_DIR = 'tools'
 OUTPUT_DIR = 'list'
 DOMAIN = "fauvel.archivengine.com"
-LANGUAGES = ['english','french','original']
+LANGUAGES = ['en','fr','fro']
 
 class AnnotationList
   include ERB::Util
@@ -85,6 +85,9 @@ LANGUAGES.each do |language|
           # Annotation content
           body = source_file.at(selector).text.strip.gsub(/\"/, '\"')
           annotation['text'] = %(#{body})
+
+          annotation['@annoId'] = %(#{folio_key}-#{language}-#{line_no})
+          annotation['@bodyId'] = %(#{folio_key}-#{language}-#{line_no}-text)
 
           # Add it to the array
           annotations.push(annotation)

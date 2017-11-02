@@ -1,0 +1,372 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/fr/13r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "13r-fr-1517",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1517-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "À côté d'elle siégeait Avarice",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,756,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1518",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1518-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qui diffère des autres vices sur ce point,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,868,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1519",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1519-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que plus longtemps elle dure, plus elle rajeunit :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,980,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1520",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1520-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est ce que savent tous les hommes vivants.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1092,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1521",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1521-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La vieillesse ne la fait pas tomber en décrépitude,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1204,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1522",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1522-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle qui s'attaque à tous les autres vices ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1316,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1523",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1523-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "D'ailleurs, l'Écriture sainte déclare",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1428,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1524",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1524-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Qu'elle est la racine de tous les maux,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1540,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1525",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1525-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et que lui tient compagnie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1652,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1526",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1526-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "L'esclavage de l'idolâtrie.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1575,1764,1123,112"
+    },
+    
+    {
+      "@id": "13r-fr-1527",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1527-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Ensuite, après celles-ci, était assise Envie",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3171,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1528",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1528-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Que le seigneur Fauvel ne hait point :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3279,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1529",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1529-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "C'est celle qui n'arrive pas à bien parler",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3387,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1530",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1530-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De quelque chose qui relèverait du bien ;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3495,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1531",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1531-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Sa volonté tout entière n'est tournée que vers une seule chose :",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3603,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1532",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1532-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "De se désespérer du succès d'autrui",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3711,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1533",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1533-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et de tirer sa joie de la souffrance d'autrui.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3819,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1534",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1534-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "La taie lui recouvre la totalité des yeux,",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,3927,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1535",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1535-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Si bien qu'elle ne voit pas clair",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4035,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1536",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1536-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et n'est pas capable d'avoir un jugement correct;",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4143,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1537",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1537-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quel dommage n'y voie goutte!",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4251,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1538",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1538-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "En revanche elle entend très clairement et écoute",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4359,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1539",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1539-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Bien volontiers les mauvaises nouvelles",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4467,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1540",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1540-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Et les sème à tout vent.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4575,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1541",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1541-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Elle trotte plus vite qu'un cheval de Frise",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4683,1103,108"
+    },
+    
+    {
+      "@id": "13r-fr-1542",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "13r-fr-1542-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Quand elle manigance une trahison.",
+        "language": "fr"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/13r#xywh=1606,4791,1103,108"
+    }
+    
+  ]
+}

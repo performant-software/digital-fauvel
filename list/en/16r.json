@@ -1,0 +1,1548 @@
+{
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://fauvel.archivengine.com/list/en/16r.json",
+  "@type":"sc:AnnotationList",
+  "resources": [
+    
+    {
+      "@id": "16r-en-1822",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1822-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "“Sir Fauvel, noble emperor,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,766,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1823",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1823-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You must sit on the thrown",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,868,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1824",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1824-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And govern the whole empire,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,970,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1825",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1825-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For nothing can compare to your intelligence.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1072,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1826",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1826-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Your genius rises above and surpasses everything,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1174,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1827",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1827-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "However much this displeases Reason, the poor thing,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1276,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1828",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1828-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or Loyalty or Truth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1378,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1829",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1829-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You have placed the whole world beneath your feet,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1480,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1830",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1830-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And your majesty is sovereign",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1582,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1831",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1831-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Above all human virtue.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1684,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1832",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1832-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Good manners and fortuitous events",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1786,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1833",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1833-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Have fled towards the west",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1888,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1834",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1834-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "To islands that no one inhabits.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,1990,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1835",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1835-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You have, through your quarrels,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2092,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1836",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1836-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Conquered them, removed them from your path,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2194,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1837",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1837-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And then sent them into exile.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2296,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1838",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1838-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Even the cardinal virtues",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2398,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1839",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1839-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Have their shields full of holes,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2500,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1840",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1840-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For you have pierced them with your sword.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2602,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1841",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1841-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "They have lost everything in the battle,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2704,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1842",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1842-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For you know so much about war.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2806,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1843",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1843-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You must reign over the whole earth!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,2908,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1844",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1844-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The very great wisdom that we hear from you,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3010,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1845",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1845-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Lord, we value and praise very much,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3112,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1846",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1846-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the idea you have presented",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3214,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1847",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1847-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Here is very noble,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3316,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1848",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1848-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "[And will] fortify your high rank",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3418,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1849",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1849-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Everywhere, both here and overseas.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=378,3520,1186,102"
+    },
+    
+    {
+      "@id": "16r-en-1850",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1850-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "You have exposed your heart for us",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,682,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1851",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1851-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And revealed your great secret,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,787,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1852",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1852-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And even though we are felonious,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,892,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1853",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1853-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It is right that we hide it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,997,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1854",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1854-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For if we are false towards others,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1102,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1855",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1855-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "We are nevertheless your vassals,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1207,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1856",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1856-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And your servants, and your friends.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1312,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1857",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1857-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Each one of us has always exerted",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1417,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1858",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1858-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And will always exert effort to serve you",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1522,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1859",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1859-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And to give you worldly honor,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1627,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1860",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1860-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this is something that is important to you.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1732,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1861",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1861-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And for this reason we will direct out hearts and words towards it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1837,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1862",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1862-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For we do not look for anything except obtaining",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,1942,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1863",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1863-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Honor in the world and great wealth.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2047,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1864",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1864-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It does not matter to us if we lose our souls",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2152,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1865",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1865-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In joining your service.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2257,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1866",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1866-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "It seems to us a very worthy task",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2362,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1867",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1867-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That you immediately and without delay",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2467,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1868",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1868-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Direct your efforts towards the aforementioned marriage,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2572,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1869",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1869-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which your noble heart has envisaged.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2677,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1870",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1870-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As many as there are of us, we approve it,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2782,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1871",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1871-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For we see consider it to be a great honor.”",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2887,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1872",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1872-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When Fauvel had heard",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,2992,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1873",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1873-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "His council, he rejoiced greatly",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3097,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1874",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1874-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For he is always very happy",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3202,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1875",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1875-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When he hears something that pleases him.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3307,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1876",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1876-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He immediately orders that his equipment",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3412,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1877",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1877-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Be packed up in order to depart",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3517,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1878",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1878-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For Fortune, the mistress of chance.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3622,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1879",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1879-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He girds his sword and puts on his boots,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3727,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1880",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1880-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And he does not forget his spurs.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3832,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1881",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1881-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Then he leaves with a big crowd",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,3937,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1882",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1882-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of his followers and his friends.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4042,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1883",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1883-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "He put so much effort into traveling",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4147,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1884",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1884-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "By both day and night",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4252,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1885",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1885-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "With great enterprise and only brief breaks",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4357,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1886",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1886-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That he arrived in Macrocosm,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4462,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1887",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1887-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "A phantasmagorical city,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4567,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1888",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1888-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which was created long ago for the man,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4672,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1889",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1889-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whom Reason calls microcosm.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=1638,4777,1186,105"
+    },
+    
+    {
+      "@id": "16r-en-1890",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1890-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is where she used to have her home,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,693,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1891",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1891-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This most-esteemed lady,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,794,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1892",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1892-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who makes everything turn quickly—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,895,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1893",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1893-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "This is Fortune, who is feared.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,996,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1894",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1894-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She was in her palace, not seated,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1097,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1895",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1895-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to be able to see everywhere.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1198,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1896",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1896-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She never sits down or stops,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1299,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1897",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1897-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For she is always ready to turn.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1400,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1898",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1898-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Know that he would be a very good mason,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1501,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1899",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1899-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever would be able to describe to tell",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1602,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1900",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1900-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The full truth of its construction!",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1703,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1901",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1901-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "I want to tell you a little bit about it now",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1804,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1902",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1902-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "So that you will know how it appeared",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,1905,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1903",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1903-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When Lord Fauvel, who advances quickly,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,2006,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1904",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1904-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Came to find Lady Fortune",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,2107,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1905",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1905-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In order to request her love.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2961,2208,1197,101"
+    },
+    
+    {
+      "@id": "16r-en-1906",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1906-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Fortune had the appearance of a woman",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3423,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1907",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1907-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Who was a queen or a great lady,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3524,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1908",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1908-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And it seemed, to judge from her face,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3625,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1909",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1909-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That her heart changed very rapidly.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3726,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1910",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1910-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "She had a beautiful and well-made body",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3827,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1911",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1911-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And her limbs were long and well proportioned.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,3928,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1912",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1912-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "In her hand she held a double crown.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4029,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1913",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1913-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "One appeared evil and the other good.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4130,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1914",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1914-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And the one that seemed good",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4231,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1915",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1915-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Was not empty—as it seemed to be—",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4332,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1916",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1916-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Of beautiful, precious stones,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4433,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1917",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1917-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Very pleasant to behold.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4534,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1918",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1918-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather, there were many",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4635,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1919",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1919-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "That did not seem good or beautiful,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4736,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1920",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1920-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Rather, they seemed to be little crapaudine [INSERT NOTE],",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4837,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1921",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1921-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Which prick in the same way as thorns,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,4938,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1922",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1922-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "As far as the heart, under the shirt.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5039,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1923",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1923-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "But it is difficult to realize",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5140,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1924",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1924-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Except for those who wear the crown",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5241,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1925",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1925-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "When Fortune abandons them.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5342,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1926",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1926-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "The other crown, which appeared to be evil,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5443,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1927",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1927-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Is vile, filthy and dirty",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5544,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1928",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1928-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "And is made out of a very piercing metal.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5645,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1929",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1929-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Whoever wears it has no desire to sing",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5746,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1930",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1930-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "Or to appear happy,",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5847,1333,101"
+    },
+    
+    {
+      "@id": "16r-en-1931",
+      "@type":"oa:Annotation",
+      "motivation":"sc:painting",
+      "resource": {
+        "@id": "16r-en-1931-text",
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "For this crown is very unpleasant.",
+        "language": "en"
+      },
+      "on": "http://fauvel.archivengine.com/canvas/16r#xywh=2898,5948,1333,101"
+    }
+    
+  ]
+}
