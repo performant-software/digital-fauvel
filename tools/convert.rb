@@ -5,7 +5,7 @@ require 'pry'
 
 INPUT_DIR = '_assets/xml'
 TEMPLATE_DIR = 'tools'
-OUTPUT_DIR = '_data/list'
+OUTPUT_DIR = 'list'
 DOMAIN = "fauvel.archivengine.com"
 LANGUAGES = ['english','french','original']
 
