@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
-  
-<div id="viewer"></div>
+
+<div id="viewer"
+  data-annotation-text-pad="{{ site.annotation_text_pad }}"
+  data-default-layer="{{ site.default_layer }}"
+  data-backdrop-color="{{ site.backdrop_color }}"
+  data-backdrop-opacity="{{ site.backdrop_opacity }}">
+</div>
 
 <script type="text/javascript" src="/js/mirador_config.js"></script>
 <script type="text/javascript">
@@ -10,5 +15,3 @@ layout: default
     Mirador(config);
   });
 </script>
-
-
