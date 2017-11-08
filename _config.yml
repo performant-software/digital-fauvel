@@ -22,6 +22,10 @@ manifest_url: "http://fauvel.archivengine.com/manifest.json" # the base hostname
 first_page: "http://fauvel.archivengine.com/canvas/Br"
 twitter_username: performantsoftware
 github_username:  performant-software
+annotation_text_pad: 20
+default_layer: en
+backdrop_color: '#E6D9B7'
+backdrop_opacity: 0.7
 
 # Build settings
 markdown: kramdown

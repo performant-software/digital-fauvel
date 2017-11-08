@@ -1,0 +1,80 @@
+#!/usr/bin/env ruby
+
+# adapted from https://gist.github.com/jronallo/57ca795cab6663b125428eb4283f1b64
+# ./manifest2lunr ../manifest.json > ../data/search_index.json
+
+require 'httpclient'
+require 'json'
+require 'nokogiri'
+require 'v8'
+require 'pp'
+
+path = ARGV[0]
+@http = HTTPClient.new
+file = File.open(path, 'rb')
+json = file.read
+manifest = JSON.parse json
+canvases = manifest['sequences'][0]['canvases']
+
+@index_docs = []
+@store_docs = {}
+
+def get_annotation_list(other_content)
+  url = other_content['@id']
+  response = @http.get url
+  response.body
+end
+
+def load_transcriptions(canvas_id, annotation_list)
+  annotations = annotation_list['resources']
+  annotations.each do |annotation|
+    doc = {}
+    text = annotation['resource']['chars']
+    if !text.empty?
+      doc[:t] = text
+      doc[:id] = annotation['on']
+      @store_docs[doc[:id]] = {
+        :text => text,
+        :language => annotation['resource']['language'],
+        :id => annotation['@id']
+      }
+      @index_docs << doc
+    end
+  end
+end
+
+canvases.each do |canvas|
+  canvas_id = canvas['@id'].split('/').last
+  other_content_list = canvas['otherContent'] ? canvas['otherContent'].select{|oc| oc['@type'] == 'sc:AnnotationList'} : nil
+  if other_content_list
+    other_content_list.each do |other_content|
+      annotation_list = JSON.parse(get_annotation_list(other_content))
+      load_transcriptions(canvas_id, annotation_list)
+    end
+  end
+end
+
+# from https://github.com/manastech/middleman-search/blob/master/lib/middleman-search/search-index-resource.rb#L32
+context = V8::Context.new
+context.load(File.expand_path('../../build/lunr/lunr.min.js', __FILE__))
+context.eval('lunr.Index.prototype.indexJson = function () {return JSON.stringify(this.toJSON());}')
+
+lunr = context.eval('lunr')
+lunr_conf = proc do |this|
+  # Use canvas id + bounding box as reference
+  this.ref('id')
+  this.field('t')
+end
+
+index = lunr.call(lunr_conf)
+@index_docs.each do |doc|
+  index.add(doc)
+end
+
+json_output = %Q|{
+"index": #{index.indexJson()},
+"docs": #{@store_docs.to_json},
+"manifest_url": "http://fauvel.archivengine.com/manifest.json"
+}|
+
+puts json_output

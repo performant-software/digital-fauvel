@@ -41,10 +41,47 @@
     .mirador-container .text-layer-list {
       right: 1em;
     }
+    .mirador-search-field {
+      width: 200px;
+      margin-right: -18px;
+    }
+    .mirador-clear-search {
+      position: relative;
+      left: -5px;
+      color: #929191;
+      opacity: 0;
+    }
+    .mirador-clear-search.fa {
+    }
+    .window .manifest-info .window-manifest-navigation {
+      width: 350px;
+      overflow: visible;
+    }
+    .mirador-container .mirador-viewer ul.dropdown.search-results-list {
+      max-height: 60%;
+      overflow-y: scroll;
+      width: 260px;
+      margin-top: 0;
+      margin-left: 20px;
+    }
+    .mirador-container .mirador-viewer .dropdown li.mirador-search-result, .mirador-container .mirador-viewer .dropdown li.search-result-summary {
+      font-size: 14px;
+      line-height: 1.2;
+      padding: 5px;
+    }
+    .mirador-container .mirador-viewer .dropdown li.mirador-search-result:hover, .mirador-container .mirador-viewer .dropdown li.search-result-summary:hover {
+      border: none;
+      padding: 5px;
+    }
+    .mirador-container .mirador-viewer .dropdown li.search-result-summary {
+      font-weight: bold;
+      cursor: default;
+    }
   </style>
   <link rel="stylesheet" type="text/css" href="build/mirador/css/mirador-combined.css">
   <script src="build/mirador/mirador.min.js"></script>
   <script src="js/MiradorTextLayer.js"></script>
+  <script src="build/lunr/lunr.min.js"></script>
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
