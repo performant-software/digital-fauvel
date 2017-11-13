@@ -32,7 +32,7 @@ def load_transcriptions(canvas_id, annotation_list)
     text = annotation['resource']['chars']
     if !text.empty?
       doc[:t] = text
-      doc[:id] = annotation['on']
+      doc[:id] = annotation['on'] + '|' + annotation['resource']['language'] 
       @store_docs[doc[:id]] = {
         :text => text,
         :language => annotation['resource']['language'],

@@ -268,7 +268,8 @@ var MiradorTextLayer = {
                   _this.element.find('.search-results-list').empty().show();
                   _this.element.find('.search-results-list').append(self.searchResultSummaryTemplate({ resultsCount: results.length, noResults: results.length === 0, oneResult: results.length === 1 }));
                   results.forEach(function(result) {
-                    var canvasParts = result.ref.split('#');
+                    var canvasString = result.ref.split('|')[0];
+                    var canvasParts = canvasString.split('#');
                     var canvasSubParts = canvasParts[0].split('/');
                     var doc = searchDocs[result.ref];
                     var context = {
@@ -295,13 +296,15 @@ var MiradorTextLayer = {
 
             $.Window.prototype.clearHighlight = function() {
               var _this = this;
-              var items = this.focusModules.ImageView.annotationsLayer.drawTool.annotationsToShapesMap;
-              for (key in items) {
-                items[key].forEach(function(item) {
-                  if (item.data && item.data.bgrect) {
-                    item.data.bgrect.fillColor = _this.backdropColor;
-                  }
-                });
+              if (this.focusModules.ImageView) {
+                var items = this.focusModules.ImageView.annotationsLayer.drawTool.annotationsToShapesMap;
+                for (key in items) {
+                  items[key].forEach(function(item) {
+                    if (item.data && item.data.bgrect) {
+                      item.data.bgrect.fillColor = _this.backdropColor;
+                    }
+                  });
+                }
               }
             }
 
