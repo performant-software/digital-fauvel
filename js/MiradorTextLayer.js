@@ -106,6 +106,7 @@ var MiradorTextLayer = {
             $.Window.prototype.defaultLayer = jQuery("#viewer").data("default-layer");
             $.Window.prototype.backdropColor = jQuery("#viewer").data("backdrop-color");
             $.Window.prototype.backdropOpacity = jQuery("#viewer").data("backdrop-opacity");
+            $.Window.prototype.searchZoomPad = jQuery("#viewer").data("search-zoom-pad");
 
             $.Window.prototype.listenForActions = function() {
                 var _this = this;
@@ -160,12 +161,13 @@ var MiradorTextLayer = {
                 this.element.on("click", ".mirador-search-result", function(event) {
                   event.stopPropagation();
 
+                  var boundsPad = _this.searchZoomPad;
                   var canvasid = jQuery(this).attr('data-canvasid'),
                       language = jQuery(this).attr('data-language'),
                       annoId = jQuery(this).attr('data-anno-id'),
                       coordinates = jQuery(this).attr('data-coordinates'),
                       xywh = coordinates && coordinates.split('=')[1].split(',').map(Number),
-                      bounds = xywh && {x: xywh[0], y: xywh[1], width: xywh[2], height: xywh[3]};
+                      bounds = xywh && {x: xywh[0] - boundsPad, y: xywh[1] - boundsPad, width: xywh[2] + 2 * boundsPad, height: xywh[3] + 2 * boundsPad};
                   var options = {
                     "canvasID": canvasid,
                     "bounds": bounds
